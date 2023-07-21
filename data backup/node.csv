@@ -1,0 +1,5089 @@
+Id,Label
+1,Ministry of Education China
+2,Beijing Institute of Technology
+3,Ministry of Science and Technology China
+4,Tencent
+5,Sinopec
+6,China Telecom Corp. Ltd.
+7,RIKEN
+8,Bryant University
+9,Weichai Power Co. Ltd.
+10,SAIC Motor
+11,China Merchants Bank
+12,Chinese Academy of Sciences
+13,Jamia Millia Islamia
+14,Washington University (WUSTL)
+15,Jinan University
+16,Chinese Academy of Engineering Physics
+17,China People's Police University
+18,Beihang University
+19,North China Electric Power University
+20,Cornell University
+21,Delft University of Technology
+22,University of Science & Technology Beijing
+23,Guangxi University
+24,Tsinghua University
+25,University of Gottingen
+26,Xiamen University
+27,Chang'an University
+28,Swinburne University of Technology
+29,Northwestern Polytechnical University
+30,China Agricultural University
+31,Royal Institute of Technology
+32,King Khalid University
+33,Nankai University
+34,Southern University of Science & Technology
+35,Peking University
+36,Shanghai Institute of Technology
+37,Yancheng Institute of Technology
+38,Lanzhou University
+39,Northwestern University
+40,University of Hong Kong
+41,Shandong Normal University
+42,Nanjing University of Science & Technology
+43,University of Chicago
+44,Bohai University
+45,University of Shanghai for Science & Technology
+46,Henan Polytechnic University
+47,Communication University of Zhejiang
+48,University of Delaware
+49,Zaozhuang University
+50,Shandong University of Science & Technology
+51,China National Nuclear Corporation
+52,Lanzhou City University
+53,North China Institute Science & Technology
+54,Clemson University
+55,Beijing Technology & Business University
+56,Korea University
+57,Hong Kong Polytechnic University
+58,Ming Chuan University
+59,Beijing Institute of Fashion Technology
+60,University of Oxford
+61,Nanjing University of Finance & Economics
+62,Xi'an Jiaotong University
+63,Dalian Polytechnic University
+64,Academy of Military Medical Sciences - China
+65,University of New South Wales Sydney
+66,Liaoning University of Technology
+67,University of Alberta
+68,Hebei University
+69,Kyushu University
+70,Shenyang Aerospace University
+71,University of Sydney
+72,Dalian University of Technology
+73,Xi'an University of Science & Technology
+74,Taiyuan University of Technology
+75,China Electronics Technology Group
+76,Shanghai University
+77,Alibaba Group
+78,Minjiang University
+79,PLA Information Engineering University
+80,Air Force Military Medical University
+81,Tiangong University
+82,University of the South Pacific
+83,Beijing University of Posts & Telecommunications
+84,Wageningen University & Research
+85,University of Gujrat
+86,Cranfield University
+87,Beijing University of Chinese Medicine
+88,Chengdu University of Traditional Chinese Medicine
+89,Hebei Normal University
+90,Guangxi Normal University
+91,Ningbo University
+92,North University of China
+93,Capital University of Science & Technology
+94,Inner Mongolia Agricultural University
+95,Hebei University of Technology
+96,National University of Singapore
+97,Capital Normal University
+98,Harbin Institute of Technology
+99,Jiangsu University
+100,University of Waterloo
+101,Beijing University of Chemical Technology
+102,Zhejiang Ocean University
+103,Massachusetts Institute of Technology (MIT)
+104,Renmin University of China
+105,Yanan University
+106,Fujian University of Technology
+107,Tianjin University
+108,City University of Hong Kong
+109,University of Glasgow
+110,Hefei University of Technology
+111,Yuncheng University
+112,Hazara University
+113,Northeastern University - China
+114,Foshan University
+115,Sichuan Normal University
+116,University of Sharjah
+117,National University of Defense Technology - China
+118,Max Planck Society
+119,Yanshan University
+120,Beijing Information Science & Technology University
+121,University of Virginia
+122,Shanghai Jiao Tong University
+123,Aerospace Engineering University
+124,Ministry of Public Security (China)
+125,Kagawa University
+126,Zhengzhou University
+127,Chuxiong Normal University
+128,Inha University
+129,Zhejiang University
+130,Villanova University
+131,Chengdu University of Information Technology
+132,Beijing University of Technology
+133,Shenzhen University
+134,China University of Petroleum
+135,Xi'an Modern Chemistry Research Institute
+136,Universitat Siegen
+137,Beijing Jiaotong University
+138,Huazhong University of Science & Technology
+139,China State Construction Engineering Corporation
+140,Chiang Mai University
+141,Yantai University
+142,Cheng Shiu University
+143,Hong Kong University of Science & Technology
+144,Case Western Reserve University
+145,Hong Kong Baptist University
+146,Anhui University of Finance & Economics
+147,Army Engineering University of PLA
+148,Shandong University
+149,Jiujiang University
+150,Xuzhou University of Technology
+151,Harbin University of Science & Technology
+152,Aalto University
+153,Hangzhou Hikvision Digital Technology Co. Ltd.
+154,Sichuan University
+155,Beijing Union University
+156,Liaoning University
+157,Hunan University
+158,Jinzhong University
+159,Harbin Normal University
+160,University of Technology Sydney
+161,Nanning Normal University
+162,Australian National University
+163,China Academy of Safety Science & Technology
+164,China University of Mining & Technology
+165,University of the Sunshine Coast
+166,University of Kiel
+167,University of Bonn
+168,Chongqing University of Technology
+169,Yale University
+170,Nanjing University of Posts & Telecommunications
+171,Imperial College London
+172,University of Canterbury
+173,Peng Cheng Laboratory
+174,Central South University
+175,Tongji University
+176,Ibaraki University
+177,University of International Business & Economics
+178,University of Bath
+179,Beijing Institute of Aeronautical Material
+180,Wuhan University of Technology
+181,Sun Yat Sen University
+182,Zhengzhou University of Light Industry
+183,Capital Medical University
+184,Scuola Superiore Sant'Anna
+185,Jianghan University
+186,University of Auckland
+187,University of Yaounde I
+188,University of Electronic Science & Technology of China
+189,Beijing University of Civil Engineering & Architecture
+190,Shanxi Agricultural University
+191,Universidade Federal de Santa Catarina (UFSC)
+192,Universidad Nacional Autonoma de Mexico
+193,Technical University of Munich
+194,Qinghai University
+195,Duke University
+196,Technische Universitat Dresden
+197,University of Zurich
+198,University of Sherbrooke
+199,Jining University
+200,University of Aizu
+201,University of Windsor
+202,Michigan State University
+203,Northwest Institute for Nonferrous Metal Research - China
+204,Jilin University
+205,Air University Islamabad
+206,Queensland University of Technology (QUT)
+207,University of Calgary
+208,University of Kwazulu Natal
+209,Hubei University of Arts & Science
+210,China North Industries (NORINCO)
+211,Harbin Engineering University
+212,State Oceanic Administration
+213,University of Jinan
+214,University of British Columbia
+215,University of Cassino
+216,Chinese University of Hong Kong
+217,Xidian University
+218,Aviation Industry Corporation of China (AVIC)
+219,Southwestern University of Finance & Economics - China
+220,Macau University of Science & Technology
+221,Lanzhou Jiaotong University
+222,Anhui University of Science & Technology
+223,Western University (University of Western Ontario)
+224,Beijing Academy of Science & Technology
+225,Chinese University of Hong Kong Shenzhen
+226,Northwest Institute of Nuclear Technology - China
+227,Soochow University - China
+228,University of Oslo
+229,China Aerospace Science & Technology Corporation (CASC)
+230,Nagoya University
+231,Toronto Metropolitan University
+232,China Institute of Atomic Energy
+233,Nanjing University of Aeronautics & Astronautics
+234,North China University of Technology
+235,East China Jiaotong University
+236,Mudanjiang Normal University
+237,Erbil Polytechnic University
+238,CAPITAL UNIVERSITY OF PHYSICAL EDUCATION AND SPORTS
+239,University of Edinburgh
+240,Dalian Maritime University
+241,Tianjin University Science & Technology
+242,University of South China
+243,Indian Institute of Science (IISC) - Bangalore
+244,Baoding University
+245,Shenzhen MSU-BIT University
+246,Fudan University
+247,Wenzhou University
+248,National University of Sciences & Technology - Pakistan
+249,Shanxi Normal University
+250,Ilam University
+251,State Grid Corporation of China
+252,Shandong Technology & Business University
+253,University of Witwatersrand
+254,Zhengzhou University of Aeronautics
+255,Universite Catholique Louvain
+256,Kyung Hee University
+257,Universitat Rovira i Virgili
+258,Tomas Bata University Zlin
+259,Qingdao University
+260,ShenZhen Polytechnic
+261,Liaoning Normal University
+262,Universidade da Beira Interior
+263,University of Ottawa
+264,Minzu University of China
+265,Wuhan University
+266,People's Public Security University of China
+267,Chinese People's Liberation Army General Hospital
+268,Swansea University
+269,Guilin University of Electronic Technology
+270,Microsoft
+271,National Taipei University of Technology
+272,Tianjin University of Technology
+273,University of Eastern Finland
+274,Air Force Engineering University
+275,University of Cologne
+276,George Mason University
+277,National Institute of Metrology China
+278,Nanyang Normal College
+279,Daqing Normal University
+280,Zhejiang Normal University
+281,Chongqing University
+282,Tel Aviv University
+283,McGill University
+284,Columbia University
+285,Beijing Normal University
+286,Shanxi Medical University
+287,Qinghai Nationalities University
+288,Shenyang Ligong University
+289,Xinjiang University
+290,NTT Docomo
+291,The Welding Institute (TWI)
+292,Dongbei University of Finance & Economics
+293,Beijing Forestry University
+294,Polytechnic University of Milan
+295,China Mobile
+296,Rocket Force University of Engineering
+297,Changchun University of Science & Technology
+298,Wuhan Institute of Technology
+299,Huanghuai University
+300,Chongqing University of Posts & Telecommunications
+301,University of Leicester
+302,Ghent University
+303,Inner Mongolia University
+304,Northwest University Xi'an
+305,Southwest Jiaotong University
+306,Yangzhou University
+307,China University of Political Science & Law
+308,China-Japan Friendship Hospital
+309,Southern Federal University
+310,Changchun University
+311,University of Amsterdam
+312,National Institute of Advanced Industrial Science & Technology (AIST)
+313,Zhejiang University of Technology
+314,Henan University
+315,Xi'an University of Posts & Telecommunications
+316,Southwest Petroleum University
+317,North Minzu University
+318,Shaanxi University of Science & Technology
+319,Adobe Systems Inc.
+320,Dalhousie University
+321,Fuzhou University
+322,Aalborg University
+323,University of Sargodha
+324,Nanjing University of Information Science & Technology
+325,Zhejiang Sci-Tech University
+326,Tianjin Normal University
+327,University of Adelaide
+328,Shijiazhuang Tiedao University
+329,University of Rochester
+330,IMDEA Materials Institute
+331,Universitas Mercu Buana
+332,Saint Petersburg State University
+333,Chongqing Technology & Business University
+334,Xi'an Aeronautical University
+335,University of Huddersfield
+336,Sheffield Hallam University
+337,Yuxi Normal University
+338,Queens University Belfast
+339,Qilu University of Technology
+340,University of Paderborn
+341,National Kaohsiung University of Science & Technology
+342,Taishan University
+343,Anhui Polytechnic University
+344,Eindhoven University of Technology
+345,Tangshan Normal University
+346,North China Institute of Aerospace Engineering
+347,Johns Hopkins University
+348,CRRC Corporation
+349,Iowa State University
+350,Technical University of Darmstadt
+351,Marche Polytechnic University
+352,University of Toronto
+353,Northeastern University
+354,Hebei University of Science & Technology
+355,Queens University - Canada
+356,Warsaw University of Technology
+357,Tianjin University of Technology & Education
+358,University of Electro-Communications - Japan
+359,Shandong Jiaotong University
+360,Taiyuan University of Science & Technology
+361,Xi'an University of Technology
+362,Beijing Academy of Quantum Information Sciences
+363,Weifang University
+364,University of Padua
+365,Mendeleev University of Chemical Technology of Russia
+366,Ludong University
+367,Huawei Technologies
+368,Anhui University
+369,Chengdu University of Technology
+370,Qingdao University of Technology
+371,Yellow River Conservancy Technical Institute
+372,Nanjing University
+373,University of Connecticut
+374,Jiangxi University of Science & Technology
+375,Xi'an Shiyou University
+376,Institut Universitaire de France
+377,Payame Noor University
+378,Changsha University
+379,Guangzhou University
+380,Northeast Normal University - China
+381,University of Rome Tor Vergata
+382,University of Wollongong
+383,Shantou University
+384,Tangshan University
+385,University of Ulsan
+386,COMSATS University Islamabad (CUI)
+387,Huaiyin Normal University
+388,Institute of Disaster Prevention
+389,Gujarat University
+390,Ocean University of China
+391,Nanjing Forestry University
+392,Marquette University
+393,Singapore University of Technology & Design
+394,University of Yamanashi
+395,Algerian Space Agency (ASAL)
+396,South China University of Technology
+397,Czech Technical University Prague
+398,Hainan Normal University
+399,Beijing Normal University - Hong Kong Baptist University United International College
+400,Huizhou University
+401,Hunan University of Science & Technology
+402,Southwest University of Science & Technology - China
+403,Pusan National University
+404,University of Strathclyde
+405,National Research Institute for Family Planning - China
+406,King Abdullah University of Science & Technology
+407,Hubei University of Economics
+408,Beijing Electronic Science & Technology Institute
+409,Shanghai University of Medicine & Health Sciences
+410,Southeast University - China
+411,Guizhou Institute of Technology
+412,University of Chinese Academy of Social Sciences
+413,Karolinska Institutet
+414,Osaka University
+415,Ho Chi Minh City University Economics
+416,China Academy of Information & Communication Technology
+417,University of Lahore
+418,North China University of Science & Technology
+419,Bahauddin Zakariya University
+420,Inner Mongolia University of Science & Technology
+421,MinNan Normal University
+422,University of Twente
+423,Stevens Institute of Technology
+424,Nelson Mandela African Institution of Science & Technology
+425,Academy of Armored Forces Engineering - China
+426,Beijing Academy of Agriculture & Forestry Sciences (BAAFS)
+427,Kumamoto University
+428,China Meteorological Administration
+429,La Trobe University
+430,University of Dar es Salaam
+431,Jiangsu University of Science & Technology
+432,Syracuse University
+433,Hubei University
+434,Coventry University
+435,Dibrugarh University
+436,Aviation University Air Force
+437,Liaoning University of Traditional Chinese Medicine
+438,Harbin Medical University
+439,ZTE
+440,University of Western Australia
+441,Korea Advanced Institute of Science & Technology (KAIST)
+442,Technion Israel Institute of Technology
+443,Shanxi Datong University
+444,Sichuan University of Science & Engineering
+445,Northwest A&F University - China
+446,Guangdong Polytechnic Normal University
+447,China Jiliang University
+448,McMaster University
+449,Chinese Academy of Inspection & Quarantine
+450,Henan Normal University
+451,Shanghai Maritime University
+452,Henan University of Science & Technology
+453,Commercial Aircraft Corporation of China (COMAC)
+454,Centre National de la Recherche Scientifique (CNRS)
+455,Zayed University
+456,Jilin Institute of Chemical Technology
+457,Changshu Institute of Technology
+458,Japan Advanced Institute of Science & Technology (JAIST)
+459,Kyoto University
+460,Nagaoka University of Technology
+461,Central University of Finance & Economics
+462,Shanxi University
+463,Hebei University of Architecture
+464,Wuhan Research Institute of Post & Telecommunications
+465,Guangdong University of Foreign Studies
+466,Research Institute of Chemical Defense - China
+467,University of Cape Town
+468,Ericsson
+469,Communication University of China
+470,Catholic University of the Sacred Heart
+471,Shandong University of Finance & Economics
+472,Deakin University
+473,University of Louisville
+474,Balochistan University of Information Technology Engineering & Management Sciences BUITEMS
+475,University of Southampton
+476,Universite de Orleans
+477,Hangzhou Dianzi University
+478,Shijiazhuang University
+479,Guilin University of Technology
+480,New Jersey Institute of Technology
+481,Lanzhou University of Technology
+482,University of Oulu
+483,University of Liege
+484,University of Saskatchewan
+485,Chongqing University of Science & Technology
+486,Open University - UK
+487,Chiba University
+488,Hanshan Normal University
+489,Northeast Electric Power University
+490,Chongqing Three Gorges University
+491,Chung Yuan Christian University
+492,Hebei North University
+493,Sixth Medical Center of Chinese PLA General Hospital
+494,King Fahd University of Petroleum & Minerals
+495,Kunming University of Science & Technology
+496,Henan University of Technology
+497,Hebei University of Economics & Business
+498,Northeast Petroleum University
+499,King Saud University
+500,Leibniz University Hannover
+501,University of Tokyo
+502,Royal Melbourne Institute of Technology (RMIT)
+503,Civil Aviation Flight University of China
+504,California Institute of Technology
+505,Yunnan University
+506,Xiamen University of Technology
+507,KU Leuven
+508,Midea
+509,Chinese Academy of Agricultural Sciences
+510,Wuyi University
+511,Xi'an Polytechnic University
+512,Weizmann Institute of Science
+513,Shangqiu Normal University
+514,Chinese Center for Disease Control & Prevention
+515,Baidu
+516,Beijing Foreign Studies University
+517,Stockholm University
+518,Nanchang University
+519,Jiangxi Science & Technology Normal University
+520,University of Macau
+521,Fujian Normal University
+522,Brown University
+523,Aligarh Muslim University
+524,Rutgers State University New Brunswick
+525,Beijing Polytechnic
+526,University of Duisburg Essen
+527,Southwest University - China
+528,Inner Mongolia University for Nationalities
+529,Bauman Moscow State Technical University
+530,University of Messina
+531,Liaocheng University
+532,China Aerospace Science & Industry Corporation (CASIC)
+533,University of Victoria
+534,University of Nottingham
+535,Federal Urdu University of Arts Science & Technology
+536,Shijiazhuang University of Applied Technology
+537,Universiti Putra Malaysia
+538,Keio University
+539,BAIC Group
+540,Jiangnan University
+541,Changzhi University
+542,University of Hamburg
+543,Stanford University
+544,California Department of Public Health
+545,Beijing Institute of Petrochemical Technology
+546,QIMR Berghofer Medical Research Institute
+547,Shenzhen Technology University
+548,Ritsumeikan University
+549,Chery Automobile
+550,China National Petroleum Corporation
+551,Universidad de Chile
+552,Polytechnic University of Turin
+553,Dezhou University
+554,National Yunlin University Science & Technology
+555,Tianjin University of Finance & Economics
+556,Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+557,Hainan University
+558,Universite Gustave-Eiffel
+559,Chinese Academy of Social Sciences
+560,University of Surrey
+561,East China University of Technology
+562,Jiangsu Ocean University
+563,Shaoxing University
+564,Universidade de Santiago de Compostela
+565,University of Hull
+566,Victoria University Wellington
+567,University of Engineering & Technology Lahore
+568,Qufu Normal University
+569,Technical University Freiberg
+570,Chalmers University of Technology
+571,Gomal University
+572,York University - Canada
+573,Chongqing Jiaotong University
+574,Central Iron & Steel Research Institute
+575,Ford Motor Company
+576,Government College University Faisalabad
+577,Sejong University
+578,Guangxi University of Science & Technology
+579,Henan Institute of Technology
+580,Harvard University
+581,Nihon University
+582,East China Normal University
+583,University of Queensland
+584,Waseda University
+585,Shihezi University
+586,Chinese Academy of Tropical Agricultural Sciences
+587,Inner Mongolia Technical College of Mechanics & Electrics
+588,Universidad de Talca
+589,Northwest Normal University - China
+590,King Abdulaziz University
+591,University of Regensburg
+592,East China University of Science & Technology
+593,Oregon State University
+594,University of Rwanda
+595,University of Southern California
+596,Chinese Research Academy of Environmental Sciences
+597,North China University of Water Resources & Electric Power
+598,Cardiff University
+599,University of Groningen
+600,Guangdong University of Technology
+601,Russian Academy of Sciences
+602,Shaoyang University
+603,Nanjing Agricultural University
+604,University of Agriculture Faisalabad
+605,Shandong University of Technology
+606,ITMO University
+607,Sanming University
+608,Shandong Huayu University of Technology
+609,Beijing Sport University
+610,Nanjing Tech University
+611,Beijing Polytechnic College
+612,Government College University Lahore
+613,Western Sydney University
+614,Central China Normal University
+615,Virtual University of Pakistan
+616,Shaanxi Normal University
+617,University of Cambridge
+618,Donghua University
+619,Heilongjiang University
+620,Quzhou University
+621,Guilin University of Aerospace Technology
+622,SINTEF
+623,Yonsei University
+624,Sichuan Police College
+625,Langfang Normal University
+626,Zhejiang Gongshang University
+627,Singapore-MIT Alliance for Research & Technology Centre (SMART)
+628,University of West Bohemia Pilsen
+629,Jishou University
+630,University of Azad Jammu & Kashmir
+631,Xi'an Jiaotong-Liverpool University
+632,Hebei University of Engineering
+633,Curtin University
+634,University of International Relations
+635,Institute of Physics CAS
+636,Zhengzhou Normal University
+637,Jiamusi University
+638,China Institute of Water Resources & Hydropower Research
+639,National Cheng Kung University
+640,University of East Anglia
+641,Yutong
+642,University of Gothenburg
+643,University of Kufa
+644,ShanghaiTech University
+645,University of Warwick
+646,Kitami Institute of Technology
+647,Universidad de Castilla-La Mancha
+648,Shanghai University of Engineering Science
+649,Griffith University
+650,Hunan University of Chinese Medicine
+651,Xingtai University
+652,Jiangxi University of Finance & Economics
+653,University of Birmingham
+654,Nanchang Institute Technology
+655,Macquarie University
+656,City University of Macau
+657,Railway Police College
+658,Pingxiang University
+659,University of Manitoba
+660,Hasselt University
+661,Tokyo Institute of Technology
+662,University of Engineering & Technology Taxila
+663,Jingdezhen Ceramic Institute
+664,South Central Minzu University
+665,Shanghai University of Finance & Economics
+666,Islamic Azad University
+667,Dalian Jiaotong University
+668,Heilongjiang International University
+669,Capital University of Economics & Business
+670,Shizuoka University
+671,Nanchang Hangkong University
+672,China Shipbuilding Industry Corporation
+673,Anhui Medical University
+674,Hebei Agricultural University
+675,Baotou Teachers College
+676,University of Southern Denmark
+677,Beijing Institute of Graphic Communication
+678,University of Guelph
+679,Chongqing University of Arts & Sciences
+680,Mawlana Bhashani Science & Technology University
+681,International Islamic University Chittagong (IIUC)
+682,Mississippi State University
+683,XCMG Group
+684,Northeast Forestry University - China
+685,Carnegie Mellon University
+686,Bengbu University
+687,Hankuk University Foreign Studies
+688,University of Stuttgart
+689,Zhongyuan University of Technology
+690,Westlake University
+691,Yunnan Minzu University
+692,Huaqiao University
+693,Xihua University
+694,University of Pennsylvania
+695,United States Environmental Protection Agency
+696,Hunan University of Technology
+697,Lomonosov Moscow State University
+698,Binzhou Medical University
+699,Chinese Academy of Medical Sciences - Peking Union Medical College
+700,University of Lagos
+701,South China Normal University
+702,Bharathidasan University
+703,China University of Geosciences
+704,Beijing Hospital
+705,Qingdao University of Science & Technology
+706,Novosibirsk State Technical University
+707,Princeton University
+708,Tianjin University of Commerce
+709,University of Notre Dame
+710,National Taiwan University
+711,Simon Fraser University
+712,Technical University of Berlin
+713,Guangdong University of Petrochemical Technology
+714,Sukkur IBA University
+715,Worcester Polytechnic Institute
+716,Portland State University
+717,Beijing Wuzi University
+718,Adam Mickiewicz University
+719,Kohat University of Science & Technology
+720,Izmir Institute of Technology
+721,Hubei University of Technology
+722,China National Tobacco Corporation
+723,Shandong First Medical University & Shandong Academy of Medical Sciences
+724,Dalian Minzu University
+725,Yangtze University
+726,Xiangtan University
+727,Clarkson University
+728,Ecole Military Polytechnic
+729,Shanxi University Finance & Economics
+730,Rensselaer Polytechnic Institute
+731,National Changhua University of Education
+732,Fuyang Normal University
+733,Concordia University - Canada
+734,Jiangsu University of Technology
+735,International Organization for Migration
+736,Beijing International Studies University
+737,North Carolina State University
+738,Xinyang Normal University
+739,University of Punjab
+740,Jiaxing University
+741,Hunan Normal University
+742,Nanjing Institute of Technology
+743,South China Agricultural University
+744,University Sri Jayewardenepura
+745,European Space Agency
+746,Universidade Nova de Lisboa
+747,Doshisha University
+748,Jiangsu Normal University
+749,Universidad Tecnica Federico Santa Maria
+750,Tampere University
+751,Shandong Academy of Agricultural Sciences
+752,Anhui Normal University
+753,Aarhus University
+754,Liaoning Petrochemical University
+755,Istanbul Technical University
+756,Sungkyunkwan University (SKKU)
+757,Yancheng Teachers University
+758,Wayne State University
+759,NEC Corporation
+760,University of Sulimanyah
+761,National Chengchi University
+762,Sapienza University Rome
+763,Rutgers State University Newark
+764,Henan University of Economics & Law
+765,Beijing Institute of Microbiology & Epidemiology
+766,Yangtze Normal University
+767,Royal College of Art - UK
+768,West Anhui University
+769,Okayama University
+770,Lulea University of Technology
+771,University Teknikal Malaysia Melaka
+772,Isuzu Motors Limited
+773,Volkswagen
+774,Sunway University
+775,University of New Brunswick
+776,China Academy of Transportation Sciences
+777,Xi'an University of Architecture & Technology
+778,Beijing University of Agriculture
+779,Wuhan University of Science & Technology
+780,Anhui University of Technology
+781,Hebei University of Chinese Medicine
+782,University of Management & Technology (UMT)
+783,Quaid I Azam University
+784,Northwest University of Political Science & Law
+785,Universidad Politecnica de Madrid
+786,University of Arizona
+787,Wilfrid Laurier University
+788,National Institute of Standards & Technology (NIST) - USA
+789,Bauhaus-Universitat Weimar
+790,Haier
+791,Dongguan University of Technology
+792,Xinjiang Medical University
+793,Hiroshima University
+794,University of Naples Federico II
+795,University of Sussex
+796,Universite de Montreal
+797,Linyi University
+798,Zhoukou Normal University
+799,Al-Muthanna University
+800,Qinghai Normal University
+801,Drexel University
+802,University of Peshawar
+803,Singapore Management University
+804,Inner Mongolia University of Technology
+805,Ministry of Agriculture & Rural Affairs
+806,Thapar Institute of Engineering & Technology
+807,University of Rhode Island
+808,Tianjin Medical University
+809,University of Tabuk
+810,Shimane University
+811,University of Melbourne
+812,General Research Institute for Nonferrous Metals
+813,Henan University of Urban Construction
+814,Loughborough University
+815,GGS Indraprastha University
+816,Zhengzhou University of Technology
+817,Henan University of Engineering
+818,West Virginia University
+819,Iqra University
+820,Wuhan Naval University of Engineering
+821,Tohoku University
+822,University of New Mexico
+823,Shenzhen Institute for Advanced Study UESTC
+824,University of London
+825,University College London
+826,National Astronomical Observatory CAS
+827,University of California System
+828,University of California San Diego
+829,University College Cork
+830,University of Chinese Academy of Sciences CAS
+831,Southwest Forestry University - China
+832,University of Texas Rio Grande Valley
+833,University of Texas System
+834,University System of Georgia
+835,Georgia Institute of Technology
+836,Institute of Process Engineering CAS
+837,N8 Research Partnership
+838,Durham University
+839,Academy of Mathematics & System Sciences CAS
+840,Nanyang Technological University
+841,Nanyang Technological University & National Institute of Education (NIE) Singapore
+842,University of California Riverside
+843,Institute of Chinese Materia Medica CACMS
+844,State University System of Florida
+845,University of Florida
+846,University of North Carolina
+847,University of North Carolina Charlotte
+848,Changzhi Medical College
+849,Touro University California
+850,University of Texas Austin
+851,University of Quebec
+852,Ecole de Technologie Superieure - Canada
+853,Institute of Atmospheric Physics CAS
+854,Hefei Institutes of Physical Science CAS
+855,Pennsylvania Commonwealth System of Higher Education (PCSHE)
+856,University of Pittsburgh
+857,University of Houston
+858,University of Houston System
+859,University of Oklahoma System
+860,University of Oklahoma - Norman
+861,Fujian Agriculture & Forestry University
+862,University of Wisconsin System
+863,University of Wisconsin Milwaukee
+864,University of Missouri System
+865,University of Missouri Columbia
+866,Army Medical University
+867,Tsinghua Shenzhen International Graduate School
+868,University System of Maryland
+869,University of Maryland College Park
+870,Georgia State University
+871,Ecole Polytechnique Federale de Lausanne
+872,Swiss Federal Institutes of Technology Domain
+873,University of Colorado Boulder
+874,University of Colorado System
+875,Computer Network Information Center CAS
+876,Mehran University Engineering & Technology
+877,City College of New York (CUNY)
+878,City University of New York (CUNY) System
+879,University of Nebraska System
+880,University of Nebraska Lincoln
+881,University of Wisconsin Madison
+882,Bournemouth University
+883,Institute of Semiconductors CAS
+884,Ferdowsi University Mashhad
+885,Taiyuan Institute of Technology
+886,Khalifa University of Science & Technology
+887,State University of New York (SUNY) Stony Brook
+888,State University of New York (SUNY) System
+889,Institute of Acoustics CAS
+890,POSCO
+891,National Center for Nanoscience & Technology - China
+892,Institute of Environment & Sustainable Development in Agriculture CAAS
+893,HEC Montreal
+894,Arizona State University-Tempe
+895,Arizona State University
+896,Institute of Plant Protection CAAS
+897,Louisiana State University
+898,Louisiana State University System
+899,National Institute for Viral Disease Control & Prevention Chinese Center for Disease Control & Prevention
+900,Institute of Software CAS
+901,Argonne National Laboratory
+902,United States Department of Energy (DOE)
+903,National Institute of Informatics (NII) - Japan
+904,Research Organization of Information & Systems (ROIS)
+905,Temple University
+906,Queen Mary University London
+907,University System of Ohio
+908,Bowling Green State University
+909,Fujian Institute of Research on the Structure of Matter CAS
+910,Biotechnology Research Institute CAAS
+911,Meijo University
+912,University of Washington
+913,University of Washington Seattle
+914,Institute of Microbiology CAS
+915,Idaho
+916,University of Idaho
+917,Institute of Electrical Engineering CAS
+918,Institute of Medicinal Plant Development - CAMS
+919,Mae Fah Luang University
+920,Institute of Coal Chemistry CAS
+921,University of Texas Dallas
+922,University of Memphis
+923,Institute of Information Engineering CAS
+924,University of Manchester
+925,Shenzhen Institute of Advanced Technology CAS
+926,Ohio State University
+927,University of Illinois Urbana-Champaign
+928,University of Illinois System
+929,RLUK- Research Libraries UK
+930,Shenzhen Research Institute City University of Hong Kong
+931,Innovation Academy for Microsatellites CAS
+932,Massachusetts General Hospital
+933,University of California Merced
+934,Institute of Chemistry CAS
+935,University of Minnesota Twin Cities
+936,University of Minnesota System
+937,National Space Science Center CAS
+938,Institute of Automation CAS
+939,Chinese Academy of Fishery Sciences
+940,Fishery Engineering Research Institute CAFS
+941,Institute of Applied Physics & Computational Mathematics - China
+942,China Nuclear Power Engineering Co Ltd.
+943,University of Bristol
+944,University of West England
+945,Xi'an Technological University
+946,Lenovo
+947,Legend Holdings
+948,University of Cincinnati
+949,University of Texas at San Antonio (UTSA)
+950,Shenyang Institute of Automation CAS
+951,San Jose State University
+952,California State University System
+953,Ningbo Institute of Materials Technology and Engineering CAS
+954,University of California Berkeley
+955,University of Liverpool
+956,Guizhou University
+957,Australian Centre for Robotic Vision
+958,Beijing Computational Science Research Center (CSRC)
+959,National Academy of Sciences of Belarus (NASB)
+960,Scientific & Practical Materials Research Centre of the National Academy of Sciences of Belarus
+961,Institute of Metal Research CAS
+962,Oak Ridge National Laboratory
+963,Springer Nature
+964,Tobacco Research Institute CAAS
+965,International Islamic University Pakistan
+966,Air Force Early Warning Academy
+967,German Aerospace Centre (DLR)
+968,Helmholtz Association
+969,University of Delhi
+970,Academy of Opto-Electronics CAS
+971,Lawrence Berkeley National Laboratory
+972,Ningxia University
+973,Universite de Montpellier
+974,University of Minnesota Duluth
+975,University of Michigan
+976,University of Michigan System
+977,Institute of Mechanics CAS
+978,University of Massachusetts System
+979,University of Massachusetts Boston
+980,Guangming Laboratory
+981,Zhongnan University of Economics & Law
+982,Nanfang College Guangzhou
+983,University of Science & Technology of China CAS
+984,Jiangxi Agricultural University
+985,Lancaster University
+986,Nevada System of Higher Education (NSHE)
+987,University of Nevada Reno
+988,University of California Los Angeles
+989,University of North Texas Denton
+990,University of North Texas System
+991,Peking Union Medical College Hospital
+992,Shanghai Institute of Materia Medica CAS
+993,Technical Institute of Physics & Chemistry CAS
+994,University of Arkansas System
+995,University of Arkansas Fayetteville
+996,Shenyang University of Technology
+997,Dalian Institute of Chemical Physics CAS
+998,Technology & Engineering Center for Space Utilization CAS
+999,Qinghai Institute of Salt Lakes CAS
+1000,Georgia Southern University
+1001,Lingnan University
+1002,CAS Institutes of Science & Development
+1003,University of Texas Arlington
+1004,Xi'an Institute of Optics & Precision Mechanics CAS
+1005,Corning Inc
+1006,ETH Zurich
+1007,Monash University Sunway
+1008,Monash University
+1009,Illinois Institute of Technology
+1010,Texas A&M University College Station
+1011,Texas A&M University System
+1012,Chang Gung University
+1013,National Research Council Canada
+1014,University of California Davis
+1015,Institute of High Energy Physics CAS
+1016,University of California Irvine
+1017,National Textile University - Pakistan
+1018,Ministry of Natural Resources of the People's Republic of China
+1019,University of Tennessee Knoxville
+1020,University of Tennessee System
+1021,Cancer Institute & Hospital - CAMS
+1022,Jinggangshan University
+1023,Shanxi Institute of Technology
+1024,Newcastle University - UK
+1025,Tarim University
+1026,Department of Science & Technology (India)
+1027,Indian Association for the Cultivation of Science (IACS) - Jadavpur
+1028,Sandia National Laboratories
+1029,Institute of New Materials Guangdong Academy of Sciences
+1030,Guangdong Academy of Sciences
+1031,Institute of Microelectronics CAS
+1032,Ecole Centrale de Lyon
+1033,China National Institute of Standardization
+1034,Dublin City University
+1035,Auburn University
+1036,Auburn University System
+1037,National Institutes of Health (NIH) - USA
+1038,NIH National Cancer Institute (NCI)
+1039,Polytechnique Montreal
+1040,Picardie Universites
+1041,Universite de Technologie de Compiegne
+1042,Duquesne University
+1043,University of Science & Technology Liaoning
+1044,National Metrology Institute of Japan
+1045,The Institute of Remote Sensing & Digital Earth CAS
+1046,Beijing Normal University Zhuhai
+1047,Institute of Engineering Thermophysics CAS
+1048,China Academy of Chinese Medical Sciences
+1049,Lithuanian Institute of Agrarian Economics
+1050,Suzhou Institute of Nano-Tech & Nano-Bionics CAS
+1051,University of Balochistan
+1052,University of Vermont
+1053,State University of New York (SUNY) Albany
+1054,Berlin School of Economics & Law
+1055,Egyptian Knowledge Bank (EKB)
+1056,Port Said University
+1057,Shanghai Institute of Optics & Fine Mechanics
+1058,Wuhan Textile University
+1059,Francisk Skorina Gomel State University
+1060,University of South Carolina System
+1061,University of South Carolina Columbia
+1062,China Guodian
+1063,University of Georgia
+1064,Indiana University of Pennsylvania
+1065,Pennsylvania State System of Higher Education (PASSHE)
+1066,Institute for Basic Science - Korea (IBS)
+1067,Harvard T.H. Chan School of Public Health
+1068,Fox Chase Cancer Center
+1069,Luoyang Institute of Science & Technology
+1070,Suzhou University of Science & Technology
+1071,Shenyang Normal University
+1072,Nanyang Institute of Technology
+1073,University of Central Florida
+1074,Beijing Neurosurgical Institute
+1075,Roma Tre University
+1076,University of Massachusetts Amherst
+1077,Agency for Science Technology & Research (A*STAR)
+1078,A*STAR - Institute of Materials Research & Engineering (IMRE)
+1079,Lasbela University of Agricultural Water & Marine Science
+1080,Institute of Computing Technology CAS
+1081,Institute of Forensic Science Ministry of Justice PRC
+1082,Dhofar University
+1083,Nanjing Normal University
+1084,Changzhou University
+1085,Universite Paris-Est-Creteil-Val-de-Marne (UPEC)
+1086,Florida State University
+1087,Universite de Lille - ISITE
+1088,Centrale Lille
+1089,Shanghai Institute of Technical Physics CAS
+1090,University of Aberdeen
+1091,Institute of Crop Sciences CAAS
+1092,Chinese Academy of Meteorological Sciences (CAMS)
+1093,Institute of Biophysics CAS
+1094,Institute of Grassland Research CAAS
+1095,Hanyang University
+1096,Dongguan Polytechnic
+1097,Meiji University
+1098,Peking Union Medical College
+1099,Florida A&M University
+1100,Bank of China
+1101,Nanjing Xiaozhuang University
+1102,Pakistan Institute of Engineering & Applied Science
+1103,Shaheed Zulfikar Ali Bhutto Institute of Science & Technology
+1104,Emory University
+1105,PetroChina Company
+1106,Brunel University
+1107,Hainan Medical University
+1108,Braunschweig University of Technology
+1109,Institute of Agricultural Economics & Development CAAS
+1110,Samsung
+1111,RWTH Aachen University
+1112,University of Reading
+1113,Chongqing Normal University
+1114,Institut national de la recherche scientifique (INRS)
+1115,Research Center for Eco-Environmental Sciences (RCEES)
+1116,China Minsheng Banking
+1117,Seventh Medical Center of Chinese PLA General Hospital
+1118,Universite de Lorraine
+1119,Hezhou University
+1120,University of Pisa
+1121,Pennsylvania State University
+1122,University of Colorado Denver
+1123,Research Institute of Wood Industry CAF
+1124,Chinese Academy of Forestry
+1125,State University of New York (SUNY) Buffalo
+1126,A*STAR - Institute for Infocomm Research (I2R)
+1127,Yunnan Normal University
+1128,Pushkov Institute of Terrestrial Magnetism Ionosphere & Radio Wave Propagation
+1129,Goethe University Frankfurt
+1130,University of Kashmir
+1131,Research Institute of Forest Resources Information Technique CAF
+1132,Financial University Under the Government of Russian Federation
+1133,St. Joseph's College of Engineering Chennai
+1134,Yunnan Agricultural University
+1135,Johns Hopkins Medicine
+1136,Zhejiang Laboratory
+1137,China Ship Scientific Research Center
+1138,National Yang Ming Chiao Tung University
+1139,UK Atomic Energy Authority
+1140,Incheon National University
+1141,Anhui Science & Technology University
+1142,Collaborative Innovation Center for Advanced Ship & Deep Sea Exploration
+1143,Malardalen University
+1144,Central Academy of Fine Arts
+1145,National Institute of Food & Drug Control - China
+1146,Southwestern Institute of Physics - China
+1147,Huaiyin Institute of Technology
+1148,Microsoft Research Asia
+1149,Eastman Chemical Company
+1150,Tomsk State University
+1151,Kochi University Technology
+1152,University of Indonesia
+1153,Bogor Agricultural University
+1154,University of Bielefeld
+1155,Al Jouf University
+1156,Halmstad University
+1157,Pennsylvania State University - University Park
+1158,Cyprus University of Technology
+1159,Pace University
+1160,Southern Medical University - China
+1161,Inspur
+1162,Purdue University
+1163,Purdue University West Lafayette Campus
+1164,Purdue University System
+1165,Agricultural Bank of China
+1166,Universiti Utara Malaysia
+1167,Huazhong Agricultural University
+1168,Hungkuang University
+1169,University of Sheffield
+1170,White Rose University Consortium
+1171,University of Leeds
+1172,Hohai University
+1173,University of Seoul
+1174,University of New Orleans
+1175,University of Louisiana System
+1176,Tarsus University
+1177,Imam Abdulrahman Bin Faisal University
+1178,Trinity College Dublin
+1179,Shenyang Jianzhu University
+1180,University of Primorska
+1181,Montpellier Business School
+1182,Shanghai Ocean University
+1183,Shaoguan University
+1184,Industrial & Commercial Bank of China (ICBC)
+1185,National Pingtung University Science & Technology
+1186,Suwon University
+1187,Guangzhou Radio Group
+1188,Universitat Politecnica de Catalunya
+1189,Huzhou University
+1190,Universidade Federal do Rio de Janeiro
+1191,Istituto di Scienze Applicate e Sistemi Intelligenti Eduardo Caianiello (ISASI-CNR)
+1192,Consiglio Nazionale delle Ricerche (CNR)
+1193,Shanghai Institute of Ceramics CAS
+1194,Heze University
+1195,Beijing Municipal Research Institute of Environment
+1196,Eberhard Karls University of Tubingen
+1197,Huanggang Normal University
+1198,Changwon National University
+1199,University of Tabriz
+1200,University of Mohaghegh Ardabili
+1201,University of South Wales
+1202,Rajamangala University of Technology Rattanakosin
+1203,Ecole Centrale de Nantes
+1204,Nantes Universite
+1205,Victoria University
+1206,Harbin Institute of Petroleum
+1207,University of Munich
+1208,National Pingtung University
+1209,Universidad Carlos III de Madrid
+1210,Qatar University
+1211,Universidad de Jaen
+1212,Nagoya Institute of Technology
+1213,Universiti Sains Malaysia
+1214,Norwegian University of Science & Technology (NTNU)
+1215,Imam Mohammad Ibn Saud Islamic University (IMSIU)
+1216,University of Denver
+1217,National Natural Science Foundation of China (NSFC)
+1218,Universidade de Sao Paulo
+1219,Universidade Tecnologica Federal do Parana
+1220,Shenzhen Research Institute of Big Data
+1221,University of Maribor
+1222,Kaohsiung Veterans General Hospital
+1223,Chang Gung University of Science & Technology
+1224,Yulin Normal University
+1225,University of Basque Country
+1226,Majmaah University
+1227,Audencia
+1228,National Economics University - Vietnam
+1229,Shanghai Polytechnic University
+1230,University of Antwerp
+1231,Xijing University
+1232,University of Parma
+1233,China West Normal University
+1234,Hubei University of Education
+1235,Seoul National University (SNU)
+1236,Chengdu University
+1237,Taiyuan Normal University
+1238,Taylor's University
+1239,China South Industries Group
+1240,University of Nottingham Malaysia
+1241,University College Dublin
+1242,University of Dundee
+1243,Brandeis University
+1244,Universite de Technologie de Troyes
+1245,Tianjin Chengjian University
+1246,China Resources Group
+1247,Guangdong Ocean University
+1248,ArcelorMittal
+1249,Universidade de Aveiro
+1250,University of Pretoria
+1251,Ningbo University of Technology
+1252,Technical University of Denmark
+1253,University of Exeter
+1254,Zhejiang University of Finance & Economics
+1255,Jinzhou Medical University
+1256,Procter & Gamble
+1257,Hangzhou Normal University
+1258,University of Regina
+1259,Shanxi College of Technology
+1260,Taiyo Nippon Sanso Corporation
+1261,Missouri University of Science & Technology
+1262,Johannes Kepler University Linz
+1263,Institute for Advanced Studies in Basic Sciences (IASBS)
+1264,Shenzhen Institute of Advanced Electronic Materials
+1265,IMT - Institut Mines-Telecom
+1266,EURECOM
+1267,Weinan Normal University
+1268,Nanjing Medical University
+1269,Washington State University
+1270,China Medical University
+1271,Singapore General Hospital
+1272,Shih Chien University
+1273,Jilin Agricultural Science & Technology University
+1274,Hacettepe University
+1275,Helmholtz-Zentrum fuer Materialien und Energie GmbH (HZB)
+1276,Shandong Agricultural University
+1277,National Police University for Criminal Justice
+1278,Mohammad Ali Jinnah University
+1279,Changsha University of Science & Technology
+1280,Lund University
+1281,University of Otago
+1282,Universidad del Pacifico Peru
+1283,Tufts University
+1284,University of Kentucky
+1285,Heriot Watt University
+1286,Universidade do Minho
+1287,Wichita State University
+1288,Qiqihar University
+1289,Servier
+1290,Iran University Science & Technology
+1291,University Kashan
+1292,Yichun University
+1293,Guangdong University of Finance & Economics
+1294,University of Ljubljana
+1295,Inria
+1296,China Baowu Steel Group
+1297,Technische Universitat Ilmenau
+1298,Lefke Avrupa University
+1299,Cyprus International University
+1300,Oracle
+1301,New York University
+1302,New York University Tandon School of Engineering
+1303,Islamia University of Bahawalpur
+1304,Federal Institute for Materials Research & Testing
+1305,Kyungpook National University
+1306,National Taiwan Normal University
+1307,National Taichung University of Education
+1308,Adelphi University
+1309,Universidade da Madeira
+1310,China Medical University Taiwan
+1311,Kaohsiung Medical University
+1312,Voevodsky Institute of Chemical Kinetics & Combustion SB RAS
+1313,Tamkang University
+1314,University of Fukui
+1315,Shenzhen Huazhong University of Science & Technology Research Institute
+1316,Butler University
+1317,Fujian Polytechnic Normal University
+1318,Yulin University
+1319,Kayseri University
+1320,Guangzhou Panyu Polytechnic
+1321,Hosei University
+1322,Kyoto Institute of Technology
+1323,Rice University
+1324,Istituto Italiano di Tecnologia - IIT
+1325,King Faisal University
+1326,Hebei GEO University
+1327,Civil Aviation University of China
+1328,University of Perugia
+1329,Handan University
+1330,Chemistry & Chemical Engineering Guangdong Laboratory
+1331,Carleton University
+1332,Nanjing Hydraulic Research Institute
+1333,University of Erlangen Nuremberg
+1334,Universidade Federal do ABC (UFABC)
+1335,Baoji University of Arts & Sciences
+1336,Hangzhou City University
+1337,University of Applied Sciences & Arts Western Switzerland
+1338,University of Geneva
+1339,Ruhr University Bochum
+1340,Basque Foundation for Science
+1341,Lvliang University
+1342,Obafemi Awolowo University
+1343,University of Nottingham Ningbo China
+1344,Liverpool John Moores University
+1345,Zuse Institute Berlin
+1346,Khwaja Fareed University of Engineering & Information Technology Pakistan
+1347,China Conservatory of Music
+1348,Rajagiri Business School (RBS)
+1349,University of Mississippi
+1350,Universite de Rennes
+1351,CNRS - Institute for Engineering & Systems Sciences (INSIS)
+1352,Daegu University
+1353,Maastricht University
+1354,Northumbria University
+1355,Ulm University
+1356,Afyon Kocatepe University
+1357,Hunan University of Technology & Business
+1358,Central South University of Forestry & Technology
+1359,University of Copenhagen
+1360,Shanghai Artificial Intelligence Laboratory
+1361,Universidade Federal do Rio Grande do Sul
+1362,Universitat de les Illes Balears
+1363,University of South Australia
+1364,Guangzhou College of Commerce
+1365,Hubei University of Medicine
+1366,Chengdu Technological University
+1367,Ulster University
+1368,University Town of Shenzhen
+1369,Changzhou Institute of Technology
+1370,Jilin Engineering Normal University
+1371,Jagiellonian University
+1372,Linkoping University
+1373,Brock University
+1374,Suzhou Institute of Biomedical Engineering & Technology CAS
+1375,UK Research & Innovation (UKRI)
+1376,Engineering & Physical Sciences Research Council (EPSRC)
+1377,China National Offshore Oil Corporation (CNOOC)
+1378,University of Warsaw
+1379,Dalian University
+1380,Sharif University of Technology
+1381,Universiti Malaya
+1382,Changchun University of Technology
+1383,California State University San Bernardino
+1384,Panjab University
+1385,UGC DAE Consortium for Scientific Research
+1386,Leeds Beckett University
+1387,Anyang Normal University
+1388,Shanghai Institutes for Biological Sciences CAS
+1389,Tata Institute of Fundamental Research (TIFR)
+1390,Toyo University
+1391,Virginia Polytechnic Institute & State University
+1392,National Institute of Technology (NIT System)
+1393,Dr B R Ambedkar National Institute of Technology Jalandhar
+1394,Zhaoqing University
+1395,Fifth Medical Center of Chinese PLA General Hospital
+1396,Western Michigan University
+1397,University of Yazd
+1398,Chia Nan University of Pharmacy & Science
+1399,Shanghai Astronomical Observatory CAS
+1400,Kyungnam University
+1401,Universite de Toulouse
+1402,Research Center Julich
+1403,Zhejiang Wanli University
+1404,Shandong Institute of Petroleum & Chemical Technology
+1405,High Energy Accelerator Research Organization (KEK)
+1406,Nguyen Tat Thanh University (NTTU)
+1407,Tokai University
+1408,Duke Kunshan University
+1409,State Power Investment Corporation
+1410,University of Tartu
+1411,Wenzhou Medical University
+1412,Qingdao Agricultural University
+1413,Chinese Culture University
+1414,Henan Institute of Science & Technology
+1415,Universite Paris Saclay
+1416,UDICE-French Research Universities
+1417,A.V. Luikov Heat & Mass Transfer Institute of the National Academy of Sciences of Belarus
+1418,University of Portsmouth
+1419,University of Taipei
+1420,Harbin University of Commerce
+1421,National Institute of Education (NIE) Singapore
+1422,Universidad Politecnica Salesiana
+1423,Kagoshima University
+1424,Bengbu Medical College
+1425,Aerospace Corporation - USA
+1426,Luoyang Normal University
+1427,Virginia Commonwealth University
+1428,Ministry of Transport of the People's Republic of China
+1429,Hubei University of Automotive Technology
+1430,University of Kaiserslautern
+1431,University of Helsinki
+1432,Ural State University of Railway Transport
+1433,Institut Laue-Langevin (ILL)
+1434,Universite de Caen Normandie
+1435,HSE University (National Research University Higher School of Economics)
+1436,Russian University of Transport
+1437,Xiamen Medical College
+1438,Hebei Normal University of Science & Technology
+1439,Japan Science & Technology Agency (JST)
+1440,Embry-Riddle Aeronautical University
+1441,Dortmund University of Technology
+1442,Hunan City University
+1443,Dalian Medical University
+1444,Kwangwoon University
+1445,China Tobacco Yunnan Industrial Co Ltd
+1446,Xinjiang Normal University
+1447,Chengdu Normal University
+1448,London South Bank University
+1449,Chung Ang University
+1450,Hunan University Of Humanities Science & Technology
+1451,National Institutes for Quantum Science & Technology
+1452,Free University of Berlin
+1453,Technische Universitat Chemnitz
+1454,China Southern Power Grid
+1455,Birla Institute of Technology & Science Pilani (BITS Pilani)
+1456,National Measurement Institute Australia - NMI
+1457,Military Technical College
+1458,Neijiang Normal University
+1459,Liaoning Technical University
+1460,Lanzhou Institute of Chemical Physics CAS
+1461,Jiangxi Normal University
+1462,Pohang University of Science & Technology (POSTECH)
+1463,Universidade Federal de Minas Gerais
+1464,University of Notre Dame Australia
+1465,Aberystwyth University
+1466,Universidad de Valladolid
+1467,Guangdong Medical University
+1468,National Taipei University
+1469,Zunyi Normal University
+1470,Technical University Kosice
+1471,Shenzhen International Quantum Academy
+1472,Southwest Minzu University
+1473,Pingdingshan University
+1474,University of Latvia
+1475,Shandong Womens University
+1476,CIMAT - Centro de Investigacion en Matematicas
+1477,James Cook University
+1478,Tianjin Institute of Industrial Biotechnology CAS
+1479,Goa Institute of Management
+1480,Istanbul Medeniyet University
+1481,National Tsing Hua University
+1482,Aselsan
+1483,Ho Chi Minh City University of Food Industry
+1484,Ton Duc Thang University
+1485,Naval Medical University
+1486,Shanghai Normal University
+1487,Beihua University
+1488,China Three Gorges Corporation
+1489,Robert Gordon University
+1490,Guangdong Academy of Medical Sciences & Guangdong General Hospital
+1491,Stowers Institute for Medical Research
+1492,Bulgarian Academy of Sciences
+1493,Shanghai Institute of Applied Physics CAS
+1494,University Ha'il
+1495,Institute of Agricultural Resources & Regional Planning CAAS
+1496,Middlesex University
+1497,China United Network Communications Limited
+1498,Texas A&M University Commerce
+1499,Universite de Tunis
+1500,Hokkaido University
+1501,University of Jyvaskyla
+1502,Indian Institute of Science Education & Research (IISER) - Kolkata
+1503,South Ural State University
+1504,Universiti Teknologi MARA
+1505,University of Johannesburg
+1506,Changchun Institute of Optics Fine Mechanics & Physics CAS
+1507,George Washington University
+1508,Qamcom Research & Technology
+1509,Chongqing Institute of Green & Intelligent Technology CAS
+1510,Shiraz University
+1511,Assiut University
+1512,Shanghai Institute of Microsystem & Information Technology CAS
+1513,Fujian Medical University
+1514,Gachon University
+1515,IMEC
+1516,Institute of Materia Medica - CAMS
+1517,Santa Clara University
+1518,Universite Paris Cite
+1519,Australian Nuclear Science & Technology Organisation
+1520,Hannover Medical School
+1521,Charles University Prague
+1522,University of Tennessee Health Science Center
+1523,Guangxi Medical University
+1524,University of Newcastle
+1525,Eotvos Lorand University
+1526,Institute of Electronics CAS
+1527,National Resource Center for Chinese Materia Medica CACMS
+1528,Universidad de Especialidades Espiritu Santo
+1529,Indiana University System
+1530,Indiana University-Purdue University Indianapolis
+1531,Vilnius University
+1532,Istanbul Gelisim University
+1533,Bharath Institute of Higher Education & Research
+1534,Wuchang University of Technology
+1535,Ball State University
+1536,San Francisco State University
+1537,BYD
+1538,Kingfa Sci. & Tech.
+1539,State Key Laboratory of Quantum Optics & Quantum Optics Devices
+1540,Abdul Wali Khan University
+1541,Zhengzhou Tobacco Research Institute of CNTC
+1542,Shandong Institute of Commerce & Technology
+1543,A*STAR - Institute of High Performance Computing (IHPC)
+1544,Minhaj University
+1545,University of Debrecen
+1546,Jacobs University
+1547,University of Science & Technology Bannu
+1548,University of Dubai
+1549,Ataturk University
+1550,Novosibirsk State University Of Architecture & Civil Engineering
+1551,Khristianovich Institute of Theoretical & Applied Mechanics SB RAS
+1552,University of North Carolina Chapel Hill
+1553,Helwan University
+1554,Autonomous University of Madrid
+1555,Taif University
+1556,IVL Swedish Environmental Research Institute
+1557,Xinjiang University of Finance & Economics
+1558,IPAG Business School
+1559,Nationwide Childrens Hospital
+1560,University of Canberra
+1561,Northeast Agricultural University - China
+1562,University of South Florida
+1563,National Institute of Technology Calicut
+1564,Songshan Lake Materials Laboratory
+1565,Annamalai University
+1566,Singapore University of Social Sciences (SUSS)
+1567,Universite de Lille
+1568,Jadavpur University
+1569,DIW Berlin - Deutsches Institut fur Wirtschaftsforschung
+1570,Chungbuk National University
+1571,Changchun Institute of Applied Chemistry CAS
+1572,Communaute Universite Grenoble Alpes
+1573,Universite Grenoble Alpes (UGA)
+1574,Beni Suef University
+1575,CGIAR
+1576,International Food Policy Research Institute (IFPRI)
+1577,Memorial Sloan Kettering Cancer Center
+1578,Fayetteville State University
+1579,Ulsan National Institute of Science & Technology (UNIST)
+1580,CNRS - National Institute for Mathematical Sciences (INSMI)
+1581,University of Milano-Bicocca
+1582,Texas Christian University
+1583,Universite de Franche-Comte
+1584,Nordic Institute for Theoretical Physics
+1585,University of Konstanz
+1586,Mahidol University
+1587,Japan Aerospace Exploration Agency (JAXA)
+1588,Universite de Monastir
+1589,University of Brighton
+1590,IMDEA Nanociencia
+1591,Dongfeng Motor
+1592,Ningbo University of Finance & Economics
+1593,Deutsches Elektronen-Synchrotron (DESY)
+1594,Universidad de Extremadura
+1595,King's College London
+1596,Lawrence Livermore National Laboratory
+1597,Universidad de Santiago de Chile
+1598,University of Wurzburg
+1599,Paul Scherrer Institute
+1600,Institute for Integrative Nanosciences (IIN)
+1601,Leibniz Institute for Solid State & Materials Research Dresden
+1602,Dakota State University
+1603,Fu Wai Hospital - CAMS
+1604,Institute of Basic Medical Sciences - CAMS
+1605,Guangzhou Medical University
+1606,State Key Laboratory of Respiratory Disease
+1607,University of Puerto Rico Mayaguez
+1608,University of Puerto Rico
+1609,Indiana University Bloomington
+1610,Institute of Strength Physics & Materials Science Siberian Branch of the RAS
+1611,Siberian State Medical University
+1612,Ji Hua Laboratory
+1613,Mount Allison University
+1614,Agriculture Information Institute CAAS
+1615,National Science Library CAS
+1616,James Madison University
+1617,Ohio University
+1618,Johannes Gutenberg University of Mainz
+1619,Universiti Teknologi Malaysia
+1620,Qingdao Institute of Bioenergy & Bioprocess Technology CAS
+1621,Geoscience Australia
+1622,Hubei University of Chinese Medicine
+1623,Weifang Medical University
+1624,Henan University of Animal Husbandry & Economy
+1625,King Mongkuts Institute of Technology Ladkrabang
+1626,Taipei Medical University
+1627,Heilongjiang University of Science & Technology
+1628,Yeshiva University
+1629,University of Hawaii Manoa
+1630,University of Hawaii System
+1631,Sorbonne Universite
+1632,AT&T
+1633,University of Wyoming
+1634,Yili Normal University
+1635,Osaka Metropolitan University
+1636,Institute of Theoretical Physics CAS
+1637,University of Maryland Center for Environmental Science
+1638,STFC Daresbury Laboratory
+1639,Far Eastern Federal University
+1640,Georgia College & State University
+1641,Universite de Tours
+1642,Leiden University - Excl LUMC
+1643,Leiden University
+1644,Jawaharlal Nehru University New Delhi
+1645,Umm Al Qura University
+1646,Institute of Geology & Geophysics CAS
+1647,Pontificia Universidad Catolica de Chile
+1648,University of Barcelona
+1649,UCSI University
+1650,Quanzhou Normal University
+1651,A*STAR - Institute of Molecular & Cell Biology (IMCB)
+1652,Suan Sunandha Rajabhat University
+1653,Niccolo Cusano Online University
+1654,Indian Institute of Technology System (IIT System)
+1655,Indian Institute of Technology (IIT) - Bombay
+1656,Karlsruhe Institute of Technology
+1657,Punjabi University
+1658,CSIC - Instituto de Optica (Daza de Valdes)
+1659,Consejo Superior de Investigaciones Cientificas (CSIC)
+1660,Atma Ram Sanatan Dharma College
+1661,Guangzhou University of Chinese Medicine
+1662,University of Quebec Trois Rivieres
+1663,Shenzhen Institute of Artificial Intelligence & Robotics for Society
+1664,National Skin Centre
+1665,Future University in Egypt
+1666,University of Maryland Baltimore County
+1667,North Dakota State University Fargo
+1668,Salesforce
+1669,Shanghai Art & Design Academy
+1670,Institute of Chemistry of New Materials of the National Academy of Sciences of Belarus
+1671,University of Nevada Las Vegas
+1672,Henan Agricultural University
+1673,Universite Toulouse III - Paul Sabatier
+1674,Mayo Clinic
+1675,Feinberg School of Medicine
+1676,Duy Tan University
+1677,Western Washington University
+1678,Wang Jing Hospital CACMS
+1679,Beijing Institute of Nanoenergy & Nanosystems CAS
+1680,Chifeng University
+1681,University of Greenwich
+1682,Florida Institute of Technology
+1683,Cisco Systems Inc
+1684,Universidad Politecnica de Cartagena
+1685,Shanghai Electric
+1686,University of Bedfordshire
+1687,Brandenburg University of Technology Cottbus
+1688,Siemens AG
+1689,Massey University
+1690,Indian Institute of Management Lucknow
+1691,Indian Institute of Management (IIM System)
+1692,Cairo University
+1693,Texas A&M International University
+1694,Florida Atlantic University
+1695,Zhangjiakou University
+1696,University of California Santa Barbara
+1697,Wuxi University
+1698,Memorial University Newfoundland
+1699,Wuxi Wio Technology Co. Limited
+1700,University of Alaska Fairbanks
+1701,University of Alaska System
+1702,Indian Institute of Technology (IIT) - Kharagpur
+1703,University of Toledo
+1704,Kettering University
+1705,CNRS - Institute for Humanities & Social Sciences (INSHS)
+1706,IESEG School of Management
+1707,Merck & Company
+1708,Universiti Malaysia Pahang
+1709,Guangzhou Institute of Geochemistry CAS
+1710,Fritz Haber Institute of the Max Planck Society
+1711,Fort Wayne Metals Research Products Corp.
+1712,Xi'an University of Finance & Economics
+1713,Al-Yamamah University
+1714,National Institute of Information & Communications Technology (NICT) - Japan
+1715,Colorado School of Mines
+1716,Softwarepark Hagenberg
+1717,Institute of Apicultural Research CAAS
+1718,Nottingham Trent University
+1719,Razuvaev Institute of Organometallic Chemistry
+1720,Leipzig University
+1721,Pazhou Lab
+1722,Howard Hughes Medical Institute
+1723,Karadeniz Technical University
+1724,A*STAR - Bioinformatics Institute (BII)
+1725,State Key Lab Oncology South China
+1726,University Massachusetts Dartmouth
+1727,Nanjing Institute of Astronomical Optics & Technology NAOC CAS
+1728,Purple Mountain Observatory CAS
+1729,VITO
+1730,Shanghai University of Electric Power
+1731,Erasmus University Rotterdam - Excl Erasmus MC
+1732,Erasmus University Rotterdam
+1733,Shenzhen Children's Hospital
+1734,Abu Dhabi University
+1735,Anhui Institute of Optics & Fine Mechanics (AIOFM) CAS
+1736,Tan Tock Seng Hospital
+1737,Universite Clermont Auvergne (UCA)
+1738,Mesnac
+1739,Shanghai Lixin University of Accounting & Finance
+1740,Mechanical Engineering Research Institute of the Russian Academy of Sciences
+1741,Nippon Veterinary & Life Science University
+1742,Nokia Corporation
+1743,Hong Kong University of Science & Technology (Guangzhou)
+1744,Jimei University
+1745,Soongsil University
+1746,Sichuan Agricultural University
+1747,Shanghai Institute of Organic Chemistry CAS
+1748,Wonkwang University
+1749,US Army Research Laboratory (ARL)
+1750,United States Department of Defense
+1751,United States Army
+1752,US Army Research Development & Engineering Command (RDECOM)
+1753,Institute of Mountain Hazards & Environment CAS
+1754,Union College
+1755,Taiyuan University
+1756,Anadolu University
+1757,TJU-NUS Joint Institute
+1758,Mohamed Bin Zayed University of Artificial Intelligence
+1759,First Institute of Oceanography (FIO)
+1760,Yuan Ze University
+1761,Asia Pacific University of Technology & Innovation
+1762,American University of Middle East
+1763,KIMEP University
+1764,Universidade de Vigo
+1765,University of L'Aquila
+1766,Utah System of Higher Education
+1767,Utah State University
+1768,Edinburgh College of Art
+1769,University of Maryland Baltimore
+1770,Texas Tech University
+1771,Texas Tech University System
+1772,China Three Gorges University
+1773,Universitat de Girona
+1774,National Physical Laboratory - UK
+1775,Hunter College (CUNY)
+1776,Kunsan National University
+1777,Kansai University
+1778,Edith Cowan University
+1779,Lucknow University
+1780,Federation University Australia
+1781,University of Palermo
+1782,University of Wolverhampton
+1783,University of the Free State
+1784,IMDEA Software Institute
+1785,Universitatsklinikum des Saarlandes
+1786,Leonardo
+1787,NingboTech University
+1788,Uppsala University
+1789,Istituto Nazionale di Ottica (INO-CNR)
+1790,University of Brescia
+1791,Murray State University
+1792,Beloit College
+1793,Danish Hydraulic Institute (DHI)
+1794,Pakistan Institute of Development Economics
+1795,University of Central Punjab
+1796,Texas A&M University Corpus Christi
+1797,Gwangju Institute of Science & Technology (GIST)
+1798,Ahi Evran University
+1799,Don State Technical University
+1800,Pai Chai University
+1801,Central University of Technology
+1802,Mudanjiang Medical University
+1803,University of Augsburg
+1804,Zhejiang University of Science & Technology
+1805,New York State Psychiatry Institute
+1806,University of Oregon
+1807,Universiti Malaysia Kelantan
+1808,United Arab Emirates University
+1809,East Carolina University
+1810,CAS Center for Excellence in Quantum Information & Quantum Physics
+1811,Barts Health NHS Trust
+1812,Royal London Hospital
+1813,Gadjah Mada University
+1814,Guiyang Institute of Geochemistry CAS
+1815,University of Bremen
+1816,International Digital Economy Academy
+1817,National Applied Research Laboratories - Taiwan
+1818,Bidhan Chandra Agricultural University
+1819,Kookmin University
+1820,Nara Institute of Science & Technology
+1821,Ruprecht Karls University Heidelberg
+1822,Joint BioEnergy Institute - JBEI
+1823,University of South Africa
+1824,Hebei Chemical & Pharmaceutical College
+1825,Shanghai Dianji University
+1826,Universite de Poitiers
+1827,Rolls-Royce Holding Group
+1828,Miami University
+1829,Binzhou University
+1830,Riga Technical University
+1831,University of Hradec Kralove
+1832,Shanghai University of Political Science & Law
+1833,University of Tsukuba
+1834,Seikei University
+1835,Japan Synchrotron Radiation Research Institute
+1836,University of Dhaka
+1837,Lagos State University
+1838,Academia Sinica - Taiwan
+1839,University of Haifa
+1840,Aristotle University of Thessaloniki
+1841,Ecole Nationale de l'Aviation Civile (ENAC)
+1842,Universite Federale Toulouse Midi-Pyrenees (ComUE)
+1843,State Marine Technical University
+1844,Universita della Campania Vanvitelli
+1845,Chinese Academy of Geological Sciences
+1846,Nagasaki University
+1847,Mody University of Science & Technology
+1848,Shandong Jianzhu University
+1849,Hang Seng University of Hong Kong
+1850,University of Passau
+1851,Universidad Antonio de Nebrija
+1852,National Institute of Biological Sciences Beijing
+1853,Southern Marine Science & Engineering Guangdong Laboratory
+1854,Universita della Svizzera Italiana
+1855,Kaiser Permanente
+1856,Xinxiang Medical University
+1857,Muroran Institute of Technology
+1858,Institute of Urban Environment CAS
+1859,Karakoram International University
+1860,Shenzhen Institute of Information Technology
+1861,CSIC - Centro de Investigacion y Desarrollo Pascual Vila (CID-CSIC)
+1862,CSIC - Instituto de Quimica Avanzada de Cataluna (IQAC)
+1863,Nanjing Audit University
+1864,Yeungnam University
+1865,Tulane University
+1866,Nikola Vaptsarov Naval Academy
+1867,University of Tasmania
+1868,Gaziantep University
+1869,Hongik University
+1870,University of Miami
+1871,Universidad de Cadiz
+1872,E-ON
+1873,University Centre Svalbard (UNIS)
+1874,University of Teesside
+1875,Institute for Scintillation Materials of the National Academy of Sciences of Ukraine
+1876,National Academy of Sciences Ukraine
+1877,B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus
+1878,Millersville University of Pennsylvania
+1879,Xinjiang Institute of Engineering
+1880,Chang Gung Memorial Hospital
+1881,Nanhua University
+1882,Soonchunhyang University
+1883,Youjiang Medical University for Nationalities
+1884,Brno University of Technology
+1885,Chung Hua University
+1886,University of North Carolina School of Medicine
+1887,Panasonic
+1888,Shanghai Advanced Research Institute CAS
+1889,Zhangjiang Laboratory
+1890,Kwame Nkrumah University Science & Technology
+1891,Innopolis University
+1892,University of Illinois Chicago Hospital
+1893,University of Illinois Chicago
+1894,Chungnam National University
+1895,Thermal Power Research Institute Co Ltd
+1896,Changchun Institute Technology
+1897,University of West Scotland
+1898,Prince Sattam Bin Abdulaziz University
+1899,North Sichuan Medical University
+1900,Razi University
+1901,University of Kurdistan
+1902,INRAE
+1903,Universitat Politecnica de Valencia
+1904,University of Lausanne
+1905,European University Cyprus
+1906,Shaqra University
+1907,Universite de Sfax
+1908,Dankook University
+1909,Inner Mongolia University of Finance & Economics
+1910,Namseoul University
+1911,German-Jordanian University
+1912,Fraunhofer Gesellschaft
+1913,University of Missouri Saint Louis
+1914,University Moratuwa
+1915,Gonzaga University
+1916,Universidad Rey Juan Carlos
+1917,Shanghai International Studies University
+1918,Sakarya University of Applied Science
+1919,China Europe International Business School
+1920,Leiden University Medical Center (LUMC)
+1921,L.N. Gumilyov Eurasian National University
+1922,Narxoz University
+1923,Shanghai Business School
+1924,Estonian University of Life Sciences
+1925,Los Alamos National Laboratory
+1926,Orebro University
+1927,University of Burdwan
+1928,Mapua University
+1929,Charles Darwin University
+1930,Fiji National University (FNU)
+1931,National Institute for Materials Science
+1932,University of Health & Rehabilitation Sciences
+1933,Hunan Agricultural University
+1934,Asia University Taiwan
+1935,National Formosa University
+1936,Shenzhen Bay Laboratory
+1937,Institute of Zoology CAS
+1938,Thermo Fisher Scientific
+1939,Hong Kong Metropolitan University
+1940,Rutgers State University Camden
+1941,Taras Shevchenko National University Kiev
+1942,Ministry of Education & Science of Ukraine
+1943,Chuiko Institute of Surface Chemistry of NASU
+1944,Instituto Politecnico Nacional - Mexico
+1945,Curtin University Malaysia
+1946,Hubei Engineering University
+1947,Universite Cote d'Azur
+1948,Nvidia Corporation
+1949,Suzhou Laboratory
+1950,Economic Research Institute ASEAN & East Asia
+1951,China Electronics Corporation
+1952,Universidad Francisco de Vitoria
+1953,University of Hertfordshire
+1954,Hannam University
+1955,University of Dayton
+1956,University of Boras
+1957,Atilim University
+1958,Okan University
+1959,Thales Group
+1960,Harvard Medical School
+1961,University of California Santa Cruz
+1962,Institut National Polytechnique de Grenoble
+1963,University of Kitakyushu
+1964,Institut National de la Sante et de la Recherche Medicale (Inserm)
+1965,Universite Claude Bernard Lyon 1
+1966,UK Centre for Ecology & Hydrology (UKCEH)
+1967,Guizhou Education University
+1968,Wake Forest University
+1969,National Sun Yat Sen University
+1970,Brigham & Women's Hospital
+1971,VTT Technical Research Center Finland
+1972,Yangtze River Water Resources Protection Bureau
+1973,Naval Research Laboratory
+1974,United States Navy
+1975,Tokyo University of Technology
+1976,Wuhan Institute of Physics & Mathematics CAS
+1977,Universite Constantine
+1978,Ecole Normale Superieure de Constantine
+1979,Moi University
+1980,Suzhou Vocational University
+1981,Lithuanian Energy Institute
+1982,Universidad de Malaga
+1983,Beirut Arab University
+1984,University of Texas Southwestern Medical Center Dallas
+1985,University of Massachusetts Lowell
+1986,Shenyang University of Chemical Technology
+1987,University of Louisiana Lafayette
+1988,Hindustan Institute of Technology & Science
+1989,Vellore Institute of Technology (VIT)
+1990,VIT Bhopal University
+1991,VIT Chennai
+1992,Institut Catholique d'Arts et Metiers de Toulouse
+1993,Nisantasi University
+1994,California State University Los Angeles
+1995,Kent State University
+1996,Kent State University Kent
+1997,Kent State University Salem
+1998,Wuhan Institute of Rock & Soil Mechanics CAS
+1999,Vanderbilt University
+2000,Universite Polytechnique Hauts-de-France
+2001,Nantong University
+2002,Ural Federal University
+2003,Ufa Institute of Chemistry
+2004,Guangzhou Institute of Energy Conversion CAS
+2005,Universite de Reims Champagne-Ardenne
+2006,NIH National Institute of Mental Health (NIMH)
+2007,Japan Society for the Promotion of Science
+2008,Singapore Institute of Technology
+2009,Brookhaven National Laboratory
+2010,Topchiev Institute of Petrochemical Synthesis RAS
+2011,Universitat d'Alacant
+2012,University of Alabama System
+2013,University of Alabama Birmingham
+2014,Mersin University
+2015,Koc University
+2016,International Black Sea University
+2017,NIH National Heart Lung & Blood Institute (NHLBI)
+2018,Institute of Food Science & Technology CAAS
+2019,Institute of Genetics & Developmental Biology CAS
+2020,PCSIR Laboratories Complex
+2021,Great Wall Motors
+2022,Lehigh University
+2023,Universite de Mascara
+2024,Fujian Jiangxia University
+2025,Michigan Technological University
+2026,Indian Institute of Technology (IIT) - Mandi
+2027,Hanoi University of Science & Technology (HUST)
+2028,University of Potsdam
+2029,Louisiana State University Health Sciences Center at Shreveport
+2030,NIH National Institute on Aging (NIA)
+2031,NIH National Institute on Drug Abuse (NIDA)
+2032,POLYMAT
+2033,University of North Carolina Wilmington
+2034,National Taiwan University of Science & Technology
+2035,Aramco Services Company (ASC)
+2036,Babol Noshirvani University of Technology
+2037,Veer Surendra Sai University of Technology
+2038,Taizhou University
+2039,University Hospital Leuven
+2040,Galgotias University
+2041,Shanmugha Arts Science Technology & Research Academy (SASTRA)
+2042,Universite PSL
+2043,Observatoire de Paris
+2044,Babes Bolyai University from Cluj
+2045,Charite Universitatsmedizin Berlin
+2046,Humboldt University of Berlin
+2047,Idaho State University
+2048,Eastern Mediterranean University
+2049,Leshan Normal University
+2050,National & Kapodistrian University of Athens
+2051,National Institute of Technology Puducherry
+2052,Universite de Bretagne Occidentale
+2053,IMT Atlantique
+2054,Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)
+2055,National University of the Littoral
+2056,Nirma University
+2057,University of Nigeria
+2058,University of Nebraska Omaha
+2059,University of Luxembourg
+2060,Anyang Institute of Technology
+2061,Istituto Nazionale di Fisica Nucleare (INFN)
+2062,Second People's Hospital of Shenzhen
+2063,Institute of Metal Physics UB RAS
+2064,Wuhan Polytechnic University
+2065,Yingkou Institute of Technology
+2066,Lincoln University College
+2067,Urmia University
+2068,Southwest Medical University
+2069,Northern Illinois University
+2070,California State University Northridge
+2071,Chongqing Medical University
+2072,Anhui Jianzhu University
+2073,Amirkabir University of Technology
+2074,Xinjiang Institute of Ecology & Geography CAS
+2075,Tufts Medical Center
+2076,Universidade de Lisboa
+2077,Universidad Autonoma de Chile
+2078,Universidad Andres Bello
+2079,Boise State University
+2080,Nazarbayev University
+2081,Shenzhen Luohu Hospital Group Luohu People's Hospital
+2082,University of Plymouth
+2083,Yasar University
+2084,O.P. Jindal Global University
+2085,Jiangxi Academy of Agricultural Sciences
+2086,Institute of Soil Science CAS
+2087,University of Trieste
+2088,UT Institute of Agriculture
+2089,State University of New York (SUNY) - Oswego
+2090,Hubei Minzu University
+2091,Qatar Foundation (QF)
+2092,Texas A&M University Qatar
+2093,Wuxi Institute of Technology
+2094,Rzeszow University of Technology
+2095,Al Akhawayn University
+2096,International Iberian Nanotechnology Laboratory
+2097,Beijing Municipal Commission of Education
+2098,SRM Institute of Science & Technology Chennai
+2099,University of Akron
+2100,Symbiosis Centre for Management Studies Pune
+2101,Symbiosis International University
+2102,Murdoch University
+2103,Northeast Institute of Geography & Agroecology CAS
+2104,San Diego State University
+2105,Shenyang Institute of Applied Ecology CAS
+2106,Hamburg University of Technology
+2107,Universiti Malaysia Terengganu
+2108,Hebrew University of Jerusalem
+2109,Boston College
+2110,SLAC National Accelerator Laboratory
+2111,Universite de Technologie de Belfort-Montbeliard (UTBM)
+2112,African University of Science & Technology
+2113,CSIC - Instituto de Catalisis y Petroleoquimica (ICP)
+2114,Amity University Noida
+2115,University of La Verne
+2116,King Mongkuts University of Technology North Bangkok
+2117,East China University Political Science & Law
+2118,Hubei Polytechnic University
+2119,Tshwane University of Technology
+2120,Shandong College of Traditional Chinese Medicine
+2121,Istituto Superconduttori Materiali e Dispositivi Innovativi (SPIN-CNR)
+2122,McLean Hospital
+2123,Universidade do Porto
+2124,Royal National Orthopaedic Hospital NHS Trust
+2125,University of Mysore
+2126,State Key Laboratory of Catalysis CAS
+2127,Solent University
+2128,Norwegian Institute of Bioeconomy Research
+2129,Universidad Autonoma Metropolitana - Mexico
+2130,Indian Institute of Technology (IIT) - Guwahati
+2131,Beijing Film Academy
+2132,University of California San Francisco
+2133,Universite de Bordeaux
+2134,Anhui Agricultural University
+2135,Fordham University
+2136,State Key Laboratory of Transient Optics & Photonics
+2137,Zunyi Medical University
+2138,Nokia Bell Labs
+2139,University of Essex
+2140,American University Cairo
+2141,Institute of Psychology CAS
+2142,International Institute for Applied Systems Analysis (IIASA)
+2143,Buffalo State College
+2144,Universite Paul-Valery
+2145,Universite Perpignan Via Domitia
+2146,University of Cyprus
+2147,Chimie ParisTech
+2148,University Djillali Liabes Sidi Bel Abbes
+2149,China Medical University Hospital - Taiwan
+2150,Universidade Federal de Juiz de Fora
+2151,Intel Corporation
+2152,Qualcomm
+2153,Tianshui Normal University
+2154,Hunan Institute of Science & Technology
+2155,Saitama Institute Technology
+2156,Kangwon National University
+2157,Technology Innovation Institute
+2158,National Chin-Yi University of Technology
+2159,Tunghai University
+2160,Khulna University
+2161,Islamic University
+2162,Universite de Rouen Normandie
+2163,Budapest Business School
+2164,Konya Technical University
+2165,University of Hyderabad
+2166,Ritsumeikan Asia Pacific University
+2167,Mustafa Kemal University
+2168,University of Split
+2169,University of Bolton
+2170,Erciyes University
+2171,Shenzhen Research Institute The Hong Kong University of Science & Technology
+2172,SKEMA Business School
+2173,University of Saint Joseph (Macao)
+2174,AgroParisTech
+2175,Jingchu University of Technology
+2176,Universidade Federal de Mato Grosso do Sul
+2177,Anna University Chennai
+2178,Easwari Engineering College
+2179,Anna University
+2180,Vietnam National University Hochiminh City
+2181,Council for Scientific & Industrial Research (CSIR) - South Africa
+2182,Cag University - Turkey
+2183,University of Freiburg
+2184,Slovenian Academy of Sciences & Arts (SASA)
+2185,Jozef Stefan Institute
+2186,NIH National Institute of Biomedical Imaging & Bioengineering (NIBIB)
+2187,City University London
+2188,Bundeswehr University Munich
+2189,Heinrich Heine University Dusseldorf
+2190,University of Milan
+2191,Anqing Normal University
+2192,Synopsys Inc
+2193,Facebook Inc
+2194,Cleveland State University
+2195,University of Phayao
+2196,South Valley University Egypt
+2197,Macao Polytechnic University
+2198,Istituto di Fotonica e Nanotecnologie (IFN-CNR)
+2199,Nanjing Forest Police College
+2200,Public Authority for Applied Education & Training (PAAET) - Kuwait
+2201,Institute of Modern Physics CAS
+2202,Geely
+2203,Universite Paris-Dauphine
+2204,Chulalongkorn University
+2205,Honam University
+2206,Medical Research Council UK (MRC)
+2207,Applied Materials Inc
+2208,Universites de Strasbourg Etablissements Associes
+2209,Universite de Strasbourg
+2210,CNRS - Institute of Chemistry (INC)
+2211,University of Cagliari
+2212,University of Kent
+2213,Guangdong University of Finance
+2214,University of Malta
+2215,Hefei University
+2216,Research Institute of Forestry New Technology CAF
+2217,Swiss Federal Laboratories for Materials Science & Technology (EMPA)
+2218,University of Jeddah
+2219,Saudi Electronic University
+2220,Nanjing Vocational University of Industry Technology
+2221,Korea Institute of Ceramic Engineering & Technology
+2222,Universidad Autonoma de Nuevo Leon
+2223,North South University (NSU)
+2224,Universidad de Antioquia
+2225,Stellenbosch University
+2226,University of Nizwa
+2227,Kalasalingam Academy of Research & Education
+2228,Vavilov State Optical Institute
+2229,Belarusian National Technical University
+2230,Aston University
+2231,Central University of Tamil Nadu
+2232,Institut Polytechnique de Paris
+2233,Kobe University
+2234,Wuhan Institute of Virology CAS
+2235,Universite Paris-VIII
+2236,Guangdong Technion Israel Institute of Technology
+2237,Clark University
+2238,Zhejiang Institute of Mechanical & Electrical Engineering
+2239,A*STAR - Singapore Institute of Manufacturing Technology (SIMTech)
+2240,University of Hyogo
+2241,Bydgoszcz University of Science & Technology
+2242,Belarusian State University
+2243,Institute of Nuclear Physics - Kazakhstan
+2244,Yunnan Astronomical Observatory NAOC CAS
+2245,Novo Nordisk
+2246,Institute of Geographic Sciences & Natural Resources Research CAS
+2247,Korea Basic Science Institute (KBSI)
+2248,Universiti Kebangsaan Malaysia
+2249,UiT The Arctic University of Tromso
+2250,Boston University
+2251,Belarusian State Medical University
+2252,Jiangsu Open University
+2253,Qassim University
+2254,Gandhi Institute of Technology & Management (GITAM)
+2255,Yanka Kupala State University of Grodno
+2256,Council of Scientific & Industrial Research (CSIR) - India
+2257,CSIR - Central Scientific Instruments Organisation (CSIO)
+2258,Academy of Scientific & Innovative Research (AcSIR)
+2259,University of Utah
+2260,Hebei Normal University for Nationalities
+2261,Dalarna University
+2262,Al Baha University
+2263,Indian Institute of Management Indore
+2264,Immanuel Kant Baltic Federal University
+2265,Southern Methodist University
+2266,Institut National des Sciences Appliquees de Rennes
+2267,University of Karachi
+2268,All India Institute of Medical Sciences (AIIMS) New Delhi
+2269,Florida Polytechnical University
+2270,Florida International University
+2271,Xi'an Academy of Fine Arts
+2272,Edinburgh Napier University
+2273,Institut d'Estudis Espacials de Catalunya (IEEC)
+2274,Rollins College
+2275,Sultan Qaboos University
+2276,Thiruvalluvar University
+2277,Minia University
+2278,NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD)
+2279,United States Air Force
+2280,Semmelweis University
+2281,CPC Corporation
+2282,West Yunnan University of Applied Sciences
+2283,Guangxi University of Chinese Medicine
+2284,National Institute for Environmental Studies - Japan
+2285,Universite de Sousse
+2286,Diamond Light Source
+2287,University of Sofia
+2288,Centro de I+D+I en Procesado de la Informacion Telecomunicaciones (IPT)
+2289,Daimler AG
+2290,National University of Uzbekistan
+2291,Tashkent State University of Economics
+2292,Carnegie Institution for Science
+2293,Infineon Technologies Americas Corp.
+2294,Infineon Technologies
+2295,Alliance Manchester Business School
+2296,Institute of Zoology Guangdong Academy of Sciences
+2297,China National Rice Research Institute CAAS
+2298,The University of Hong Kong Shenzhen Institute of Research & Innovation
+2299,Xinyu University
+2300,Yanbian University
+2301,Scuola Normale Superiore di Pisa
+2302,RISE Research Institutes of Sweden
+2303,Avignon Universite
+2304,Lampang Rajabhat University
+2305,Southern Marine Science & Engineering Guangdong Laboratory (Zhuhai)
+2306,London School Economics & Political Science
+2307,Children's Hospital Colorado
+2308,University of Colorado Anschutz Medical Campus
+2309,Istanbul Ticaret University
+2310,University of Ghana
+2311,Lebanese American University
+2312,Shaanxi University of Technology
+2313,Siksha 'O' Anusandhan University
+2314,Institute of Problems of Chemical Physics of the Russian Academy of Sciences
+2315,Ghent University Hospital
+2316,CIRAD
+2317,CIHEAM
+2318,Institut de Recherche pour le Developpement (IRD)
+2319,CIHEAM IAM Montpellier
+2320,Institut Agro
+2321,National Synchrotron Radiation Research Center
+2322,Universidade Federal do Ceara
+2323,Universite Mouloud Mammeri de Tizi Ouzou
+2324,Kogakuin University
+2325,Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+2326,CSIC-UPV - Instituto de Gestion de la Innovacion y del Conocimiento (INGENIO)
+2327,College of Engineering Guindy
+2328,Jilin Jianzhu University
+2329,CSIC - Centro de Investigacion en Nanomateriales y Nanotecnologia (CINN)
+2330,Feng Chia University
+2331,Ontario Tech University
+2332,Universite 8 Mai 1945 de Guelma
+2333,Vaal University of Technology (VUT)
+2334,University of Kuala Lumpur
+2335,Technical University Czestochowa
+2336,North West University - South Africa
+2337,National Centre of Scientific Research Demokritos
+2338,Istituto per la Sintesi Organica e la Fotoreattivita (ISOF-CNR)
+2339,Hungarian Research Centre for Natural Sciences
+2340,Eotvos Lorand Research Network
+2341,Hungarian Centre for Energy Research
+2342,Hungarian Academy of Sciences
+2343,Central University of Jammu
+2344,Education University of Hong Kong (EdUHK)
+2345,National Institute for Communicable Disease Control & Prevention Chinese Center for Disease Control & Prevention
+2346,De Montfort University
+2347,HHL Leipzig Graduate School of Management
+2348,Naval Postgraduate School
+2349,Technical University of Ostrava
+2350,University of Bern
+2351,University of Turin
+2352,Chengdu Institute of Computer Application CAS
+2353,National Centre for Physics - Pakistan
+2354,Southern Illinois University
+2355,Southern Illinois University System
+2356,Japan Agency for Marine-Earth Science & Technology (JAMSTEC)
+2357,Yantai Institute of Coastal Zone Research CAS
+2358,Complutense University of Madrid
+2359,Middle East Technical University
+2360,University of Bahrain
+2361,Korea Institute of Science & Technology (KIST)
+2362,University of Quebec Montreal
+2363,Polish Academy of Sciences
+2364,Continental AG
+2365,Institute of High Pressure Physics of the Polish Academy of Sciences
+2366,Pacific Northwest National Laboratory
+2367,Shenyang Sport University
+2368,Institute of Quality Standards & Testing Technology for Agro-Products CAAS
+2369,Boston Children's Hospital
+2370,University of San Francisco
+2371,Institut National des Sciences Appliquees de Lyon - INSA Lyon
+2372,Institute of Electrical Engineering SAS
+2373,Slovak Academy of Sciences
+2374,Center for Nanophase Materials Sciences
+2375,University of Zaragoza
+2376,CSIC - Centro de Quimica y Materiales de Aragon (CEQMA)
+2377,CSIC - Instituto de Ciencia de Materiales de Aragon (ICMA)
+2378,CREATES
+2379,Samara National Research University
+2380,ICREA
+2381,Xinxiang University
+2382,Science & Technology Facilities Council (STFC)
+2383,Aix-Marseille Universite
+2384,Chongqing College of Electronic Engineering
+2385,Institut de Ciencies Fotoniques (ICFO)
+2386,Barcelona Institute of Science & Technology
+2387,State University of New York (SUNY) Binghamton
+2388,University of Patras
+2389,Mangosuthu University of Technology
+2390,VIT Vellore
+2391,Thiagarajar College of Engineering
+2392,GMR Institute of Technology
+2393,New Mexico State University
+2394,Misr University for Science & Technology
+2395,Huzhou Vocational & Technical College
+2396,Potsdam Institut fur Klimafolgenforschung
+2397,SUNY Polytechnic Institute
+2398,National Institutes of Natural Sciences (NINS) - Japan
+2399,Institute for Molecular Science (IMS)
+2400,Graduate University for Advanced Studies - Japan
+2401,Anshun University
+2402,Al Azhar University
+2403,Xishuangbanna Tropical Botanical Garden CAS
+2404,University of Agriculture Abeokuta
+2405,Southern Marine Science & Engineering Guangdong Laboratory (Zhanjiang)
+2406,Athens University of Economics & Business
+2407,University of Salento
+2408,Ecole Normale Superieure (ENS)
+2409,Systems Research Institute of the Polish Academy of Sciences
+2410,Institute of Medical Technology & Equipment
+2411,University of Mosul
+2412,STFC Rutherford Appleton Laboratory
+2413,Rajamangala University of Technology Thanyaburi
+2414,Romanian Academy of Sciences
+2415,University of Lincoln
+2416,University of Pavia
+2417,CEA
+2418,Yokohama National University
+2419,Beijing Genomics Institute (BGI)
+2420,Istituto di Informatica e Telematica (IIT-CNR)
+2421,University of Alabama Huntsville
+2422,National Institute of Technology Jamshedpur
+2423,Indian Institute of Technology (IIT) - Roorkee
+2424,Google Incorporated
+2425,Shenzhen Institute of Computing Sciences
+2426,Guangdong Pharmaceutical University
+2427,CUHK Shenzhen Research Institute
+2428,Shenzhen JL Computational Science & Application Research Institute
+2429,London School of Hygiene & Tropical Medicine
+2430,Fujian University of Traditional Chinese Medicine
+2431,De La Salle University
+2432,Universidad de Tarapaca
+2433,University of Texas at Tyler
+2434,Near East University
+2435,Yunnan University of Finance & Economics
+2436,Chulabhorn Royal Academy
+2437,University of Westminster
+2438,HRH Princess Chulabhorn College of Medical Science
+2439,Biotechnology and Biological Sciences Research Council (BBSRC)
+2440,Rothamsted Research
+2441,Westchester Medical Center
+2442,New York Medical College
+2443,University of Natural Resources & Life Sciences Vienna
+2444,Philips
+2445,Philips Research
+2446,Kharkov Institute of Physics & Technology
+2447,VN Karazin Kharkiv National University
+2448,Tilburg University
+2449,Kennedy Krieger Institute
+2450,National Chung Cheng University
+2451,Kun Shan University
+2452,Korea Research Institute of Standards & Science (KRISS)
+2453,University of St Andrews
+2454,China Pharmaceutical University
+2455,Scripps Institution of Oceanography
+2456,The ICFAI Foundation for Higher Education (IFHE)
+2457,ICFAI Business School (IBS)
+2458,MINES ParisTech
+2459,Philips Healthcare
+2460,Royal Brompton Hospital
+2461,WHU - Otto Beisheim School of Management
+2462,National Institute of Environmental Health Chinese Center for Disease Control & Prevention
+2463,CNRS - National Institute of Nuclear and Particle Physics (IN2P3)
+2464,Vrije Universiteit Brussel
+2465,Centro de Domotica Integral (CeDInt)
+2466,Kyushu Institute of Technology
+2467,CNRS - Institute of Physics (INP)
+2468,National Institute for Physiological Sciences (NIPS)
+2469,NIH National Eye Institute (NEI)
+2470,Ostfold University College
+2471,Vietnam Academy of Science & Technology (VAST)
+2472,University of Mons
+2473,University of Namur
+2474,Jining Medical University
+2475,Universidad Catolica de la Santisima Concepcion
+2476,Agricultural University Peshawar
+2477,Universiti Pendidikan Sultan Idris
+2478,Exxon Mobil Corporation
+2479,Shenzhen Institute of Neuroscience
+2480,Universite de Kairouan
+2481,Universite de Jendouba
+2482,Universite de la Manouba
+2483,Dokkyo Medical University
+2484,Louisiana State University Health Sciences Center New Orleans
+2485,University Hospital of Bern
+2486,University of Minnesota Hospital
+2487,Advanced Energy Science & Technology Guangdong Laboratory
+2488,Missouri State University
+2489,CSIC - Instituto de Ciencia de Materiales de Madrid (ICMM)
+2490,Polytechnic Institute of Lisbon
+2491,Instituto Politecnico de Santarem
+2492,Instituto Universitario de Lisboa
+2493,China Earthquake Administration
+2494,Universite Jean Monnet
+2495,European Theoretical Spectroscopy Facility (ETSF)
+2496,Raman Research Institute (RRI)
+2497,Ming Chi University of Technology
+2498,Sechenov First Moscow State Medical University
+2499,Charotar University of Science & Technology - Charusat
+2500,Tokyo University of Science
+2501,Mepco Schlenk Engineering College
+2502,Princess Nourah bint Abdulrahman University
+2503,Xi'an Medical University
+2504,University of Belgrade
+2505,Amazon.com
+2506,Baylor College of Medicine
+2507,Pakistan Institute of Nuclear Science & Technology
+2508,Military University of Technology in Warsaw
+2509,Karamanoglu Mehmetbey University
+2510,University of Technology- Iraq
+2511,National Engineering Research Center for Water Transport Safety
+2512,Nile University
+2513,Universite de Bourgogne
+2514,Saveetha School of Engineering
+2515,Saveetha Institute of Medical & Technical Science
+2516,Shiv Nadar University
+2517,University of Petroleum & Energy Studies (UPES)
+2518,University of Granada
+2519,Ho Chi Minh City University of Technology (HCMCUT)
+2520,Iwate Prefectural University
+2521,Mohammed V University in Rabat
+2522,U.S. Army Engineer Research & Development Center (ERDC)
+2523,Old Dominion University
+2524,U.S. Army Corps of Engineers
+2525,Munzur University
+2526,Guang'anmen Hospital CACMS
+2527,Moscow State University of Civil Engineering
+2528,Arts et Metiers Institute of Technology
+2529,University of Veterinary & Animal Science - Pakistan
+2530,Korea Institute for Advanced Study (KIAS)
+2531,Ewha Womans University
+2532,CSIR - Indian Institute of Integrative Medicine (IIIM)
+2533,Azienda Ospedaliero Universitaria Pisana
+2534,Helmholtz-Center Potsdam GFZ German Research Center for Geosciences
+2535,CSIC-CAR-UR - Instituto de Ciencias de la Vid y del Vino (ICVV)
+2536,Institut de Recerca Biomedica - IRB Lleida
+2537,Universidad de La Rioja
+2538,Agricultural Research Center - Egypt
+2539,Claremont Colleges
+2540,Pitzer College
+2541,CSIC - UPV EHU - Centro de Fisica de Materiales (CFM)
+2542,St. Petersburg Scientific Centre of the Russian Academy of Sciences
+2543,Institut National des Sciences Appliquees de Toulouse
+2544,Ioffe Physical Technical Institute
+2545,Mays Business School
+2546,Technische Universitat Wien
+2547,Irkutsk National Research Technical University (INRTU)
+2548,SVKM's NMIMS (Deemed to be University)
+2549,Mianyang Teachers' College
+2550,International School for Advanced Studies (SISSA)
+2551,The Santa Fe Institute
+2552,Universidade de Coimbra
+2553,National Institute of Technology Kurukshetra
+2554,Austrian Academy of Sciences
+2555,Sanford Burnham Prebys Medical Discovery Institute
+2556,Universitas Bina Nusantara
+2557,Masaryk University Brno
+2558,Bentley University
+2559,CSIC - Instituto de Estructura de la Materia (IEM)
+2560,University of Cape Coast
+2561,UNICANCER
+2562,Institut Paoli-Calmette (IPC)
+2563,Edge Hill University
+2564,Sookmyung Women's University
+2565,Guizhou University of Traditional Chinese Medicine
+2566,Niigata University
+2567,Aomori University of Health & Welfare
+2568,NYU Shanghai
+2569,Chosun University
+2570,Artvin Coruh University
+2571,National Renewable Energy Laboratory - USA
+2572,Ben Gurion University
+2573,Le Reseau International des Instituts Pasteur (RIIP)
+2574,Pepperdine University
+2575,University of Kansas
+2576,College of Charleston
+2577,Oil & Gas University of Ploiesti
+2578,Guangxi Minzu University
+2579,Hirosaki University
+2580,Saint Marys University - Canada
+2581,Istituto di Ricerche sulla Combustione (IRC-CNR)
+2582,Indian Institute of Technology (IIT) - Kanpur
+2583,Prince Sultan University
+2584,Menofia University
+2585,Baskent University
+2586,International Rice Research Institute (IRRI)
+2587,Guangdong Academy of Agricultural Sciences
+2588,Africa Rice Center
+2589,Prince of Songkla University
+2590,Kyoto Womens University
+2591,GD Goenka University
+2592,Tomsk Polytechnic University
+2593,Tomsk State University Architecture & Building
+2594,Al-Farabi Kazakh National University
+2595,Institute of High Current Electronics Siberian Branch Russian Academy of Sciences
+2596,Universita di Modena e Reggio Emilia
+2597,Istituto Officina dei Materiali (IOM-CNR)
+2598,Yale NUS College
+2599,University of Chester
+2600,Izmir Katip Celebi University
+2601,Korea National University of Transportation
+2602,Banner Alzheimer's Institute
+2603,Banner Research
+2604,Banner Health
+2605,Inter-University Accelerator Centre
+2606,Sri Venkateswara University
+2607,Hebei Medical University
+2608,Broadcom
+2609,John Innes Center
+2610,Universidad Loyola Andalucia
+2611,Shenyang University
+2612,University of Florence
+2613,Cathay General Hospital
+2614,National Central University
+2615,Taipei Veterans General Hospital
+2616,National Taiwan University Hospital
+2617,Schlumberger
+2618,University of Turku
+2619,Rowan University
+2620,Universite de Haute-Alsace (UHA)
+2621,Jilin Normal University
+2622,Kazakh British Technical University
+2623,Shanghai University of Traditional Chinese Medicine
+2624,Baylor University
+2625,Bahcesehir University
+2626,Aswan University
+2627,Universita Telematica Giustino Fortunato
+2628,Polytechnic Institute of Porto
+2629,Dongguk University
+2630,Seoul National University of Science & Technology
+2631,Suranaree University of Technology
+2632,Northern Border University
+2633,Jalpaiguri Government Engineering College
+2634,JP Morgan Chase & Company
+2635,European Synchrotron Radiation Facility (ESRF)
+2636,Howard University
+2637,Friedrich Schiller University of Jena
+2638,Lakehead University
+2639,National Kaohsiung Normal University
+2640,University of Texas Health Science Center Houston
+2641,University of Lodz
+2642,Honghe University
+2643,Ho Chi Minh City University of Technology (HUTECH)
+2644,Baqiyatallah University of Medical Sciences (BMSU)
+2645,Ministry of National Guard - Health Affairs
+2646,King Abdulaziz Medical City
+2647,Shah Abdul Latif University
+2648,King Abdulaziz Medical City - Riyadh
+2649,King Abdullah International Medical Research Center (KAIMRC)
+2650,King Saud Bin Abdulaziz University for Health Sciences
+2651,Bangladesh Institute of Development Studies (BIDS)
+2652,University of Iceland
+2653,Galatasaray University
+2654,Institute of Earth Environment CAS
+2655,Universidade Federal do Rio Grande do Norte
+2656,Yerevan Physics Institute
+2657,National Research Centre - Kurchatov Institute
+2658,Alikhanov Institute for Theoretical & Experimental Physics
+2659,Hungarian Wigner Research Centre for Physics
+2660,Sojo University
+2661,Universidade Federal de Sao Carlos
+2662,Guangzhou Institute of Biomedicine & Health CAS
+2663,Centenary Institute
+2664,Universitas Udayana
+2665,Nanjing University of Chinese Medicine
+2666,GSI Helmholtz-Center for Heavy Ion Research
+2667,Laval University
+2668,NIH Clinical Center (CC)
+2669,Mayo Clinic Phoenix
+2670,Helmholtz-Center Munich - German Research Center for Environmental Health
+2671,Economic & Social Research Council (ESRC)
+2672,Hexi University
+2673,Yibin University
+2674,Zagazig University
+2675,Sher-e-Kashmir University of Agricultural Sciences & Technology of Kashmir (SKUAST Kashmir)
+2676,Pontificia Universidad Javeriana
+2677,Tianjin University of Traditional Chinese Medicine
+2678,Institute of Hematology & Blood Diseases Hospital - CAMS
+2679,Istituto di Struttura della Materia (ISM-CNR)
+2680,University Balamand
+2681,German Cancer Research Center (DKFZ)
+2682,University of Texas El Paso
+2683,Institute of Botany CAS
+2684,Beth Israel Deaconess Medical Center
+2685,Children's Hospital Los Angeles
+2686,Ames National Laboratory
+2687,NIH National Institute on Alcohol Abuse & Alcoholism (NIAAA)
+2688,Keysight Technologies
+2689,Eastern Kentucky University
+2690,MRC Harwell
+2691,University of Trento
+2692,Chandigarh University
+2693,Graphic Era University
+2694,Scotland's Rural College
+2695,Selcuk University
+2696,KTO Karatay University
+2697,Kunming Medical University
+2698,Institute of Medical Biology - CAMS
+2699,Institute of Physics of the Czech Academy of Sciences
+2700,Elettra Sincrotrone Trieste
+2701,Czech Academy of Sciences
+2702,University of Gdansk
+2703,Fahrenheit Universities
+2704,Saarland University
+2705,University for Library Studies & Information Technology
+2706,Budapest University of Technology & Economics
+2707,University Katolik Indonesia Atma Jaya
+2708,University of Calabria
+2709,Hong Kong Shue Yan University
+2710,Lovelace Respiratory Research Institute
+2711,University of Munster
+2712,Istituto Nanoscienze (NANO-CNR)
+2713,GLA University
+2714,Ibn Zohr University of Agadir
+2715,Baku State University
+2716,Ministry of Education of Azerbaijan Republic
+2717,Azerbaijan National Academy of Sciences (ANAS)
+2718,University of Fribourg
+2719,Institute of Physics of the Azerbaijan National Academy of Sciences
+2720,University of Sindh
+2721,Sindh Agricultural University
+2722,Damanhour University
+2723,Karlstad University
+2724,Aerodyne Research
+2725,Universitat Jaume I
+2726,German Centre for Cardiovascular Research
+2727,German Heart Center Berlin
+2728,Ege University
+2729,Skolkovo Institute of Science & Technology
+2730,BCMaterials
+2731,Scripps Research Institute
+2732,Veterans Health Administration (VHA)
+2733,San Francisco VA Medical Center
+2734,US Department of Veterans Affairs
+2735,General Electric
+2736,Ibn Tofail University of Kenitra
+2737,Makerere University
+2738,Agency of Defense Development (ADD) Republic of Korea
+2739,Staffordshire University
+2740,Indian Institute of Technology (IIT) - Madras
+2741,Institute of Laser Physics SB RAS
+2742,Osipyan Institute of Solid State Physics RAS
+2743,Bosch
+2744,FSRC Crystallography & Photonics RAS
+2745,Novosibirsk State University
+2746,Institute of Automation & Electrometry SB RAS
+2747,Institute of Physical Chemistry of the Polish Academy of Sciences
+2748,Universite de Limoges
+2749,Ludwig Institute for Cancer Research
+2750,Prokhorov General Physics Institute of the Russian Academy of Sciences
+2751,IRCCS Istituto Oncologico Veneto (IOV)
+2752,Mid-Sweden University
+2753,University of Klagenfurt
+2754,Hochschule Darmstadt
+2755,University of York - UK
+2756,Wakayama University
+2757,Palacky University Olomouc
+2758,NHK Japan Broadcasting Corp
+2759,State Key Laboratory of High Field Laser Physics
+2760,Northern Arizona University
+2761,NASA Jet Propulsion Laboratory (JPL)
+2762,CNRS - National Institute for Earth Sciences & Astronomy (INSU)
+2763,National Aeronautics & Space Administration (NASA)
+2764,World Health Organization
+2765,Instituto Nacional de Pesquisas Espaciais (INPE)
+2766,FOM National Institute for Subatomic Physics
+2767,European Organization for Nuclear Research (CERN)
+2768,Helsinki Institute of Physics
+2769,Universite Libre de Bruxelles
+2770,University of Basel
+2771,Kakao
+2772,SK Group
+2773,SK Telecom
+2774,Istituto Nazionale Astrofisica (INAF)
+2775,Maynooth University
+2776,Universidad Miguel Hernandez de Elche
+2777,Bremen Institute for Applied Beam Technology
+2778,Saint Petersburg State Electrotechnical University
+2779,Saitama University
+2780,Gifu University
+2781,Shibaura Institute of Technology
+2782,Institute of Chemical Research of Catalonia
+2783,University of Bologna
+2784,Institute of Science & Technology - Austria
+2785,CINBIO
+2786,Ihsan Dogramaci Bilkent University
+2787,University of Valencia
+2788,Indian Institute of Science Education & Research (IISER) Pune
+2789,Eskisehir Osmangazi University
+2790,Eskisehir Technical University
+2791,Indian Institute of Technology (IIT) - Tirupati
+2792,Austrian Institute of Technology (AIT)
+2793,University of Udine
+2794,Korea Institute of Industrial Technology (KITECH)
+2795,University of Isfahan
+2796,University of Sevilla
+2797,Utrecht University
+2798,Sogang University
+2799,Universidade Estadual de Campinas
+2800,Universita Ca Foscari Venezia
+2801,
+2802,University of Arkansas Medical Sciences
+2803,Rhodes University
+2804,Agilent Technologies
+2805,Kafrelsheikh University
+2806,University of Iowa
+2807,Universitetet i Stavanger
+2808,Royal Marsden NHS Foundation Trust
+2809,Agriculture & Agri Food Canada
+2810,Catholic University of Korea
+2811,Universitat de Lleida
+2812,IRCCS Fondazione Pascale
+2813,University of Alabama Tuscaloosa
+2814,University of Lubeck
+2815,Guy's & St Thomas' NHS Foundation Trust
+2816,NIH National Library of Medicine (NLM)
+2817,Structural Genomics Consortium
+2818,University of Colombo
+2819,Cancer Council Queensland
+2820,G d'Annunzio University of Chieti-Pescara
+2821,European Commission Joint Research Centre
+2822,University of Urbino
+2823,Graz University of Technology
+2824,Johann Heinrich von Thunen Institute
+2825,Royal College of Surgeons - Ireland
+2826,CNRS - National Institute for Biology (INSB)
+2827,GlaxoSmithKline
+2828,University of Mississippi Medical Center
+2829,Flanders Institute for Biotechnology (VIB)
+2830,Chengdu Institute of Biology CAS
+2831,Institute of Genetics & Animal Biotechnology Polish Academy of Sciences
+2832,Fundacao Oswaldo Cruz
+2833,Umea University
+2834,Spaulding Rehabilitation Hospital
+2835,University of Nebraska Medical Center
+2836,National Institute of Genetics (NIG) - Japan
+2837,Sardar Patel University
+2838,University Nebraska Kearney
+2839,Cukurova University
+2840,Albany Medical College
+2841,US Food & Drug Administration (FDA)
+2842,Conservatoire National Arts & Metiers (CNAM)
+2843,Konkuk University
+2844,KK Women's & Children's Hospital
+2845,heSam Universite
+2846,Medical University of Innsbruck
+2847,Ahvaz Jundishapur University of Medical Sciences (AJUMS)
+2848,CNRS - Institute of Ecology & Environment (INEE)
+2849,Institut Pasteur Paris
+2850,St Georges University London
+2851,Walter Reed National Military Medical Center
+2852,University of Sarajevo
+2853,Universidad Costa Rica
+2854,Ecole Pratique des Hautes Etudes (EPHE)
+2855,Institut National du Cancer (INCA) France
+2856,Tokyo Women's Medical University
+2857,Royal Infirmary of Edinburgh
+2858,Sidra Medical & Research Center
+2859,Quadram Institute
+2860,Deutsches Primatenzentrum (DPZ)
+2861,State University of New York (SUNY) Upstate Medical Center
+2862,Fukushima Medical University
+2863,Inland Norway University of Applied Sciences
+2864,University of London Royal Veterinary College
+2865,Dokuz Eylul University
+2866,University of Ibadan
+2867,Universidad de la Republica Uruguay
+2868,Roche Holding
+2869,Institut National Polytechnique de Toulouse
+2870,University of Kansas Medical Center
+2871,Medical College of Wisconsin
+2872,Medivir
+2873,Ajinomoto Co Inc
+2874,Philipps University Marburg
+2875,NIH National Institute of Neurological Disorders & Stroke (NINDS)
+2876,UTMD Anderson Cancer Center
+2877,Autonomous University of Barcelona
+2878,L'Oreal Group
+2879,Yonsei University Health System
+2880,Glasgow Caledonian University
+2881,Helmholtz-Zentrum Geesthacht - Zentrum fur Material- und Kustenforschung
+2882,Nagoya City University
+2883,IRCCS Bambino Gesu
+2884,University of the Gambia
+2885,Korea University Medicine (KU Medicine)
+2886,NIH National Institute of Environmental Health Sciences (NIEHS)
+2887,Tanta University
+2888,Universita degli Studi di Bari Aldo Moro
+2889,Medical Research Council Clinical Trials Unit
+2890,Ifremer
+2891,Danderyds Hospital
+2892,University of Genoa
+2893,George Institute for Global Health
+2894,CSIC - Centro de Biologia Molecular Severo Ochoa (CBM)
+2895,Robert Koch Institute
+2896,Zurich University of Applied Sciences
+2897,Fondazione Bruno Kessler
+2898,American University
+2899,Medical University of Vienna
+2900,Battelle Memorial Institute
+2901,Jan Kochanowski University
+2902,Institute of Cancer Research - UK
+2903,Institute of Tropical Medicine (ITM)
+2904,Ollscoil na Gaillimhe-University of Galway
+2905,AgResearch - New Zealand
+2906,University of Murcia
+2907,Erasmus MC
+2908,CSIC-UMA - Instituto de Hortofruticultura Subtropical y Mediterranea La Mayora (IHSM)
+2909,EcoHealth Alliance
+2910,IDIBAPS
+2911,Dali University
+2912,Mackay Medical College
+2913,AstraZeneca
+2914,Institute of Human Genetics of the Polish Academy of Sciences
+2915,Institute Technology of Bandung
+2916,Vrije Universiteit Amsterdam
+2917,Museum National d'Histoire Naturelle (MNHN)
+2918,United States Department of the Interior
+2919,Providence Portland Medical Center
+2920,Public Health England
+2921,Harry Perkins Institute of Medical Research
+2922,University of Crete
+2923,University of Toledo Health Science Campus
+2924,Schepens Eye Research Institute
+2925,University Medical Center Hamburg-Eppendorf
+2926,Cedars Sinai Medical Center
+2927,Johnson & Johnson
+2928,Research Institute for Neurosciences & Medicine
+2929,Flinders University South Australia
+2930,Universite des Antilles
+2931,Radboud University Nijmegen
+2932,Kansai Medical University
+2933,Penn State Health
+2934,European University of Madrid
+2935,Colorado State University
+2936,Pontificia Universidade Catolica de Goias
+2937,Abdelmalek Essaadi University of Tetouan
+2938,United States Department of Agriculture (USDA)
+2939,Institute of Molecular Genetics of the Czech Academy of Sciences
+2940,Tarbiat Modares University
+2941,Novartis
+2942,Kolling Institute of Medical Research
+2943,CSIC - Centro Nacional de Biotecnologia (CNB)
+2944,Institut Universitaire Europeen de la Mer (IUEM)
+2945,University Children's Hospital Zurich
+2946,Kuwait University
+2947,University Cheikh Anta Diop Dakar
+2948,Henan University of Traditional Chinese Medicine
+2949,Universite d'Angers
+2950,Dana-Farber Cancer Institute
+2951,Universitas Pelita Harapan
+2952,Chugai Pharmaceutical Co. Ltd.
+2953,University of Ioannina
+2954,Skane University Hospital
+2955,Salk Institute
+2956,Medical University of Lublin
+2957,Scion
+2958,Carl von Ossietzky Universitat Oldenburg
+2959,Roehampton University
+2960,University of Limerick
+2961,Indraprastha Institute of Information Technology Delhi
+2962,Alberta Innovates
+2963,Luxembourg Institute of Health
+2964,Institute of Environmental Science & Research (ESR) - New Zealand
+2965,Otto von Guericke University
+2966,Luxembourg Institute of Science & Technology
+2967,Jikei University
+2968,Toronto General Hospital
+2969,Consiglio per la Ricerca in Agricoltura e L'analisi Dell'economia Agraria (CREA)
+2970,Children's Mercy Hospital
+2971,VU UNIVERSITY MEDICAL CENTER
+2972,Magna Graecia University of Catanzaro
+2973,University of Thessaly
+2974,Norwegian Institute Nature Research
+2975,Anglia Ruskin University
+2976,Aalborg University Hospital
+2977,Govind Ballabh Pant Institute of Postgraduate Medical Education & Research
+2978,Covenant University
+2979,Orion Corporation
+2980,Martin Luther University Halle Wittenberg
+2981,Flinders Medical Centre
+2982,Oregon Health & Science University
+2983,Medical University Silesia
+2984,International Medical University Malaysia
+2985,Institute of Hygiene & Tropical Medicine - UNL
+2986,University of Salford
+2987,University of Vienna
+2988,Mater Research
+2989,DePaul University
+2990,EC JRC ISPRA Site
+2991,European Molecular Biology Laboratory (EMBL)
+2992,Mansoura University
+2993,University of Colorado at Colorado Springs
+2994,Teikyo University
+2995,Ernst Moritz Arndt Universitat Greifswald
+2996,Leibniz Institut fur Pflanzengenetik und Kulturpflanzenforschung
+2997,Australian Catholic University
+2998,Alfaisal University
+2999,Akdeniz University
+3000,Fred Hutchinson Cancer Center
+3001,Menzies Health Institute Queensland
+3002,University of Rostock
+3003,Beatson Institute
+3004,Eberhard Karls University Hospital
+3005,United States Geological Survey
+3006,IRCCS Istituto Giannina Gaslini
+3007,Friedrich Loeffler Institute
+3008,University Health Network Toronto
+3009,Henry Ford Hospital
+3010,Instituto de Investigaciones Biologicas Clemente Estable Uruguay
+3011,University of Central Lancashire
+3012,UniLaSalle
+3013,Kansas State University
+3014,German Center for Neurodegenerative Diseases (DZNE)
+3015,Woolcock Institute of Medical Research
+3016,Johns Hopkins Bloomberg School of Public Health
+3017,Hospital Clinic de Barcelona
+3018,Henry Ford Health System
+3019,Fujita Health University
+3020,St Jude Children's Research Hospital
+3021,Universidade Estadual Paulista
+3022,VA Pittsburgh Healthcare System
+3023,National Institute of Infectious Diseases (NIID)
+3024,Manipal Academy of Higher Education (MAHE)
+3025,University of La Reunion
+3026,CHU de St Etienne
+3027,National Institute for Biological Standards & Control
+3028,University of Fort Hare
+3029,UHI Millennium Institute
+3030,Korea Research Institute of Bioscience & Biotechnology (KRIBB)
+3031,Ecole Nationale Veterinaire Agroalimentaire et de l'Alimentation Nantes-Atlantique
+3032,National Health Research Institutes - Taiwan
+3033,Institute of Organic Chemistry & Biochemistry of the Czech Academy of Sciences
+3034,Schleswig Holstein University Hospital
+3035,University of Jordan
+3036,Georgetown University
+3037,Iran University of Medical Sciences
+3038,Meisei University
+3039,Marine Design & Research Institute of China (MARIC)
+3040,Egerton University
+3041,Harbin Vocational & Technical College
+3042,Heilongjiang Institute of Technology
+3043,Islamic University of Al Madinah
+3044,Harbin University
+3045,Tibet University
+3046,Jiujiang Vocational & Technical College
+3047,Universite de M'sila
+3048,Western New England University
+3049,Van Lang University
+3050,Heihe University
+3051,Anshan Normal University
+3052,Harbin Finance University
+3053,Peter the Great St. Petersburg Polytechnic University
+3054,Heilongjiang University of Technology
+3055,Laoshan Laboratory
+3056,Suihua University
+3057,China Railway Construction Corporation
+3058,Dalian Naval Academy
+3059,Jomo Kenyatta University of Agriculture & Technology
+3060,Ministry of Justice - Egypt
+3061,Heilongjiang Bayi Agricultural University
+3062,China Animal Health & Epidemiology Center
+3063,University of Engineering & Technology Peshawar
+3064,AGH University of Krakow
+3065,Cape Breton University
+3066,University of Detroit Mercy
+3067,Komsomolsk-na-Amure State University
+3068,Stavropol State Agrarian University
+3069,Jinling Institute of Technology
+3070,Asia Eastern University of Science & Technology
+3071,Heilongjiang University of Chinese Medicine
+3072,Asian Institute of Technology
+3073,POWERCHINA Huadong Engineering Corporation Limited
+3074,University of Bradford
+3075,Beijing Language & Culture University
+3076,Peoples Friendship University of Russia
+3077,Beibu Gulf University
+3078,Dartmouth College
+3079,Harbin Sport University
+3080,Royal Military College - Canada
+3081,Northwest Minzu University
+3082,Ansteel Group
+3083,Chittagong University of Engineering & Technology (CUET)
+3084,National Ocean Technology Center (NOTC)
+3085,Institute of High Temperature Electrochemistry
+3086,Valahia University of Targoviste
+3087,Longdong University
+3088,Wenzhou Polytechnic
+3089,Vietnam National University of Agriculture (VNUA)
+3090,Saudi Basic Industries Corporation (SABIC)
+3091,Oakland University
+3092,Jilin University of Finance & Economics
+3093,Guizhou University of Finance & Economics
+3094,Bangor University
+3095,Huaibei Normal University
+3096,Universite Ferhat Abbas Setif
+3097,Qiqihar Medical University
+3098,Universita Mediterranea di Reggio Calabria
+3099,Hengyang Normal University
+3100,Hunan Institute of Technology
+3101,Belarusian State University of Informatics & Radioelectronics
+3102,Heilongjiang Academy of Agricultural Sciences
+3103,Guangzhou Maritime University
+3104,Instituto Superior Tecnico
+3105,Kharkiv National University of Radio Electronics
+3106,LingNan Normal University
+3107,Istituto Nazionale per Studi ed Esperienze di Architettura Navale (INSEAN-CNR)
+3108,Istituto di Ingegneria del Mare (INM-CNR)
+3109,Indian Institute of Technology (IIT) - Bhubaneswar
+3110,Institute of Deep-Sea Science & Engineering CAS
+3111,Wright State University Dayton
+3112,China General Nuclear Power Group
+3113,Vietnam National University Hanoi
+3114,South Ukrainian National Pedagogical University Named After K. D. Ushynsky
+3115,Institute of Oceanology CAS
+3116,University of Namibia
+3117,Oles Honchar Dnipro National University
+3118,Indian Institute of Technology (IIT) - Delhi
+3119,NITEC University
+3120,University System Of New Hampshire
+3121,University of New Hampshire
+3122,Tianjin Research Institute for Water Transport Engineering
+3123,University of British Columbia Okanagan
+3124,Moscow Aviation Institute
+3125,SUNY Fredonia
+3126,National Institute of Technology Srinagar
+3127,Ilichev Pacific Oceanological Institute
+3128,SSPA Optics Optoelectronics & Laser Technology of the National Academy of Sciences of Belarus
+3129,Polytechnic University of Bucharest
+3130,Modern Sciences & Arts University (MSA)
+3131,Kermanshah University of Medical Sciences
+3132,National Penghu University of Science & Technology
+3133,Panzhihua University
+3134,Gree Electric
+3135,Airlangga University
+3136,Shandong Management University
+3137,Universidad de Cuenca
+3138,Centre de Recherche Scientifique et Technique en Analyses Physico-Chimiques
+3139,Tula State University
+3140,Tianjin University of Sport
+3141,Tianjin Foreign Studies University
+3142,Ningbo Polytechnic
+3143,Institute of Automation & Control Processes Far East Branch of the Russian Academy of Sciences
+3144,Liaoning Police College
+3145,Joint Institute for Nuclear Research - Russia
+3146,Pratt & Whitney
+3147,Raytheon Technologies
+3148,Jilin Business & Technology College
+3149,University of Tun Hussein Onn Malaysia
+3150,Korea Aerospace Research Institute (KARI)
+3151,Chongqing Vocational Institute of Engineering
+3152,Korea Institute of Materials Science (KIMS)
+3153,Zhejiang A&F University
+3154,China International Marine Containers
+3155,National University of Science & Technology (MISIS)
+3156,Royal Belgian Institute of Natural Sciences
+3157,Zhuzhou Times New Material Technology Co Ltd
+3158,Moscow State Technology University Stankin
+3159,Escuela Superior Politecnica del Litoral
+3160,Universidad Austral de Chile
+3161,Bashkir State Agrarian University
+3162,Vietnam Maritime University (VMU / VIMARU)
+3163,Chengdu Aircraft Industry Group (CAIG)
+3164,Chaoyang University of Technology
+3165,University of New England
+3166,Longyan University
+3167,National Optical Astronomy Observatory
+3168,University of Bayreuth
+3169,Lavrentyev Institute of Hydrodynamics
+3170,Korea Research Institute of Chemical Technology (KRICT)
+3171,Russian State Agrarian University - Moscow Timiryazev Agricultural Academy
+3172,Bangkok University
+3173,Nanning University
+3174,Saint Ambrose University
+3175,1 Decembrie 1918 University Alba Iulia
+3176,Defence Science & Technology
+3177,Ansys Inc.
+3178,Central Michigan University
+3179,Ufa University of Science & Technology
+3180,Universidade Federal de Itajuba
+3181,Sophia University
+3182,Caterpillar Inc
+3183,Perm Federal Research Center Ural Branch RAS
+3184,Institute of Technical Chemistry of the Ural Branch RAS
+3185,Kostroma State University
+3186,Moscow State University of Food Production
+3187,University of Zagreb
+3188,CSIC - Institut de Robotica i Informatica Industrial (IRII)
+3189,Kennesaw State University
+3190,Le Mans Universite
+3191,Nuclear Materials Authority (NMA)
+3192,Linnaeus University
+3193,Pacific Geographical Institute of the Far Eastern Branch of the Russian Academy of Sciences
+3194,Pukyong National University
+3195,Diponegoro University
+3196,University of Craiova
+3197,Kurdyumov Institute of Metal Physics
+3198,Institute of Mathematics of the Romanian Academy
+3199,CIC Energigune
+3200,Pennsylvania Medicine
+3201,Gakushuin University
+3202,Cardiff Metropolitan University
+3203,Chengdu Sport University
+3204,Voronezh State University
+3205,Najran University
+3206,NYU Langone Medical Center
+3207,Arid Agriculture University
+3208,Institute of Hydromechanics of the National Academy of Sciences Ukraine
+3209,Universidad Mayor
+3210,Technical University of Cluj Napoca
+3211,United Institute of Informatics Problems of the National Academy of Sciences of Belarus
+3212,National Institute for Economic Research Costin C. Kiritescu
+3213,Institute of Radio Astronomy of the National Academy of Sciences of Ukraine
+3214,National Marine Data & Information Service
+3215,Lovely Professional University
+3216,Arba Minch University
+3217,SRM University-AP
+3218,University of Pardubice
+3219,Institute of Microelectronics Technology & High-Purity Materials RAS
+3220,Chinese Academy of Surveying & Mapping
+3221,Tashkent State Technical University
+3222,Guizhou Normal University
+3223,University of Rzeszow
+3224,Lviv Polytechnic National University
+3225,Yuri Fedkovych Chernivtsi National University
+3226,Instituto de Telecomunicacoes
+3227,Oral Roberts University
+3228,NXP Semiconductors
+3229,Manchester Metropolitan University
+3230,Technological University Dublin
+3231,State Tax University
+3232,Ministry of Finance of Ukraine
+3233,Sangmyung University
+3234,Ariel University
+3235,MIREA - Russian Technological University
+3236,Arab Academy for Science Technology & Maritime Transport
+3237,Henan Police College
+3238,Institute of Monitoring of Climatic & Ecological Systems of the Siberian Branch of the RAS
+3239,National United University
+3240,Polar Research Institute of China
+3241,National Institute of Materials Physics - Romania
+3242,Dow Chemical Company
+3243,Central Queensland University
+3244,Okinawa Institute of Science & Technology Graduate University
+3245,University of Agder
+3246,Alexandria University
+3247,Instituto Potosino Investigacion Cientifica y Tecnologica
+3248,Universidad Autonoma de Ciudad Juarez
+3249,Oxford Brookes University
+3250,Khon Kaen University
+3251,Assam Don Bosco University
+3252,University of Indianapolis
+3253,Universite d'Oum El Bouaghi
+3254,Rajamangala University of Technology Suvarnabhumi
+3255,National Institute for Laser Plasma & Radiation Physics - Romania
+3256,Guangzhou Marine Geological Survey
+3257,China Geological Survey
+3258,A*STAR - Institute of Microelectronics (IME)
+3259,Hamdard University
+3260,Brandon University
+3261,South China Sea Institute of Oceanology CAS
+3262,Middle Technical University
+3263,Texas A&M University Kingsville
+3264,Central Economics & Mathematics Institute RAS
+3265,Livermore Software Technology Corporation
+3266,Guangzhou Sport University
+3267,Brigham Young University
+3268,Kanagawa University
+3269,Shahrood University of Technology
+3270,Universiti Teknologi Petronas
+3271,Thu Dau Mot University
+3272,Imam Jaa'far al-Sadiq University
+3273,Bucharest University of Economic Studies
+3274,Universite de Carthage
+3275,Universite de Picardie Jules Verne (UPJV)
+3276,GH Asachi Technical University
+3277,Long Island University-Brooklyn Campus
+3278,Birmingham City University
+3279,Cherkas Global University
+3280,Northern Arctic Federal University
+3281,Volgograd State University (VOLSU)
+3282,University of Northern British Columbia
+3283,Animal & Plant Health Agency UK
+3284,US Air Force Research Laboratory
+3285,FPT University
+3286,Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou)
+3287,Regenstrief Institute Inc
+3288,Xinjiang Institute of Technology
+3289,VOLCANI INSTITUTE OF AGRICULTURAL RESEARCH
+3290,Istituto per lo Studio degli Impatti Antropici Sostenibilita in Ambiente Marino (IAS-CNR)
+3291,NATO (North Atlantic Treaty Organisation)
+3292,Moscow State University of Education
+3293,Tianjin Agricultural University
+3294,University of Oviedo
+3295,Suqian University
+3296,Karaganda Economic University of Kazpotrebsoyuz
+3297,Sumy State University
+3298,Mongolian University of Life Sciences
+3299,Ministry of Nature Environment &Tourism Mongolia
+3300,University of Missouri Kansas City
+3301,Japan Atomic Energy Agency
+3302,Siberian Federal University
+3303,Zentrum fur Europaische Wirtschaftsforschung (ZEW)
+3304,Lobachevsky State University of Nizhni Novgorod
+3305,Homi Bhabha National Institute
+3306,Harish Chandra Research Institute
+3307,Equinor
+3308,Bangladesh University of Business & Technology (BUBT)
+3309,Horia Hulubei National Institute of Physics & Nuclear Engineering
+3310,VA Boston Healthcare System
+3311,Nyenrode Business University
+3312,Universiti Malaysia Sabah
+3313,Moscow Institute of Physics & Technology
+3314,Tecnologico de Monterrey
+3315,National Technical University of Athens
+3316,Gazprom
+3317,Finnish Meteorological Institute
+3318,Bruker Nano GmbH
+3319,Bruker Corporation
+3320,Universite de Tunis-El-Manar
+3321,Universite de Bejaia
+3322,Jeju National University
+3323,Zhaotong University
+3324,Dogus University
+3325,Ninevah University
+3326,Chuo University
+3327,Severtsov Institute of Ecology & Evolution
+3328,Saratov Scientific Center of the Russian Academy of Sciences
+3329,Le Quy Don Technical University
+3330,CSIR - Central Glass & Ceramic Research Institute (CGCRI)
+3331,Institute of State & Law of the Russian Academy of Sciences
+3332,Plekhanov Russian University of Economics
+3333,Islamic University Gaza
+3334,Institute of Technology Tralee
+3335,CSIC - Instituto de Ciencia & Tecnologia de Polimeros (ICTP)
+3336,St Petersburg Academic University
+3337,Delta University for Science & Technology
+3338,Changhong
+3339,Bar Ilan University
+3340,Rikkyo University
+3341,Tottori University
+3342,Gran Sasso Science Institute (GSSI)
+3343,Universidade de Ribeirao Preto
+3344,Obuda University
+3345,International Business Machines (IBM)
+3346,Daewoo Shipbuilding & Marine Engineering Co. Ltd
+3347,California State University Long Beach
+3348,National Institute of Science Education & Research (NISER)
+3349,MGIMO University
+3350,North-Eastern Federal University in Yakutsk
+3351,Southern Theater Command General Hospital
+3352,North Carolina A&T State University
+3353,Qingdao Institute of Marine Geology (QIMG)
+3354,James Cancer Hospital & Solove Research Institute
+3355,Gaya College
+3356,Kotelnikov Institute of Radioengineering & Electronics
+3357,Jilin Medical University
+3358,National Marine Environmental Forecasting Center
+3359,Universidad de Guanajuato
+3360,Universite de Savoie
+3361,Ajman University
+3362,Ned University of Engineering & Technology
+3363,Sichuan Provincial People's Hospital
+3364,Korea Research Institute of Ships & Ocean Engineering
+3365,La Salle University
+3366,Reykjavik University
+3367,University of Oradea
+3368,Universidade Federal Fluminense
+3369,Sardar Vallabhbhai National Institute of Technology
+3370,Maharaja Sayajirao University Baroda
+3371,Tallinn University of Technology
+3372,US Navy Naval Sea Systems Command
+3373,DNV
+3374,Jaguar Land Rover
+3375,Singapore Polytechnic
+3376,National Dong Hwa University
+3377,Sichuan Tourism University
+3378,Shenzhen Academy of Aerospace Technology
+3379,Stefan cel Mare University of Suceava
+3380,Changzhou Vocational Institute of Mechatronic Technology
+3381,Gannan Normal University
+3382,National Chung Hsing University
+3383,Datang Telecom Technology & Industry
+3384,Liaoning Institute of Science & Technology
+3385,ELI-HU Research & Development Non-Profit
+3386,China Life Insurance
+3387,Keele University
+3388,Xinzhou Teachers University
+3389,Yamagata University
+3390,Tokyo Medical & Dental University (TMDU)
+3391,Russian State Vocational Pedagogical University
+3392,Criminal Investigation Police University of China
+3393,China Iron & Steel Research Institute Group
+3394,Democritus University of Thrace
+3395,Abdus Salam International Centre for Theoretical Physics (ICTP)
+3396,Guilin Medical University
+3397,National Agriculture & Food Research Organization - Japan
+3398,ABB
+3399,Suzhou University
+3400,Irkutsk State University
+3401,National University of Mongolia
+3402,Chennai Mathematical Institute
+3403,ESSEC Business School
+3404,Shandong Sport University
+3405,Daqing Oilfield Company Limited
+3406,Shanghai University of Sport
+3407,Thammasat University
+3408,Dalian University of Foreign Languages
+3409,Hunan University of Arts & Science
+3410,GoerTek
+3411,Copenhagen Business School
+3412,Wuzhou University
+3413,Hansung University
+3414,Colorado College
+3415,International Islamic University Malaysia
+3416,WSB University
+3417,Universidad de Ciencias y Humanidades
+3418,H Lee Moffitt Cancer Center & Research Institute
+3419,Zhejiang International Studies University
+3420,K. N. Toosi University of Technology
+3421,Saint Francis Xavier University - Canada
+3422,ITER
+3423,Pakistan Space & Upper Atmosphere Research Commission (SUPARCO)
+3424,University of Catania
+3425,Jahangirnagar University
+3426,Jeonbuk National University
+3427,University of Basilicata
+3428,Tokyo City University
+3429,University of Bergen
+3430,William & Mary
+3431,Hebei Petroleum University of Technology
+3432,Ordnance Engineering College - China
+3433,University of Rijeka
+3434,Universidade Federal de Campina Grande
+3435,China Foreign Affairs University
+3436,Putian University
+3437,Kingston University
+3438,Zhongguancun Laboratory
+3439,Shenhua Group
+3440,Universite des Sciences et de la Technologie d'Oran Mohamed Boudiaf
+3441,Semnan University
+3442,Institute of Business Administration Karachi
+3443,Tokyo University of Agriculture & Technology
+3444,University of Defence - Czech Republic
+3445,Universitas Negeri Yogyakarta
+3446,Science Systems and Applications Inc
+3447,Samsung Electronics
+3448,Samsung Semiconductor (SSI)
+3449,Hochschule Angewandte Wissenschaft Hamburg
+3450,Institute of Medical Information - CAMS
+3451,The Methodist Hospital - Houston
+3452,The Methodist Hospital System
+3453,National Energy Technology Laboratory - USA
+3454,University of Washington Tacoma
+3455,Daido Steel Co Ltd
+3456,Universite Toulouse 1 Capitole
+3457,Institute of Acupuncture & Moxibustion CACMS
+3458,Montclair State University
+3459,Qingdao Municipal Hospital
+3460,Universidade Presbiteriana Mackenzie
+3461,Deltares
+3462,Instituto de Investigacion del Automovil (INSIA)
+3463,Air Force General Hospital PLA
+3464,Istituto per la Scienza Tecnologia dei Plasmi (ISTP-CNR)
+3465,California State Polytechnic University Pomona
+3466,ETS de Ingenieros Industriales
+3467,Kunming University
+3468,National Institute for Radiological Protection Chinese Center for Disease Control & Prevention
+3469,CSIC - UAM - Institut de Fisica Teorica (IFT)
+3470,Feed Research Institute CAAS
+3471,National Research & Innovation Agency of Indonesia (BRIN)
+3472,National Institute of Aeronautics & Space of Indonesia (LAPAN)
+3473,Kanto Gakuin University
+3474,Institute of Optics & Electronics CAS
+3475,Zhejiang Chinese Medical University
+3476,Collaborative Innovation Center for Diagnosis & Treatment of Infectious Diseases
+3477,Xuchang University
+3478,Oklahoma State University System
+3479,Oklahoma State University - Stillwater
+3480,Slippery Rock University - Pennsylvania
+3481,Ishlinsky Institute for Problems in Mechanics RAS
+3482,Chaudhary Charan Singh University
+3483,Catholic University of America
+3484,Jordan University of Science & Technology
+3485,FHNW University of Applied Sciences & Arts Northwestern Switzerland
+3486,Shenzhen Academy of Metrology & Quality Inspection
+3487,Shinshu University
+3488,Guangdong University of Science & Technology
+3489,Sandvik AB
+3490,University of Leoben
+3491,University North Carolina Hospital
+3492,Guizhou Minzu University
+3493,Universidade Federal de Sao Joao del-Rei
+3494,National Taiwan Ocean University
+3495,Moutai Institute
+3496,Widener University
+3497,Kashi University
+3498,Fu Jen Catholic University
+3499,Shanghai University of International Business & Economics
+3500,Hubei University of Science & Technology
+3501,Qihoo 360 Technology
+3502,PolyU Shenzhen Research Institute
+3503,Centro de Tecnologia Biomedica (CTB)
+3504,Faculte des Sciences de Tunis (FST)
+3505,University of Nicosia
+3506,Universidade Federal do Para
+3507,Universidade do Estado do Rio de Janeiro
+3508,Hengshui University
+3509,Singapore National Eye Center
+3510,Ningxia Medical University
+3511,Princeton Plasma Physics Laboratory
+3512,Shenyang Agricultural University
+3513,XLRI -Xavier School of Management
+3514,Vologda Research Center RAS
+3515,Xuzhou Medical University
+3516,SUNY Maritime College
+3517,UCL Institute of Education
+3518,Tokushima University
+3519,National Bureau of Economic Research
+3520,Beijing Youth Politics College
+3521,Vel Tech Rangarajan Dr Sagunthala R&D Institute of Science & Technology
+3522,General Motors
+3523,Roscosmos
+3524,Yuzuncu Yil University
+3525,University of Stirling
+3526,Bangladesh Agricultural University (BAU)
+3527,Reichman University
+3528,Huainan Normal University
+3529,Bu Ali Sina University
+3530,University Osnabruck
+3531,Marshall University
+3532,Chonnam National University
+3533,Prague University of Economics & Business
+3534,Tianjin Vocational Institute
+3535,Chengde Medical University
+3536,Kitasato University
+3537,Southwest Research Institute
+3538,Nari Group Corp
+3539,Anhui Xinhua University
+3540,University of Novi Sad
+3541,Jeonju University
+3542,Poznan University of Technology
+3543,University of Southern Queensland
+3544,Shanxi Institute of Energy
+3545,National Ilan University
+3546,University of Vaasa
+3547,Universite de Saida
+3548,Honeywell
+3549,University of Houston Clear Lake
+3550,California State University Dominguez Hills
+3551,CY Cergy Paris Universite
+3552,Jiangsu Vocational Institute of Commerce
+3553,Toulouse School of Economics
+3554,Kyungsung University
+3555,University Toronto Scarborough
+3556,Prince Mohammad Bin Fahd University
+3557,Indiana State University
+3558,Hofstra University
+3559,Guiyang University
+3560,Bogazici University
+3561,Medical University of South Carolina
+3562,Universidade Federal de Sao Paulo (UNIFESP)
+3563,Inner Mongolia Medical University
+3564,Inner Mongolia Normal University
+3565,Radford University
+3566,Mokwon University
+3567,Mongolian University of Science & Technology
+3568,Capital Institute of Pediatrics (CIP)
+3569,Universitas Sriwijaya
+3570,Bond University
+3571,Qilu Normal University
+3572,Benha University
+3573,Paton Electric Welding Institute of NASU
+3574,Southern Illinois University Edwardsville
+3575,National Time Service Center CAS
+3576,Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital
+3577,Escuela Superior de Administracion y Direccion de Empresas (ESADE)
+3578,Universitat Ramon Llull
+3579,Universidade Estadual de Maringa
+3580,HeFei GuoXuan High-Tech Power Energy Co Ltd
+3581,Siemens Germany
+3582,Srinakharinwirot University
+3583,Instituto de Microgravedad Ignacio Da Riva
+3584,Universidad de Leon
+3585,CanmetMATERIALS
+3586,Innovation Energy & Technology Sector - Natural Resources Canada
+3587,Natural Resources Canada
+3588,Solvay SA
+3589,Indian Statistical Institute Kolkata
+3590,Indian Statistical Institute
+3591,University of Michigan Dearborn
+3592,Minnesota State University Mankato
+3593,Minnesota State Colleges & Universities
+3594,Imam Khomeini International University
+3595,UCB Pharma SA
+3596,Observatoire de la Cote d'Azur
+3597,Universidade Federal do Piaui
+3598,China Construction Bank
+3599,King Mongkuts University of Technology Thonburi
+3600,Chongqing Institute of Engineering
+3601,Guangxi Normal University for Nationalities
+3602,Claremont Graduate School
+3603,Birkbeck University London
+3604,University of London School Oriental & African Studies (SOAS)
+3605,National Center for Chronic & Noncommunicable Disease Control & Prevention Chinese Center for Disease Control & Prevention
+3606,Institute of BioMedical Engineering - CAMS
+3607,Kaunas University of Technology
+3608,National Marine Environmental Monitoring Center
+3609,Universidad Nacional de Colombia
+3610,Bashkir State Medical University
+3611,Institut d'Etudes Politiques Paris (Sciences Po)
+3612,Samara Scientific Center of the Russian Academy of Sciences
+3613,University of Oklahoma Health Sciences Center
+3614,Grenoble Ecole Management
+3615,Guangzhou Institute of Geography Guangdong Academy of Sciences
+3616,Shougang Group
+3617,Nanjing Normal University of Special Education
+3618,GlobalFoundries
+3619,CSIC-UIB - Instituto de Fisica Interdisciplinar y Sistemas Complejos (IFISC)
+3620,National Astronomical Observatory of Japan (NAOJ)
+3621,Beijing Advanced Sciences & Innovation Center CAS
+3622,American University of Sharjah
+3623,Gansu University of Political Science & Law
+3624,Swiss Federal Institute of Aquatic Science & Technology (EAWAG)
+3625,National University of Political Studies & Public Administration
+3626,Changchun University of Chinese Medicine
+3627,Resources for the Future
+3628,Xiamen Tungsten Co Ltd
+3629,Beijing Institute of Genomics CAS
+3630,NASA Goddard Space Flight Center
+3631,California State University Fullerton
+3632,Infrastructure University Kuala Lumpur (IUKL)
+3633,Norwegian University of Life Sciences
+3634,Leibniz Institut fur Plasmaforschung und Technologie
+3635,South Eastern University of Sri Lanka
+3636,A*STAR - Singapore Bioimaging Consortium (SBIC)
+3637,A*STAR - Institute of Bioengineering & Bioimaging (IBB)
+3638,Plymouth Marine Laboratory
+3639,Natural Environment Research Council (NERC)
+3640,NERC National Centre for Earth Observation
+3641,University for Development Studies
+3642,Innovative Scientific Solutions Inc.
+3643,Plastic Surgery Hospital - CAMS
+3644,Yokohama City University
+3645,Institute of Eco-environmental & Soil Sciences Guangdong Academy of Sciences
+3646,David Geffen School of Medicine at UCLA
+3647,University of California Los Angeles Medical Center
+3648,Ain Shams University
+3649,October 6 University (O6U)
+3650,Telkom University
+3651,Universidade Federal do Espirito Santo
+3652,Lishui University
+3653,University of Montenegro
+3654,Leibniz Institut fur Tropospharenforschung (TROPOS)
+3655,University of Tehran
+3656,Toyota Motor Corporation
+3657,Ecole Nationale dIngenieurs de Sfax (ENIS)
+3658,University of Central Arkansas
+3659,Taibah University
+3660,Universidade Federal do Parana
+3661,Nosov Magnitogorsk State Technical University
+3662,Guangxi University of Finance & Economics
+3663,Rollins School Public Health
+3664,Okayama Prefectural University
+3665,NICTA
+3666,West University of Timisoara
+3667,Lublin University of Technology
+3668,Zhongkai University of Agriculture & Engineering
+3669,Intelligent Fusion Technology
+3670,Binzhou Polytechnic
+3671,University of Zielona Gora
+3672,National Center Atmospheric Research (NCAR) - USA
+3673,Meharry Medical College
+3674,Tohoku Gakuin University
+3675,Technical University of Crete
+3676,Universidad ICESI
+3677,Instituto de Astrofisica de Canarias
+3678,Universidad de la Laguna
+3679,New Mexico Institute of Mining Technology
+3680,Samsung Display
+3681,Vidyasirimedhi Institute of Science & Technology
+3682,Electricite de France (EDF)
+3683,Kermanshah University of Technology
+3684,Korea Aerospace University
+3685,CSIC - Instituto de Fisica Fundamental (IFF)
+3686,BMW AG
+3687,Ecole nationale superieure de chimie de Montpellier
+3688,Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI)
+3689,Jiangsu Academy of Agricultural Sciences
+3690,Department of Space (DoS) Government of India
+3691,Indian Space Research Organisation (ISRO)
+3692,Vikram Sarabhai Space Center (VSSC)
+3693,Al-Nahrain University
+3694,Institute of Soil & Water Conservation (ISWC) CAS
+3695,Zhejiang Cancer Hospital
+3696,Institute of Vertebrate Paleontology & Paleoanthropology CAS
+3697,Can Tho University
+3698,Qatar Environment & Energy Research Institute
+3699,Hamad Bin Khalifa University-Qatar
+3700,Leibniz Institut fur Katalyse e.V. an der Universitat Rostock (LIKAT)
+3701,Princess Margaret Cancer Centre
+3702,University of Maine System
+3703,University of Southern Maine
+3704,Neuroscience Research Australia
+3705,Universidade Fortaleza
+3706,Instituto Nacional de Telecomunicacoes (INATEL)
+3707,CSIC - Instituto de Fisica Corpuscular (IFIC)
+3708,Malek Ashtar University of Technology
+3709,Universite du Littoral-Cote-d'Opale
+3710,Indian Institute of Science Education & Research (IISER) - Mohali
+3711,University of Bonab
+3712,Finnish Geospatial Research Institute (FGI)
+3713,The National Land Survey of Finland
+3714,Universidad Santiago de Cali
+3715,Nigde Omer Halisdemir University
+3716,Total SA
+3717,CSIC - Instituto de Ciencias del Espacio (ICE)
+3718,Wroclaw University of Science & Technology
+3719,ST Engineering
+3720,Tennessee State University
+3721,Marine Biological Laboratory - Woods Hole
+3722,Hubei Normal University
+3723,Istituto Nazionale Geofisica e Vulcanologia (INGV)
+3724,Founder Group
+3725,Fondazione Mattei
+3726,Physical Research Laboratory - India
+3727,International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI)
+3728,A*STAR - Advanced Remanufacturing & Technology Centre (ARTC)
+3729,University of Kragujevac
+3730,Zhejiang Provincial People's Hospital
+3731,Culham Science Centre
+3732,Baotou Medical College
+3733,Deere & Company
+3734,Guangzhou Laboratory
+3735,Bioland Lab
+3736,Massachusetts Eye & Ear Infirmary
+3737,Paul Drude Institute for Solid State Electronics
+3738,Leibniz Institut fur Photonische Technologien
+3739,Misan University
+3740,Dalton State College
+3741,Australian Defense Force Academy
+3742,Kunming Institute of Zoology
+3743,Hans Knoll Institute (HKI)
+3744,Spotify
+3745,University of Tulsa
+3746,Institute of Physics - Polish Academy of Sciences
+3747,Changchun Automobile Industry Institute
+3748,Israel Electric
+3749,NewYork-Presbyterian Hospital
+3750,University of Salerno
+3751,Istituto di Bioimmagini e Fisiologia Molecolare (IBFM-CNR)
+3752,CINECA Italy
+3753,Accenture
+3754,National Office for Aerospace Studies & Research (ONERA)
+3755,University of Pecs
+3756,Belgian Nuclear Research Centre (SCK-CEN)
+3757,Institute of Basic Research In Clinical Medicine CACMS
+3758,Central Metallurgical Research & Development Institute (CMRDI)
+3759,Japan Fine Ceramics Center
+3760,Netaji Subhas University of Technology
+3761,Texas Instruments
+3762,University of Derby
+3763,ANZAC Research Institute
+3764,Universite d'Artois
+3765,Samara Federal Research Scientific Center
+3766,Bangladesh Rural Advancement Committee BRAC
+3767,Gdansk University of Technology
+3768,Netherlands National Institute for Public Health & the Environment
+3769,Moorfields Eye Hospital NHS Foundation Trust
+3770,Manhattan College
+3771,Xiamen Institute of Technology
+3772,European Organisation for the Exploitation of Meteorological Satellites
+3773,Weill Cornell Medicine
+3774,Xinjiang Agricultural University
+3775,Leuphana University Luneburg
+3776,IMT Nord Europe
+3777,Langston University
+3778,Defence University
+3779,National Taipei University of Business
+3780,National College of Ireland
+3781,Karunya Institute of Technology & Sciences
+3782,Yildiz Technical University
+3783,NERC National Centre for Atmospheric Science
+3784,Universite Paris 13
+3785,Swinburne University of Technology Sarawak
+3786,Dorodnitsyn Computing Centre RAS
+3787,Federal Research Center Computer Science & Control of RAS
+3788,Louisiana State University School of Veterinary Medicine
+3789,ASML Holding
+3790,Centro Nacional de Investigaciones Metalurgicas (CENIM)
+3791,Gusu Laboratory
+3792,Newton Wellesley Hospital
+3793,Institute of Semiconductors Guangdong Academy of Sciences
+3794,Russian Quantum Center
+3795,CIBER - Centro de Investigacion Biomedica en Red
+3796,CIBERBBN
+3797,University of Waikato
+3798,The World Bank
+3799,University of Navarra
+3800,Justus Liebig University Giessen
+3801,West Pomeranian University of Technology
+3802,Mansfield University - Pennsylvania
+3803,Canterbury Christ Church University
+3804,Wuyi University Fujian
+3805,Universite Le Havre Normandie
+3806,Jacksonville University
+3807,National Research Institute of Astronomy & Geophysics - NRIAG
+3808,Presidency University Kolkata
+3809,Rio Tinto
+3810,Silesian University of Technology
+3811,Universidade Federal de Uberlandia
+3812,Institute of Macromolecular Compounds of the Russian Academy of Sciences
+3813,American University of Beirut
+3814,University of Deusto
+3815,Pfizer
+3816,SOLEIL Synchrotron
+3817,Lamar University
+3818,Texas State University System
+3819,Indian Institute of Technology (IIT) - Palakkad
+3820,Institute of Desertification Studies CAF
+3821,Cihan University-Erbil
+3822,The Third People's Hospital of Shenzhen
+3823,University of Batna 2
+3824,Universite Mohamed Khider Biskra
+3825,Technical University Liberec
+3826,Istituto di Matematica Applicata e Tecnologie Informatiche Enrico Magenes (IMATI-CNR)
+3827,University of Sassari
+3828,Universidade Federal de Amazonas
+3829,Great Ormond Street Hospital for Children NHS Foundation Trust
+3830,University of Southern Mississippi
+3831,Shandong University of Traditional Chinese Medicine
+3832,Institute of Ion-Plasma & Laser Technologies Named After U.A. Arifov
+3833,Academy of Sciences of Uzbekistan
+3834,University of Calcutta
+3835,Indian Institute of Geomagnetism (IIG)
+3836,Prince of Wales Hospital
+3837,Cambridge University Hospitals NHS Foundation Trust
+3838,Addenbrooke's Hospital
+3839,Hefei Normal University
+3840,IMT Mines Albi
+3841,Multimedia University
+3842,Fukuoka University
+3843,Johns Hopkins University Applied Physics Laboratory
+3844,Smithsonian Institution
+3845,Smithsonian Tropical Research Institute
+3846,American University of Ras Al Khaimah
+3847,Geisinger Medical Center
+3848,Macalester College
+3849,Bocconi University
+3850,Governors State University
+3851,Vitreous Retina Macula Consultants of New York
+3852,Augusta University
+3853,Dong A University
+3854,Korea Institute of Energy Research (KIER)
+3855,University of Science & Technology (UST)
+3856,Hungarian Research Centre for Astronomy & Earth Sciences
+3857,Pasteur Institute of Iran
+3858,Mimar Sinan Guzel Sanatlar University
+3859,Royal Holloway University London
+3860,Yahoo! Inc
+3861,Yahoo! Inc United States
+3862,Saratov State University
+3863,Szeged University
+3864,Institute of Information Theory & Automation of the Czech Academy of Sciences
+3865,Wellesley College
+3866,Hangzhou Medical College
+3867,College of Staten Island (CUNY)
+3868,University of Western Macedonia
+3869,Saha Institute of Nuclear Physics
+3870,Kirensky Institute of Physics
+3871,Krasnoyarsk Science Center of the Siberian Branch of the Russian Academy of Sciences
+3872,Delphi
+3873,Toyohashi University of Technology
+3874,European XFEL
+3875,Indian Institute of Technology (IIT) - Ropar
+3876,Leibniz Institut fur Polymerforschung Dresden
+3877,University of Khartoum
+3878,Shahid Chamran University of Ahvaz
+3879,University of Southern California Keck Hospital
+3880,Universitat Kassel
+3881,Bialystok University of Technology
+3882,Hechi University
+3883,Persian Gulf University
+3884,Universidade da Coruna
+3885,Bascom Palmer Eye Institute
+3886,Institute of Plasma Physics of the Czech Academy of Sciences
+3887,Universidad del Norte Colombia
+3888,Institut de Recerca en Energia de Catalunya (IREC)
+3889,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
+3890,Idaho National Laboratory
+3891,University of Nis
+3892,Serbian Academy of Sciences & Arts
+3893,Hunan Institute of Engineering
+3894,Yellow Sea Fisheries Research Institute CAFS
+3895,Gas Institute of the National Academy of Sciences of Ukraine
+3896,Institute of Animal Science CAAS
+3897,University of the Western Cape
+3898,iThemba LABS
+3899,University of Zululand
+3900,National Research Foundation - South Africa
+3901,Shenzhen International Institute for Biomedical Research
+3902,Politecnico di Bari
+3903,New York Blood Center
+3904,Institute of Space & Astronautical Science (ISAS)
+3905,University of Ferrara
+3906,Africa Health Research Institute
+3907,Space Research Institute of the Russian Academy of Sciences
+3908,Institut Superieur de l'Aeronautique et de l'Espace (ISAE-SUPAERO)
+3909,NASA Ames Research Center
+3910,Fisheries & Oceans Canada
+3911,Malmo University
+3912,IMDEA Energy
+3913,Kasetsart University
+3914,Hopital Universitaire Avicenne - APHP
+3915,Hopital Universitaire Paul-Brousse - APHP
+3916,Assistance Publique Hopitaux Paris (APHP)
+3917,Hopital Universitaire Hotel-Dieu - APHP
+3918,California Polytechnic State University San Luis Obispo
+3919,Central Arkansas Veterans Healthcare System
+3920,Kirby Institute
+3921,Istituto per lo Studio degli Ecosistemi (ISE-CNR)
+3922,Hashemite University
+3923,Princess Sumaya University for Technology
+3924,Al-Hussein Bin Talal University
+3925,Korea Electrotechnology Research Institute (KERI)
+3926,Korea Atomic Energy Research Institute (KAERI)
+3927,Universite de Toulouse - Jean Jaures
+3928,Institute of Laboratory Animal Science - CAMS
+3929,Sefako Makgatho Health Sciences University
+3930,Toho University
+3931,University of the Pacific
+3932,Uzhgorod National University
+3933,Comenius University Bratislava
+3934,CSIR - National Physical Laboratory (NPL)
+3935,Shanghai Academy of Social Sciences
+3936,Guangdong Laboratory for Lingnan Modern Agriculture
+3937,Agriculture Genomes Institute at Shenzhen CAAS
+3938,Deen Dayal Upadhyaya Gorakhpur University
+3939,Plovdiv University
+3940,Northern Technical University
+3941,Southern Technical University
+3942,South China Botanical Garden CAS
+3943,Hisense
+3944,Italian National Agency New Technical Energy & Sustainable Economics Development
+3945,Gansu Agricultural University
+3946,Singulus Technologies
+3947,University of South Bohemia Ceske Budejovice
+3948,Telecom Italia
+3949,Parthenope University Naples
+3950,Maine Medical Center
+3951,Universidad de Alcala
+3952,University Zurich Hospital
+3953,Defence Metallurgical Research Laboratory (DMRL)
+3954,Defence Research & Development Organisation (DRDO)
+3955,Indian Institute of Technology (IIT) - Indore
+3956,University of Verona
+3957,Rochester Institute of Technology
+3958,Stanford Cancer Institute
+3959,German Center for Infection Research
+3960,SCIEX
+3961,Gunma University
+3962,VIT-AP University
+3963,University of North Carolina Greensboro
+3964,Istanbul University
+3965,Asia Pacific Center for Theoretical Physics
+3966,A*STAR - Institute of Sustainability for Chemicals Energy & Environment (ISCE2)
+3967,Norwegian Institute of Public Health (NIPH)
+3968,Jinhua Polytechnic
+3969,Shanghai Institute of Nutrition & Health CAS
+3970,University of Basrah
+3971,Fermi National Accelerator Laboratory
+3972,Jesse Brown VA Medical Center
+3973,Gubkin Russian State University of Oil & Gas
+3974,Universidade Federal de Ouro Preto
+3975,University Hohenheim
+3976,IU Kelley School of Business
+3977,California State University East Bay
+3978,Guizhou Medical University
+3979,National Cancer Centre Singapore (NCCS)
+3980,National Satellite Ocean Application Service
+3981,Jackson State University
+3982,Valparaiso University
+3983,Airbus
+3984,fortiss
+3985,Istituto dei Sistemi Complessi (ISC-CNR)
+3986,Heart Research Institute
+3987,Asahi Kasei Corporation
+3988,Lafayette College
+3989,University of Puerto Rico Humacao
+3990,James A. Haley Veterans Hospital
+3991,Azienda Ospedaliera Universitaria Integrata Verona
+3992,Shahid Beheshti University
+3993,Catholic University of Daegu
+3994,Irkutsk Science Centre of the Russian Academy of Sciences
+3995,Banaras Hindu University (BHU)
+3996,Institute of Solar-Terrestrial Physics of the Siberian Branch of the Russian Academy of Sciences
+3997,Pulkovo Observatory
+3998,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi)
+3999,Connecticut State University System
+4000,Southern Connecticut State University
+4001,Institute of Biological & Medical Engineering Guangdong Academy of Sciences
+4002,Ecole Normale Superieure de Lyon (ENS de LYON)
+4003,National Institute for Nutrition & Health Chinese Center for Disease Control & Prevention
+4004,Universidad de los Andes (Colombia)
+4005,National Ageing Research Institute
+4006,Main Astronomical Observatory of NASU
+4007,General Atomics & Affiliated Companies
+4008,Almaarefa University
+4009,Oxford University Hospitals NHS Foundation Trust
+4010,Central Taiwan University Science & Technology
+4011,Agenzia Spaziale Italiana (ASI)
+4012,Mendel University in Brno
+4013,National Metrology Institute of South Africa (NMISA)
+4014,Forestry & Forest Products Research Institute - Japan
+4015,Mashhad University Medical Science
+4016,Zahedan University of Medical Sciences
+4017,Shahid Beheshti University Medical Sciences
+4018,Aksaray University
+4019,University of Wroclaw
+4020,National Acoustic Laboratories
+4021,Istituto Nazionale di Ricerca Metrologica (INRIM)
+4022,Mines Saint-Etienne
+4023,BIBA - Bremer Institut fur Produktion & Logistik
+4024,Murdoch Children's Research Institute
+4025,Pacific University
+4026,National Institute of Parasitic Diseases Chinese Center for Disease Control & Prevention
+4027,Seoul National University Hospital
+4028,Kwansei Gakuin University
+4029,CSIC - Instituto de Diagnostico Ambiental y Estudios del Agua (IDAEA)
+4030,Osaka Electro-Communication University
+4031,Walter Sisulu University
+4032,Institute of Physics of the National Academy of Sciences of Ukraine
+4033,G.S. Pisarenko Institute for Problems of Strength National Academy of Sciences of Ukraine
+4034,NERC British Antarctic Survey
+4035,Berlin Institute of Health
+4036,Instituto Nacional de Astrofisica Optica y Electronica
+4037,CINVESTAV - Centro de Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional
+4038,Centre de Visio per Computador (CVC)
+4039,National Oceanic Atmospheric Admin (NOAA) - USA
+4040,Faculdade de Medicina do ABC
+4041,Universidade Federal do Estado do Rio de Janeiro
+4042,Humanitas University
+4043,Centre for Eye Research Australia
+4044,Royal Victorian Eye & Ear Hospital
+4045,Hospital Duran i Reynals
+4046,Institut d'Investigacio Biomedica de Bellvitge (IDIBELL)
+4047,Bellvitge University Hospital
+4048,Centro de Medicina Regenerativa de Barcelona
+4049,Fukuoka Institute of Technology
+4050,Catalan Institute of Nanoscience & Nanotechnology (ICN2)
+4051,IRCCS Humanitas Research Hospital
+4052,Royal Liverpool & Broadgreen University Hospitals NHS Trust
+4053,Royal Liverpool University Hospital
+4054,Higher Colleges of Technology - United Arab Emirates
+4055,Icahn School of Medicine at Mount Sinai
+4056,VA Palo Alto Health Care System
+4057,Institut Curie
+4058,National Centre for Nuclear Research
+4059,Comision Nacional de Energia Atomica (CNEA)
+4060,Hungarian Institute for Nuclear Research
+4061,Shandong Agriculture & Engineering University
+4062,SAS Institute Inc
+4063,Nuclear Physics Institute of the Czech Academy of Sciences
+4064,Universidad de Huelva
+4065,Universita Kore di ENNA
+4066,Harbin Institute of Technology Graduate School at Shenzhen
+4067,STMicroelectronics
+4068,University of Insubria
+4069,Shenyang Pharmaceutical University
+4070,University College of Southeast Norway
+4071,Andhra University
+4072,Zhejiang Shuren University
+4073,Ganpat University
+4074,Southern Cross University
+4075,Bangalore University
+4076,TU Clausthal
+4077,Mitchell Hamline School of Law
+4078,Isfahan University of Technology
+4079,Drake University
+4080,University of Prince Edward Island
+4081,Nepal Academy of Science & Technology (NAST)
+4082,Universite Abbes Laghrour Khenchela
+4083,University of Moncton
+4084,Shenyang Institute of Engineering
+4085,Yunnan University of Chinese Medicine
+4086,Southwest University of Political Science & Law - China
+4087,Shanghai Customs College
+4088,Taichung Veterans General Hospital
+4089,Universidad de Cordoba
+4090,IHE Delft Institute for Water Education
+4091,Jiangxi University of Traditional Chinese Medicine
+4092,University of Abomey Calavi
+4093,Physikalisch-Technische Bundesanstalt (PTB)
+4094,Texas Womans University
+4095,Guilin Tourism University
+4096,Belgorod State Technological University
+4097,Shenzhen Stock Exchange (SZSE)
+4098,Huangshan University
+4099,Universidad de Concepcion
+4100,Copperbelt University
+4101,University of Barishal
+4102,Deloitte Touche Tohmatsu Limited
+4103,Guangdong Polytechnic of Science & Technology
+4104,Mahatma Gandhi University Kerala
+4105,Western Norway University of Applied Sciences
+4106,Christ University
+4107,Norwegian Meteorological Institute
+4108,Kurukshetra University
+4109,Changchun Normal University
+4110,Environment & Climate Change Canada
+4111,Shenzhen Institute of Building Research Co Ltd
+4112,Tianjin Academy of Agricultural Sciences
+4113,Moscow Power Engineering Institute
+4114,Shenzhen Nanshan Center for Chronic Disease Control
+4115,Sokoine University of Agriculture
+4116,Tomsk State University of Control Systems & Radioelectronics
+4117,University of Erfurt
+4118,China BAK Battery
+4119,Zhejiang Yuexiu University
+4120,Chuzhou University
+4121,Basque Center for Applied Mathematics (BCAM)
+4122,Middle Tennessee State University
+4123,Polzunov Altai State Technical University
+4124,Chengdu Medical College
+4125,Jilin Agricultural University
+4126,Pacific Institute for Research & Evaluation (PIRE)
+4127,Sungkyul University
+4128,Hainan Tropical Ocean University
+4129,Norwegian Geotechnical Institute NGI
+4130,Polytechnic Institute of Viana do Castelo
+4131,Institute for Plasma Research (IPR)
+4132,Changzhou Vocational Institute of Engineering
+4133,Zhejiang University of Water Resources and Electric Power
+4134,African Development Bank Group (AfDB)
+4135,Baise University
+4136,Yangling Vocational & Technical College
+4137,Tonghua Normal University
+4138,Istituto per i Polimeri Compositi e Biomateriali (IPCB-CNR)
+4139,Heilongjiang River Fisheries Research Institute CAFS
+4140,B. Verkin Institute for Low Temperature Physics & Engineering of the National Academy of Sciences of Ukraine
+4141,Naval Aviation University - China
+4142,Sobolev Institute of Mathematics
+4143,Barbara Ann Karmanos Cancer Institute
+4144,N.N. Semenov Federal Research Centre for Chemical Physics Russian Academy of Sciences
+4145,Nicolaus Copernicus University
+4146,Universidade Federal de Santa Maria (UFSM)
+4147,Istituto di Chimica della Materia Condensata e di Tecnologie per l Energia (ICMATE-CNR)
+4148,Fujitsu Ltd
+4149,Fujitsu Laboratories Ltd
+4150,Steklov Mathematical Institute of the Russian Academy of Sciences
+4151,Manukau Institute of Technology
+4152,University of Arkansas Little Rock
+4153,Soft-Impact
+4154,AbbVie
+4155,Universite Amar Telidji de Laghouat
+4156,Peking University Shenzhen Graduate School
+4157,Suez Canal University
+4158,Damietta University
+4159,Addis Ababa University
+4160,Lanzhou Institute of Technology
+4161,Xinjiang Technical Institute of Physics & Chemistry CAS
+4162,Iwate University
+4163,Semiconductor Manufacturing International Corporation (SMIC)
+4164,Ahmadu Bello University
+4165,ETS de Ingenieria Sistemas de Telecomunicacion
+4166,Texas State University San Marcos
+4167,Engelhardt Institute of Molecular Biology RAS
+4168,Changchun University of Architecture & Civil Engineering
+4169,Baikov Institute of Metallurgy & Materials Science (IMET RAS)
+4170,Universidad de Cantabria
+4171,Donetsk Institute for Physics & Engineering named after O.O. Galkin of the National Academy of Sciences of Ukraine
+4172,Ukrainian State University of Chemical Engineering
+4173,Estonian Business School
+4174,Opple Lighting
+4175,Bright Dairy & Food Co Ltd
+4176,Mediatek Incorporated
+4177,Istituto per la Tecnologia delle Membrane (ITM-CNR)
+4178,Tribhuvan University
+4179,Institute of Hydrobiology CAS
+4180,Nesmeyanov Institute of Organoelement Compounds
+4181,China-Ukraine Institute of Welding Guangdong Academy of Sciences
+4182,University Science & Technology Houari Boumediene
+4183,University of Alaska Anchorage
+4184,Cold & Arid Regions Environmental & Engineering Research Institute CAS
+4185,Fujian Chuanzheng Communications College
+4186,Ningxia Polytechnic
+4187,Hong Kong Branch of the Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou)
+4188,University of Innsbruck
+4189,St. Petersburg Federal Research Center of the Russian Academy of Sciences
+4190,Danish Technological Institute
+4191,University of Ilorin
+4192,Durban University of Technology
+4193,University of Science & Technology of Bamako
+4194,Advanced Micro Devices
+4195,Nanjing University of the Arts
+4196,Shangrao Normal University
+4197,Universite Hassiba Ben Bouali de Chlef
+4198,Dagestan State University
+4199,Universite Saad Dahlab de Blida
+4200,University of Sanya
+4201,Shaanxi Xueqian Normal University
+4202,Micro Materials Limited
+4203,Athabasca University
+4204,Xianyang Normal University
+4205,Abo Akademi University
+4206,Shaanxi Polytechnic Institute
+4207,Ningxia Normal University
+4208,Xi'an University
+4209,Pandit Deendayal Energy University
+4210,Manipal University Jaipur
+4211,Xi'an International Studies University
+4212,University of Mannheim
+4213,Xian Fanyi University
+4214,University West - Sweden
+4215,Tokyo Metropolitan University
+4216,Bremen University of Applied Sciences
+4217,Daffodil International University
+4218,Shangluo University
+4219,Shaanxi University of Chinese Medicine
+4220,Lanzhou University of Finance & Economics
+4221,National Institute of Measurement & Testing Technology
+4222,Shaanxi Railway Institute
+4223,Medtronic
+4224,Bank of Communications
+4225,Illinois State University
+4226,University of Salamanca
+4227,University Brunei Darussalam
+4228,Hellenic Mediterranean University
+4229,Tongling University
+4230,Auckland University of Technology
+4231,SEGi University
+4232,Samara State Technical University
+4233,Dalian Ocean University
+4234,The People's Hospital of Longhua Shenzhen
+4235,Uber Technologies Inc.
+4236,Universidad Adolfo Ibanez
+4237,Chongqing Electric Power Corp
+4238,Eastern Michigan University
+4239,Institut Teknologi Sepuluh Nopember
+4240,Waikato Institute of Technology
+4241,South Dakota State University
+4242,Guangzhou Civil Aviation College
+4243,Bayero University
+4244,National Heart Centre Singapore
+4245,University of Evansville
+4246,Wannan Medical College
+4247,University of West Attica
+4248,Gansu University of Chinese Medicine
+4249,Xizang Minzu University
+4250,University of Texas Health Science Center at San Antonio
+4251,Xi'an Aeronautical Polytechnic Institute
+4252,Centre Internacional de Metodes Numerics en Enginyeria (CIMNE)
+4253,Konka
+4254,University of Camerino
+4255,The Institute of Materials Research SAS
+4256,Japan Steel Works Ltd.
+4257,Jazan University
+4258,Clayton State University
+4259,Delhi Technological University
+4260,University of Malakand
+4261,Istituto per lo Studio dei Materiali Nanostrutturati (ISMN-CNR)
+4262,Jiangsu Food & Pharmaceutical Science College
+4263,Xinyang Agriculture & Forestry University
+4264,Oklahoma State University Center for Health Sciences
+4265,National Engineering & Scientific Commission - Pakistan
+4266,Weierstrass Institute for Applied Analysis & Stochastics
+4267,Gyeongsang National University
+4268,Akita Prefectural University
+4269,Kazan National Research Technical University - KAI
+4270,Deutsches Institut Entwicklungspolitik (DIE)
+4271,Lodz University of Technology
+4272,Scania
+4273,Hangzhou Vocational & Technical College
+4274,I. K. Gujral Punjab Technical University
+4275,University of St Gallen
+4276,China XD Group
+4277,Sulaiman AlRajhi University
+4278,University of Babylon
+4279,Eastern Illinois University
+4280,Universitat Internacional de Catalunya (UIC)
+4281,Springfield College
+4282,LG Electronics
+4283,Medical University of Graz
+4284,Lanzhou University of Arts & Science
+4285,Punjab Medical College
+4286,Changsha Medical University
+4287,Institute of Infrastructure Technology Research & Management
+4288,Fujian Business University
+4289,National University Tainan
+4290,University of Bergamo
+4291,Al-Mustaqbal University College
+4292,Torrens University Australia
+4293,Saint John's University
+4294,SSN College of Engineering
+4295,Changzhou College of Information Technology
+4296,Interuniversity Microelectronics Centre
+4297,Hungarian Alfred Renyi Institute of Mathematics
+4298,University of Aegean
+4299,AC2T Research GmbH
+4300,Teerthanker Mahaveer University
+4301,Natural History Museum London
+4302,Harbor Branch Oceanographic Institute Foundation
+4303,Yamaguchi University
+4304,EMLYON Business School
+4305,Nanjing Vocational College of Information Technology
+4306,Razumovsky Saratov State Medical University
+4307,Yahoo! Japan Corporation
+4308,Gujarat Technological University
+4309,Ferris State University
+4310,Electric Power Research Institute (EPRI)
+4311,Gebze Technical University
+4312,Kochi University
+4313,University of Swat
+4314,Hunan First Normal University
+4315,Hassan II University of Casablanca
+4316,Islamic University College
+4317,Osaka Institute of Technology
+4318,Xi'an Physical Education University
+4319,University of Danang
+4320,Netflix Inc.
+4321,Sanjiang University
+4322,Novosibirsk State Pedagogical University
+4323,Sohag University
+4324,A*STAR - Data Storage Institute
+4325,Changping Laboratory
+4326,Industrial Technology Research Institute - Taiwan
+4327,Sun Moon University
+4328,Institute of Biotechnology of the Czech Academy of Sciences
+4329,Institute of Special Animal & Plant Sciences CAAS
+4330,Faculty of Sciences Sfax
+4331,Sichuan Engineering Technical College
+4332,Hanoi University of Industry (HaUI)
+4333,National Neuroscience Institute (NNI)
+4334,Cihan University Duhok
+4335,Istituto di Geoscienze e Georisorse (IGG-CNR)
+4336,Moulay Ismail University of Meknes
+4337,Wuhan Botanical Garden CAS
+4338,Wuhan Sports University
+4339,United Parcel Service
+4340,Singapore Centre for 3D Printing
+4341,Ecole des Ponts ParisTech
+4342,National Supercomputing Center in Shenzhen
+4343,Institute of Nuclear Physics - Polish Academy of Sciences
+4344,Guangxi Academy of Agricultural Sciences
+4345,Khazar University
+4346,Indian Institute of Technology (IIT) - Patna
+4347,Exponent
+4348,Institute of Scientific Instruments of the Czech Academy of Sciences
+4349,Vasyl Stefanyk Precarpathian National University
+4350,Solar Turbines Incorporated
+4351,Lanzhou Institute of Husbandry & Pharmaceutical Sciences CAAS
+4352,Russian Academy of Science Lebedev Physical Institute
+4353,Karpagam Academy of Higher Education (KAHE)
+4354,Odessa National Polytechnic University
+4355,Odesa National University of Technology
+4356,Myongji University
+4357,University of Winchester
+4358,Saint Petersburg State University of Civil Aviation
+4359,Indian Institute of Science Education & Research (IISER) - Bhopal
+4360,Polaris Applied Sciences Inc.
+4361,Henan Finance University
+4362,Central Institute of Aviation Motors
+4363,Institute of Combustion Problems
+4364,National Academy of Sciences of Georgia
+4365,General University Gregorio Maranon Hospital
+4366,Hodeidah University
+4367,General University Hospital Prague
+4368,Government Engineering College Dahod
+4369,Texas A&M Engineering Experimental Station
+4370,Institute of Organic Chemistry of the Polish Academy of Sciences
+4371,ABV-Indian Institute of Information Technology & Management Gwalior
+4372,Prairie View A&M University
+4373,Dukhov Research Institute of Automatics (VNIIA)
+4374,Jiaying University
+4375,Morgan State University
+4376,Ministry of Water Resources
+4377,Ankara University
+4378,Defence Research & Development Canada
+4379,IE University
+4380,Kanazawa University
+4381,S.S. Kutateladze Institute of Thermophysics Siberian Division of the Russian Academy of Sciences
+4382,Universidad de Guadalajara
+4383,Pontificia Universidad Catolica de Valparaiso
+4384,Univerity Malakand
+4385,University of Health Science - Pakistan
+4386,University of Thi-Qar
+4387,University of Tennessee at Chattanooga
+4388,Tongren University
+4389,Kharazmi University
+4390,Institute of Physics SAS
+4391,Hebei Sport University
+4392,Universiti Tenaga Nasional
+4393,Alexandru Ioan Cuza University
+4394,Madanapalle Institute of Technology & Science
+4395,Helmut Schmidt University
+4396,Wuhu Institute of Technology
+4397,CSIC - Instituto de Ciencia de Materiales de Barcelona (ICMAB)
+4398,University of Donja Gorica
+4399,Universidad de Las Palmas de Gran Canaria
+4400,Renault SA
+4401,Lahore University of Management Sciences
+4402,ESIEE Paris
+4403,Astrakhan State University
+4404,Universidade do Estado de Santa Catarina
+4405,Kocaeli University
+4406,Zewail City of Science & Technology
+4407,City of Hope
+4408,University of Bucharest
+4409,Yerevan State University
+4410,Klinikum Coburg
+4411,Universidade Federal Rural de Pernambuco (UFRPE)
+4412,Murata Manufacturing Co Ltd
+4413,Swerea Group
+4414,University of Zagreb Faculty of Mechanical Engineering & Naval Architecture
+4415,Scientific Research Company - Electron-Carat
+4416,Lam Research Corporation
+4417,Institute of Applied Physics of the Russian Academy of Sciences
+4418,Stamford Hospital
+4419,SHT Smart High Tech AB
+4420,AMOLF
+4421,Salzburg University
+4422,Christchurch Hospital New Zealand
+4423,National Research & Development Institute Textiles & Leather INCDTP
+4424,Cankaya University
+4425,Opole University of Technology
+4426,Vlerick Business School
+4427,Wilkes University
+4428,International Centre for Bamboo & Rattan
+4429,National Science Foundation (NSF)
+4430,NSF - Directorate for Mathematical & Physical Sciences (MPS)
+4431,NSF - Division of Mathematical Sciences (DMS)
+4432,Institute of Subtropical Agriculture CAS
+4433,University of Piraeus
+4434,Institute of Medicinal Biotechnology - CAMS
+4435,SciLifeLab
+4436,Institute of Statistical Mathematics (ISM) - Japan
+4437,Tunku Abdul Rahman University College (TAR UC)
+4438,NASA Langley Research Center
+4439,National Institute for Aerospace
+4440,Indian Institute of Engineering Science Technology Shibpur (IIEST)
+4441,Western University of Health Sciences
+4442,University Quebec Outaouais
+4443,Povolzhskiy State University of Telecommunications & Informatics
+4444,Universidad de Bogota Jorge Tadeo Lozano
+4445,Petroleum University of Technology
+4446,Robert H. Lurie Comprehensive Cancer Center
+4447,Ann & Robert H. Lurie Children's Hospital of Chicago
+4448,Janssen Pharmaceuticals
+4449,Kyonggi University
+4450,Universite Abdelhamid Ibn Badis de Mostaganem
+4451,Universidade Federal de Pelotas
+4452,Universidade Catolica de Pelotas
+4453,Vytautas Magnus University
+4454,Central European University
+4455,National Institute of Technology Silchar
+4456,Rush University
+4457,Jerzy Haber Institute of Catalysis & Surface Chemistry
+4458,California State University San Marcos
+4459,Savitribai Phule Pune University
+4460,St. Xavier's College Kolkata
+4461,Hoseo University
+4462,Changchun Observatory NAOC CAS
+4463,Finland National Institute for Health & Welfare
+4464,Biology Centre of the Czech Academy of Sciences
+4465,A*STAR - Institute of Bioengineering & Nanotechnology (IBN)
+4466,State University of New York (SUNY) Downstate Medical Center
+4467,Free University of Bozen-Bolzano
+4468,Universite Lyon 2
+4469,SNCF
+4470,Polytechnic University of Timisoara
+4471,Istituto di Elettronica e di Ingegneria dell'Informazione e delle Telecomunicazioni (IEIIT-CNR)
+4472,Institute of Radiation Medicine - CAMS
+4473,Jan Dlugosz University
+4474,Karpenko Physico-Mechanical Institute NAS of Ukraine
+4475,Ivan Franko National University Lviv
+4476,Korea Maritime & Ocean University
+4477,Shenyang Medical College
+4478,Hospital for Sick Children (SickKids)
+4479,Keck Graduate Institute
+4480,Geriatric Research Education & Clinical Center
+4481,Universidade Paulista
+4482,Niels Bohr Institute
+4483,CSIC - Centro de Astrobiologia (INTA)
+4484,Pirogov Russian National Research Medical University
+4485,Emanuel Institute of Biochemical Physics
+4486,Kunming Institute of Botany CAS
+4487,Beckman Research Institute of City of Hope
+4488,Daegu Gyeongbuk Institute of Science & Technology (DGIST)
+4489,China Center of Advanced Science & Technology (CCAST)
+4490,University of Tartu Institute of Physics
+4491,Universidad Michoacana de San Nicolas de Hidalgo
+4492,National University of Rosario
+4493,Nuclear Institute for Agriculture & Biology - Pakistan
+4494,Concord Repatriation General Hospital
+4495,Westmead Institute for Medical Research
+4496,International University of Business Agriculture & Technology (IUBAT)
+4497,Central University of Rajasthan (CURAJ)
+4498,Suan Dusit University
+4499,University of Chemistry & Technology Prague
+4500,University of Tampa
+4501,Foundation for Research & Technology - Hellas (FORTH)
+4502,Jiangsu Provincial Center for Disease Control & Prevention
+4503,Getulio Vargas Foundation
+4504,Bharathiar University
+4505,Taizhou University - Jiangsu
+4506,University of Guilan
+4507,Institute of Solid State Chemistry & Mechanochemistry Siberian Branch of the Russian Academy of Sciences
+4508,Yuri Gagarin State Technical University of Saratov
+4509,Ecole Nationale Superieure de Mecanique et d'Aerotechnique (ISAE-ENSMA)
+4510,Gartnavel Royal Hospital
+4511,Academy of Romanian Scientists (AOSR)
+4512,Istanbul University - Cerrahpasa
+4513,Institut de Planetologie et d'Astrophysique de Grenoble (IPAG)
+4514,Institute for High Energy Physics (IFAE)
+4515,National Centre for Infectious Diseases Singapore
+4516,Saint John Fisher University
+4517,Ajou University
+4518,National Institute of Chemical Physics & Biophysics (NICPB)
+4519,Maharaja Agrasen Institute of Technology
+4520,CSIR - National Institute Interdisciplinary Science & Technology (NIIST)
+4521,Gdansk University of Physical Education & Sport
+4522,Hope College
+4523,National Institute Research & Development Microtechnologies
+4524,Office for Supported Research Groups (ELKH)
+4525,University of Miskolc
+4526,University of Bisha
+4527,Mitsubishi Heavy Industries
+4528,Budker Institute of Nuclear Physics
+4529,Burapha University
+4530,National Science & Technology Development Agency - Thailand
+4531,National Nanotechnology Center (NANOTEC)
+4532,Gulbarga University
+4533,Children's Healthcare of Atlanta (CHOA)
+4534,A*STAR - Bioprocessing Technology Institute (BTI)
+4535,Universite de Toulon
+4536,Cape Peninsula University of Technology
+4537,Swedish University of Agricultural Sciences
+4538,International Institute of Information Technology Hyderabad
+4539,Al-Balqa Applied University
+4540,Comillas Pontifical University
+4541,Istituto per i Processi Chimico-Fisici (IPCF-CNR)
+4542,Agro-Environmental Protection Institute CAAS
+4543,Korea National University of Education
+4544,South China Sea Fisheries Research Institute CAFS
+4545,National Aerospace University Kharkiv Aviation Institute
+4546,Azarbaijan Shahid Madani University
+4547,Honda Motor Company
+4548,Pondicherry University
+4549,MathWorks
+4550,Instituto Mexicano del Seguro Social
+4551,Kenya Medical Research Institute
+4552,National Institute of Biology - Slovenia
+4553,Computing Center Far Eastern Branch of the Russian Academy of Sciences
+4554,South East Technological University (SETU)
+4555,Desert Research Institute NSHE
+4556,Centre for Research & Technology Hellas
+4557,Vereshchagin Institute of High Pressure Physics Russian Academy of Sciences
+4558,Gazprom Neft
+4559,Open University Israel
+4560,University of Technology Brunei
+4561,Universidade de Pernambuco (UPE)
+4562,Hankyong National University
+4563,Egypt-Japan University of Science & Technology
+4564,Instituto de Sistemas Optoelectronicos Microtecnologia (ISOM)
+4565,Samsung Medical Center
+4566,Institute of Technology & Life Sciences
+4567,Warsaw University of Life Sciences
+4568,Wesley Medical Research
+4569,Royal Brisbane & Women's Hospital
+4570,Wesley Hospital
+4571,National Institute of Technology Karnataka
+4572,Shiraz University of Technology
+4573,Universite de M'hammed Bougara Boumerdes
+4574,Zhejiang Provincial Center for Disease Control & Prevention
+4575,Arkansas State University
+4576,Montpellier SupAgro
+4577,Cork Institute of Technology
+4578,Orange SA
+4579,Carl Zeiss AG
+4580,Suez University
+4581,University of Los Andes Venezuela
+4582,UCLA Jonsson Comprehensive Cancer Center
+4583,Leibniz Institut fur Pflanzenbiochemie
+4584,Roslin Institute
+4585,Tibet Agriculture & Animal Husbandry University
+4586,HKBU Institute for Research & Continuing Education
+4587,Fayoum University
+4588,Institute of Space Science
+4589,University of Buenos Aires
+4590,Shahid Bahonar University of Kerman (SBUK)
+4591,Istituto di Analisi dei Sistemi ed Informatica Antonio Ruberti (IASI-CNR)
+4592,World Agroforestry (ICRAF)
+4593,Yunnan Academy of Agricultural Sciences
+4594,Hopital Universitaire Pitie-Salpetriere - APHP
+4595,Osram
+4596,Royal North Shore Hospital
+4597,University of Nova Gorica
+4598,China Institute of Sport Science
+4599,Universidad del Magdalena
+4600,Air Force Institute of Technology (AFIT)
+4601,Nissan Chemical Corporation
+4602,University of Pitesti
+4603,Universitas Katolik Widya Mandala Surabaya
+4604,University Central Missouri
+4605,El Colegio de la Frontera Sur (ECOSUR)
+4606,Denver Health Medical Center
+4607,Instituto de Ciencia de Materiales de Sevilla (ICMS-CSIC)
+4608,University of Malaysia Sarawak
+4609,Oil Crops Research Institute CAAS
+4610,Periyar University
+4611,Mohammed VI Polytechnic University
+4612,Centre of Molecular & Macromolecular Studies of the Polish Academy of Sciences
+4613,Cadi Ayyad University of Marrakech
+4614,Queens College NY (CUNY)
+4615,ESCP Business School
+4616,Hopital Universitaire Tenon - APHP
+4617,Rudjer Boskovic Institute
+4618,Nippon Telegraph & Telephone Corporation
+4619,Xinjiang Academy of Animal Sciences
+4620,VA North Texas Health Care System
+4621,University of Wuppertal
+4622,Yangtze River Fisheries Research Institute CAFS
+4623,National University of La Plata
+4624,Centre Hospitalier Universitaire Vaudois (CHUV)
+4625,Ordu University
+4626,Instituto de Salud Carlos III
+4627,CIBERNED
+4628,Motilal Nehru National Institute of Technology
+4629,Smithsonian National Zoological Park & Conservation Biology Institute
+4630,Leibniz Institut fur Evolutions und Biodiversitatsforschung
+4631,Buryat State University
+4632,Adyghe State University
+4633,Russian Presidential Academy of National Economy & Public Administration
+4634,Institute of Tibetan Plateau Research CAS
+4635,Canadian Institute for Advanced Research (CIFAR)
+4636,University of Wisconsin Green Bay
+4637,Smithsonian National Museum of Natural History
+4638,Helmholtz Center for Environmental Research (UFZ)
+4639,Institute for Agricultural Research Samaru Zaria
+4640,International Livestock Research Institute (ILRI)
+4641,Henan Academy of Agricultural Sciences
+4642,Anhui Academy of Agricultural Sciences
+4643,ASUSTek Computer
+4644,Ozyegin University
+4645,Istanbul Medipol University
+4646,Children's National Health System
+4647,Instituto Politecnico do Cavado e do Ave - IPCA
+4648,Ankang University
+4649,CSIC-UPF - Institut de Biologia Evolutiva (IBE)
+4650,Institut Catala de Paleontologia Miquel Crusafont (ICP)
+4651,Swedish Museum of Natural History
+4652,Pompeu Fabra University
+4653,Centre de Regulacio Genomica (CRG)
+4654,AIMST University
+4655,Shenzhen Eye Hospital
+4656,Zoological Society of San Diego
+4657,National Institute for Basic Biology (NIBB)
+4658,Indian Institute of Technology (IIT) - Dharwad
+4659,Bilecik Seyh Edebali University
+4660,Sakarya University
+4661,University of Peradeniya
+4662,Uva Wellassa University
+4663,Research Institute of Tropical Forestry CAF
+4664,Field Museum of Natural History (Chicago)
+4665,Tata Consultancy Services Limited (TCS)
+4666,Tata Sons
+4667,TOBB Ekonomi ve Teknoloji University
+4668,Boeing
+4669,Institute of Geography Russian Academy of Sciences
+4670,Institute of Plant & Animal Ecology of the Russian Academy of Sciences
+4671,University of Venda
+4672,South Australian Museum
+4673,Banner Sun Health Research Institute
+4674,Hopital Universitaire Saint-Antoine - APHP
+4675,Stavanger University Hospital
+4676,Haukeland University Hospital
+4677,Hopital Universitaire Saint-Louis - APHP
+4678,Gustave Roussy
+4679,Indian Institute of Technology (IIT) - Hyderabad
+4680,National Institute of Technology Tiruchirappalli
+4681,Pontificia Universidad Catolica del Ecuador
+4682,University of Puerto Rico Rio Piedras
+4683,Alliance
+4684,University of the Philippines Diliman
+4685,International Center for Tropical Agriculture - CIAT
+4686,Smithsonian Environmental Research Center
+4687,Far Eastern University
+4688,University of the Philippines Los Banos
+4689,University of Montana
+4690,University of the Philippines Open University
+4691,University of the Philippines System
+4692,Institute Penyelidikan Perhutanan Malaysia
+4693,University of Montana System
+4694,Space Applications Centre (SAC)
+4695,Swiss Federal Institute for Forest Snow & Landscape Research
+4696,United States Forest Service
+4697,University of Jos
+4698,National Chiayi University
+4699,Cleveland Clinic Foundation
+4700,Lifespan Health Rhode Island
+4701,Sunnybrook Health Science Center
+4702,Butler Hospital Rhode Island
+4703,Johnson & Johnson USA
+4704,Wake Forest University School of Medicine
+4705,Hartford Hospital
+4706,Rhode Island Hospital
+4707,Sunnybrook Research Institute
+4708,Alzheimer's Association
+4709,Woods Hole Oceanographic Institution
+4710,Leibniz Institut fur Zoo und Wildtierforschung
+4711,Nova Southeastern University
+4712,Kazusa DNA Research Institute
+4713,University of Massachusetts Worcester
+4714,Earlham Institute
+4715,Australian Museum
+4716,Korea Polar Research Institute (KOPRI)
+4717,Broad Institute
+4718,Royal Botanic Gardens Kew
+4719,Wellcome Trust Sanger Institute
+4720,Rockefeller University
+4721,Colby College
+4722,Suzhou City University
+4723,Yaroslav the Wise Novgorod State University
+4724,Leibniz Institut fur Oberflachenmodifizierung (IOM)
+4725,Zhejiang Academy of Medical Sciences
+4726,Jiangsu Second Normal University
+4727,Guangzhou Academy of Fine Arts
+4728,Erzincan Binali Yildirim University
+4729,Lincoln University - New Zealand
+4730,Monmouth University
+4731,Jiangsu Police Institute
+4732,Wuhan Business University
+4733,Universitat Trier
+4734,Institute of Technical Acoustics of the National Academy of Sciences of Belarus
+4735,Institute of Chemical Industry of Forest Products CAF
+4736,NSF - Directorate for Computer & Information Science & Engineering (CISE)
+4737,Gomel State Medical University
+4738,Institute of Chemical Engineering Guangdong Academy of Sciences
+4739,University of Graz
+4740,Medical University Sofia
+4741,Coppin State University
+4742,Youngstown State University
+4743,Universite de Gabes
+4744,Nanjing Institute of Agricultural Mechanization CAAS
+4745,Nanjing Institute of Geography & Limnology CAS
+4746,Brooklyn College (CUNY)
+4747,Trina Solar
+4748,University of Chittagong
+4749,Chaohu University
+4750,Universiti Tunku Abdul Rahman (UTAR)
+4751,Kumoh National University Technology
+4752,CompuTherm LLC
+4753,Scientific & Technological Center of Unique Instrumentation of the Russian Academy of Sciences
+4754,Bank of Montreal
+4755,University of Arkansas Fort Smith
+4756,British Columbia Institute of Technology
+4757,Lite-On Technology Corp
+4758,Monmouth College
+4759,Air Liquide
+4760,Wuhan Donghu University
+4761,Gandhigram Rural Institute
+4762,University of Public Service
+4763,Technical University Zvolen
+4764,Dolby Laboratories Inc.
+4765,Anhui University of Chinese Medicine
+4766,Nanjing General Hospital
+4767,Rutgers State University Medical Center
+4768,Charles Sturt University
+4769,Future University Hakodate
+4770,Nanjing Sport Institute
+4771,Universite de Jijel
+4772,Oslo Metropolitan University (OsloMet)
+4773,Rizhao Polytechnic
+4774,UOC Universitat Oberta de Catalunya
+4775,Nanyang Polytechnic
+4776,Kunming General Hospital
+4777,Loma Linda University
+4778,LNM Institute of Information Technology
+4779,Laurentian University
+4780,Saab Group
+4781,Max Born Institute for Nonlinear Optics & Short Term Spectroscopy
+4782,SUNY New Paltz
+4783,Slovak University of Technology Bratislava
+4784,National Institute of Technology Rourkela
+4785,National Wildlife Research Centre - Canada
+4786,Canadian Wildlife Service
+4787,Kazan National Research Technological University
+4788,Avinashilingam University for Women
+4789,Hochschule Offenburg
+4790,Harvey Mudd College
+4791,Kurnakov Institute of General & Inorganic Chemistry of the Russian Academy of Sciences
+4792,Keldysh Institute of Applied Mathematics
+4793,Rosalind Franklin University Medical & Science
+4794,Chicago Medical School
+4795,Centre de Recherche Paul Pascal
+4796,Ailamazyan Program Systems Institute of RAS
+4797,Okazaki Institute for Integrative Bioscience (OIIB)
+4798,V.A. Trapeznikov Institute of Control Sciences Russian Academy of Sciences
+4799,Childrens Hospital of Philadelphia
+4800,Ermaksan Makina Sanayi ve Ticaret A.S. (Ermaksan Makina)
+4801,Gazi University
+4802,University of Puerto Rico Medical Sciences Campus
+4803,Kazan Federal University
+4804,Second Institute of Oceanography (SIO)
+4805,Leibniz Institut fur Analytische Wissenschaften (ISAS)
+4806,Shirley Ryan AbilityLab
+4807,JEOL Japan
+4808,Jeol Ltd
+4809,Sher-e-Bangla Agricultural University (SAU)
+4810,California State University Sacramento
+4811,University of North Dakota Grand Forks
+4812,Institute of Physiology of the National Academy of Sciences of Belarus
+4813,Soran University
+4814,Leibniz Institut fur Sozialwissenschaften (GESIS)
+4815,Quy Nhon University
+4816,Nagoya University of Commerce & Business
+4817,Alagappa University
+4818,University Nacional de Ingenieria Lima
+4819,Foshan Xianhu Laboratory
+4820,Stephan Angeloff Institute of Microbiology Bulgarian Academy of Sciences
+4821,University of Banja Luka (UNIBL)
+4822,Sebha University
+4823,Shandong University of Art & Design
+4824,Thiagarajar College
+4825,US Navy Naval Air Systems Command
+4826,Safran S.A.
+4827,Zhejiang Institute of Economics & Trade
+4828,Bhabha Atomic Research Center (BARC)
+4829,Xinjiang Astronomy Observatory NACO CAS
+4830,Institute of Batteries LLC
+4831,Simmons University
+4832,Columbus State University
+4833,Central University of Haryana
+4834,The Northcap University
+4835,Indian Institute of Technology (Indian School of Mines) Dhanbad
+4836,Coimbatore Institute of Technology
+4837,Sam Houston State University
+4838,Renesas Electronics Corporation
+4839,Adnan Menderes University
+4840,Mustansiriya University
+4841,Samsung Electro-Mech
+4842,SANY
+4843,Baicheng Normal University
+4844,Mie University
+4845,Netherlands Cancer Institute
+4846,Centro Atomico Bariloche
+4847,Mount Royal University
+4848,Ningbo City College of Vocational Technology
+4849,Affiliated Hospital of Jiangxi University of Traditional Chinese Medicine
+4850,Symbiosis Institute of Technology (SIT)
+4851,Universidad Central del Ecuador
+4852,Zhejiang Academy of Agricultural Sciences
+4853,University of Information Technology & Management Rzeszow
+4854,Nissan Motor Company
+4855,Saga University
+4856,Institute of Computer Science of the Polish Academy of Sciences
+4857,Ivanovo State University
+4858,Universitas Pattimura
+4859,Hydro-Quebec
+4860,Centurion University of Technology & Management
+4861,NASA Glenn Research Center
+4862,Obihiro University of Agriculture & Veterinary Medicine
+4863,Spallation Neutron Source
+4864,Istituto di Ricerca su Innovazione e Servizi per lo Sviluppo (IRISS-CNR)
+4865,Madurai Kamaraj University
+4866,Peter Doherty Institute
+4867,Petru Poni Institute of Macromolecular Chemistry
+4868,Providence University - Taiwan
+4869,Pontificia Universidade Catolica do Parana
+4870,SUNY Optometry
+4871,SUNY Community College
+4872,University New Haven
+4873,Li Ka Shing Knowledge Institute
+4874,Saint Michaels Hospital Toronto
+4875,Baikal Museum of the Irkutsk Scientific Center SB RAS
+4876,Savannah River National Laboratory
+4877,Universidade Federal de Pernambuco
+4878,Helmholtz-Center for Infection Research
+4879,National Research Centre (NRC)
+4880,College de France
+4881,Florey Institute of Neuroscience & Mental Health
+4882,Universitat de Vic - Universitat Central de Catalunya (UVic-UCC)
+4883,Tezpur University
+4884,Program in Cellular & Molecular Medicine (PCMM)
+4885,Genentech
+4886,Kazan State Medical University
+4887,SN Bose National Centre for Basic Science (SNBNCBS)
+4888,Vienna University of Economics & Business
+4889,University of Ostrava
+4890,Daikin Industries
+4891,Institute of Geodesy & Cartography
+4892,European Academy of Bozen-Bolzano
+4893,Lorestan University
+4894,National Institute for Mathematical Sciences (NIMS) Republic of Korea
+4895,Auckland City Hospital
+4896,Istituto di Nanotecnologia (NANOTEC-CNR)
+4897,Shri Guru Gobind Singhji Institute of Engineering & Technology
+4898,Indian Institute of Technology (IIT) Goa
+4899,Carleton College
+4900,Sabaragamuwa University of Sri Lanka
+4901,Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences
+4902,Institute of Theoretical & Applied Informatics of the Polish Academy of Sciences
+4903,Centre Eugene Marquis
+4904,Maastricht University Medical Centre (MUMC)
+4905,Utrecht University Medical Center
+4906,CHU Poitiers
+4907,Poznan University of Medical Sciences
+4908,CHU Dijon Bourgogne
+4909,Universidade do Algarve
+4910,College of Engineering Trivandrum
+4911,Peter Maccallum Cancer Center
+4912,Christie NHS Foundation Trust
+4913,Electronics & Telecommunications Research Institute - Korea (ETRI)
+4914,Lincoln Laboratory
+4915,Hospital Universitari Vall d'Hebron
+4916,CIBERCV
+4917,Hospital of Santa Creu i Sant Pau
+4918,Vall d'Hebron Institut de Recerca (VHIR)
+4919,Chizhou University
+4920,National University of Civil Engineering
+4921,College of New Jersey
+4922,Shandong University of Political Science and Law
+4923,Universite Paris Nanterre
+4924,Tatung University
+4925,Rose Hulman Institute Technology
+4926,GIK Institute Engineering Science & Technology
+4927,Vilnius Gediminas Technical University
+4928,Jefferson University
+4929,Franklin & Marshall College
+4930,Sir Syed University of Engineering & Technology
+4931,Da Yeh University
+4932,Delta Electronics
+4933,Wuxi Vocational Institute of Arts & Technology
+4934,Alzahra University
+4935,Guru Ghasidas Vishwavidyalaya
+4936,Istinye University
+4937,Shippensburg University of Pennsylvania
+4938,University of Maine Orono
+4939,Igor Sikorsky Kyiv Polytechnic Institute
+4940,I Shou University
+4941,West Texas A&M University
+4942,Shunde Polytechnic
+4943,Liaodong University
+4944,Fern University Hagen
+4945,University of Mazandaran
+4946,Zhejiang Police College
+4947,Bucknell University
+4948,Vilnius College of Technologies & Design
+4949,Shandong Youth University of Political Science
+4950,University of Gavle
+4951,Central Washington University
+4952,Institute of Engineering (IOE) - Nepal
+4953,Kristiania University College
+4954,Royal Dutch Shell
+4955,Nipissing University
+4956,Universidad Militar Nueva Granada
+4957,SUNY Delhi
+4958,Roskilde University
+4959,Nanning College for Vocational Technology
+4960,Ahsanullah University of Science & Technology (AUST)
+4961,Qujing Normal University
+4962,Rohm Semiconductor
+4963,Turin Polytechnic University Tashkent
+4964,Hanoi University of Mining & Geology
+4965,Mus Alparslan University
+4966,Ningde Normal University
+4967,MTU Aero Engines
+4968,Universidad de Burgos
+4969,Saints Cyril & Methodius University of Skopje
+4970,Arizona State University-Downtown Phoenix
+4971,Shih Hsin University
+4972,Indian Institute of Management Raipur
+4973,Lunenfeld Tanenbaum Research Institute
+4974,Sinai Health System Toronto
+4975,Lappeenranta University of Technology
+4976,Catholic University of Lublin
+4977,Chuzhou Polytechnic
+4978,Institute of Fluid-Flow Machinery of the Polish Academy of Sciences
+4979,Chevron
+4980,Universidad Americas Puebla (UDLAP)
+4981,Mutah University
+4982,Eastern Washington University
+4983,University of North Florida
+4984,Karlsruhe University of Applied Sciences
+4985,Chukyo University
+4986,Chubu Electric Power Co. Inc.
+4987,A*STAR - National Metrology Centre (NMC)
+4988,People's Bank of China
+4989,University of Arts London
+4990,University of South Alabama
+4991,Jiangsu Vocational College of Agriculture & Forestry
+4992,Chung Shan Medical University
+4993,Transylvania University of Brasov
+4994,United International University (UIU)
+4995,Bangabandhu Sheikh Mujibur Rahman Science & Technology University
+4996,Hungarian University of Agriculture & Life Sciences
+4997,Chongqing University of Education
+4998,Volgograd State Technical University
+4999,Sinop University
+5000,Mondragon Unibertsitatea
+5001,Chitkara University Punjab
+5002,Guglielmo Marconi University
+5003,University of Texas School Public Health
+5004,Hautes Etudes Commerciales (HEC) Paris
+5005,Hamad Medical Corporation
+5006,National Institute of Technology Patna
+5007,Universidade Federal de Lavras
+5008,Sodertorn University
+5009,CSIC - Instituto de Ciencias de la Construccion Eduardo Torroja (IETCC)
+5010,Institute of Thermomechanics of the Czech Academy of Sciences
+5011,Abant Izzet Baysal University
+5012,Shenzhen Traditional Chinese Medicine Hospital
+5013,Amrita Vishwa Vidyapeetham
+5014,Amrita Vishwa Vidyapeetham Coimbatore
+5015,West Chester University of Pennsylvania
+5016,Nokia Finland
+5017,Global Institute for Water Security
+5018,Czech University of Life Sciences Prague
+5019,Yasouj University
+5020,Poznan University of Life Sciences
+5021,Punjab Engineering College (Deemed University)
+5022,DAV University Jalandhar
+5023,Kaohsiung Medical University Hospital
+5024,Unitec NZ
+5025,Karabuk University
+5026,Westminster International University Tashkent
+5027,eBay Inc.
+5028,HOGENT University College of Applied Sciences & Arts
+5029,NASA JOHNSON SPACE CENTER
+5030,Xiangnan University
+5031,Institute of Mathematical Statistics & Applied Mathematics of Romanian Academy
+5032,Guru Jambheshwar University of Science & Technology
+5033,Voronezh State University of Forestry & Technologies named after G.F. Morozov
+5034,Saigon University
+5035,Istituto dei Materiali per l'Elettronica ed il Magnetismo (IMEM-CNR)
+5036,RWTH Aachen University Hospital
+5037,Physical & Technical Institute of the National Academy of Sciences of Belarus
+5038,Ho Chi Minh City Open University
+5039,Hewlett-Packard
+5040,Indian Institute of Information Technology Design & Manufacturing Jabalpur
+5041,Yeshwantrao Chavan College of Engineering
+5042,Delaware State University
+5043,KLA Corporation
+5044,CSIR - Advanced Materials & Processes Research Institute (AMPRI)
+5045,Russian State University of Tourism & Service
+5046,Suleyman Demirel University - Kazakhstan
+5047,Indian Institute of Technology (IIT) Jammu
+5048,Shahrekord University
+5049,Mekelle University
+5050,Ondokuz Mayis University
+5051,Sari Agricultural Sciences & Natural Resources University (SANRU)
+5052,National Institute of Technology Agartala
+5053,Universiti Malaysia Perlis
+5054,Texas A&M Health Science Center
+5055,Pontificia Universidade Catolica do Rio de Janeiro
+5056,Sabanci University
+5057,Connecticut Agricultural Experiment Station
+5058,Sant Longowal Institute of Engineering & Technology (SLIET)
+5059,BI Norwegian Business School
+5060,Lutsk National Technical University
+5061,Osaka Medical & Pharmaceutical University
+5062,Bingol University
+5063,Osaka University of Pharmaceutical Sciences
+5064,Japanese Foundation for Cancer Research
+5065,National Taichung University of Science & Technology
+5066,Netherlands Institute for Neuroscience (NIN-KNAW)
+5067,Royal Netherlands Academy of Arts & Sciences
+5068,Bangladesh University of Engineering & Technology (BUET)
+5069,National Institute of Technology Hamirpur
+5070,National Defense University - Taiwan
+5071,Sidi Mohamed Ben Abdellah University of Fez
+5072,CSIR - Central Leather Research Institute (CLRI)
+5073,Agricultural University Krakow
+5074,Ecole Nationale d'Ingenieurs de Tunis (ENIT)
+5075,Institute of Macromolecular Chemistry of the Czech Academy of Sciences
+5076,Wakayama Medical University
+5077,Jeonbuk National University Hospital
+5078,Korea Institute of Science & Technology Information (KISTI)
+5079,Audi
+5080,Kyoto Sangyo University
+5081,Jefferson National Accelerator
+5082,Nara Womens University
+5083,Malaviya National Institute of Technology Jaipur
+5084,Jodrell Bank Centre for Astrophysics
+5085,Universidade de Brasilia
+5086,CSIC - Instituto de Fisica de Cantabria (IFCA)
+5087,Indian Institute of Technology (IIT) - Jodhpur
+5088,FBK-ECT - European Centre for Theoretical Studies in Nuclear Physics & Related Areas

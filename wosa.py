@@ -11,9 +11,9 @@ counter = 0
 
 total_article = len(input_list)
 for article in input_list:
-    if counter % 5000 == 0:
+    if counter % 50000 == 0:
         print("Processing {}/{} article".format(input_list.index(article)+1, total_article))
-        counter += 1
+    counter += 1
     article_list = []
     # split article insts by ; and strip space
     article_insts = [inst.strip().replace(",","") for inst in article[0].split(';')]
