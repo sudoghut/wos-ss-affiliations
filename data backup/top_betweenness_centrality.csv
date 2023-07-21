@@ -1,0 +1,351 @@
+University Label,University ID,Neighbor Label,Neighbor ID,betweenness_centrality
+Beijing Institute of Technology,2,Northwestern Polytechnical University,29,0.1368450569565786
+Beijing Institute of Technology,2,Beihang University,18,0.1367346087593936
+Beijing Institute of Technology,2,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Beijing Institute of Technology,2,Nanjing University of Science & Technology,42,0.06844952967865976
+Beijing Institute of Technology,2,Harbin Institute of Technology,98,0.05394282522251584
+Beijing Institute of Technology,2,Harbin Engineering University,211,0.048236104050508766
+Beijing Institute of Technology,2,Chinese Academy of Sciences,12,0.043606179387396894
+Beijing Institute of Technology,2,Tsinghua University,24,0.010019600040656686
+Beijing Institute of Technology,2,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Beijing Institute of Technology,2,Peking University,35,0.008376836972684331
+Beijing Institute of Technology,2,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Beijing Institute of Technology,2,Zhejiang University,129,0.006490521192957852
+Beijing Institute of Technology,2,Shanghai Jiao Tong University,122,0.0062991468824440035
+Beijing Institute of Technology,2,University of California System,827,0.006296621191847348
+Beijing Institute of Technology,2,N8 Research Partnership,837,0.006012390859350003
+Beijing Institute of Technology,2,UDICE-French Research Universities,1415,0.005752414133724361
+Beijing Institute of Technology,2,Southeast University - China,410,0.00545202212860546
+Beijing Institute of Technology,2,Sun Yat Sen University,181,0.005110660823558478
+Beijing Institute of Technology,2,Shandong University,148,0.005030962636750489
+Beijing Institute of Technology,2,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Beijing Institute of Technology,2,Nanjing University,372,0.004883498209021194
+Beijing Institute of Technology,2,Russian Academy of Sciences,601,0.004547009120827853
+Beijing Institute of Technology,2,National University of Singapore,96,0.004337893562177775
+Beijing Institute of Technology,2,University of London,824,0.004221612741518108
+Beijing Institute of Technology,2,United States Department of Energy (DOE),902,0.0036632102886308623
+Beijing Institute of Technology,2,Xi'an Jiaotong University,62,0.0035050415521407233
+Beijing Institute of Technology,2,Huazhong University of Science & Technology,138,0.003453276633628224
+Beijing Institute of Technology,2,University of Cambridge,617,0.003300310986717102
+Beijing Institute of Technology,2,University of Science & Technology of China CAS,983,0.00313556906238835
+Beijing Institute of Technology,2,Dalian University of Technology,72,0.002968387545415586
+Beijing Institute of Technology,2,Helmholtz Association,967,0.0029431435431971436
+Beijing Institute of Technology,2,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Beijing Institute of Technology,2,State University System of Florida,844,0.002608674454705369
+Beijing Institute of Technology,2,Wuhan University,265,0.0024829187721230007
+Beijing Institute of Technology,2,University of Texas System,832,0.0024785083089646424
+Beijing Institute of Technology,2,City University of Hong Kong,108,0.002455625917398888
+Beijing Institute of Technology,2,Shenzhen University,133,0.002445162401694256
+Beijing Institute of Technology,2,Beijing Normal University,285,0.0022377312378418696
+Beijing Institute of Technology,2,Fudan University,246,0.0022032812896661882
+Beijing Institute of Technology,2,Capital Medical University,183,0.0022025207443502445
+Beijing Institute of Technology,2,University System of Ohio,908,0.0021134576595805716
+Beijing Institute of Technology,2,Imperial College London,171,0.002084489424128971
+Beijing Institute of Technology,2,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Beijing Institute of Technology,2,Harvard University,580,0.002018735914080408
+Beijing Institute of Technology,2,University College London,825,0.0020001045971391475
+Beijing Institute of Technology,2,University System of Georgia,834,0.00195465177901395
+Beijing Institute of Technology,2,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Beijing Institute of Technology,2,King Saud University,499,0.001907458779306134
+Beijing Institute of Technology,2,University of New South Wales Sydney,65,0.0018828298336195882
+Beijing Institute of Technology,2,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Beihang University,18,Beijing Institute of Technology,2,0.1637525475381109
+Beihang University,18,Northwestern Polytechnical University,29,0.1368450569565786
+Beihang University,18,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Beihang University,18,Nanjing University of Science & Technology,42,0.06844952967865976
+Beihang University,18,Harbin Institute of Technology,98,0.05394282522251584
+Beihang University,18,Harbin Engineering University,211,0.048236104050508766
+Beihang University,18,Chinese Academy of Sciences,12,0.043606179387396894
+Beihang University,18,Tsinghua University,24,0.010019600040656686
+Beihang University,18,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Beihang University,18,Peking University,35,0.008376836972684331
+Beihang University,18,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Beihang University,18,Zhejiang University,129,0.006490521192957852
+Beihang University,18,Shanghai Jiao Tong University,122,0.0062991468824440035
+Beihang University,18,University of California System,827,0.006296621191847348
+Beihang University,18,N8 Research Partnership,837,0.006012390859350003
+Beihang University,18,UDICE-French Research Universities,1415,0.005752414133724361
+Beihang University,18,Southeast University - China,410,0.00545202212860546
+Beihang University,18,Sun Yat Sen University,181,0.005110660823558478
+Beihang University,18,Shandong University,148,0.005030962636750489
+Beihang University,18,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Beihang University,18,Nanjing University,372,0.004883498209021194
+Beihang University,18,Russian Academy of Sciences,601,0.004547009120827853
+Beihang University,18,National University of Singapore,96,0.004337893562177775
+Beihang University,18,University of London,824,0.004221612741518108
+Beihang University,18,United States Department of Energy (DOE),902,0.0036632102886308623
+Beihang University,18,Xi'an Jiaotong University,62,0.0035050415521407233
+Beihang University,18,Huazhong University of Science & Technology,138,0.003453276633628224
+Beihang University,18,University of Cambridge,617,0.003300310986717102
+Beihang University,18,University of Science & Technology of China CAS,983,0.00313556906238835
+Beihang University,18,Dalian University of Technology,72,0.002968387545415586
+Beihang University,18,Helmholtz Association,967,0.0029431435431971436
+Beihang University,18,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Beihang University,18,State University System of Florida,844,0.002608674454705369
+Beihang University,18,Wuhan University,265,0.0024829187721230007
+Beihang University,18,University of Texas System,832,0.0024785083089646424
+Beihang University,18,City University of Hong Kong,108,0.002455625917398888
+Beihang University,18,Shenzhen University,133,0.002445162401694256
+Beihang University,18,Beijing Normal University,285,0.0022377312378418696
+Beihang University,18,Fudan University,246,0.0022032812896661882
+Beihang University,18,Capital Medical University,183,0.0022025207443502445
+Beihang University,18,University System of Ohio,908,0.0021134576595805716
+Beihang University,18,Imperial College London,171,0.002084489424128971
+Beihang University,18,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Beihang University,18,Harvard University,580,0.002018735914080408
+Beihang University,18,University College London,825,0.0020001045971391475
+Beihang University,18,University System of Georgia,834,0.00195465177901395
+Beihang University,18,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Beihang University,18,King Saud University,499,0.001907458779306134
+Beihang University,18,University of New South Wales Sydney,65,0.0018828298336195882
+Beihang University,18,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Northwestern Polytechnical University,29,Beijing Institute of Technology,2,0.1637525475381109
+Northwestern Polytechnical University,29,Beihang University,18,0.1367346087593936
+Northwestern Polytechnical University,29,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Northwestern Polytechnical University,29,Nanjing University of Science & Technology,42,0.06844952967865976
+Northwestern Polytechnical University,29,Harbin Institute of Technology,98,0.05394282522251584
+Northwestern Polytechnical University,29,Harbin Engineering University,211,0.048236104050508766
+Northwestern Polytechnical University,29,Chinese Academy of Sciences,12,0.043606179387396894
+Northwestern Polytechnical University,29,Tsinghua University,24,0.010019600040656686
+Northwestern Polytechnical University,29,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Northwestern Polytechnical University,29,Peking University,35,0.008376836972684331
+Northwestern Polytechnical University,29,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Northwestern Polytechnical University,29,Zhejiang University,129,0.006490521192957852
+Northwestern Polytechnical University,29,Shanghai Jiao Tong University,122,0.0062991468824440035
+Northwestern Polytechnical University,29,University of California System,827,0.006296621191847348
+Northwestern Polytechnical University,29,N8 Research Partnership,837,0.006012390859350003
+Northwestern Polytechnical University,29,UDICE-French Research Universities,1415,0.005752414133724361
+Northwestern Polytechnical University,29,Southeast University - China,410,0.00545202212860546
+Northwestern Polytechnical University,29,Sun Yat Sen University,181,0.005110660823558478
+Northwestern Polytechnical University,29,Shandong University,148,0.005030962636750489
+Northwestern Polytechnical University,29,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Northwestern Polytechnical University,29,Nanjing University,372,0.004883498209021194
+Northwestern Polytechnical University,29,Russian Academy of Sciences,601,0.004547009120827853
+Northwestern Polytechnical University,29,National University of Singapore,96,0.004337893562177775
+Northwestern Polytechnical University,29,University of London,824,0.004221612741518108
+Northwestern Polytechnical University,29,United States Department of Energy (DOE),902,0.0036632102886308623
+Northwestern Polytechnical University,29,Xi'an Jiaotong University,62,0.0035050415521407233
+Northwestern Polytechnical University,29,Huazhong University of Science & Technology,138,0.003453276633628224
+Northwestern Polytechnical University,29,University of Cambridge,617,0.003300310986717102
+Northwestern Polytechnical University,29,University of Science & Technology of China CAS,983,0.00313556906238835
+Northwestern Polytechnical University,29,Dalian University of Technology,72,0.002968387545415586
+Northwestern Polytechnical University,29,Helmholtz Association,967,0.0029431435431971436
+Northwestern Polytechnical University,29,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Northwestern Polytechnical University,29,State University System of Florida,844,0.002608674454705369
+Northwestern Polytechnical University,29,Wuhan University,265,0.0024829187721230007
+Northwestern Polytechnical University,29,University of Texas System,832,0.0024785083089646424
+Northwestern Polytechnical University,29,City University of Hong Kong,108,0.002455625917398888
+Northwestern Polytechnical University,29,Shenzhen University,133,0.002445162401694256
+Northwestern Polytechnical University,29,Beijing Normal University,285,0.0022377312378418696
+Northwestern Polytechnical University,29,Fudan University,246,0.0022032812896661882
+Northwestern Polytechnical University,29,Capital Medical University,183,0.0022025207443502445
+Northwestern Polytechnical University,29,University System of Ohio,908,0.0021134576595805716
+Northwestern Polytechnical University,29,Imperial College London,171,0.002084489424128971
+Northwestern Polytechnical University,29,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Northwestern Polytechnical University,29,Harvard University,580,0.002018735914080408
+Northwestern Polytechnical University,29,University College London,825,0.0020001045971391475
+Northwestern Polytechnical University,29,University System of Georgia,834,0.00195465177901395
+Northwestern Polytechnical University,29,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Northwestern Polytechnical University,29,King Saud University,499,0.001907458779306134
+Northwestern Polytechnical University,29,University of New South Wales Sydney,65,0.0018828298336195882
+Northwestern Polytechnical University,29,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Nanjing University of Science & Technology,42,Beijing Institute of Technology,2,0.1637525475381109
+Nanjing University of Science & Technology,42,Northwestern Polytechnical University,29,0.1368450569565786
+Nanjing University of Science & Technology,42,Beihang University,18,0.1367346087593936
+Nanjing University of Science & Technology,42,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Nanjing University of Science & Technology,42,Harbin Institute of Technology,98,0.05394282522251584
+Nanjing University of Science & Technology,42,Harbin Engineering University,211,0.048236104050508766
+Nanjing University of Science & Technology,42,Chinese Academy of Sciences,12,0.043606179387396894
+Nanjing University of Science & Technology,42,Tsinghua University,24,0.010019600040656686
+Nanjing University of Science & Technology,42,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Nanjing University of Science & Technology,42,Peking University,35,0.008376836972684331
+Nanjing University of Science & Technology,42,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Nanjing University of Science & Technology,42,Zhejiang University,129,0.006490521192957852
+Nanjing University of Science & Technology,42,Shanghai Jiao Tong University,122,0.0062991468824440035
+Nanjing University of Science & Technology,42,University of California System,827,0.006296621191847348
+Nanjing University of Science & Technology,42,N8 Research Partnership,837,0.006012390859350003
+Nanjing University of Science & Technology,42,UDICE-French Research Universities,1415,0.005752414133724361
+Nanjing University of Science & Technology,42,Southeast University - China,410,0.00545202212860546
+Nanjing University of Science & Technology,42,Sun Yat Sen University,181,0.005110660823558478
+Nanjing University of Science & Technology,42,Shandong University,148,0.005030962636750489
+Nanjing University of Science & Technology,42,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Nanjing University of Science & Technology,42,Nanjing University,372,0.004883498209021194
+Nanjing University of Science & Technology,42,Russian Academy of Sciences,601,0.004547009120827853
+Nanjing University of Science & Technology,42,National University of Singapore,96,0.004337893562177775
+Nanjing University of Science & Technology,42,University of London,824,0.004221612741518108
+Nanjing University of Science & Technology,42,United States Department of Energy (DOE),902,0.0036632102886308623
+Nanjing University of Science & Technology,42,Xi'an Jiaotong University,62,0.0035050415521407233
+Nanjing University of Science & Technology,42,Huazhong University of Science & Technology,138,0.003453276633628224
+Nanjing University of Science & Technology,42,University of Cambridge,617,0.003300310986717102
+Nanjing University of Science & Technology,42,University of Science & Technology of China CAS,983,0.00313556906238835
+Nanjing University of Science & Technology,42,Dalian University of Technology,72,0.002968387545415586
+Nanjing University of Science & Technology,42,Helmholtz Association,967,0.0029431435431971436
+Nanjing University of Science & Technology,42,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Nanjing University of Science & Technology,42,State University System of Florida,844,0.002608674454705369
+Nanjing University of Science & Technology,42,Wuhan University,265,0.0024829187721230007
+Nanjing University of Science & Technology,42,University of Texas System,832,0.0024785083089646424
+Nanjing University of Science & Technology,42,City University of Hong Kong,108,0.002455625917398888
+Nanjing University of Science & Technology,42,Shenzhen University,133,0.002445162401694256
+Nanjing University of Science & Technology,42,Beijing Normal University,285,0.0022377312378418696
+Nanjing University of Science & Technology,42,Fudan University,246,0.0022032812896661882
+Nanjing University of Science & Technology,42,Capital Medical University,183,0.0022025207443502445
+Nanjing University of Science & Technology,42,University System of Ohio,908,0.0021134576595805716
+Nanjing University of Science & Technology,42,Imperial College London,171,0.002084489424128971
+Nanjing University of Science & Technology,42,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Nanjing University of Science & Technology,42,Harvard University,580,0.002018735914080408
+Nanjing University of Science & Technology,42,University College London,825,0.0020001045971391475
+Nanjing University of Science & Technology,42,University System of Georgia,834,0.00195465177901395
+Nanjing University of Science & Technology,42,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Nanjing University of Science & Technology,42,King Saud University,499,0.001907458779306134
+Nanjing University of Science & Technology,42,University of New South Wales Sydney,65,0.0018828298336195882
+Nanjing University of Science & Technology,42,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Harbin Institute of Technology,98,Beijing Institute of Technology,2,0.1637525475381109
+Harbin Institute of Technology,98,Northwestern Polytechnical University,29,0.1368450569565786
+Harbin Institute of Technology,98,Beihang University,18,0.1367346087593936
+Harbin Institute of Technology,98,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Harbin Institute of Technology,98,Nanjing University of Science & Technology,42,0.06844952967865976
+Harbin Institute of Technology,98,Harbin Engineering University,211,0.048236104050508766
+Harbin Institute of Technology,98,Chinese Academy of Sciences,12,0.043606179387396894
+Harbin Institute of Technology,98,Tsinghua University,24,0.010019600040656686
+Harbin Institute of Technology,98,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Harbin Institute of Technology,98,Peking University,35,0.008376836972684331
+Harbin Institute of Technology,98,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Harbin Institute of Technology,98,Zhejiang University,129,0.006490521192957852
+Harbin Institute of Technology,98,Shanghai Jiao Tong University,122,0.0062991468824440035
+Harbin Institute of Technology,98,University of California System,827,0.006296621191847348
+Harbin Institute of Technology,98,N8 Research Partnership,837,0.006012390859350003
+Harbin Institute of Technology,98,UDICE-French Research Universities,1415,0.005752414133724361
+Harbin Institute of Technology,98,Southeast University - China,410,0.00545202212860546
+Harbin Institute of Technology,98,Sun Yat Sen University,181,0.005110660823558478
+Harbin Institute of Technology,98,Shandong University,148,0.005030962636750489
+Harbin Institute of Technology,98,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Harbin Institute of Technology,98,Nanjing University,372,0.004883498209021194
+Harbin Institute of Technology,98,Russian Academy of Sciences,601,0.004547009120827853
+Harbin Institute of Technology,98,National University of Singapore,96,0.004337893562177775
+Harbin Institute of Technology,98,University of London,824,0.004221612741518108
+Harbin Institute of Technology,98,United States Department of Energy (DOE),902,0.0036632102886308623
+Harbin Institute of Technology,98,Xi'an Jiaotong University,62,0.0035050415521407233
+Harbin Institute of Technology,98,Huazhong University of Science & Technology,138,0.003453276633628224
+Harbin Institute of Technology,98,University of Cambridge,617,0.003300310986717102
+Harbin Institute of Technology,98,University of Science & Technology of China CAS,983,0.00313556906238835
+Harbin Institute of Technology,98,Dalian University of Technology,72,0.002968387545415586
+Harbin Institute of Technology,98,Helmholtz Association,967,0.0029431435431971436
+Harbin Institute of Technology,98,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Harbin Institute of Technology,98,State University System of Florida,844,0.002608674454705369
+Harbin Institute of Technology,98,Wuhan University,265,0.0024829187721230007
+Harbin Institute of Technology,98,University of Texas System,832,0.0024785083089646424
+Harbin Institute of Technology,98,City University of Hong Kong,108,0.002455625917398888
+Harbin Institute of Technology,98,Shenzhen University,133,0.002445162401694256
+Harbin Institute of Technology,98,Beijing Normal University,285,0.0022377312378418696
+Harbin Institute of Technology,98,Fudan University,246,0.0022032812896661882
+Harbin Institute of Technology,98,Capital Medical University,183,0.0022025207443502445
+Harbin Institute of Technology,98,University System of Ohio,908,0.0021134576595805716
+Harbin Institute of Technology,98,Imperial College London,171,0.002084489424128971
+Harbin Institute of Technology,98,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Harbin Institute of Technology,98,Harvard University,580,0.002018735914080408
+Harbin Institute of Technology,98,University College London,825,0.0020001045971391475
+Harbin Institute of Technology,98,University System of Georgia,834,0.00195465177901395
+Harbin Institute of Technology,98,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Harbin Institute of Technology,98,King Saud University,499,0.001907458779306134
+Harbin Institute of Technology,98,University of New South Wales Sydney,65,0.0018828298336195882
+Harbin Institute of Technology,98,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Harbin Engineering University,211,Beijing Institute of Technology,2,0.1637525475381109
+Harbin Engineering University,211,Northwestern Polytechnical University,29,0.1368450569565786
+Harbin Engineering University,211,Beihang University,18,0.1367346087593936
+Harbin Engineering University,211,Nanjing University of Aeronautics & Astronautics,233,0.07462840926071292
+Harbin Engineering University,211,Nanjing University of Science & Technology,42,0.06844952967865976
+Harbin Engineering University,211,Harbin Institute of Technology,98,0.05394282522251584
+Harbin Engineering University,211,Chinese Academy of Sciences,12,0.043606179387396894
+Harbin Engineering University,211,Tsinghua University,24,0.010019600040656686
+Harbin Engineering University,211,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Harbin Engineering University,211,Peking University,35,0.008376836972684331
+Harbin Engineering University,211,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Harbin Engineering University,211,Zhejiang University,129,0.006490521192957852
+Harbin Engineering University,211,Shanghai Jiao Tong University,122,0.0062991468824440035
+Harbin Engineering University,211,University of California System,827,0.006296621191847348
+Harbin Engineering University,211,N8 Research Partnership,837,0.006012390859350003
+Harbin Engineering University,211,UDICE-French Research Universities,1415,0.005752414133724361
+Harbin Engineering University,211,Southeast University - China,410,0.00545202212860546
+Harbin Engineering University,211,Sun Yat Sen University,181,0.005110660823558478
+Harbin Engineering University,211,Shandong University,148,0.005030962636750489
+Harbin Engineering University,211,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Harbin Engineering University,211,Nanjing University,372,0.004883498209021194
+Harbin Engineering University,211,Russian Academy of Sciences,601,0.004547009120827853
+Harbin Engineering University,211,National University of Singapore,96,0.004337893562177775
+Harbin Engineering University,211,University of London,824,0.004221612741518108
+Harbin Engineering University,211,United States Department of Energy (DOE),902,0.0036632102886308623
+Harbin Engineering University,211,Xi'an Jiaotong University,62,0.0035050415521407233
+Harbin Engineering University,211,Huazhong University of Science & Technology,138,0.003453276633628224
+Harbin Engineering University,211,University of Cambridge,617,0.003300310986717102
+Harbin Engineering University,211,University of Science & Technology of China CAS,983,0.00313556906238835
+Harbin Engineering University,211,Dalian University of Technology,72,0.002968387545415586
+Harbin Engineering University,211,Helmholtz Association,967,0.0029431435431971436
+Harbin Engineering University,211,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Harbin Engineering University,211,State University System of Florida,844,0.002608674454705369
+Harbin Engineering University,211,Wuhan University,265,0.0024829187721230007
+Harbin Engineering University,211,University of Texas System,832,0.0024785083089646424
+Harbin Engineering University,211,City University of Hong Kong,108,0.002455625917398888
+Harbin Engineering University,211,Shenzhen University,133,0.002445162401694256
+Harbin Engineering University,211,Beijing Normal University,285,0.0022377312378418696
+Harbin Engineering University,211,Fudan University,246,0.0022032812896661882
+Harbin Engineering University,211,Capital Medical University,183,0.0022025207443502445
+Harbin Engineering University,211,University System of Ohio,908,0.0021134576595805716
+Harbin Engineering University,211,Imperial College London,171,0.002084489424128971
+Harbin Engineering University,211,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Harbin Engineering University,211,Harvard University,580,0.002018735914080408
+Harbin Engineering University,211,University College London,825,0.0020001045971391475
+Harbin Engineering University,211,University System of Georgia,834,0.00195465177901395
+Harbin Engineering University,211,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Harbin Engineering University,211,King Saud University,499,0.001907458779306134
+Harbin Engineering University,211,University of New South Wales Sydney,65,0.0018828298336195882
+Harbin Engineering University,211,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
+Nanjing University of Aeronautics & Astronautics,233,Beijing Institute of Technology,2,0.1637525475381109
+Nanjing University of Aeronautics & Astronautics,233,Northwestern Polytechnical University,29,0.1368450569565786
+Nanjing University of Aeronautics & Astronautics,233,Beihang University,18,0.1367346087593936
+Nanjing University of Aeronautics & Astronautics,233,Nanjing University of Science & Technology,42,0.06844952967865976
+Nanjing University of Aeronautics & Astronautics,233,Harbin Institute of Technology,98,0.05394282522251584
+Nanjing University of Aeronautics & Astronautics,233,Harbin Engineering University,211,0.048236104050508766
+Nanjing University of Aeronautics & Astronautics,233,Chinese Academy of Sciences,12,0.043606179387396894
+Nanjing University of Aeronautics & Astronautics,233,Tsinghua University,24,0.010019600040656686
+Nanjing University of Aeronautics & Astronautics,233,Centre National de la Recherche Scientifique (CNRS),454,0.008484889511468282
+Nanjing University of Aeronautics & Astronautics,233,Peking University,35,0.008376836972684331
+Nanjing University of Aeronautics & Astronautics,233,University of Chinese Academy of Sciences CAS,830,0.007278909721666432
+Nanjing University of Aeronautics & Astronautics,233,Zhejiang University,129,0.006490521192957852
+Nanjing University of Aeronautics & Astronautics,233,Shanghai Jiao Tong University,122,0.0062991468824440035
+Nanjing University of Aeronautics & Astronautics,233,University of California System,827,0.006296621191847348
+Nanjing University of Aeronautics & Astronautics,233,N8 Research Partnership,837,0.006012390859350003
+Nanjing University of Aeronautics & Astronautics,233,UDICE-French Research Universities,1415,0.005752414133724361
+Nanjing University of Aeronautics & Astronautics,233,Southeast University - China,410,0.00545202212860546
+Nanjing University of Aeronautics & Astronautics,233,Sun Yat Sen University,181,0.005110660823558478
+Nanjing University of Aeronautics & Astronautics,233,Shandong University,148,0.005030962636750489
+Nanjing University of Aeronautics & Astronautics,233,Egyptian Knowledge Bank (EKB),1055,0.0049180851577415845
+Nanjing University of Aeronautics & Astronautics,233,Nanjing University,372,0.004883498209021194
+Nanjing University of Aeronautics & Astronautics,233,Russian Academy of Sciences,601,0.004547009120827853
+Nanjing University of Aeronautics & Astronautics,233,National University of Singapore,96,0.004337893562177775
+Nanjing University of Aeronautics & Astronautics,233,University of London,824,0.004221612741518108
+Nanjing University of Aeronautics & Astronautics,233,United States Department of Energy (DOE),902,0.0036632102886308623
+Nanjing University of Aeronautics & Astronautics,233,Xi'an Jiaotong University,62,0.0035050415521407233
+Nanjing University of Aeronautics & Astronautics,233,Huazhong University of Science & Technology,138,0.003453276633628224
+Nanjing University of Aeronautics & Astronautics,233,University of Cambridge,617,0.003300310986717102
+Nanjing University of Aeronautics & Astronautics,233,University of Science & Technology of China CAS,983,0.00313556906238835
+Nanjing University of Aeronautics & Astronautics,233,Dalian University of Technology,72,0.002968387545415586
+Nanjing University of Aeronautics & Astronautics,233,Helmholtz Association,967,0.0029431435431971436
+Nanjing University of Aeronautics & Astronautics,233,Consiglio Nazionale delle Ricerche (CNR),1191,0.002779426433537717
+Nanjing University of Aeronautics & Astronautics,233,State University System of Florida,844,0.002608674454705369
+Nanjing University of Aeronautics & Astronautics,233,Wuhan University,265,0.0024829187721230007
+Nanjing University of Aeronautics & Astronautics,233,University of Texas System,832,0.0024785083089646424
+Nanjing University of Aeronautics & Astronautics,233,City University of Hong Kong,108,0.002455625917398888
+Nanjing University of Aeronautics & Astronautics,233,Shenzhen University,133,0.002445162401694256
+Nanjing University of Aeronautics & Astronautics,233,Beijing Normal University,285,0.0022377312378418696
+Nanjing University of Aeronautics & Astronautics,233,Fudan University,246,0.0022032812896661882
+Nanjing University of Aeronautics & Astronautics,233,Capital Medical University,183,0.0022025207443502445
+Nanjing University of Aeronautics & Astronautics,233,University System of Ohio,908,0.0021134576595805716
+Nanjing University of Aeronautics & Astronautics,233,Imperial College London,171,0.002084489424128971
+Nanjing University of Aeronautics & Astronautics,233,Consejo Superior de Investigaciones Cientificas (CSIC),1658,0.0020473287072330618
+Nanjing University of Aeronautics & Astronautics,233,Harvard University,580,0.002018735914080408
+Nanjing University of Aeronautics & Astronautics,233,University College London,825,0.0020001045971391475
+Nanjing University of Aeronautics & Astronautics,233,University System of Georgia,834,0.00195465177901395
+Nanjing University of Aeronautics & Astronautics,233,Swiss Federal Institutes of Technology Domain,871,0.0019235745861124875
+Nanjing University of Aeronautics & Astronautics,233,King Saud University,499,0.001907458779306134
+Nanjing University of Aeronautics & Astronautics,233,University of New South Wales Sydney,65,0.0018828298336195882
+Nanjing University of Aeronautics & Astronautics,233,Pennsylvania Commonwealth System of Higher Education (PCSHE),855,0.0018604295227070296
