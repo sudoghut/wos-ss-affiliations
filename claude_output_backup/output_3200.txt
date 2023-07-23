@@ -1,0 +1,185 @@
+ Here is the list of nations for the given universities and institutes:
+
+Nagoya City University	Japan
+AstraZeneca	United Kingdom
+Henry Ford Health System	United States
+Kansai Medical University	Japan
+Orion Corporation	Finland
+Jikei University	Japan 
+IRCCS Istituto Giannina Gaslini	Italy
+Norwegian Institute Nature Research	Norway
+University of Rostock	Germany
+Helmholtz-Zentrum Geesthacht - Zentrum fur Material- und Kustenforschung 	Germany
+Fondazione Bruno Kessler	Italy
+European University of Madrid	Spain
+Ernst Moritz Arndt Universitat Greifswald	Germany
+Skane University Hospital	Sweden
+Institute of Genetics & Animal Biotechnology Polish Academy of Sciences	Poland
+University of London Royal Veterinary College	United Kingdom 
+Institut National du Cancer (INCA) France	France
+National Health Research Institutes - Taiwan	Taiwan
+University of Nebraska Medical Center	United States
+EC JRC ISPRA Site	Italy
+Battelle Memorial Institute	United States
+Philipps University Marburg	Germany
+University of Salford	United Kingdom
+Institut Universitaire Europeen de la Mer (IUEM)	France
+State University of New York (SUNY) Upstate Medical Center	United States
+Fukushima Medical University	Japan
+Mater Research	Australia
+Otto von Guericke University	Germany
+Oregon Health & Science University	United States
+Structural Genomics Consortium	United Kingdom
+Scion	New Zealand
+Abdelmalek Essaadi University of Tetouan	Morocco
+Jan Kochanowski University 	Poland
+Kafrelsheikh University	Egypt
+Manipal Academy of Higher Education (MAHE)	India
+Institute of Human Genetics of the Polish Academy of Sciences	Poland
+Meisei University	Japan
+Marine Design & Research Institute of China (MARIC)	China
+Egerton University	Kenya
+Harbin Vocational & Technical College	China
+Heilongjiang Institute of Technology	China
+Islamic University of Al Madinah	Saudi Arabia
+Harbin University	China
+Tibet University	China
+Jiujiang Vocational & Technical College	China
+Universite de M'sila 	Algeria
+Western New England University	United States
+Van Lang University	Vietnam
+Heihe University	China
+Anshan Normal University	China
+Harbin Finance University	China
+Peter the Great St. Petersburg Polytechnic University	Russia
+Heilongjiang University of Technology	China
+Laoshan Laboratory	China
+Suihua University	China
+China Railway Construction Corporation 	China
+Dalian Naval Academy	China
+Jomo Kenyatta University of Agriculture & Technology	Kenya
+Ministry of Justice - Egypt 	Egypt
+Heilongjiang Bayi Agricultural University	China
+China Animal Health & Epidemiology Center	China
+University of Engineering & Technology Peshawar	Pakistan
+AGH University of Krakow  	Poland
+Cape Breton University	Canada 
+University of Detroit Mercy	United States
+Komsomolsk-na-Amure State University 	Russia
+Stavropol State Agrarian University	Russia
+Jinling Institute of Technology	China
+Asia Eastern University of Science & Technology	China
+Heilongjiang University of Chinese Medicine	China
+Asian Institute of Technology	Thailand
+POWERCHINA Huadong Engineering Corporation Limited	China
+University of Bradford	United Kingdom
+Beijing Language & Culture University	China
+Peoples Friendship University of Russia	Russia
+Beibu Gulf University	China
+Dartmouth College	United States
+Harbin Sport University	China
+Royal Military College - Canada	Canada
+Northwest Minzu University	China
+Ansteel Group	China
+Chittagong University of Engineering & Technology (CUET)	Bangladesh
+National Ocean Technology Center (NOTC)  	China
+Institute of High Temperature Electrochemistry	Russia
+Valahia University of Targoviste	Romania
+Longdong University	China
+Wenzhou Polytechnic	China
+Vietnam National University of Agriculture (VNUA)	Vietnam
+Saudi Basic Industries Corporation (SABIC)	Saudi Arabia
+Oakland University	United States
+Jilin University of Finance & Economics	China
+Guizhou University of Finance & Economics	China
+Bangor University	United Kingdom
+Huaibei Normal University	China
+Universite Ferhat Abbas Setif	Algeria
+Qiqihar Medical University	China
+Universita Mediterranea di Reggio Calabria	Italy
+Hengyang Normal University	China
+Hunan Institute of Technology	China
+Belarusian State University of Informatics & Radioelectronics	Belarus 
+Heilongjiang Academy of Agricultural Sciences	China
+Guangzhou Maritime University	China
+Instituto Superior Tecnico	Portugal
+Kharkiv National University of Radio Electronics	Ukraine
+LingNan Normal University	China
+Istituto Nazionale per Studi ed Esperienze di Architettura Navale (INSEAN-CNR)	Italy
+Istituto di Ingegneria del Mare (INM-CNR)	Italy
+Indian Institute of Technology (IIT) - Bhubaneswar	India
+Institute of Deep-Sea Science & Engineering CAS	China
+Wright State University Dayton 	United States
+China General Nuclear Power Group	China
+Vietnam National University Hanoi	Vietnam
+South Ukrainian National Pedagogical University Named After K. D. Ushynsky	Ukraine 
+Institute of Oceanology CAS	China
+University of Namibia	Namibia
+Oles Honchar Dnipro National University 	Ukraine
+Indian Institute of Technology (IIT) - Delhi	India
+NITEC University 	Malaysia
+University System Of New Hampshire	United States
+University of New Hampshire	United States
+Tianjin Research Institute for Water Transport Engineering	China
+University of British Columbia Okanagan	Canada
+Moscow Aviation Institute	Russia
+SUNY Fredonia 	United States
+National Institute of Technology Srinagar	India
+Ilichev Pacific Oceanological Institute	Russia
+SSPA Optics Optoelectronics & Laser Technology of the National Academy of Sciences of Belarus	Belarus
+Polytechnic University of Bucharest 	Romania
+Modern Sciences & Arts University (MSA)	Egypt
+Kermanshah University of Medical Sciences	Iran
+National Penghu University of Science & Technology	Taiwan
+Panzhihua University	China
+Gree Electric	China
+Airlangga University	Indonesia
+Shandong Management University 	China
+Universidad de Cuenca 	Ecuador
+Centre de Recherche Scientifique et Technique en Analyses Physico-Chimiques	Morocco
+Tula State University	Russia
+Tianjin University of Sport	China
+Tianjin Foreign Studies University	China
+Ningbo Polytechnic	China
+Institute of Automation & Control Processes Far East Branch of the Russian Academy of Sciences	Russia
+Liaoning Police College	China
+Joint Institute for Nuclear Research - Russia	Russia
+Raytheon Technologies	United States
+Pratt & Whitney	United States
+Jilin Business & Technology College	China
+University of Tun Hussein Onn Malaysia	Malaysia
+Korea Aerospace Research Institute (KARI)	South Korea
+Chongqing Vocational Institute of Engineering	China
+Korea Institute of Materials Science (KIMS)	South Korea
+Zhejiang A&F University	China
+China International Marine Containers  	China
+National University of Science & Technology (MISIS)	Russia
+Royal Belgian Institute of Natural Sciences	Belgium 
+Zhuzhou Times New Material Technology Co Ltd	China
+Moscow State Technology University Stankin	Russia
+Escuela Superior Politecnica del Litoral	Ecuador
+Universidad Austral de Chile	Chile
+Bashkir State Agrarian University 	Russia
+Vietnam Maritime University (VMU / VIMARU)	Vietnam
+Chengdu Aircraft Industry Group (CAIG)	China
+Chaoyang University of Technology	Taiwan
+University of New England	Australia
+Longyan University	China
+National Optical Astronomy Observatory	United States
+University of Bayreuth	Germany
+Lavrentyev Institute of Hydrodynamics	Russia
+Korea Research Institute of Chemical Technology (KRICT)	South Korea
+Russian State Agrarian University - Moscow Timiryazev Agricultural Academy	Russia
+Bangkok University	Thailand
+Nanning University	China
+Saint Ambrose University	United States
+1 Decembrie 1918 University Alba Iulia	Romania
+Defence Science & Technology 	Australia
+Ansys Inc.	United States
+Central Michigan University	United States
+Ufa University of Science & Technology	Russia
+Universidade Federal de Itajuba	Brazil
+Sophia University	Japan
+Caterpillar Inc	United States
+Perm Federal Research Center Ural Branch RAS	Russia
+Institute of Technical Chemistry of the Ural

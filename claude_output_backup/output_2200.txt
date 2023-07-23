@@ -1,0 +1,192 @@
+ Please find the nation details of requested universities/institutes in the following TSV format:
+
+Ural Federal University 	Russia
+Ufa Institute of Chemistry	Russia 
+Guangzhou Institute of Energy Conversion CAS	China
+Universite de Reims Champagne-Ardenne	France
+Japan Society for the Promotion of Science 	Japan
+NIH National Institute of Mental Health (NIMH)	United States
+Singapore Institute of Technology 	Singapore
+Brookhaven National Laboratory	United States
+Topchiev Institute of Petrochemical Synthesis RAS	Russia
+Universitat d'Alacant	Spain
+University of Alabama System	United States
+University of Alabama Birmingham	United States
+Mersin University	Turkey
+Koc University	Turkey
+International Black Sea University	Georgia
+NIH National Heart Lung & Blood Institute (NHLBI)	United States
+Institute of Food Science & Technology CAAS	China
+Institute of Genetics & Developmental Biology CAS	China
+PCSIR Laboratories Complex 	Pakistan
+Great Wall Motors	China
+Lehigh University	United States
+Universite de Mascara	Algeria
+Fujian Jiangxia University	China
+Michigan Technological University	United States
+Indian Institute of Technology (IIT) - Mandi	India
+University of Potsdam	Germany
+Hanoi University of Science & Technology (HUST)	Vietnam
+Louisiana State University Health Sciences Center at Shreveport	United States
+NIH National Institute on Aging (NIA)	United States
+NIH National Institute on Drug Abuse (NIDA)	United States
+POLYMAT	Mexico
+University of North Carolina Wilmington	United States
+National Taiwan University of Science & Technology	Taiwan
+Aramco Services Company (ASC)	Saudi Arabia
+Babol Noshirvani University of Technology	Iran
+Veer Surendra Sai University of Technology	India
+Taizhou University	China
+University Hospital Leuven	Belgium
+Galgotias University  	India
+Shanmugha Arts Science Technology & Research Academy (SASTRA)	India
+Universite PSL	France
+Observatoire de Paris	France 
+Babes Bolyai University from Cluj 	Romania
+Charite Universitatsmedizin Berlin	Germany
+Humboldt University of Berlin 	Germany
+Idaho State University	United States
+Eastern Mediterranean University 	Cyprus
+Leshan Normal University	China
+National & Kapodistrian University of Athens	Greece
+National Institute of Technology Puducherry	India
+Universite de Bretagne Occidentale	France
+IMT Atlantique	France
+National University of the Littoral	Argentina
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)	Argentina
+Nirma University	India
+University of Nigeria  	Nigeria
+University of Nebraska Omaha	United States
+University of Luxembourg	Luxembourg
+Anyang Institute of Technology	China
+Istituto Nazionale di Fisica Nucleare (INFN)  	Italy
+Second People's Hospital of Shenzhen	China
+Institute of Metal Physics UB RAS	Russia
+Wuhan Polytechnic University	China
+Yingkou Institute of Technology	China
+Lincoln University College	Malaysia
+Urmia University  	Iran
+Southwest Medical University	China
+Northern Illinois University	United States
+California State University Northridge	United States
+Chongqing Medical University	China
+Anhui Jianzhu University	China
+Amirkabir University of Technology	Iran
+Xinjiang Institute of Ecology & Geography CAS	China
+Tufts Medical Center	United States
+Universidade de Lisboa	Portugal
+Universidad Autonoma de Chile	Chile
+Universidad Andres Bello	Chile
+Nazarbayev University 	Kazakhstan
+Boise State University  	United States
+Shenzhen Luohu Hospital Group Luohu People's Hospital	China
+O.P. Jindal Global University 	India 
+University of Plymouth	United Kingdom
+Yasar University	Turkey
+Institute of Soil Science CAS	China
+Jiangxi Academy of Agricultural Sciences	China
+University of Trieste	Italy
+UT Institute of Agriculture	India
+State University of New York (SUNY) - Oswego	United States
+Hubei Minzu University	China
+Qatar Foundation (QF)	Qatar
+Texas A&M University Qatar	Qatar
+Rzeszow University of Technology 	Poland
+Al Akhawayn University  	Morocco
+Wuxi Institute of Technology	China
+International Iberian Nanotechnology Laboratory	Portugal
+Beijing Municipal Commission of Education	China
+SRM Institute of Science & Technology Chennai 	India
+University of Akron	United States
+Symbiosis Centre for Management Studies Pune	India
+Symbiosis International University	India
+Murdoch University  	Australia
+San Diego State University	United States
+Shenyang Institute of Applied Ecology CAS	China
+Northeast Institute of Geography & Agroecology CAS	China
+Hamburg University of Technology	Germany
+Universiti Malaysia Terengganu	Malaysia
+Hebrew University of Jerusalem	Israel
+Boston College	United States
+SLAC National Accelerator Laboratory	United States
+Universite de Technologie de Belfort-Montbeliard (UTBM)	France
+African University of Science & Technology 	Nigeria
+CSIC - Instituto de Catalisis y Petroleoquimica (ICP)	Spain
+Amity University Noida	India
+University of La Verne	United States
+King Mongkuts University of Technology North Bangkok	Thailand
+East China University Political Science & Law	China
+Hubei Polytechnic University	China
+Tshwane University of Technology	South Africa
+Shandong College of Traditional Chinese Medicine	China
+Istituto Superconduttori Materiali e Dispositivi Innovativi (SPIN-CNR)	Italy
+McLean Hospital	United States
+Universidade do Porto	Portugal
+Royal National Orthopaedic Hospital NHS Trust	United Kingdom
+University of Mysore	India
+State Key Laboratory of Catalysis CAS	China
+Solent University	United Kingdom
+Norwegian Institute of Bioeconomy Research	Norway
+Universidad Autonoma Metropolitana - Mexico   	Mexico
+Indian Institute of Technology (IIT) - Guwahati	India
+University of California San Francisco	United States
+Beijing Film Academy	China
+Universite de Bordeaux	France
+Anhui Agricultural University	China
+Fordham University	United States
+State Key Laboratory of Transient Optics & Photonics	China
+Zunyi Medical University	China 
+Nokia Bell Labs	United States
+University of Essex	United Kingdom
+American University Cairo	Egypt
+Institute of Psychology CAS	China
+International Institute for Applied Systems Analysis (IIASA)	Austria
+Buffalo State College	United States
+Universite Paul-Valery	France
+Universite Perpignan Via Domitia	France
+University of Cyprus	Cyprus
+Chimie ParisTech 	France  
+University Djillali Liabes Sidi Bel Abbes  	Algeria
+China Medical University Hospital - Taiwan 	Taiwan
+Universidade Federal de Juiz de Fora  	Brazil
+Qualcomm	United States
+Intel Corporation	United States
+Tianshui Normal University	China
+Hunan Institute of Science & Technology	China
+Saitama Institute Technology	Japan
+Kangwon National University	South Korea
+Technology Innovation Institute	United Arab Emirates
+Tunghai University	Taiwan
+National Chin-Yi University of Technology	Taiwan
+Khulna University  	Bangladesh
+Islamic University  	Bangladesh  
+Universite de Rouen Normandie	France
+Budapest Business School	Hungary
+Konya Technical University	Turkey
+University of Hyderabad	India
+Ritsumeikan Asia Pacific University	Japan  
+Mustafa Kemal University	Turkey
+University of Split	Croatia
+University of Bolton	United Kingdom  
+Erciyes University	Turkey
+Shenzhen Research Institute The Hong Kong University of Science & Technology	China
+SKEMA Business School	France
+University of Saint Joseph (Macao)	Macau
+AgroParisTech	France
+Jingchu University of Technology	China
+Universidade Federal de Mato Grosso do Sul 	Brazil
+Anna University	India
+Anna University Chennai	India
+Easwari Engineering College	India
+Vietnam National University Hochiminh City	Vietnam
+Council for Scientific & Industrial Research (CSIR) - South Africa	South Africa
+Cag University - Turkey  	Turkey
+Slovenian Academy of Sciences & Arts (SASA)	Slovenia 
+University of Freiburg	Germany
+Jozef Stefan Institute  	Slovenia
+NIH National Institute of Biomedical Imaging & Bioengineering (NIBIB)	United States
+City University London	United Kingdom
+Bundeswehr University Munich	Germany
+Heinrich Heine University Dusseldorf	Germany
+University of Milan	Italy
+Anqing Normal University	

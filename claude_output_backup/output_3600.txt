@@ -1,0 +1,202 @@
+ Here are the nations of the provided universities and institutes:
+
+Chennai Mathematical Institute	India
+ESSEC Business School 	France
+Shandong Sport University	China
+Daqing Oilfield Company Limited	China
+Shanghai University of Sport	China
+Thammasat University	Thailand
+Dalian University of Foreign Languages	China
+Hunan University of Arts & Science	China
+GoerTek	China
+Copenhagen Business School	Denmark
+Wuzhou University	China
+Hansung University	South Korea
+Colorado College	USA
+International Islamic University Malaysia	Malaysia
+WSB University 	Poland
+Universidad de Ciencias y Humanidades	Peru
+H Lee Moffitt Cancer Center & Research Institute	USA
+Zhejiang International Studies University	China
+K. N. Toosi University of Technology	Iran
+Saint Francis Xavier University - Canada	Canada
+ITER	France
+Pakistan Space & Upper Atmosphere Research Commission (SUPARCO)	Pakistan
+University of Catania	Italy
+Jahangirnagar University	Bangladesh
+Jeonbuk National University	South Korea
+University of Basilicata	Italy
+Tokyo City University	Japan
+University of Bergen	Norway
+William & Mary	USA
+Hebei Petroleum University of Technology	China
+Ordnance Engineering College - China	China
+University of Rijeka	Croatia
+Universidade Federal de Campina Grande	Brazil
+China Foreign Affairs University	China
+Putian University	China
+Kingston University	UK
+Zhongguancun Laboratory 	China
+Shenhua Group	China
+Universite des Sciences et de la Technologie d'Oran Mohamed Boudiaf	Algeria
+Semnan University	Iran
+Institute of Business Administration Karachi	Pakistan
+Tokyo University of Agriculture & Technology	Japan
+University of Defence - Czech Republic	Czech Republic
+Universitas Negeri Yogyakarta	Indonesia
+Science Systems and Applications Inc	USA
+Samsung Semiconductor (SSI)	South Korea
+Samsung Electronics	South Korea 
+Hochschule Angewandte Wissenschaft Hamburg	Germany
+Institute of Medical Information - CAMS	China
+The Methodist Hospital - Houston	USA
+The Methodist Hospital System	USA
+National Energy Technology Laboratory - USA	USA
+University of Washington Tacoma	USA
+Daido Steel Co Ltd	Japan
+Universite Toulouse 1 Capitole	France
+Institute of Acupuncture & Moxibustion CACMS	China
+Montclair State University	USA
+Qingdao Municipal Hospital	China
+Universidade Presbiteriana Mackenzie	Brazil
+Deltares	Netherlands
+Instituto de Investigacion del Automovil (INSIA)	Spain
+Air Force General Hospital PLA	China
+Istituto per la Scienza Tecnologia dei Plasmi (ISTP-CNR)	Italy
+California State Polytechnic University Pomona	USA
+ETS de Ingenieros Industriales	Spain
+Kunming University	China
+National Institute for Radiological Protection Chinese Center for Disease Control & Prevention	China 
+CSIC - UAM - Institut de Fisica Teorica (IFT)	Spain
+Feed Research Institute CAAS 	China
+National Institute of Aeronautics & Space of Indonesia (LAPAN) 	Indonesia
+National Research & Innovation Agency of Indonesia (BRIN)	Indonesia
+Kanto Gakuin University	Japan
+Institute of Optics & Electronics CAS	China
+Zhejiang Chinese Medical University	China
+Collaborative Innovation Center for Diagnosis & Treatment of Infectious Diseases	China
+Xuchang University	China
+Oklahoma State University - Stillwater	USA
+Oklahoma State University System	USA
+Slippery Rock University - Pennsylvania	USA
+Ishlinsky Institute for Problems in Mechanics RAS	Russia
+Chaudhary Charan Singh University	India
+Catholic University of America	USA
+Jordan University of Science & Technology	Jordan
+FHNW University of Applied Sciences & Arts Northwestern Switzerland	Switzerland
+Shenzhen Academy of Metrology & Quality Inspection	China
+Shinshu University	Japan
+Guangdong University of Science & Technology	China
+Sandvik AB	Sweden
+University of Leoben	Austria
+University North Carolina Hospital	USA
+Guizhou Minzu University	China
+Universidade Federal de Sao Joao del-Rei	Brazil
+National Taiwan Ocean University	Taiwan
+Moutai Institute	China
+Widener University	USA
+Kashi University	China
+Fu Jen Catholic University	Taiwan
+Shanghai University of International Business & Economics	China
+Hubei University of Science & Technology	China
+Qihoo 360 Technology 	China
+PolyU Shenzhen Research Institute	China
+Centro de Tecnologia Biomedica (CTB)	Mexico
+Faculte des Sciences de Tunis (FST)	Tunisia
+University of Nicosia	Cyprus
+Universidade Federal do Para	Brazil
+Universidade do Estado do Rio de Janeiro	Brazil
+Hengshui University	China
+Singapore National Eye Center	Singapore
+Ningxia Medical University	China
+Princeton Plasma Physics Laboratory	USA
+Shenyang Agricultural University	China
+XLRI -Xavier School of Management 	India
+Vologda Research Center RAS	Russia
+Xuzhou Medical University	China
+SUNY Maritime College	USA
+UCL Institute of Education	UK
+Tokushima University	Japan
+National Bureau of Economic Research	USA
+Beijing Youth Politics College	China
+Vel Tech Rangarajan Dr Sagunthala R&D Institute of Science & Technology	India
+General Motors	USA
+Roscosmos	Russia
+Yuzuncu Yil University	Turkey
+University of Stirling	UK
+Bangladesh Agricultural University (BAU)	Bangladesh
+Reichman University	Israel
+Huainan Normal University	China
+Bu Ali Sina University	Iran
+University Osnabruck	Germany
+Marshall University	USA
+Chonnam National University	South Korea
+Prague University of Economics & Business	Czech Republic
+Tianjin Vocational Institute	China
+Chengde Medical University	China
+Kitasato University	Japan
+Southwest Research Institute	USA
+Nari Group Corp	South Korea
+Anhui Xinhua University	China
+University of Novi Sad	Serbia
+Jeonju University	South Korea
+Poznan University of Technology	Poland
+University of Southern Queensland	Australia
+Shanxi Institute of Energy	China
+National Ilan University	Taiwan
+University of Vaasa	Finland
+Universite de Saida	Algeria
+Honeywell	USA
+University of Houston Clear Lake	USA
+California State University Dominguez Hills	USA
+CY Cergy Paris Universite	France
+Jiangsu Vocational Institute of Commerce	China
+Toulouse School of Economics	France
+Kyungsung University	South Korea
+University Toronto Scarborough	Canada
+Prince Mohammad Bin Fahd University	Saudi Arabia
+Indiana State University	USA
+Hofstra University	USA
+Guiyang University	China
+Bogazici University	Turkey
+Medical University of South Carolina	USA
+Universidade Federal de Sao Paulo (UNIFESP)	Brazil
+Inner Mongolia Medical University	China
+Inner Mongolia Normal University	China
+Radford University	USA
+Mokwon University	South Korea
+Mongolian University of Science & Technology	Mongolia
+Capital Institute of Pediatrics (CIP)	China
+Universitas Sriwijaya	Indonesia
+Bond University	Australia
+Qilu Normal University	China
+Benha University	Egypt
+Paton Electric Welding Institute of NASU	Ukraine
+Southern Illinois University Edwardsville	USA
+National Time Service Center CAS	China
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	China
+Escuela Superior de Administracion y Direccion de Empresas (ESADE)	Spain
+Universitat Ramon Llull	Spain
+Universidade Estadual de Maringa	Brazil  
+HeFei GuoXuan High-Tech Power Energy Co Ltd	China
+Siemens Germany	Germany
+Srinakharinwirot University	Thailand
+Instituto de Microgravedad Ignacio Da Riva	Spain
+Universidad de Leon	Spain
+CanmetMATERIALS	Canada
+Natural Resources Canada	Canada
+Innovation Energy & Technology Sector - Natural Resources Canada	Canada
+Solvay SA	Belgium
+Indian Statistical Institute Kolkata	India
+Indian Statistical Institute	India
+University of Michigan Dearborn	USA
+Minnesota State Colleges & Universities	USA
+Minnesota State University Mankato	USA
+Imam Khomeini International University	Iran
+UCB Pharma SA	Belgium
+Observatoire de la Cote d'Azur	France
+Universidade Federal do Piaui	Brazil
+China Construction Bank	China
+King Mongkuts University of Technology Thonburi	Thailand
+Chongqing Institute of Engineering	China  
+Guangxi Normal University for Nationalities	China

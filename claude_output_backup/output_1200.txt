@@ -1,0 +1,197 @@
+ Here is the list of nations for the provided institutes and universities:
+
+CAS Institutes of Science & Development 	China
+University of Texas Arlington 	United States
+Xi'an Institute of Optics & Precision Mechanics CAS 	China
+Corning Inc 	United States
+ETH Zurich 	Switzerland
+Monash University 	 Australia
+Monash University Sunway 	Malaysia
+Illinois Institute of Technology	United States
+Texas A&M University System	United States 
+Texas A&M University College Station	United States
+Chang Gung University	Taiwan
+National Research Council Canada	Canada
+University of California Davis 	United States
+Institute of High Energy Physics CAS	China
+University of California Irvine 	United States
+National Textile University - Pakistan  	Pakistan
+Ministry of Natural Resources of the People's Republic of China	China
+University of Tennessee System	United States
+University of Tennessee Knoxville	United States
+Cancer Institute & Hospital - CAMS	China
+Jinggangshan University	China
+Shanxi Institute of Technology	China
+Newcastle University - UK 	United Kingdom
+Tarim University	China
+Indian Association for the Cultivation of Science (IACS) - Jadavpur	India
+Department of Science & Technology (India)	India
+Sandia National Laboratories	United States
+Guangdong Academy of Sciences	China
+Institute of New Materials Guangdong Academy of Sciences	China
+Institute of Microelectronics CAS	China
+Ecole Centrale de Lyon 	France
+China National Institute of Standardization	China
+Dublin City University 	Ireland
+Auburn University  	United States
+Auburn University System	United States
+National Institutes of Health (NIH) - USA	United States
+NIH National Cancer Institute (NCI) 	United States
+Polytechnique Montreal	Canada
+Picardie Universites	France
+Universite de Technologie de Compiegne	France
+Duquesne University	United States
+University of Science & Technology Liaoning	China
+National Metrology Institute of Japan	Japan
+The Institute of Remote Sensing & Digital Earth CAS	China
+Beijing Normal University Zhuhai	China
+Institute of Engineering Thermophysics CAS	China
+China Academy of Chinese Medical Sciences	China  
+Lithuanian Institute of Agrarian Economics	Lithuania
+Suzhou Institute of Nano-Tech & Nano-Bionics CAS	China
+University of Balochistan  	Pakistan
+University of Vermont	United States
+State University of New York (SUNY) Albany	United States
+Berlin School of Economics & Law  	Germany
+Egyptian Knowledge Bank (EKB)	Egypt
+Port Said University	Egypt
+Shanghai Institute of Optics & Fine Mechanics	China
+Wuhan Textile University	China
+Francisk Skorina Gomel State University	Belarus
+University of South Carolina Columbia	United States
+University of South Carolina System	United States
+China Guodian	China
+University of Georgia	United States
+Indiana University of Pennsylvania	United States
+Pennsylvania State System of Higher Education (PASSHE)	United States
+Institute for Basic Science - Korea (IBS)  	South Korea
+Harvard T.H. Chan School of Public Health	United States
+Fox Chase Cancer Center	United States
+Luoyang Institute of Science & Technology	China
+Suzhou University of Science & Technology 	China
+Shenyang Normal University	China
+Nanyang Institute of Technology	Singapore
+University of Central Florida	United States
+Beijing Neurosurgical Institute	China
+Roma Tre University	Italy
+University of Massachusetts Amherst	United States
+A*STAR - Institute of Materials Research & Engineering (IMRE)	Singapore
+Agency for Science Technology & Research (A*STAR)	Singapore
+Lasbela University of Agricultural Water & Marine Science 	Pakistan
+Institute of Computing Technology CAS	China
+Institute of Forensic Science Ministry of Justice PRC	China
+Dhofar University  	Oman
+Nanjing Normal University	China
+Changzhou University	China
+Universite Paris-Est-Creteil-Val-de-Marne (UPEC)	France
+Florida State University	United States
+Centrale Lille	France
+Universite de Lille - ISITE	France
+Shanghai Institute of Technical Physics CAS	China
+University of Aberdeen  	United Kingdom 
+Institute of Crop Sciences CAAS	China
+Chinese Academy of Meteorological Sciences (CAMS)	China
+Institute of Biophysics CAS	China
+Institute of Grassland Research CAAS	China
+Hanyang University  	South Korea
+Dongguan Polytechnic	China
+Meiji University	Japan
+Peking Union Medical College	China
+Florida A&M University  	United States
+Bank of China	China
+Nanjing Xiaozhuang University	China
+Pakistan Institute of Engineering & Applied Science	Pakistan
+Shaheed Zulfikar Ali Bhutto Institute of Science & Technology	Pakistan
+Emory University	United States
+PetroChina Company  	China
+Brunel University	United Kingdom
+Hainan Medical University  	China
+Braunschweig University of Technology 	Germany
+Institute of Agricultural Economics & Development CAAS	China
+Samsung  	South Korea
+RWTH Aachen University	Germany
+University of Reading	United Kingdom
+Chongqing Normal University  	China
+Institut national de la recherche scientifique (INRS)	Canada
+Research Center for Eco-Environmental Sciences (RCEES)	China
+China Minsheng Banking	China
+Seventh Medical Center of Chinese PLA General Hospital	China
+Universite de Lorraine 	France
+Hezhou University  	China
+University of Pisa 	Italy
+Pennsylvania State University	United States
+University of Colorado Denver	United States
+Chinese Academy of Forestry	China
+Research Institute of Wood Industry CAF	China
+State University of New York (SUNY) Buffalo	United States
+A*STAR - Institute for Infocomm Research (I2R)	Singapore
+Yunnan Normal University	China
+Pushkov Institute of Terrestrial Magnetism Ionosphere & Radio Wave Propagation	Russia
+Goethe University Frankfurt 	Germany
+University of Kashmir	India
+Research Institute of Forest Resources Information Technique CAF	China
+Financial University Under the Government of Russian Federation	Russia
+St. Joseph's College of Engineering Chennai  	India  
+Yunnan Agricultural University	China
+Johns Hopkins Medicine	United States
+Zhejiang Laboratory 	China
+China Ship Scientific Research Center	China
+National Yang Ming Chiao Tung University  	Taiwan
+UK Atomic Energy Authority	United Kingdom
+Incheon National University  	South Korea
+Anhui Science & Technology University	China
+Collaborative Innovation Center for Advanced Ship & Deep Sea Exploration	China
+Malardalen University	Sweden
+Central Academy of Fine Arts	China
+National Institute of Food & Drug Control - China 	China
+Southwestern Institute of Physics - China	China
+Huaiyin Institute of Technology	China
+Microsoft Research Asia	China
+Eastman Chemical Company	United States
+Tomsk State University	Russia
+Kochi University Technology 	Japan
+Bogor Agricultural University	Indonesia	
+University of Indonesia	Indonesia
+University of Bielefeld  	Germany
+Al Jouf University  	Saudi Arabia
+Halmstad University	Sweden
+Pennsylvania State University - University Park	United States
+Cyprus University of Technology 	Cyprus
+Southern Medical University - China	China
+Pace University	United States
+Inspur	China
+Purdue University System	United States
+Purdue University West Lafayette Campus	United States
+Purdue University	United States
+Agricultural Bank of China	China 
+Universiti Utara Malaysia  	Malaysia
+Huazhong Agricultural University	China
+Hungkuang University  	Taiwan
+University of Sheffield 	United Kingdom
+White Rose University Consortium	United Kingdom 
+University of Leeds	United Kingdom
+Hohai University	China
+University of Seoul  	South Korea
+University of Louisiana System	United States
+University of New Orleans	United States
+Tarsus University	Turkey
+Imam Abdulrahman Bin Faisal University	Saudi Arabia
+Trinity College Dublin	Ireland 
+Shenyang Jianzhu University	China
+University of Primorska	Slovenia
+Montpellier Business School	France
+Shanghai Ocean University	China
+Shaoguan University  	China
+Industrial & Commercial Bank of China (ICBC)	China
+National Pingtung University Science & Technology  	Taiwan
+Suwon University	South Korea
+Guangzhou Radio Group	China
+Universitat Politecnica de Catalunya 	Spain
+Huzhou University	China
+Universidade Federal do Rio de Janeiro	Brazil
+Consiglio Nazionale delle Ricerche (CNR)	Italy
+Istituto di Scienze Applicate e Sistemi Intelligenti Eduardo Caianiello (ISASI-CNR)	Italy
+Shanghai Institute of Ceramics CAS	China
+Heze University	China
+Beijing Municipal Research Institute of Environment	China
+Eberhard

@@ -1,0 +1,196 @@
+ Here is the list of universities and institutes with their nation:
+
+European University Cyprus	Cyprus
+Universite de Sfax	Tunisia
+Shaqra University	Saudi Arabia
+Dankook University	South Korea
+Inner Mongolia University of Finance & Economics	China
+Namseoul University	South Korea 
+Fraunhofer Gesellschaft	Germany
+German-Jordanian University	Jordan
+University of Missouri Saint Louis	United States
+University Moratuwa	Sri Lanka
+Gonzaga University	United States
+Universidad Rey Juan Carlos	Spain
+Shanghai International Studies University	China
+Sakarya University of Applied Science	Turkey
+China Europe International Business School	China
+Leiden University Medical Center (LUMC)	Netherlands
+Narxoz University	Kazakhstan
+L.N. Gumilyov Eurasian National University 	Kazakhstan
+Shanghai Business School	China
+Estonian University of Life Sciences	Estonia
+Los Alamos National Laboratory	United States
+Orebro University	Sweden
+University of Burdwan	India
+Mapua University	Philippines
+Charles Darwin University	Australia
+Fiji National University (FNU)	Fiji
+National Institute for Materials Science	Japan
+University of Health & Rehabilitation Sciences	Iran
+Hunan Agricultural University	China
+National Formosa University	Taiwan
+Asia University Taiwan	Taiwan
+Shenzhen Bay Laboratory	China
+Institute of Zoology CAS	China
+Thermo Fisher Scientific	United States
+Hong Kong Metropolitan University	China
+Rutgers State University Camden	United States
+Chuiko Institute of Surface Chemistry of NASU	Ukraine
+Ministry of Education & Science of Ukraine	Ukraine
+Taras Shevchenko National University Kiev	Ukraine
+Instituto Politecnico Nacional - Mexico	Mexico
+Curtin University Malaysia	Malaysia
+Hubei Engineering University	China
+Universite Cote d'Azur	France 
+Nvidia Corporation	United States
+Suzhou Laboratory	China
+Economic Research Institute ASEAN & East Asia	Malaysia
+China Electronics Corporation	China
+Universidad Francisco de Vitoria	Spain
+University of Hertfordshire	United Kingdom
+Hannam University	South Korea
+University of Dayton	United States
+University of Boras	Sweden
+Okan University	Turkey
+Atilim University	Turkey
+Thales Group	France
+Harvard Medical School	United States
+University of California Santa Cruz	United States
+Institut National Polytechnique de Grenoble	France
+University of Kitakyushu	Japan
+Institut National de la Sante et de la Recherche Medicale (Inserm)	France
+Universite Claude Bernard Lyon 1	France
+UK Centre for Ecology & Hydrology (UKCEH)	United Kingdom
+Guizhou Education University	China
+Wake Forest University	United States
+National Sun Yat Sen University	Taiwan 
+Brigham & Women's Hospital	United States
+VTT Technical Research Center Finland	Finland
+Yangtze River Water Resources Protection Bureau	China
+United States Navy	United States
+Naval Research Laboratory	United States
+Tokyo University of Technology	Japan
+Wuhan Institute of Physics & Mathematics CAS	China
+Ecole Normale Superieure de Constantine	Algeria
+Universite Constantine	Algeria
+Moi University	Kenya
+Suzhou Vocational University	China
+Lithuanian Energy Institute	Lithuania
+Universidad de Malaga	Spain
+Beirut Arab University	Lebanon
+University of Texas Southwestern Medical Center Dallas	United States
+University of Massachusetts Lowell	United States
+Shenyang University of Chemical Technology	China
+University of Louisiana Lafayette	United States
+Vellore Institute of Technology (VIT)	India
+VIT Chennai	India
+Hindustan Institute of Technology & Science	India
+VIT Bhopal University	India
+Institut Catholique d'Arts et Metiers de Toulouse	France
+Nisantasi University	Turkey 
+California State University Los Angeles	United States
+Kent State University Salem	United States
+Kent State University Kent	United States
+Kent State University	United States
+Wuhan Institute of Rock & Soil Mechanics CAS	China
+Vanderbilt University	United States
+Universite Polytechnique Hauts-de-France	France
+Nantong University	China
+Ural Federal University	Russia
+Japan Society for the Promotion of Science	Japan
+Singapore Institute of Technology	Singapore
+PCSIR Laboratories Complex	Pakistan
+Babes Bolyai University from Cluj	Romania
+Humboldt University of Berlin	Germany
+Eastern Mediterranean University	Cyprus
+Nazarbayev University	Kazakhstan
+O.P. Jindal Global University	India
+Rzeszow University of Technology	Poland
+SRM Institute of Science & Technology Chennai	India
+African University of Science & Technology	Nigeria
+Chimie ParisTech	France
+China Medical University Hospital - Taiwan	Taiwan
+Universidade Federal de Mato Grosso do Sul	Brazil
+Anqing Normal University	China
+Synopsys Inc	United States 
+Facebook Inc	United States
+Cleveland State University	United States
+University of Phayao	Thailand
+South Valley University Egypt	Egypt
+Macao Polytechnic University	China
+Istituto di Fotonica e Nanotecnologie (IFN-CNR)	Italy
+Nanjing Forest Police College	China
+Public Authority for Applied Education & Training (PAAET) - Kuwait	Kuwait
+Institute of Modern Physics CAS	China
+Florida Polytechnical University	United States
+Centro de I+D+I en Procesado de la Informacion Telecomunicaciones (IPT)	Spain
+Hungarian Research Centre for Natural Sciences	Hungary
+Science & Technology Facilities Council (STFC)	United Kingdom
+Aix-Marseille Universite	France
+Chongqing College of Electronic Engineering	China
+Barcelona Institute of Science & Technology	Spain
+Institut de Ciencies Fotoniques (ICFO)	Spain
+State University of New York (SUNY) Binghamton	United States
+University of Patras	Greece
+Mangosuthu University of Technology	South Africa
+Thiagarajar College of Engineering	India
+VIT Vellore	India
+GMR Institute of Technology	India
+New Mexico State University	United States
+Misr University for Science & Technology	Egypt
+Huzhou Vocational & Technical College	China
+Potsdam Institut fur Klimafolgenforschung	Germany
+SUNY Polytechnic Institute	United States
+Institute for Molecular Science (IMS)	Japan
+Graduate University for Advanced Studies - Japan	Japan 
+National Institutes of Natural Sciences (NINS) - Japan	Japan
+Anshun University	China
+Near East University 	Cyprus
+Rothamsted Research	United Kingdom
+Universiti Pendidikan Sultan Idris	Malaysia
+Missouri State University	United States
+Instituto Universitario de Lisboa	Portugal
+Azienda Ospedaliero Universitaria Pisana	Italy
+Agricultural Research Center - Egypt	Egypt
+Institut National des Sciences Appliquees de Toulouse	France
+Ioffe Physical Technical Institute	Russia
+Universidade de Coimbra	Portugal
+Austrian Academy of Sciences	Austria
+Guizhou University of Traditional Chinese Medicine	China
+Ben Gurion University	Israel
+Oil & Gas University of Ploiesti	Romania
+Guangxi Minzu University	China
+Hirosaki University	Japan
+Saint Marys University - Canada	Canada
+Indian Institute of Technology (IIT) - Kanpur	India
+Istituto di Ricerche sulla Combustione (IRC-CNR)	Italy
+Prince Sultan University	Saudi Arabia
+Menofia University	Egypt
+Baskent University	Turkey
+Africa Rice Center	Benin
+International Rice Research Institute (IRRI)	Philippines
+Guangdong Academy of Agricultural Sciences	China
+GD Goenka University	India
+Prince of Songkla University	Thailand
+Kyoto Womens University	Japan
+Tomsk Polytechnic University	Russia
+Tomsk State University Architecture & Building	Russia
+Institute of High Current Electronics Siberian Branch Russian Academy of Sciences	Russia
+Al-Farabi Kazakh National University	Kazakhstan
+Universita di Modena e Reggio Emilia	Italy
+Istituto Officina dei Materiali (IOM-CNR)	Italy
+Yale NUS College	Singapore
+University of Chester	United Kingdom
+Korea National University of Transportation	South Korea
+Izmir Katip Celebi University	Turkey
+Universidade Federal de Sao Carlos	Brazil
+Graphic Era University	India
+Czech Academy of Sciences	Czech Republic
+University for Library Studies & Information Technology	Bulgaria
+University of Udine	Italy
+Korea Institute of Industrial Technology (KITECH)	South Korea
+Eskisehir Technical University	Turkey
+Universidade Estadual de Campinas	Brazil
+Sogang University	South Korea
+Universita Ca Foscari Venezia 

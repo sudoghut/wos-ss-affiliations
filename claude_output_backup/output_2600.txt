@@ -1,0 +1,176 @@
+ Al Azhar University	Egypt 
+Xishuangbanna Tropical Botanical Garden CAS	China
+University of Agriculture Abeokuta	Nigeria
+Southern Marine Science & Engineering Guangdong Laboratory (Zhanjiang)	China
+Athens University of Economics & Business	Greece
+University of Salento  	Italy
+Ecole Normale Superieure (ENS)	France
+Institute of Medical Technology & Equipment	China
+Systems Research Institute of the Polish Academy of Sciences	Poland 
+University of Mosul	Iraq
+STFC Rutherford Appleton Laboratory	UK
+Romanian Academy of Sciences  	Romania
+Rajamangala University of Technology Thanyaburi  	Thailand
+University of Lincoln	UK
+University of Pavia	Italy
+CEA	France 
+Yokohama National University	Japan  
+Beijing Genomics Institute (BGI)	China
+Istituto di Informatica e Telematica (IIT-CNR)	Italy
+University of Alabama Huntsville	USA
+National Institute of Technology Jamshedpur	India
+Indian Institute of Technology (IIT) - Roorkee	India 
+Google Incorporated	USA
+Shenzhen Institute of Computing Sciences  	China
+Guangdong Pharmaceutical University	China
+CUHK Shenzhen Research Institute	China
+Shenzhen JL Computational Science & Application Research Institute	China
+London School of Hygiene & Tropical Medicine	UK
+Fujian University of Traditional Chinese Medicine	China
+De La Salle University	Philippines
+Universidad de Tarapaca	Chile
+University of Texas at Tyler	USA  
+Near East University 	Northern Cyprus
+Yunnan University of Finance & Economics  	China
+HRH Princess Chulabhorn College of Medical Science	Thailand
+Chulabhorn Royal Academy	Thailand
+University of Westminster	UK
+Biotechnology and Biological Sciences Research Council (BBSRC)	UK
+Rothamsted Research 	UK
+Westchester Medical Center	USA
+New York Medical College	USA
+University of Natural Resources & Life Sciences Vienna	Austria
+Philips Research  	Netherlands
+Philips	Netherlands
+Kharkov Institute of Physics & Technology	Ukraine 
+VN Karazin Kharkiv National University	Ukraine
+Tilburg University	Netherlands
+Kennedy Krieger Institute	USA
+National Chung Cheng University	Taiwan
+Kun Shan University	Taiwan 
+Korea Research Institute of Standards & Science (KRISS)  	Korea
+University of St Andrews  	UK
+China Pharmaceutical University	China
+Scripps Institution of Oceanography	USA
+ICFAI Business School (IBS)	India
+The ICFAI Foundation for Higher Education (IFHE)	India 
+MINES ParisTech	France
+Philips Healthcare  	Netherlands
+Royal Brompton Hospital	UK
+WHU - Otto Beisheim School of Management	Germany
+National Institute of Environmental Health Chinese Center for Disease Control & Prevention	China
+CNRS - National Institute of Nuclear and Particle Physics (IN2P3)	France
+Vrije Universiteit Brussel	Belgium
+Centro de Domotica Integral (CeDInt)	Spain
+Kyushu Institute of Technology	Japan
+CNRS - Institute of Physics (INP)  	France
+National Institute for Physiological Sciences (NIPS)	Japan
+NIH National Eye Institute (NEI)	USA 
+Ostfold University College	Norway 
+Vietnam Academy of Science & Technology (VAST)	Vietnam
+University of Namur	Belgium
+University of Mons	Belgium
+Jining Medical University	China
+Universidad Catolica de la Santisima Concepcion	Chile
+Agricultural University Peshawar	Pakistan
+Universiti Pendidikan Sultan Idris 	Malaysia
+Exxon Mobil Corporation	USA
+Shenzhen Institute of Neuroscience  	China
+Universite de Kairouan	Tunisia
+Universite de la Manouba	Tunisia
+Universite de Jendouba	Tunisia
+Dokkyo Medical University	Japan
+Louisiana State University Health Sciences Center New Orleans	USA
+University Hospital of Bern	Switzerland
+University of Minnesota Hospital	USA  
+Advanced Energy Science & Technology Guangdong Laboratory	China  
+Missouri State University 	USA  
+CSIC - Instituto de Ciencia de Materiales de Madrid (ICMM)	Spain
+Polytechnic Institute of Lisbon	Portugal
+Instituto Politecnico de Santarem	Portugal
+Instituto Universitario de Lisboa 	Portugal 
+China Earthquake Administration	China
+Universite Jean Monnet	France
+European Theoretical Spectroscopy Facility (ETSF)	Germany
+Raman Research Institute (RRI)	India
+Ming Chi University of Technology	Taiwan  
+Sechenov First Moscow State Medical University	Russia
+Charotar University of Science & Technology - Charusat	India 
+Tokyo University of Science	Japan
+Mepco Schlenk Engineering College	India
+Princess Nourah bint Abdulrahman University	Saudi Arabia
+Xi'an Medical University	China
+University of Belgrade	Serbia  
+Amazon.com	USA  
+Baylor College of Medicine	USA
+Military University of Technology in Warsaw	Poland
+Pakistan Institute of Nuclear Science & Technology	Pakistan  
+Karamanoglu Mehmetbey University	Turkey
+University of Technology- Iraq	Iraq
+National Engineering Research Center for Water Transport Safety  China
+Nile University	Egypt
+Universite de Bourgogne  	France
+Saveetha School of Engineering	India
+Saveetha Institute of Medical & Technical Science	India
+Shiv Nadar University	India
+University of Petroleum & Energy Studies (UPES)  	India
+University of Granada	Spain  
+Ho Chi Minh City University of Technology (HCMCUT)	Vietnam
+Iwate Prefectural University	Japan
+Mohammed V University in Rabat	Morocco
+U.S. Army Corps of Engineers  	USA
+U.S. Army Engineer Research & Development Center (ERDC)	USA
+Old Dominion University	USA
+Munzur University	Turkey  
+Guang'anmen Hospital CACMS	China  
+Arts et Metiers Institute of Technology	France 
+Moscow State University of Civil Engineering	Russia
+University of Veterinary & Animal Science - Pakistan	Pakistan
+Korea Institute for Advanced Study (KIAS)	Korea
+Ewha Womans University	Korea  
+CSIR - Indian Institute of Integrative Medicine (IIIM)	India
+Azienda Ospedaliero Universitaria Pisana 	Italy
+Helmholtz-Center Potsdam GFZ German Research Center for Geosciences	Germany
+CSIC-CAR-UR - Instituto de Ciencias de la Vid y del Vino (ICVV)	Spain
+Institut de Recerca Biomedica - IRB Lleida	Spain
+Universidad de La Rioja  	Spain
+Agricultural Research Center - Egypt 	Egypt
+Pitzer College	USA
+Claremont Colleges	USA  
+CSIC - UPV EHU - Centro de Fisica de Materiales (CFM)	Spain
+Institut National des Sciences Appliquees de Toulouse 	France
+St. Petersburg Scientific Centre of the Russian Academy of Sciences  	Russia
+Ioffe Physical Technical Institute 	Russia
+Mays Business School	USA
+Technische Universitat Wien	Austria
+SVKM's NMIMS (Deemed to be University)	India
+Irkutsk National Research Technical University (INRTU)	Russia
+Mianyang Teachers' College	China
+The Santa Fe Institute	USA  
+International School for Advanced Studies (SISSA)	Italy
+Universidade de Coimbra 	Portugal
+National Institute of Technology Kurukshetra	India
+Austrian Academy of Sciences 	Austria
+Sanford Burnham Prebys Medical Discovery Institute	USA
+Universitas Bina Nusantara	Indonesia 
+Masaryk University Brno	Czech Republic
+Bentley University	USA
+CSIC - Instituto de Estructura de la Materia (IEM)	Spain
+University of Cape Coast	Ghana  
+Institut Paoli-Calmette (IPC)	France
+UNICANCER	France
+Edge Hill University  	UK
+Sookmyung Women's University	Korea
+Guizhou University of Traditional Chinese Medicine 	China 
+Aomori University of Health & Welfare	Japan 
+Niigata University	Japan
+Chosun University  	Korea
+NYU Shanghai	China
+Artvin Coruh University	Turkey 
+National Renewable Energy Laboratory - USA	USA 
+Ben Gurion University 	Israel
+Le Reseau International des Instituts Pasteur (RIIP)	France
+University of Kansas	USA
+Pepperdine University	USA
+College of Charleston	USA
+Oil & Gas University of

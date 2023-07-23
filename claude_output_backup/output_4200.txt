@@ -1,0 +1,172 @@
+ Here are the nations of the institutes/universities:
+
+Ecole Normale Superieure de Lyon (ENS de LYON)	France
+National Institute for Nutrition & Health Chinese Center for Disease Control & Prevention	China
+Universidad de los Andes (Colombia)	Colombia
+National Ageing Research Institute	Australia
+Main Astronomical Observatory of NASU	Ukraine 
+General Atomics & Affiliated Companies	United States
+Almaarefa University	Saudi Arabia
+Oxford University Hospitals NHS Foundation Trust	United Kingdom
+Central Taiwan University Science & Technology	Taiwan
+Agenzia Spaziale Italiana (ASI)	Italy
+Mendel University in Brno	Czech Republic
+National Metrology Institute of South Africa (NMISA)	South Africa
+Forestry & Forest Products Research Institute - Japan	Japan
+Shahid Beheshti University Medical Sciences	Iran
+Mashhad University Medical Science	Iran
+Zahedan University of Medical Sciences	Iran
+Aksaray University	Turkey
+University of Wroclaw	Poland
+National Acoustic Laboratories	Australia
+Istituto Nazionale di Ricerca Metrologica (INRIM)	Italy
+Mines Saint-Etienne	France
+BIBA - Bremer Institut fur Produktion & Logistik 	Germany
+Murdoch Children's Research Institute	Australia
+Pacific University	United States
+National Institute of Parasitic Diseases Chinese Center for Disease Control & Prevention	China
+Seoul National University Hospital	South Korea
+CSIC - Instituto de Diagnostico Ambiental y Estudios del Agua (IDAEA)	Spain
+Osaka Electro-Communication University	Japan
+Kwansei Gakuin University	Japan
+Walter Sisulu University  	South Africa
+Institute of Physics of the National Academy of Sciences of Ukraine	Ukraine
+G.S. Pisarenko Institute for Problems of Strength National Academy of Sciences of Ukraine	Ukraine
+NERC British Antarctic Survey	United Kingdom
+Berlin Institute of Health  	Germany
+CINVESTAV - Centro de Investigacion y de Estudios Avanzados del Instituto Politecnico Nacional	Mexico
+Instituto Nacional de Astrofisica Optica y Electronica	Mexico
+Centre de Visio per Computador (CVC)	Spain
+National Oceanic Atmospheric Admin (NOAA) - USA	United States
+Faculdade de Medicina do ABC 	Brazil
+Humanitas University	Italy
+Universidade Federal do Estado do Rio de Janeiro	Brazil
+Centre for Eye Research Australia	Australia
+Royal Victorian Eye & Ear Hospital	Australia
+Institut d'Investigacio Biomedica de Bellvitge (IDIBELL)	Spain
+Centro de Medicina Regenerativa de Barcelona	Spain
+Hospital Duran i Reynals	Spain
+Bellvitge University Hospital	Spain
+Fukuoka Institute of Technology	Japan
+Catalan Institute of Nanoscience & Nanotechnology (ICN2)	Spain
+IRCCS Humanitas Research Hospital	Italy
+Royal Liverpool University Hospital	United Kingdom
+Royal Liverpool & Broadgreen University Hospitals NHS Trust	United Kingdom  
+Higher Colleges of Technology - United Arab Emirates 	United Arab Emirates
+Icahn School of Medicine at Mount Sinai	United States
+VA Palo Alto Health Care System	United States
+Institut Curie	France
+National Centre for Nuclear Research	Poland
+Comision Nacional de Energia Atomica (CNEA)	Argentina
+Shandong Agriculture & Engineering University	China
+Hungarian Institute for Nuclear Research	Hungary
+SAS Institute Inc	United States
+Universita Kore di ENNA 	Italy
+Nuclear Physics Institute of the Czech Academy of Sciences	Czech Republic
+Universidad de Huelva	Spain
+Harbin Institute of Technology Graduate School at Shenzhen	China
+STMicroelectronics	France
+University of Insubria	Italy
+Shenyang Pharmaceutical University	China
+University College of Southeast Norway	Norway 
+Andhra University	India
+Zhejiang Shuren University	China
+Ganpat University	India
+Southern Cross University	Australia
+Bangalore University	India
+TU Clausthal	Germany
+Mitchell Hamline School of Law	United States
+Isfahan University of Technology	Iran
+Drake University	United States
+University of Prince Edward Island 	Canada
+Nepal Academy of Science & Technology (NAST)	Nepal
+Universite Abbes Laghrour Khenchela	Algeria
+University of Moncton	Canada
+Shenyang Institute of Engineering	China
+Yunnan University of Chinese Medicine	China
+Southwest University of Political Science & Law - China	China
+Shanghai Customs College	China
+Taichung Veterans General Hospital	Taiwan
+Universidad de Cordoba	Argentina 
+IHE Delft Institute for Water Education	Netherlands
+Jiangxi University of Traditional Chinese Medicine	China
+University of Abomey Calavi	Benin
+Physikalisch-Technische Bundesanstalt (PTB)	Germany
+Texas Womans University	United States
+Guilin Tourism University	China
+Belgorod State Technological University	Russia
+Shenzhen Stock Exchange (SZSE)	China
+Huangshan University	China
+Universidad de Concepcion	Chile
+Copperbelt University 	Zambia
+University of Barishal	Bangladesh
+Deloitte Touche Tohmatsu Limited	United Kingdom
+Guangdong Polytechnic of Science & Technology	China
+Mahatma Gandhi University Kerala	India
+Western Norway University of Applied Sciences	Norway
+Christ University	India
+Norwegian Meteorological Institute	Norway
+Kurukshetra University	India 
+Changchun Normal University	China
+Environment & Climate Change Canada	Canada
+Shenzhen Institute of Building Research Co Ltd	China
+Tianjin Academy of Agricultural Sciences	China
+Moscow Power Engineering Institute	Russia
+Shenzhen Nanshan Center for Chronic Disease Control	China
+Sokoine University of Agriculture	Tanzania
+Tomsk State University of Control Systems & Radioelectronics	Russia
+University of Erfurt	Germany
+China BAK Battery	China
+Zhejiang Yuexiu University	China
+Chuzhou University	China
+Basque Center for Applied Mathematics (BCAM)	Spain
+Middle Tennessee State University	United States
+Polzunov Altai State Technical University	Russia
+Chengdu Medical College	China
+Jilin Agricultural University	China
+Pacific Institute for Research & Evaluation (PIRE)	United States
+Sungkyul University	South Korea
+Hainan Tropical Ocean University	China
+Norwegian Geotechnical Institute NGI	Norway
+Polytechnic Institute of Viana do Castelo	Portugal
+Institute for Plasma Research (IPR)	India
+Changzhou Vocational Institute of Engineering	China
+Zhejiang University of Water Resources and Electric Power	China
+African Development Bank Group (AfDB)	Multinational
+Baise University	China
+Yangling Vocational & Technical College	China
+Tonghua Normal University	China
+Istituto per i Polimeri Compositi e Biomateriali (IPCB-CNR)	Italy
+Heilongjiang River Fisheries Research Institute CAFS	China
+B. Verkin Institute for Low Temperature Physics & Engineering of the National Academy of Sciences of Ukraine	Ukraine
+Naval Aviation University - China	China
+Sobolev Institute of Mathematics	Russia
+Barbara Ann Karmanos Cancer Institute	United States
+N.N. Semenov Federal Research Centre for Chemical Physics Russian Academy of Sciences	Russia
+Nicolaus Copernicus University  	Poland
+Universidade Federal de Santa Maria (UFSM) 	Brazil
+Istituto di Chimica della Materia Condensata e di Tecnologie per l Energia (ICMATE-CNR)	Italy
+Fujitsu Ltd	Japan
+Fujitsu Laboratories Ltd	Japan
+Steklov Mathematical Institute of the Russian Academy of Sciences	Russia
+Manukau Institute of Technology	New Zealand
+University of Arkansas Little Rock	United States
+Soft-Impact	Canada
+AbbVie	United States
+Universite Amar Telidji de Laghouat	Algeria
+Peking University Shenzhen Graduate School	China
+Suez Canal University	Egypt
+Damietta University	Egypt
+Addis Ababa University	Ethiopia
+Lanzhou Institute of Technology	China
+Xinjiang Technical Institute of Physics & Chemistry CAS	China
+Iwate University	Japan
+Semiconductor Manufacturing International Corporation (SMIC)	China
+Ahmadu Bello University	Nigeria
+ETS de Ingenieria Sistemas de Telecomunicacion	Spain
+Texas State University San Marcos	United States
+Engelhardt Institute of Molecular Biology RAS	Russia
+Changchun University of Architecture & Civil Engineering	China
+Baikov Institute of Metallurgy & Materials Science (IMET RAS)	Russia
+Universidad de Cantabria	Spain
+Donetsk Institute for Physics & Engineering named after O.O. Galkin of the National Academy of Sciences of Ukraine	

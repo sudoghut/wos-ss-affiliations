@@ -1,0 +1,186 @@
+ Here is the list of universities/institutes and their corresponding nations in tsv format:
+
+University of Pitesti	Romania
+Universitas Katolik Widya Mandala Surabaya	Indonesia
+University Central Missouri	United States
+El Colegio de la Frontera Sur (ECOSUR)	Mexico
+Denver Health Medical Center	United States
+Instituto de Ciencia de Materiales de Sevilla (ICMS-CSIC)	Spain
+University of Malaysia Sarawak	Malaysia
+Oil Crops Research Institute CAAS	China
+Periyar University	India 
+Mohammed VI Polytechnic University	Morocco
+Centre of Molecular & Macromolecular Studies of the Polish Academy of Sciences	Poland
+Cadi Ayyad University of Marrakech	Morocco
+Queens College NY (CUNY)	United States
+ESCP Business School	France
+Hopital Universitaire Tenon - APHP	France
+Rudjer Boskovic Institute 	Croatia
+Nippon Telegraph & Telephone Corporation	Japan
+Xinjiang Academy of Animal Sciences	China
+VA North Texas Health Care System	United States
+University of Wuppertal	Germany
+Yangtze River Fisheries Research Institute CAFS	China
+National University of La Plata	Argentina
+Centre Hospitalier Universitaire Vaudois (CHUV)	Switzerland
+Ordu University	Turkey
+CIBERNED	Spain
+Instituto de Salud Carlos III	Spain
+Motilal Nehru National Institute of Technology	India
+Smithsonian National Zoological Park & Conservation Biology Institute	United States
+Leibniz Institut fur Evolutions und Biodiversitatsforschung	Germany
+Adyghe State University	Russia
+Russian Presidential Academy of National Economy & Public Administration	Russia
+Buryat State University	Russia
+Institute of Tibetan Plateau Research CAS	China
+Canadian Institute for Advanced Research (CIFAR)	Canada
+Helmholtz Center for Environmental Research (UFZ)	Germany
+Smithsonian National Museum of Natural History	United States
+University of Wisconsin Green Bay	United States
+International Livestock Research Institute (ILRI)	Kenya
+Institute for Agricultural Research Samaru Zaria	Nigeria
+Henan Academy of Agricultural Sciences	China
+Anhui Academy of Agricultural Sciences	China
+ASUSTek Computer	Taiwan
+Istanbul Medipol University 	Turkey
+Ozyegin University	Turkey
+Instituto Politecnico do Cavado e do Ave - IPCA	Portugal
+Children's National Health System	United States
+Ankang University	China
+Swedish Museum of Natural History	Sweden
+AIMST University	Malaysia
+CSIC-UPF - Institut de Biologia Evolutiva (IBE)  	Spain
+Institut Catala de Paleontologia Miquel Crusafont (ICP)	Spain
+Centre de Regulacio Genomica (CRG)	Spain
+Pompeu Fabra University	Spain
+Shenzhen Eye Hospital	China
+Zoological Society of San Diego	United States
+National Institute for Basic Biology (NIBB)	Japan
+Sakarya University	Turkey
+Indian Institute of Technology (IIT) - Dharwad	India
+Bilecik Seyh Edebali University	Turkey
+University of Peradeniya	Sri Lanka
+Uva Wellassa University	Sri Lanka
+Field Museum of Natural History (Chicago)	United States
+Research Institute of Tropical Forestry CAF	China
+Tata Sons	India
+Tata Consultancy Services Limited (TCS)	India
+Boeing	United States
+TOBB Ekonomi ve Teknoloji University	Turkey 
+Institute of Plant & Animal Ecology of the Russian Academy of Sciences	Russia
+University of Venda	South Africa
+Institute of Geography Russian Academy of Sciences	Russia
+South Australian Museum	Australia
+Gustave Roussy	France
+Hopital Universitaire Saint-Louis - APHP	France
+Stavanger University Hospital	Norway
+Haukeland University Hospital	Norway
+Hopital Universitaire Saint-Antoine - APHP	France
+Banner Sun Health Research Institute	United States
+National Institute of Technology Tiruchirappalli	India
+Indian Institute of Technology (IIT) - Hyderabad	India
+University of the Philippines Open University	Philippines
+Far Eastern University	Philippines
+University of Montana System	United States
+University of Puerto Rico Rio Piedras	Puerto Rico
+Smithsonian Environmental Research Center	United States
+University of the Philippines Diliman	Philippines
+University of the Philippines Los Banos	Philippines
+Institute Penyelidikan Perhutanan Malaysia	Malaysia
+Pontificia Universidad Catolica del Ecuador	Ecuador
+University of the Philippines System	Philippines
+International Center for Tropical Agriculture - CIAT	Colombia
+University of Montana	United States 
+Alliance	India
+Space Applications Centre (SAC)	India
+National Chiayi University	Taiwan
+Swiss Federal Institute for Forest Snow & Landscape Research 	Switzerland
+United States Forest Service	United States
+University of Jos	Nigeria
+Sunnybrook Research Institute	Canada
+Rhode Island Hospital	United States
+Butler Hospital Rhode Island	United States
+Johnson & Johnson USA	United States
+Hartford Hospital	United States 
+Sunnybrook Health Science Center	Canada
+Lifespan Health Rhode Island	United States
+Wake Forest University School of Medicine	United States
+Alzheimer's Association	United States
+Cleveland Clinic Foundation	United States
+Wellcome Trust Sanger Institute	United Kingdom
+Nova Southeastern University	United States
+Korea Polar Research Institute (KOPRI)	South Korea
+Earlham Institute	United Kingdom
+Kazusa DNA Research Institute	Japan
+Broad Institute	United States
+University of Massachusetts Worcester	United States
+Woods Hole Oceanographic Institution	United States
+Rockefeller University	United States
+Leibniz Institut fur Zoo und Wildtierforschung	Germany
+Royal Botanic Gardens Kew	United Kingdom
+Australian Museum	Australia
+Colby College	United States
+Suzhou City University	China
+Yaroslav the Wise Novgorod State University	Russia
+Leibniz Institut fur Oberflachenmodifizierung (IOM)	Germany
+Zhejiang Academy of Medical Sciences	China 
+Jiangsu Second Normal University	China
+Guangzhou Academy of Fine Arts	China
+Erzincan Binali Yildirim University	Turkey
+Lincoln University - New Zealand	New Zealand
+Monmouth University	United States
+Jiangsu Police Institute	China
+Wuhan Business University	China
+Universitat Trier	Germany
+Institute of Technical Acoustics of the National Academy of Sciences of Belarus	Belarus
+Institute of Chemical Industry of Forest Products CAF	China
+NSF - Directorate for Computer & Information Science & Engineering (CISE)	United States
+Gomel State Medical University	Belarus
+Institute of Chemical Engineering Guangdong Academy of Sciences	China
+University of Graz	Austria
+Medical University Sofia	Bulgaria
+Coppin State University	United States
+Youngstown State University	United States
+Universite de Gabes	Tunisia
+Nanjing Institute of Agricultural Mechanization CAAS	China
+Nanjing Institute of Geography & Limnology CAS	China
+Brooklyn College (CUNY)	United States
+Trina Solar	China
+University of Chittagong	Bangladesh
+Chaohu University	China
+Universiti Tunku Abdul Rahman (UTAR)	Malaysia
+Kumoh National University Technology	South Korea
+CompuTherm LLC	United States
+Scientific & Technological Center of Unique Instrumentation of the Russian Academy of Sciences	Russia
+Bank of Montreal	Canada
+University of Arkansas Fort Smith	United States 
+British Columbia Institute of Technology	Canada
+Lite-On Technology Corp	Taiwan
+Monmouth College	United States
+Air Liquide	France
+Wuhan Donghu University	China
+Gandhigram Rural Institute	India
+Technical University Zvolen	Slovakia
+University of Public Service	Hungary
+Dolby Laboratories Inc.	United States
+Anhui University of Chinese Medicine	China
+Nanjing General Hospital	China
+Rutgers State University Medical Center	United States
+Charles Sturt University	Australia
+Future University Hakodate	Japan
+Nanjing Sport Institute	China
+Universite de Jijel	Algeria
+Oslo Metropolitan University (OsloMet)	Norway
+Rizhao Polytechnic	China
+UOC Universitat Oberta de Catalunya	Spain
+Nanyang Polytechnic	Singapore
+Loma Linda University	United States
+Kunming General Hospital	China
+LNM Institute of Information Technology	India
+Laurentian University	Canada
+Saab Group	Sweden
+Max Born Institute for Nonlinear Optics & Short Term Spectroscopy	Germany
+SUNY New Paltz	United States
+Slovak University of Technology Bratislava	Slovakia
+National Institute of Technology Rourkela	India
+National Wildlife Research Centre

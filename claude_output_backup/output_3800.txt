@@ -1,0 +1,177 @@
+ Claremont Graduate School,United States
+Birkbeck University London,United Kingdom 
+University of London School Oriental & African Studies (SOAS),United Kingdom
+National Center for Chronic & Noncommunicable Disease Control & Prevention Chinese Center for Disease Control & Prevention,China
+Institute of BioMedical Engineering - CAMS,China
+Kaunas University of Technology,Lithuania
+National Marine Environmental Monitoring Center,China
+Universidad Nacional de Colombia,Colombia
+Bashkir State Medical University,Russia
+Institut d'Etudes Politiques Paris (Sciences Po),France
+Samara Scientific Center of the Russian Academy of Sciences,Russia
+University of Oklahoma Health Sciences Center,United States
+Grenoble Ecole Management,France
+Guangzhou Institute of Geography Guangdong Academy of Sciences,China
+Shougang Group,China
+Nanjing Normal University of Special Education,China 
+GlobalFoundries,United States
+CSIC-UIB - Instituto de Fisica Interdisciplinar y Sistemas Complejos (IFISC),Spain
+National Astronomical Observatory of Japan (NAOJ),Japan
+Beijing Advanced Sciences & Innovation Center CAS,China
+American University of Sharjah,United Arab Emirates 
+Gansu University of Political Science & Law,China
+Swiss Federal Institute of Aquatic Science & Technology (EAWAG),Switzerland
+National University of Political Studies & Public Administration,Romania
+Changchun University of Chinese Medicine,China
+Resources for the Future,United States
+Xiamen Tungsten Co Ltd,China
+Beijing Institute of Genomics CAS,China
+NASA Goddard Space Flight Center,United States
+California State University Fullerton,United States
+Infrastructure University Kuala Lumpur (IUKL),Malaysia
+Norwegian University of Life Sciences,Norway
+Leibniz Institut fur Plasmaforschung und Technologie,Germany
+South Eastern University of Sri Lanka,Sri Lanka
+A*STAR - Singapore Bioimaging Consortium (SBIC),Singapore
+A*STAR - Institute of Bioengineering & Bioimaging (IBB),Singapore
+Natural Environment Research Council (NERC),United Kingdom 
+Plymouth Marine Laboratory,United Kingdom
+NERC National Centre for Earth Observation,United Kingdom
+University for Development Studies,Ghana
+Innovative Scientific Solutions Inc.,United States
+Plastic Surgery Hospital - CAMS,China
+Yokohama City University,Japan  
+Institute of Eco-environmental & Soil Sciences Guangdong Academy of Sciences,China
+David Geffen School of Medicine at UCLA,United States
+University of California Los Angeles Medical Center,United States
+October 6 University (O6U),Egypt
+Ain Shams University,Egypt
+Telkom University,Indonesia
+Universidade Federal do Espirito Santo,Brazil
+Lishui University,China
+University of Montenegro,Montenegro
+Leibniz Institut fur Tropospharenforschung (TROPOS),Germany
+University of Tehran,Iran
+Toyota Motor Corporation,Japan
+Ecole Nationale dIngenieurs de Sfax (ENIS),Tunisia
+University of Central Arkansas,United States
+Taibah University,Saudi Arabia
+Universidade Federal do Parana,Brazil
+Nosov Magnitogorsk State Technical University,Russia 
+Guangxi University of Finance & Economics,China
+Rollins School Public Health,United States
+Okayama Prefectural University,Japan
+NICTA,Australia
+West University of Timisoara,Romania
+Lublin University of Technology,Poland
+Zhongkai University of Agriculture & Engineering,China
+Intelligent Fusion Technology,China
+Binzhou Polytechnic,China
+University of Zielona Gora,Poland
+National Center Atmospheric Research (NCAR) - USA,United States
+Meharry Medical College,United States
+Tohoku Gakuin University,Japan
+Technical University of Crete,Greece
+Universidad ICESI,Colombia
+Universidad de la Laguna,Spain
+Instituto de Astrofisica de Canarias,Spain
+New Mexico Institute of Mining Technology,United States
+Samsung Display,South Korea
+Vidyasirimedhi Institute of Science & Technology,Thailand
+Electricite de France (EDF),France
+Kermanshah University of Technology,Iran 
+Korea Aerospace University,South Korea
+CSIC - Instituto de Fisica Fundamental (IFF),Spain 
+BMW AG,Germany
+Ecole nationale superieure de chimie de Montpellier,France
+Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI),France
+Jiangsu Academy of Agricultural Sciences,China
+Department of Space (DoS) Government of India,India
+Indian Space Research Organisation (ISRO),India
+Vikram Sarabhai Space Center (VSSC),India
+Al-Nahrain University,Iraq
+Institute of Soil & Water Conservation (ISWC) CAS,China
+Zhejiang Cancer Hospital,China
+Institute of Vertebrate Paleontology & Paleoanthropology CAS,China
+Can Tho University,Vietnam
+Leibniz Institut fur Katalyse e.V. an der Universitat Rostock (LIKAT),Germany
+Hamad Bin Khalifa University-Qatar,Qatar 
+Qatar Environment & Energy Research Institute,Qatar
+Princess Margaret Cancer Centre,Canada
+University of Southern Maine,United States
+University of Maine System,United States
+Neuroscience Research Australia,Australia
+Instituto Nacional de Telecomunicacoes (INATEL),Brazil
+Universidade Fortaleza,Brazil
+CSIC - Instituto de Fisica Corpuscular (IFIC),Spain
+Malek Ashtar University of Technology,Iran
+Universite du Littoral-Cote-d'Opale,France
+Indian Institute of Science Education & Research (IISER) - Mohali,India
+University of Bonab,Iran
+The National Land Survey of Finland,Finland
+Finnish Geospatial Research Institute (FGI),Finland
+Universidad Santiago de Cali,Colombia
+Nigde Omer Halisdemir University,Turkey
+Total SA,France  
+CSIC - Instituto de Ciencias del Espacio (ICE),Spain
+Wroclaw University of Science & Technology,Poland
+ST Engineering,Singapore
+Tennessee State University,United States
+Marine Biological Laboratory - Woods Hole,United States
+Hubei Normal University,China
+Istituto Nazionale Geofisica e Vulcanologia (INGV),Italy
+Founder Group,China
+Fondazione Mattei,Italy
+Physical Research Laboratory - India,India
+International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI),India
+A*STAR - Advanced Remanufacturing & Technology Centre (ARTC),Singapore
+University of Kragujevac,Serbia
+Zhejiang Provincial People's Hospital,China
+Culham Science Centre,United Kingdom
+Baotou Medical College,China
+Deere & Company,United States 
+Bioland Lab,China
+Guangzhou Laboratory,China
+Massachusetts Eye & Ear Infirmary,United States
+Paul Drude Institute for Solid State Electronics,Germany
+Leibniz Institut fur Photonische Technologien,Germany
+Misan University,Iraq
+Dalton State College,United States
+Australian Defense Force Academy,Australia
+Kunming Institute of Zoology,China
+Hans Knoll Institute (HKI),Germany
+Spotify,Sweden
+University of Tulsa,United States
+Institute of Physics - Polish Academy of Sciences,Poland
+Changchun Automobile Industry Institute,China
+Israel Electric,Israel
+NewYork-Presbyterian Hospital,United States
+University of Salerno,Italy
+CINECA Italy,Italy
+Istituto di Bioimmagini e Fisiologia Molecolare (IBFM-CNR),Italy
+Accenture,Ireland
+National Office for Aerospace Studies & Research (ONERA),France
+University of Pecs,Hungary
+Belgian Nuclear Research Centre (SCK-CEN),Belgium
+Institute of Basic Research In Clinical Medicine CACMS,China
+Central Metallurgical Research & Development Institute (CMRDI),India 
+Japan Fine Ceramics Center,Japan
+Netaji Subhas University of Technology,India
+Texas Instruments,United States
+University of Derby,United Kingdom
+ANZAC Research Institute,Australia
+Universite d'Artois,France
+Samara Federal Research Scientific Center,Russia
+Bangladesh Rural Advancement Committee BRAC,Bangladesh
+Gdansk University of Technology,Poland
+Netherlands National Institute for Public Health & the Environment,Netherlands
+Moorfields Eye Hospital NHS Foundation Trust,United Kingdom
+Manhattan College,United States
+Xiamen Institute of Technology,China
+European Organisation for the Exploitation of Meteorological Satellites,Germany
+Weill Cornell Medicine,United States
+Xinjiang Agricultural University,China
+Leuphana University Luneburg,Germany
+IMT Nord Europe,France 
+Langston University,United States
+Defence

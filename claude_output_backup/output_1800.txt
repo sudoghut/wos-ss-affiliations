@@ -1,0 +1,199 @@
+ Here is the nation information for the given universities and institutes:
+
+Dakota State University	United States
+Fu Wai Hospital - CAMS	China
+Institute of Basic Medical Sciences - CAMS	China
+Guangzhou Medical University	China
+State Key Laboratory of Respiratory Disease	China
+University of Puerto Rico Mayaguez	Puerto Rico
+University of Puerto Rico	Puerto Rico
+Indiana University Bloomington	United States
+Institute of Strength Physics & Materials Science Siberian Branch of the RAS	Russia
+Siberian State Medical University	Russia
+Ji Hua Laboratory	China
+Mount Allison University	Canada
+Agriculture Information Institute CAAS	China
+National Science Library CAS	China
+James Madison University	United States
+Ohio University	United States
+Johannes Gutenberg University of Mainz	Germany
+Universiti Teknologi Malaysia	Malaysia
+Qingdao Institute of Bioenergy & Bioprocess Technology CAS	China
+Geoscience Australia	Australia 
+Hubei University of Chinese Medicine	China
+Weifang Medical University	China
+Henan University of Animal Husbandry & Economy	China
+King Mongkuts Institute of Technology Ladkrabang	Thailand
+Taipei Medical University	Taiwan
+Heilongjiang University of Science & Technology	China
+Yeshiva University	United States
+University of Hawaii Manoa	United States
+University of Hawaii System	United States
+Sorbonne Universite	France
+AT&T	United States
+University of Wyoming	United States
+Yili Normal University  	China
+Osaka Metropolitan University	Japan
+Institute of Theoretical Physics CAS	China
+University of Maryland Center for Environmental Science	United States
+STFC Daresbury Laboratory	United Kingdom
+Far Eastern Federal University	Russia
+Georgia College & State University	United States
+Universite de Tours	France
+Leiden University	Netherlands
+Leiden University - Excl LUMC	Netherlands
+Umm Al Qura University	Saudi Arabia
+Jawaharlal Nehru University New Delhi	India
+Institute of Geology & Geophysics CAS	China
+Pontificia Universidad Catolica de Chile	Chile
+University of Barcelona	Spain
+UCSI University	Malaysia
+Quanzhou Normal University	China
+A*STAR - Institute of Molecular & Cell Biology (IMCB)	Singapore
+Suan Sunandha Rajabhat University	Thailand 
+Niccolo Cusano Online University	Italy
+Indian Institute of Technology System (IIT System)	India
+Indian Institute of Technology (IIT) - Bombay	India
+Karlsruhe Institute of Technology	Germany
+CSIC - Instituto de Optica (Daza de Valdes)	Spain
+Consejo Superior de Investigaciones Cientificas (CSIC)	Spain
+Punjabi University	India
+Atma Ram Sanatan Dharma College	India
+Guangzhou University of Chinese Medicine	China
+University of Quebec Trois Rivieres	Canada
+Shenzhen Institute of Artificial Intelligence & Robotics for Society	China
+National Skin Centre	Singapore
+Future University in Egypt	Egypt
+University of Maryland Baltimore County	United States
+North Dakota State University Fargo	United States
+Salesforce	United States
+Shanghai Art & Design Academy	China
+Institute of Chemistry of New Materials of the National Academy of Sciences of Belarus	Belarus
+University of Nevada Las Vegas	United States
+Henan Agricultural University	China
+Universite Toulouse III - Paul Sabatier	France
+Mayo Clinic	United States
+Feinberg School of Medicine	United States
+Duy Tan University	Vietnam
+Western Washington University	United States
+Wang Jing Hospital CACMS	China
+Beijing Institute of Nanoenergy & Nanosystems CAS	China 
+Chifeng University	China
+University of Greenwich	United Kingdom
+Florida Institute of Technology	United States
+Cisco Systems Inc	United States
+Universidad Politecnica de Cartagena	Spain
+Shanghai Electric	China
+Brandenburg University of Technology Cottbus	Germany
+University of Bedfordshire	United Kingdom
+Siemens AG	Germany
+Massey University	New Zealand
+Indian Institute of Management Lucknow	India
+Indian Institute of Management (IIM System)	India
+Cairo University	Egypt
+Texas A&M International University	United States
+Florida Atlantic University	United States
+Zhangjiakou University	China
+University of California Santa Barbara	United States
+Wuxi University	China
+Memorial University Newfoundland	Canada
+Wuxi Wio Technology Co. Limited	China
+University of Alaska System	United States
+University of Alaska Fairbanks	United States
+Indian Institute of Technology (IIT) - Kharagpur	India
+University of Toledo	United States
+Kettering University	United States
+CNRS - Institute for Humanities & Social Sciences (INSHS)	France 
+IESEG School of Management	France
+Merck & Company	United States
+Universiti Malaysia Pahang	Malaysia
+Guangzhou Institute of Geochemistry CAS	China
+Fritz Haber Institute of the Max Planck Society	Germany
+Fort Wayne Metals Research Products Corp.	United States
+Xi'an University of Finance & Economics	China
+Al-Yamamah University	Saudi Arabia
+National Institute of Information & Communications Technology (NICT) - Japan	Japan
+Colorado School of Mines	United States
+Softwarepark Hagenberg	Austria
+Institute of Apicultural Research CAAS	China
+Nottingham Trent University	United Kingdom
+Razuvaev Institute of Organometallic Chemistry	Russia
+Leipzig University	Germany
+Pazhou Lab	China
+Howard Hughes Medical Institute	United States
+Karadeniz Technical University	Turkey
+A*STAR - Bioinformatics Institute (BII)	Singapore
+State Key Lab Oncology South China	China
+University Massachusetts Dartmouth	United States
+Nanjing Institute of Astronomical Optics & Technology NAOC CAS	China
+Purple Mountain Observatory CAS	China
+VITO	Belgium
+Shanghai University of Electric Power	China
+Erasmus University Rotterdam - Excl Erasmus MC	Netherlands
+Erasmus University Rotterdam  	Netherlands
+Shenzhen Children's Hospital	China
+Abu Dhabi University	United Arab Emirates
+Anhui Institute of Optics & Fine Mechanics (AIOFM) CAS	China
+Tan Tock Seng Hospital	Singapore
+Universite Clermont Auvergne (UCA)	France
+Mesnac	China
+Shanghai Lixin University of Accounting & Finance	China
+Mechanical Engineering Research Institute of the Russian Academy of Sciences  	Russia
+Nippon Veterinary & Life Science University	Japan
+Nokia Corporation	Finland
+Hong Kong University of Science & Technology (Guangzhou)	China
+Jimei University	China 
+Soongsil University	South Korea
+Sichuan Agricultural University	China
+Shanghai Institute of Organic Chemistry CAS	China
+Wonkwang University	South Korea
+United States Army	United States
+US Army Research Development & Engineering Command (RDECOM)	United States
+United States Department of Defense	United States
+US Army Research Laboratory (ARL)	United States
+Institute of Mountain Hazards & Environment CAS	China
+Union College	United States
+Taiyuan University	China
+Anadolu University	Turkey
+TJU-NUS Joint Institute	China
+Mohamed Bin Zayed University of Artificial Intelligence	United Arab Emirates
+First Institute of Oceanography (FIO)	China
+Yuan Ze University	Taiwan
+Asia Pacific University of Technology & Innovation	Malaysia
+KIMEP University	Kazakhstan
+American University of Middle East	Kuwait
+Universidade de Vigo	Spain
+University of L'Aquila	Italy
+Utah State University	United States
+Utah System of Higher Education	United States
+Edinburgh College of Art	United Kingdom
+University of Maryland Baltimore	United States
+Texas Tech University	United States
+Texas Tech University System	United States
+China Three Gorges University	China
+Universitat de Girona	Spain
+National Physical Laboratory - UK	United Kingdom
+Hunter College (CUNY) 	United States
+Kunsan National University	South Korea
+Kansai University	Japan
+Edith Cowan University	Australia
+Lucknow University	India
+Federation University Australia	Australia
+University of Palermo	Italy
+University of Wolverhampton	United Kingdom
+University of the Free State	South Africa
+IMDEA Software Institute	Spain
+Universitatsklinikum des Saarlandes	Germany
+Leonardo	Italy
+NingboTech University	China
+Uppsala University	Sweden 
+University of Brescia	Italy
+Istituto Nazionale di Ottica (INO-CNR)	Italy
+Murray State University	United States
+Beloit College	United States
+Danish Hydraulic Institute (DHI)	Denmark
+University of Central Punjab	Pakistan
+Pakistan Institute of Development Economics	Pakistan
+Texas A&M University Corpus Christi	United States
+Gwangju Institute of Science & Technology (GIST)	South Korea
+A

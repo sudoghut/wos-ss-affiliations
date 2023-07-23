@@ -1,0 +1,25 @@
+Please let me the nation of the following university or institutes. 
+
+The output format is
+
+| name | country |
+
+Chinese Academy of Forestry
+Research Institute of Wood Industry CAF
+State University of New York (SUNY) Buffalo
+A*STAR - Institute for Infocomm Research (I2R)
+Yunnan Normal University
+Pushkov Institute of Terrestrial Magnetism Ionosphere & Radio Wave Propagation
+Goethe University Frankfurt
+University of Kashmir
+Research Institute of Forest Resources Information Technique CAF
+Financial University Under the Government of Russian Federation
+St. Joseph's College of Engineering Chennai
+Yunnan Agricultural University
+Johns Hopkins Medicine
+Zhejiang Laboratory
+China Ship Scientific Research Center
+National Yang Ming Chiao Tung University
+UK Atomic Energy Authority
+Incheon National University
+Anhui Science & Technology University

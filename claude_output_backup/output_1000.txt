@@ -1,0 +1,200 @@
+ University of Peshawar   Pakistan
+Singapore Management University       Singapore
+Inner Mongolia University of Technology  China
+Ministry of Agriculture & Rural Affairs     China 
+Thapar Institute of Engineering & Technology     India
+University of Rhode Island      United States  
+Tianjin Medical University    China
+University of Tabuk    Saudi Arabia
+Shimane University   Japan 
+University of Melbourne    Australia
+General Research Institute for Nonferrous Metals   China
+Henan University of Urban Construction     China
+Loughborough University   United Kingdom
+GGS Indraprastha University  India
+Zhengzhou University of Technology     China
+Henan University of Engineering   China
+West Virginia University    United States
+Iqra University   Pakistan
+Wuhan Naval University of Engineering    China 
+Tohoku University    Japan
+University of New Mexico   United States
+Shenzhen Institute for Advanced Study UESTC    China 
+University of London    United Kingdom 
+University College London     United Kingdom
+National Astronomical Observatory CAS     China
+University of California System        United States
+University of California San Diego      United States 
+University College Cork     Ireland
+University of Chinese Academy of Sciences CAS   China
+Southwest Forestry University - China          China
+University of Texas System           United States
+University of Texas Rio Grande Valley       United States
+University System of Georgia           United States
+Georgia Institute of Technology         United States
+Institute of Process Engineering CAS           China
+N8 Research Partnership            United Kingdom
+Durham University           United Kingdom
+Academy of Mathematics & System Sciences CAS         China
+Nanyang Technological University            Singapore
+Nanyang Technological University & National Institute of Education (NIE) Singapore         Singapore
+University of California Riverside        United States
+Institute of Chinese Materia Medica CACMS         China
+State University System of Florida          United States
+University of Florida            United States
+University of North Carolina          United States
+University of North Carolina Charlotte         United States
+Changzhi Medical College   China
+Touro University California     United States
+University of Texas Austin          United States
+University of Quebec          Canada
+Ecole de Technologie Superieure - Canada       Canada
+Institute of Atmospheric Physics CAS           China
+Hefei Institutes of Physical Science CAS        China
+Pennsylvania Commonwealth System of Higher Education (PCSHE)          United States
+University of Pittsburgh         United States 
+University of Houston System          United States
+University of Houston           United States
+University of Oklahoma - Norman         United States
+University of Oklahoma System        United States
+Fujian Agriculture & Forestry University  China
+University of Wisconsin Milwaukee        United States
+University of Wisconsin System          United States
+University of Missouri System        United States
+University of Missouri Columbia         United States
+Army Medical University    China
+Tsinghua Shenzhen International Graduate School   China
+University System of Maryland           United States
+University of Maryland College Park         United States
+Georgia State University       United States
+Swiss Federal Institutes of Technology Domain   Switzerland 
+Ecole Polytechnique Federale de Lausanne      Switzerland
+University of Colorado Boulder        United States
+University of Colorado System        United States
+Computer Network Information Center CAS          China
+Mehran University Engineering & Technology      Pakistan
+City College of New York (CUNY)      United States
+City University of New York (CUNY) System      United States 
+University of Nebraska System       United States 
+University of Nebraska Lincoln        United States
+University of Wisconsin Madison         United States
+Bournemouth University      United Kingdom
+Institute of Semiconductors CAS       China
+Ferdowsi University Mashhad          Iran
+Taiyuan Institute of Technology   China
+Khalifa University of Science & Technology   United Arab Emirates
+State University of New York (SUNY) System       United States 
+State University of New York (SUNY) Stony Brook        United States
+Institute of Acoustics CAS       China
+POSCO        South Korea
+National Center for Nanoscience & Technology - China       China
+Institute of Environment & Sustainable Development in Agriculture CAAS        China
+HEC Montreal       Canada
+Arizona State University       United States
+Arizona State University-Tempe        United States
+Institute of Plant Protection CAAS           China
+Louisiana State University System         United States 
+Louisiana State University         United States
+National Institute for Viral Disease Control & Prevention Chinese Center for Disease Control & Prevention     China  
+Institute of Software CAS          China
+Argonne National Laboratory          United States
+United States Department of Energy (DOE)         United States
+National Institute of Informatics (NII) - Japan       Japan
+Research Organization of Information & Systems (ROIS)     Japan
+Temple University         United States 
+Queen Mary University London        United Kingdom
+Bowling Green State University       United States
+University System of Ohio         United States
+Fujian Institute of Research on the Structure of Matter CAS       China
+Biotechnology Research Institute CAAS         China
+Meijo University           Japan
+University of Washington Seattle         United States
+University of Washington          United States
+Institute of Microbiology CAS        China
+Idaho        United States
+University of Idaho       United States
+Institute of Electrical Engineering CAS        China
+Institute of Medicinal Plant Development - CAMS           China
+Mae Fah Luang University        Thailand 
+Institute of Coal Chemistry CAS      China
+University of Texas Dallas       United States
+University of Memphis         United States
+Institute of Information Engineering CAS        China 
+University of Manchester         United Kingdom
+Shenzhen Institute of Advanced Technology CAS        China
+Ohio State University        United States
+University of Illinois Urbana-Champaign        United States
+University of Illinois System        United States
+RLUK- Research Libraries UK         United Kingdom
+Shenzhen Research Institute City University of Hong Kong      China
+Innovation Academy for Microsatellites CAS          China
+Massachusetts General Hospital        United States 
+University of California Merced        United States
+Institute of Chemistry CAS         China
+University of Minnesota Twin Cities         United States
+University of Minnesota System          United States
+National Space Science Center CAS          China
+Institute of Automation CAS         China
+Chinese Academy of Fishery Sciences       China 
+Fishery Engineering Research Institute CAFS        China
+Institute of Applied Physics & Computational Mathematics - China          China  
+China Nuclear Power Engineering Co Ltd.             China
+University of Bristol          United Kingdom
+University of West England         United Kingdom 
+Xi'an Technological University           China
+Lenovo          China
+Legend Holdings            China
+University of Cincinnati          United States
+University of Texas at San Antonio (UTSA)        United States
+Shenyang Institute of Automation CAS           China
+California State University System          United States
+San Jose State University         United States
+Ningbo Institute of Materials Technology and Engineering CAS       China 
+University of California Berkeley         United States
+University of Liverpool         United Kingdom
+Guizhou University          China
+Australian Centre for Robotic Vision        Australia
+Beijing Computational Science Research Center (CSRC)         China 
+National Academy of Sciences of Belarus (NASB)           Belarus
+Scientific & Practical Materials Research Centre of the National Academy of Sciences of Belarus        Belarus
+Institute of Metal Research CAS         China
+Oak Ridge National Laboratory         United States
+Springer Nature        Germany
+Tobacco Research Institute CAAS       China
+International Islamic University Pakistan      Pakistan  
+Air Force Early Warning Academy        China
+Helmholtz Association           Germany
+German Aerospace Centre (DLR)           Germany 
+University of Delhi          India
+Academy of Opto-Electronics CAS           China
+Lawrence Berkeley National Laboratory        United States
+Ningxia University        China
+Universite de Montpellier        France
+University of Minnesota Duluth         United States
+University of Michigan System         United States
+University of Michigan            United States
+Institute of Mechanics CAS            China
+University of Massachusetts System        United States
+University of Massachusetts Boston        United States
+Guangming Laboratory         China
+Zhongnan University of Economics & Law         China
+Nanfang College Guangzhou          China
+University of Science & Technology of China CAS         China
+Jiangxi Agricultural University          China
+Lancaster University         United Kingdom
+University of Nevada Reno          United States
+Nevada System of Higher Education (NSHE)           United States 
+University of California Los Angeles         United States
+University of North Texas Denton        United States
+University of North Texas System        United States
+Peking Union Medical College Hospital        China
+Shanghai Institute of Materia Medica CAS         China
+Technical Institute of Physics & Chemistry CAS           China
+University of Arkansas Fayetteville          United States
+University of Arkansas System         United States
+Shenyang University of Technology       China
+Dalian Institute of Chemical Physics CAS       China
+Technology & Engineering Center for Space Utilization CAS             China
+Qinghai Institute of Salt Lakes CAS      China 
+Georgia Southern University        United States
+Lingnan University        Hong Kong

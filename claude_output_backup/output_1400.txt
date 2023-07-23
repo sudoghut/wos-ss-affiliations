@@ -1,0 +1,200 @@
+ Rajamangala University of Technology Rattanakosin	Thailand
+Nantes Universite	France
+Ecole Centrale de Nantes	France 
+Victoria University	Australia
+Harbin Institute of Petroleum	China
+University of Munich	Germany
+National Pingtung University	Taiwan 
+Universidad Carlos III de Madrid	Spain
+Qatar University	Qatar
+Universidad de Jaen	Spain
+Nagoya Institute of Technology	Japan
+Universiti Sains Malaysia	Malaysia
+Norwegian University of Science & Technology (NTNU)	Norway
+Imam Mohammad Ibn Saud Islamic University (IMSIU)	Saudi Arabia
+University of Denver	United States
+National Natural Science Foundation of China (NSFC)	China
+Universidade Tecnologica Federal do Parana	Brazil
+Universidade de Sao Paulo	Brazil
+Shenzhen Research Institute of Big Data   China
+University of Maribor	Slovenia
+Chang Gung University of Science & Technology	Taiwan
+Kaohsiung Veterans General Hospital	Taiwan 
+Yulin Normal University	China
+University of Basque Country	Spain
+Majmaah University 	Saudi Arabia
+Audencia	France
+National Economics University - Vietnam	Vietnam
+Shanghai Polytechnic University	China
+University of Antwerp	Belgium
+Xijing University	China
+University of Parma	Italy
+China West Normal University	China
+Hubei University of Education	China
+Seoul National University (SNU)	South Korea
+Chengdu University	China
+Taiyuan Normal University	China
+Taylor's University	Malaysia
+China South Industries Group	China
+University College Dublin	Ireland
+University of Nottingham Malaysia	Malaysia
+University of Dundee	UK
+Brandeis University	United States
+Universite de Technologie de Troyes	France
+Tianjin Chengjian University	China
+China Resources Group	China
+Guangdong Ocean University	China
+ArcelorMittal	Luxembourg
+Universidade de Aveiro	Portugal
+University of Pretoria	South Africa
+Ningbo University of Technology	China
+Technical University of Denmark	Denmark
+University of Exeter	UK
+Zhejiang University of Finance & Economics	China
+Jinzhou Medical University	China
+Procter & Gamble	United States
+Hangzhou Normal University	China
+University of Regina	Canada
+Shanxi College of Technology	China
+Taiyo Nippon Sanso Corporation	Japan
+Missouri University of Science & Technology	United States
+Johannes Kepler University Linz	Austria
+Institute for Advanced Studies in Basic Sciences (IASBS)   Iran
+Shenzhen Institute of Advanced Electronic Materials   China
+EURECOM	France
+IMT - Institut Mines-Telecom	France
+Weinan Normal University	China	 
+Nanjing Medical University	China
+Washington State University	United States
+China Medical University	China 
+Singapore General Hospital	Singapore
+Shih Chien University	Taiwan
+Jilin Agricultural Science & Technology University	China
+Hacettepe University	Turkey
+Helmholtz-Zentrum fuer Materialien und Energie GmbH (HZB)	Germany
+Shandong Agricultural University	China
+National Police University for Criminal Justice  Taiwan
+Mohammad Ali Jinnah University	Pakistan
+Changsha University of Science & Technology	China
+University of Otago	New Zealand
+Lund University	Sweden
+Universidad del Pacifico Peru	Peru
+Tufts University	United States
+University of Kentucky	United States
+Heriot Watt University	UK
+Universidade do Minho	Portugal
+Wichita State University	United States
+Qiqihar University	China
+Servier	France
+University Kashan	Iran
+Iran University Science & Technology	Iran
+Yichun University	China
+Guangdong University of Finance & Economics	China
+University of Ljubljana	Slovenia
+Inria	France
+China Baowu Steel Group	China
+Technische Universitat Ilmenau	Germany
+Cyprus International University	Cyprus 
+Lefke Avrupa University	Northern Cyprus
+Oracle	United States
+New York University	United States
+New York University Tandon School of Engineering	United States
+Islamia University of Bahawalpur 	Pakistan
+Federal Institute for Materials Research & Testing	Germany
+Kyungpook National University	South Korea
+National Taiwan Normal University	Taiwan
+National Taichung University of Education	Taiwan
+Adelphi University	United States
+Universidade da Madeira 	Portugal
+China Medical University Taiwan	Taiwan 
+Kaohsiung Medical University	Taiwan
+Voevodsky Institute of Chemical Kinetics & Combustion SB RAS	Russia
+Tamkang University	Taiwan
+University of Fukui	Japan
+Shenzhen Huazhong University of Science & Technology Research Institute	China
+Butler University	United States
+Fujian Polytechnic Normal University	China
+Yulin University	China
+Kayseri University	Turkey
+Guangzhou Panyu Polytechnic	China
+Hosei University	Japan
+Kyoto Institute of Technology	Japan
+Rice University	United States
+Istituto Italiano di Tecnologia - IIT	Italy
+King Faisal University	Saudi Arabia
+Hebei GEO University	China
+Civil Aviation University of China	China
+University of Perugia	Italy
+Handan University	China
+Chemistry & Chemical Engineering Guangdong Laboratory	China
+Carleton University	Canada
+Nanjing Hydraulic Research Institute	China
+University of Erlangen Nuremberg	Germany
+Universidade Federal do ABC (UFABC) 	Brazil
+Baoji University of Arts & Sciences	China
+Hangzhou City University	China
+University of Geneva	Switzerland
+University of Applied Sciences & Arts Western Switzerland	Switzerland
+Ruhr University Bochum	Germany
+Basque Foundation for Science   Spain
+Lvliang University	China
+Obafemi Awolowo University	Nigeria
+University of Nottingham Ningbo China	China
+Liverpool John Moores University	UK
+Zuse Institute Berlin	Germany
+Khwaja Fareed University of Engineering & Information Technology Pakistan	Pakistan
+China Conservatory of Music	China
+Rajagiri Business School (RBS)	India 
+University of Mississippi	United States
+Universite de Rennes	France
+CNRS - Institute for Engineering & Systems Sciences (INSIS)	France
+Daegu University	South Korea
+Maastricht University	Netherlands
+Northumbria University	UK
+Ulm University	Germany
+Afyon Kocatepe University	Turkey
+Hunan University of Technology & Business	China
+Central South University of Forestry & Technology	China
+University of Copenhagen	Denmark
+Shanghai Artificial Intelligence Laboratory	China
+Universidade Federal do Rio Grande do Sul	Brazil
+Universitat de les Illes Balears	Spain
+University of South Australia	Australia
+Guangzhou College of Commerce	China
+Hubei University of Medicine	China
+Chengdu Technological University	China
+Ulster University	UK
+University Town of Shenzhen	China
+Changzhou Institute of Technology	China
+Jilin Engineering Normal University	China
+Jagiellonian University	Poland
+Linkoping University	Sweden
+Brock University	Canada
+Suzhou Institute of Biomedical Engineering & Technology CAS	China
+UK Research & Innovation (UKRI)	UK
+Engineering & Physical Sciences Research Council (EPSRC)	UK
+China National Offshore Oil Corporation (CNOOC)	China
+University of Warsaw	Poland
+Dalian University	China
+Sharif University of Technology	Iran
+Universiti Malaya	Malaysia 
+Changchun University of Technology	China
+California State University San Bernardino	United States
+UGC DAE Consortium for Scientific Research	India
+Panjab University	India
+Leeds Beckett University	UK
+Anyang Normal University	China
+Shanghai Institutes for Biological Sciences CAS	China
+Tata Institute of Fundamental Research (TIFR)	India
+Toyo University	Japan
+Virginia Polytechnic Institute & State University	United States
+National Institute of Technology (NIT System)	India
+Dr B R Ambedkar National Institute of Technology Jalandhar  India
+Zhaoqing University	China
+Fifth Medical Center of Chinese PLA General Hospital	China
+Western Michigan University	United States
+University of Yazd	Iran
+Chia Nan University of Pharmacy & Science	Taiwan
+Shanghai Astronomical Observatory CAS	China
+Kyungnam University	South Korea
+Universite de Toulouse	France

@@ -1,0 +1,192 @@
+ Banner Health	United States
+Banner Alzheimer's Institute	United States
+Banner Research	United States
+Inter-University Accelerator Centre	India
+Sri Venkateswara University	India
+Hebei Medical University	China
+Broadcom	United States
+John Innes Center	United Kingdom
+Universidad Loyola Andalucia	Spain
+Shenyang University	China
+University of Florence	Italy
+National Central University	Taiwan
+Cathay General Hospital	Taiwan 
+National Taiwan University Hospital	Taiwan
+Taipei Veterans General Hospital	Taiwan
+Schlumberger	United States
+University of Turku	Finland
+Rowan University	United States
+Universite de Haute-Alsace (UHA)	France
+Jilin Normal University	China
+Kazakh British Technical University	Kazakhstan
+Shanghai University of Traditional Chinese Medicine	China
+Baylor University	United States
+Bahcesehir University	Turkey
+Aswan University	Egypt
+Universita Telematica Giustino Fortunato	Italy
+Polytechnic Institute of Porto	Portugal
+Dongguk University	South Korea
+Seoul National University of Science & Technology	South Korea
+Suranaree University of Technology	Thailand
+Northern Border University	Saudi Arabia
+Jalpaiguri Government Engineering College	India
+JP Morgan Chase & Company	United States
+European Synchrotron Radiation Facility (ESRF)	France
+Howard University	United States
+Friedrich Schiller University of Jena	Germany
+Lakehead University	Canada
+National Kaohsiung Normal University	Taiwan
+University of Texas Health Science Center Houston	United States
+University of Lodz	Poland
+Honghe University	China
+Ho Chi Minh City University of Technology (HUTECH)	Vietnam
+Baqiyatallah University of Medical Sciences (BMSU)	Iran
+King Saud Bin Abdulaziz University for Health Sciences	Saudi Arabia
+King Abdulaziz Medical City	Saudi Arabia
+King Abdulaziz Medical City - Riyadh	Saudi Arabia
+King Abdullah International Medical Research Center (KAIMRC)	Saudi Arabia
+Ministry of National Guard - Health Affairs	Saudi Arabia
+Shah Abdul Latif University	Pakistan
+Bangladesh Institute of Development Studies (BIDS)	Bangladesh
+University of Iceland	Iceland
+Galatasaray University	Turkey
+Institute of Earth Environment CAS	China 
+National Research Centre - Kurchatov Institute	Russia
+Universidade Federal do Rio Grande do Norte	Brazil
+Yerevan Physics Institute	Armenia
+Alikhanov Institute for Theoretical & Experimental Physics	Russia
+Hungarian Wigner Research Centre for Physics	Hungary
+Sojo University	Japan
+Universidade Federal de Sao Carlos 	Brazil
+Guangzhou Institute of Biomedicine & Health CAS	China
+Nanjing University of Chinese Medicine	China
+Centenary Institute	Australia
+Universitas Udayana	Indonesia
+GSI Helmholtz-Center for Heavy Ion Research	Germany
+Laval University	Canada
+NIH Clinical Center (CC)	United States
+Mayo Clinic Phoenix	United States
+Helmholtz-Center Munich - German Research Center for Environmental Health	Germany
+Economic & Social Research Council (ESRC)	United Kingdom
+Hexi University	China
+Sher-e-Kashmir University of Agricultural Sciences & Technology of Kashmir (SKUAST Kashmir)	India
+Zagazig University	Egypt
+Yibin University	China
+Pontificia Universidad Javeriana	Colombia
+Tianjin University of Traditional Chinese Medicine	China
+Institute of Hematology & Blood Diseases Hospital - CAMS	China
+Istituto di Struttura della Materia (ISM-CNR)	Italy
+University Balamand	Lebanon
+German Cancer Research Center (DKFZ)	Germany
+Institute of Botany CAS	China
+University of Texas El Paso	United States
+Beth Israel Deaconess Medical Center	United States
+Children's Hospital Los Angeles	United States
+Ames National Laboratory	United States
+NIH National Institute on Alcohol Abuse & Alcoholism (NIAAA)	United States
+Eastern Kentucky University	United States
+Keysight Technologies	United States
+MRC Harwell	United Kingdom
+University of Trento	Italy
+Chandigarh University	India
+Scotland's Rural College	United Kingdom 
+Graphic Era University 	India
+Selcuk University	Turkey
+KTO Karatay University	Turkey
+Institute of Medical Biology - CAMS	Singapore
+Kunming Medical University	China
+Elettra Sincrotrone Trieste	Italy
+Czech Academy of Sciences 	Czech Republic
+Institute of Physics of the Czech Academy of Sciences	Czech Republic
+Fahrenheit Universities	Vietnam
+University of Gdansk	Poland
+University for Library Studies & Information Technology 	India
+University Katolik Indonesia Atma Jaya	Indonesia
+Budapest University of Technology & Economics	Hungary
+Saarland University	Germany
+Hong Kong Shue Yan University	Hong Kong
+University of Calabria	Italy
+Lovelace Respiratory Research Institute	United States
+University of Munster	Germany
+Istituto Nanoscienze (NANO-CNR)	Italy
+GLA University	India
+Ibn Zohr University of Agadir	Morocco
+Ministry of Education of Azerbaijan Republic	Azerbaijan 
+Baku State University	Azerbaijan
+Institute of Physics of the Azerbaijan National Academy of Sciences	Azerbaijan
+Azerbaijan National Academy of Sciences (ANAS)	Azerbaijan
+University of Fribourg	Switzerland
+University of Sindh	Pakistan
+Damanhour University	Egypt
+Sindh Agricultural University	Pakistan
+Karlstad University	Sweden
+Aerodyne Research	United States
+Universitat Jaume I	Spain
+German Heart Center Berlin	Germany
+German Centre for Cardiovascular Research	Germany
+Ege University	Turkey
+Skolkovo Institute of Science & Technology	Russia
+Scripps Research Institute	United States
+BCMaterials	Spain
+Veterans Health Administration (VHA)	United States
+US Department of Veterans Affairs	United States
+San Francisco VA Medical Center	United States
+General Electric	United States
+Makerere University	Uganda
+Ibn Tofail University of Kenitra	Morocco
+Indian Institute of Technology (IIT) - Madras	India
+Agency of Defense Development (ADD) Republic of Korea	South Korea
+Staffordshire University	United Kingdom
+Bosch	Germany
+FSRC Crystallography & Photonics RAS	Russia
+Institute of Laser Physics SB RAS	Russia
+Osipyan Institute of Solid State Physics RAS	Russia 
+Novosibirsk State University	Russia
+Institute of Automation & Electrometry SB RAS	Russia
+Universite de Limoges	France
+Institute of Physical Chemistry of the Polish Academy of Sciences	Poland
+Ludwig Institute for Cancer Research	Switzerland
+IRCCS Istituto Oncologico Veneto (IOV)	Italy
+Prokhorov General Physics Institute of the Russian Academy of Sciences	Russia
+Hochschule Darmstadt	Germany
+University of Klagenfurt	Austria
+Mid-Sweden University	Sweden
+University of York - UK	United Kingdom
+Northern Arizona University	United States
+NHK Japan Broadcasting Corp	Japan
+Palacky University Olomouc	Czech Republic
+Wakayama University	Japan
+State Key Laboratory of High Field Laser Physics	China
+CNRS - National Institute for Earth Sciences & Astronomy (INSU)	France
+NASA Jet Propulsion Laboratory (JPL)	United States
+National Aeronautics & Space Administration (NASA)	United States 
+World Health Organization	Switzerland
+Helsinki Institute of Physics	Finland
+FOM National Institute for Subatomic Physics	Netherlands
+Instituto Nacional de Pesquisas Espaciais (INPE)	Brazil
+University of Basel	Switzerland
+European Organization for Nuclear Research (CERN)	Switzerland
+Universite Libre de Bruxelles	Belgium
+Kakao	South Korea
+SK Telecom	South Korea
+SK Group	South Korea
+Maynooth University	Ireland
+Istituto Nazionale Astrofisica (INAF)	Italy
+Saint Petersburg State Electrotechnical University	Russia
+Bremen Institute for Applied Beam Technology	Germany
+Universidad Miguel Hernandez de Elche	Spain
+Saitama University	Japan
+Gifu University	Japan
+Shibaura Institute of Technology	Japan
+University of Bologna	Italy
+Institute of Chemical Research of Catalonia	Spain
+Institute of Science & Technology - Austria	Austria
+CINBIO	Spain
+Ihsan Dogramaci Bilkent University	Turkey
+Indian Institute of Science Education & Research (IISER) Pune	India
+University of Valencia	Spain
+Austrian Institute of Technology (AIT)	Austria
+Eskisehir Osmangazi University	Turkey
+University of Isfahan	Iran
+Indian Institute of Technology (IIT) - Tirupati	India
+University of

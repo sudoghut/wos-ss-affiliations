@@ -1,0 +1,188 @@
+ Chengdu Sport University	China 
+Cardiff Metropolitan University	UK 
+Voronezh State University	Russia
+Najran University	Saudi Arabia
+NYU Langone Medical Center	USA
+Arid Agriculture University	Pakistan
+Institute of Hydromechanics of the National Academy of Sciences Ukraine	Ukraine
+Universidad Mayor  	Chile
+Technical University of Cluj Napoca	Romania
+United Institute of Informatics Problems of the National Academy of Sciences of Belarus	Belarus
+National Institute for Economic Research Costin C. Kiritescu	Romania
+Institute of Radio Astronomy of the National Academy of Sciences of Ukraine	Ukraine
+National Marine Data & Information Service	China
+Arba Minch University	Ethiopia
+Lovely Professional University	India
+SRM University-AP	India 
+University of Pardubice	Czech Republic
+Institute of Microelectronics Technology & High-Purity Materials RAS	Russia
+Chinese Academy of Surveying & Mapping 	China
+Tashkent State Technical University	Uzbekistan
+Guizhou Normal University	China
+University of Rzeszow	Poland
+Lviv Polytechnic National University	Ukraine
+Yuri Fedkovych Chernivtsi National University	Ukraine
+Instituto de Telecomunicacoes	Portugal
+Oral Roberts University	USA
+NXP Semiconductors	Netherlands
+Manchester Metropolitan University	UK
+Technological University Dublin	Ireland
+State Tax University	Ukraine
+Ministry of Finance of Ukraine  	Ukraine
+Sangmyung University	South Korea
+Ariel University	Israel
+MIREA - Russian Technological University	Russia
+Arab Academy for Science Technology & Maritime Transport	Egypt
+Henan Police College	China
+Institute of Monitoring of Climatic & Ecological Systems of the Siberian Branch of the RAS	Russia
+National United University	Taiwan 
+Polar Research Institute of China	China
+National Institute of Materials Physics - Romania	Romania
+Dow Chemical Company	USA
+Central Queensland University	Australia
+Okinawa Institute of Science & Technology Graduate University	Japan
+University of Agder	Norway
+Alexandria University	Egypt
+Universidad Autonoma de Ciudad Juarez	Mexico
+Instituto Potosino Investigacion Cientifica y Tecnologica	Mexico
+Oxford Brookes University	UK
+Khon Kaen University	Thailand
+Assam Don Bosco University	India
+University of Indianapolis	USA
+Universite d'Oum El Bouaghi	Algeria
+Rajamangala University of Technology Suvarnabhumi	Thailand
+National Institute for Laser Plasma & Radiation Physics - Romania	Romania
+China Geological Survey	China
+Guangzhou Marine Geological Survey 	China
+A*STAR - Institute of Microelectronics (IME)	Singapore
+Hamdard University	Pakistan
+Brandon University 	Canada
+South China Sea Institute of Oceanology CAS	China
+Middle Technical University	Iraq
+Texas A&M University Kingsville	USA
+Central Economics & Mathematics Institute RAS	Russia
+Livermore Software Technology Corporation	USA
+Brigham Young University	USA 
+Guangzhou Sport University	China
+Kanagawa University	Japan
+Shahrood University of Technology	Iran
+Universiti Teknologi Petronas	Malaysia
+Thu Dau Mot University	Vietnam
+Imam Jaa'far al-Sadiq University	Iraq
+Bucharest University of Economic Studies	Romania
+Universite de Picardie Jules Verne (UPJV)	France
+Universite de Carthage	Tunisia
+GH Asachi Technical University 	Romania
+Long Island University-Brooklyn Campus	USA
+Birmingham City University	UK
+Volgograd State University (VOLSU)	Russia
+University of Northern British Columbia	Canada
+Northern Arctic Federal University 	Russia
+Cherkas Global University Ukraine
+Animal & Plant Health Agency UK	UK
+US Air Force Research Laboratory	USA
+FPT University	Vietnam
+Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou)	China
+Regenstrief Institute Inc	USA
+Xinjiang Institute of Technology	China
+VOLCANI INSTITUTE OF AGRICULTURAL RESEARCH	Israel
+Istituto per lo Studio degli Impatti Antropici Sostenibilita in Ambiente Marino (IAS-CNR)	Italy
+NATO (North Atlantic Treaty Organisation)	Belgium 
+Moscow State University of Education	Russia
+Tianjin Agricultural University	China
+University of Oviedo	Spain
+Suqian University	China
+Karaganda Economic University of Kazpotrebsoyuz	Kazakhstan
+Sumy State University	Ukraine
+Ministry of Nature Environment &Tourism Mongolia	Mongolia
+Mongolian University of Life Sciences	Mongolia
+University of Missouri Kansas City	USA
+Japan Atomic Energy Agency	Japan
+Siberian Federal University	Russia
+Zentrum fur Europaische Wirtschaftsforschung (ZEW)	Germany
+Lobachevsky State University of Nizhni Novgorod	Russia
+Homi Bhabha National Institute	India
+Harish Chandra Research Institute	India
+Equinor	Norway
+Bangladesh University of Business & Technology (BUBT)	Bangladesh
+Horia Hulubei National Institute of Physics & Nuclear Engineering	Romania
+VA Boston Healthcare System	USA
+Nyenrode Business University	Netherlands
+Universiti Malaysia Sabah	Malaysia
+Moscow Institute of Physics & Technology	Russia
+Tecnologico de Monterrey	Mexico
+National Technical University of Athens  	Greece
+Gazprom	Russia
+Finnish Meteorological Institute	Finland
+Bruker Nano GmbH	Germany
+Bruker Corporation	USA 
+Universite de Tunis-El-Manar 	Tunisia
+Universite de Bejaia	Algeria
+Jeju National University	South Korea
+Zhaotong University 	China
+Dogus University	Turkey
+Ninevah University	Iraq
+Chuo University	Japan
+Saratov Scientific Center of the Russian Academy of Sciences	Russia
+Severtsov Institute of Ecology & Evolution	Russia
+Le Quy Don Technical University	Vietnam
+CSIR - Central Glass & Ceramic Research Institute (CGCRI)	India
+Institute of State & Law of the Russian Academy of Sciences	Russia
+Plekhanov Russian University of Economics	Russia
+Islamic University Gaza	Palestine
+Institute of Technology Tralee	Ireland
+CSIC - Instituto de Ciencia & Tecnologia de Polimeros (ICTP)	Spain
+St Petersburg Academic University	Russia 
+Delta University for Science & Technology	Egypt
+Changhong	China
+Bar Ilan University	Israel
+Tottori University	Japan
+Rikkyo University 	Japan
+Gran Sasso Science Institute (GSSI)  	Italy
+Universidade de Ribeirao Preto	Brazil
+Obuda University	Hungary
+California State University Long Beach	USA
+International Business Machines (IBM)	USA
+Daewoo Shipbuilding & Marine Engineering Co. Ltd	South Korea
+National Institute of Science Education & Research (NISER)	India
+MGIMO University	Russia
+North-Eastern Federal University in Yakutsk	Russia
+North Carolina A&T State University	USA
+Southern Theater Command General Hospital	China
+Qingdao Institute of Marine Geology (QIMG) 	China
+James Cancer Hospital & Solove Research Institute	USA
+Gaya College	India 
+Kotelnikov Institute of Radioengineering & Electronics	Russia
+Jilin Medical University	China
+National Marine Environmental Forecasting Center	China
+Universidad de Guanajuato	Mexico
+Universite de Savoie	France
+Ned University of Engineering & Technology	Pakistan
+Ajman University 	United Arab Emirates
+Sichuan Provincial People's Hospital	China
+Korea Research Institute of Ships & Ocean Engineering	South Korea
+University of Oradea	Romania
+Reykjavik University	Iceland
+La Salle University	USA  
+Maharaja Sayajirao University Baroda	India
+Universidade Federal Fluminense	Brazil
+Sardar Vallabhbhai National Institute of Technology	India
+US Navy Naval Sea Systems Command	USA
+DNV	Norway
+Tallinn University of Technology	Estonia
+Jaguar Land Rover	UK
+Singapore Polytechnic	Singapore
+National Dong Hwa University	Taiwan
+Sichuan Tourism University	China
+Shenzhen Academy of Aerospace Technology	China
+Stefan cel Mare University of Suceava	Romania 
+Changzhou Vocational Institute of Mechatronic Technology	China
+Gannan Normal University	China
+National Chung Hsing University	Taiwan  
+Datang Telecom Technology & Industry	China
+Liaoning Institute of Science & Technology	China
+ELI-HU Research & Development Non-Profit	Hungary
+China Life Insurance	China
+Keele University	UK
+Xinzhou Teachers University	China
+Yamagata University	Japan

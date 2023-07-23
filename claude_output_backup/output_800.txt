@@ -1,0 +1,200 @@
+ Shaoyang University,China
+Nanjing Agricultural University,China
+University of Agriculture Faisalabad,Pakistan
+Shandong University of Technology,China
+ITMO University,Russia 
+Sanming University,China
+Shandong Huayu University of Technology,China
+Beijing Sport University,China
+Nanjing Tech University,China
+Beijing Polytechnic College,China
+Government College University Lahore,Pakistan
+Western Sydney University,Australia
+Central China Normal University,China
+Virtual University of Pakistan,Pakistan
+Shaanxi Normal University,China
+University of Cambridge,United Kingdom
+Donghua University,China
+Heilongjiang University,China
+Quzhou University,China
+Guilin University of Aerospace Technology,China
+SINTEF,Norway
+Yonsei University,South Korea
+Sichuan Police College,China
+Langfang Normal University,China
+Zhejiang Gongshang University,China
+Singapore-MIT Alliance for Research & Technology Centre (SMART),Singapore
+University of West Bohemia Pilsen,Czech Republic
+Jishou University,China
+University of Azad Jammu & Kashmir,Pakistan
+Xi'an Jiaotong-Liverpool University,China
+Hebei University of Engineering,China
+Curtin University,Australia 
+University of International Relations,China
+Institute of Physics CAS,China
+Zhengzhou Normal University,China
+Jiamusi University,China
+China Institute of Water Resources & Hydropower Research,China
+National Cheng Kung University,Taiwan
+University of East Anglia,United Kingdom
+Yutong,China
+University of Gothenburg,Sweden
+University of Kufa,Iraq
+ShanghaiTech University,China
+University of Warwick,United Kingdom
+Kitami Institute of Technology,Japan
+Universidad de Castilla-La Mancha,Spain
+Shanghai University of Engineering Science,China
+Griffith University,Australia
+Hunan University of Chinese Medicine,China 
+Xingtai University,China
+Jiangxi University of Finance & Economics,China
+University of Birmingham,United Kingdom
+Nanchang Institute Technology,China
+Macquarie University,Australia
+City University of Macau,Macau
+Railway Police College,China
+Pingxiang University,China
+University of Manitoba,Canada
+Hasselt University,Belgium
+Tokyo Institute of Technology,Japan
+University of Engineering & Technology Taxila,Pakistan
+Jingdezhen Ceramic Institute,China
+South Central Minzu University,China
+Shanghai University of Finance & Economics,China
+Islamic Azad University,Iran
+Dalian Jiaotong University,China
+Heilongjiang International University,China
+Capital University of Economics & Business,China
+Shizuoka University,Japan
+Nanchang Hangkong University,China
+China Shipbuilding Industry Corporation,China
+Anhui Medical University,China
+Hebei Agricultural University,China
+Baotou Teachers College,China
+University of Southern Denmark,Denmark
+Beijing Institute of Graphic Communication,China
+University of Guelph,Canada
+Chongqing University of Arts & Sciences,China
+Mawlana Bhashani Science & Technology University,Bangladesh
+International Islamic University Chittagong (IIUC),Bangladesh
+Mississippi State University,United States
+XCMG Group,China
+Northeast Forestry University - China,China
+Carnegie Mellon University,United States
+Bengbu University,China
+Hankuk University Foreign Studies,South Korea
+University of Stuttgart,Germany
+Zhongyuan University of Technology,China
+Westlake University,China
+Yunnan Minzu University,China
+Huaqiao University,China
+Xihua University,China
+University of Pennsylvania,United States
+United States Environmental Protection Agency,United States
+Hunan University of Technology,China
+Lomonosov Moscow State University,Russia
+Binzhou Medical University,China
+Chinese Academy of Medical Sciences - Peking Union Medical College,China
+University of Lagos,Nigeria 
+South China Normal University,China
+Bharathidasan University,India
+China University of Geosciences,China
+Beijing Hospital,China
+Qingdao University of Science & Technology,China
+Novosibirsk State Technical University,Russia
+Princeton University,United States
+Tianjin University of Commerce,China
+University of Notre Dame,United States
+National Taiwan University,Taiwan
+Simon Fraser University,Canada
+Technical University of Berlin,Germany
+Guangdong University of Petrochemical Technology,China
+Sukkur IBA University,Pakistan
+Worcester Polytechnic Institute,United States
+Portland State University,United States
+Beijing Wuzi University,China
+Adam Mickiewicz University,Poland
+Kohat University of Science & Technology,Pakistan
+Izmir Institute of Technology,Turkey
+Hubei University of Technology,China
+China National Tobacco Corporation,China
+Shandong First Medical University & Shandong Academy of Medical Sciences,China
+Dalian Minzu University,China
+Yangtze University,China
+Xiangtan University,China
+Clarkson University,United States
+Ecole Military Polytechnic,Algeria
+Shanxi University Finance & Economics,China
+Rensselaer Polytechnic Institute,United States
+National Changhua University of Education,Taiwan
+Fuyang Normal University,China
+Concordia University - Canada,Canada
+Jiangsu University of Technology,China
+International Organization for Migration,International  
+Beijing International Studies University,China
+North Carolina State University,United States
+Xinyang Normal University,China
+University of Punjab,Pakistan
+Jiaxing University,China
+Hunan Normal University,China
+Nanjing Institute of Technology,China
+South China Agricultural University,China
+University Sri Jayewardenepura,Sri Lanka
+European Space Agency,Europe
+Universidade Nova de Lisboa,Portugal
+Doshisha University,Japan
+Jiangsu Normal University,China
+Universidad Tecnica Federico Santa Maria,Chile
+Tampere University,Finland
+Shandong Academy of Agricultural Sciences,China
+Anhui Normal University,China 
+Aarhus University,Denmark
+Liaoning Petrochemical University,China
+Istanbul Technical University,Turkey
+Sungkyunkwan University (SKKU),South Korea
+Yancheng Teachers University,China
+Wayne State University,United States
+NEC Corporation,Japan
+University of Sulimanyah,Iraq
+National Chengchi University,Taiwan
+Sapienza University Rome,Italy
+Rutgers State University Newark,United States
+Henan University of Economics & Law,China
+Beijing Institute of Microbiology & Epidemiology,China
+Yangtze Normal University,China
+Royal College of Art - UK,United Kingdom 
+West Anhui University,China
+Okayama University,Japan
+Lulea University of Technology,Sweden
+University Teknikal Malaysia Melaka,Malaysia
+Isuzu Motors Limited,Japan
+Volkswagen,Germany
+Sunway University,Malaysia
+University of New Brunswick,Canada
+China Academy of Transportation Sciences,China
+Xi'an University of Architecture & Technology,China
+Beijing University of Agriculture,China
+Wuhan University of Science & Technology,China
+Anhui University of Technology,China
+Hebei University of Chinese Medicine,China
+University of Management & Technology (UMT),Pakistan
+Quaid I Azam University,Pakistan
+Northwest University of Political Science & Law,China
+Universidad Politecnica de Madrid,Spain
+University of Arizona,United States
+Wilfrid Laurier University,Canada
+National Institute of Standards & Technology (NIST) - USA,United States
+Bauhaus-Universitat Weimar,Germany
+Haier,China
+Dongguan University of Technology,China
+Xinjiang Medical University,China
+Hiroshima University,Japan
+University of Naples Federico II,Italy
+University of Sussex,United Kingdom
+Universite de Montreal,Canada
+Linyi University,China
+Zhoukou Normal University,China
+Al-Muthanna University,Iraq
+Qinghai Normal University,China
+Drexel University,United States

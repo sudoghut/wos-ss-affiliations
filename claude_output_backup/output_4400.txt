@@ -1,0 +1,196 @@
+ Micro Materials Limited	United Kingdom
+Athabasca University	Canada
+Xianyang Normal University	China 
+Abo Akademi University	Finland
+Shaanxi Polytechnic Institute	China
+Ningxia Normal University	China
+Xi'an University	China
+Pandit Deendayal Energy University	India
+Manipal University Jaipur	India
+Xi'an International Studies University	China
+University of Mannheim	Germany
+Xian Fanyi University	China
+University West - Sweden	Sweden
+Tokyo Metropolitan University	Japan
+Bremen University of Applied Sciences	Germany
+Daffodil International University	Bangladesh
+Shangluo University	China
+Shaanxi University of Chinese Medicine	China
+Lanzhou University of Finance & Economics	China
+National Institute of Measurement & Testing Technology	China
+Shaanxi Railway Institute	China
+Medtronic	United States
+Bank of Communications 	China
+Illinois State University	United States
+University of Salamanca	Spain
+University Brunei Darussalam	Brunei
+Hellenic Mediterranean University	Greece
+Tongling University	China
+Auckland University of Technology	New Zealand
+SEGi University	Malaysia
+Samara State Technical University	Russia
+Dalian Ocean University	China
+The People's Hospital of Longhua Shenzhen	China
+Uber Technologies Inc.	United States
+Universidad Adolfo Ibanez	Chile
+Chongqing Electric Power Corp 	China
+Eastern Michigan University	United States
+Institut Teknologi Sepuluh Nopember	Indonesia
+Waikato Institute of Technology	New Zealand
+South Dakota State University	United States
+Guangzhou Civil Aviation College	China
+Bayero University	Nigeria
+National Heart Centre Singapore	Singapore
+University of Evansville	United States
+Wannan Medical College	China
+University of West Attica 	Greece
+Gansu University of Chinese Medicine	China
+Xizang Minzu University	China
+University of Texas Health Science Center at San Antonio	United States
+Xi'an Aeronautical Polytechnic Institute	China
+Centre Internacional de Metodes Numerics en Enginyeria (CIMNE)	Spain
+Konka	China
+University of Camerino	Italy
+The Institute of Materials Research SAS Slovakia
+Japan Steel Works Ltd.	Japan
+Jazan University 	Saudi Arabia
+Clayton State University	United States
+Delhi Technological University	India
+University of Malakand	Pakistan
+Istituto per lo Studio dei Materiali Nanostrutturati (ISMN-CNR)	Italy
+Jiangsu Food & Pharmaceutical Science College	China
+Xinyang Agriculture & Forestry University	China
+Oklahoma State University Center for Health Sciences	United States
+National Engineering & Scientific Commission - Pakistan	Pakistan
+Weierstrass Institute for Applied Analysis & Stochastics	Germany
+Gyeongsang National University	South Korea
+Akita Prefectural University	Japan
+Kazan National Research Technical University - KAI	Russia
+Deutsches Institut Entwicklungspolitik (DIE)	Germany
+Lodz University of Technology	Poland
+Scania	Sweden
+Hangzhou Vocational & Technical College	China
+I. K. Gujral Punjab Technical University	India 
+University of St Gallen	Switzerland
+China XD Group	China
+Sulaiman AlRajhi University	Saudi Arabia
+University of Babylon	Iraq
+Eastern Illinois University	United States
+Universitat Internacional de Catalunya (UIC)	Spain
+Springfield College	United States
+LG Electronics	South Korea
+Medical University of Graz	Austria
+Lanzhou University of Arts & Science	China
+Punjab Medical College	Pakistan
+Changsha Medical University	China
+Institute of Infrastructure Technology Research & Management	India
+Fujian Business University	China
+National University Tainan	Taiwan
+University of Bergamo	Italy 
+Al-Mustaqbal University College	Iraq
+Torrens University Australia	Australia
+Saint John's University	United States 
+SSN College of Engineering	India
+Changzhou College of Information Technology	China
+Interuniversity Microelectronics Centre	Belgium
+Hungarian Alfred Renyi Institute of Mathematics	Hungary
+University of Aegean	Greece
+AC2T Research GmbH	Austria
+Teerthanker Mahaveer University	India
+Natural History Museum London	United Kingdom
+Harbor Branch Oceanographic Institute Foundation	United States
+Yamaguchi University	Japan
+EMLYON Business School	France
+Nanjing Vocational College of Information Technology	China
+Razumovsky Saratov State Medical University	Russia
+Yahoo! Japan Corporation	Japan
+Gujarat Technological University	India
+Ferris State University	United States
+Electric Power Research Institute (EPRI)	United States
+Gebze Technical University	Turkey
+Kochi University 	Japan
+University of Swat 	Pakistan
+Hunan First Normal University	China
+Hassan II University of Casablanca	Morocco
+Islamic University College 	Malaysia
+Osaka Institute of Technology	Japan
+Xi'an Physical Education University	China
+University of Danang	Vietnam
+Netflix Inc.	United States
+Sanjiang University	China
+Novosibirsk State Pedagogical University 	Russia
+Sohag University	Egypt
+A*STAR - Data Storage Institute	Singapore
+Changping Laboratory	China
+Industrial Technology Research Institute - Taiwan	Taiwan
+Sun Moon University	South Korea
+Institute of Biotechnology of the Czech Academy of Sciences	Czech Republic
+Institute of Special Animal & Plant Sciences CAAS	China
+Faculty of Sciences Sfax	Tunisia
+Sichuan Engineering Technical College	China
+Hanoi University of Industry (HaUI)	Vietnam
+National Neuroscience Institute (NNI)	Singapore
+Cihan University Duhok Iraq
+Istituto di Geoscienze e Georisorse (IGG-CNR)	Italy
+Moulay Ismail University of Meknes	Morocco
+Wuhan Botanical Garden CAS	China
+Wuhan Sports University	China
+United Parcel Service	United States
+Singapore Centre for 3D Printing	Singapore
+Ecole des Ponts ParisTech	France
+National Supercomputing Center in Shenzhen	China
+Institute of Nuclear Physics - Polish Academy of Sciences	Poland
+Guangxi Academy of Agricultural Sciences	China
+Khazar University	Azerbaijan
+Indian Institute of Technology (IIT) - Patna	India
+Exponent	United States
+Institute of Scientific Instruments of the Czech Academy of SciencesCzech Republic
+Vasyl Stefanyk Precarpathian National University	Ukraine
+Solar Turbines Incorporated	United States
+Lanzhou Institute of Husbandry & Pharmaceutical Sciences CAAS	China
+Russian Academy of Science Lebedev Physical Institute	Russia
+Karpagam Academy of Higher Education (KAHE)	India
+Odessa National Polytechnic University	Ukraine
+Odesa National University of Technology	Ukraine
+Myongji University 	South Korea
+University of Winchester 	United Kingdom
+Saint Petersburg State University of Civil Aviation	Russia
+Indian Institute of Science Education & Research (IISER) - Bhopal	India
+Polaris Applied Sciences Inc.	United States
+Henan Finance University	China
+Central Institute of Aviation Motors	Russia
+Institute of Combustion Problems	Russia
+National Academy of Sciences of Georgia	Georgia
+General University Gregorio Maranon Hospital	Spain
+Hodeidah University	Yemen
+General University Hospital Prague	Czech Republic
+Government Engineering College Dahod	India
+Texas A&M Engineering Experimental Station	United States
+Institute of Organic Chemistry of the Polish Academy of Sciences	Poland
+ABV-Indian Institute of Information Technology & Management Gwalior	India
+Prairie View A&M University	United States
+Dukhov Research Institute of Automatics (VNIIA)	Russia
+Jiaying University	China
+Morgan State University 	United States
+Ministry of Water Resources	India
+Ankara University	Turkey
+Defence Research & Development Canada	Canada
+IE University	Spain
+Kanazawa University	Japan
+S.S. Kutateladze Institute of Thermophysics Siberian Division of the Russian Academy of Sciences	Russia
+Universidad de Guadalajara	Mexico
+Pontificia Universidad Catolica de Valparaiso	Chile
+Univerity Malakand	Pakistan
+University of Health Science - Pakistan	Pakistan
+University of Thi-Qar	Iraq
+University of Tennessee at Chattanooga	United States
+Tongren University	China
+Kharazmi University	Iran
+Institute of Physics SAS	Slovakia
+Hebei Sport University	China
+Universiti Tenaga Nasional	Malaysia 
+Alexandru Ioan Cuza University	Romania
+Madanapalle Institute of Technology & Science	India
+Helmut Schmidt University	Germany
+Wuhu Institute of Technology	China
+CSIC - Instituto de Ciencia de Materiales de Barcelona (ICMAB

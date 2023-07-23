@@ -1,0 +1,200 @@
+ Southwest University of Science & Technology - China
+Korea
+University of Strathclyde	United Kingdom	
+National Research Institute for Family Planning - China	China
+King Abdullah University of Science & Technology Saudi Arabia
+Hubei University of Economics	China
+Beijing Electronic Science & Technology Institute	China
+Shanghai University of Medicine & Health Sciences	China
+Southeast University - China	China
+Guizhou Institute of Technology	China
+University of Chinese Academy of Social Sciences	China
+Karolinska Institutet Sweden
+Osaka University	Japan
+Ho Chi Minh City University Economics	Vietnam
+China Academy of Information & Communication Technology	China
+University of Lahore	Pakistan
+North China University of Science & Technology	China
+Bahauddin Zakariya University	Pakistan
+Inner Mongolia University of Science & Technology	China
+MinNan Normal University	China
+University of Twente	Netherlands
+Stevens Institute of Technology	United States
+Nelson Mandela African Institution of Science & Technology	Tanzania
+Academy of Armored Forces Engineering - China	China 
+Beijing Academy of Agriculture & Forestry Sciences (BAAFS)	China
+Kumamoto University	Japan
+China Meteorological Administration	China
+La Trobe University	Australia
+University of Dar es Salaam	Tanzania
+Jiangsu University of Science & Technology	China
+Syracuse University	United States
+Hubei University	China
+Coventry University	United Kingdom
+Dibrugarh University	India
+Aviation University Air Force	China
+Liaoning University of Traditional Chinese Medicine	China
+Harbin Medical University	China
+ZTE	China
+University of Western Australia	Australia
+Korea Advanced Institute of Science & Technology (KAIST)	Korea
+Technion Israel Institute of Technology	Israel
+Shanxi Datong University	China
+Sichuan University of Science & Engineering	China
+Northwest A&F University - China	China
+Guangdong Polytechnic Normal University	China
+China Jiliang University	China
+McMaster University	Canada
+Chinese Academy of Inspection & Quarantine	China
+Henan Normal University	China
+Shanghai Maritime University	China
+Henan University of Science & Technology	China
+Commercial Aircraft Corporation of China (COMAC)	China
+Centre National de la Recherche Scientifique (CNRS)	France
+Zayed University	United Arab Emirates
+Jilin Institute of Chemical Technology	China
+Changshu Institute of Technology	China
+Japan Advanced Institute of Science & Technology (JAIST) 	Japan
+Kyoto University	Japan
+Nagaoka University of Technology Japan
+Central University of Finance & Economics	China
+Shanxi University	China
+Hebei University of Architecture	China 
+Wuhan Research Institute of Post & Telecommunications	China
+Guangdong University of Foreign Studies	China
+Research Institute of Chemical Defense - China	China
+University of Cape Town	South Africa
+Ericsson	Sweden 
+Communication University of China	China
+Catholic University of the Sacred Heart	Italy
+Shandong University of Finance & Economics	China
+Deakin University	Australia
+University of Louisville	United States
+Balochistan University of Information Technology Engineering & Management Sciences BUITEMS	Pakistan
+University of Southampton	United Kingdom
+Universite de Orleans	France
+Hangzhou Dianzi University	China
+Shijiazhuang University	China
+Guilin University of Technology	China
+New Jersey Institute of Technology	United States
+Lanzhou University of Technology	China
+University of Oulu	Finland
+University of Liege	Belgium
+University of Saskatchewan	Canada
+Chongqing University of Science & Technology	China
+Open University - UK	United Kingdom
+Chiba University	Japan
+Hanshan Normal University	China
+Northeast Electric Power University 	China
+Chongqing Three Gorges University	China
+Chung Yuan Christian University	Taiwan
+Hebei North University	China
+Sixth Medical Center of Chinese PLA General Hospital	China
+King Fahd University of Petroleum & Minerals	Saudi Arabia
+Kunming University of Science & Technology	China
+Henan University of Technology	China
+Hebei University of Economics & Business	China
+Northeast Petroleum University 	China
+King Saud University 	Saudi Arabia
+Leibniz University Hannover	Germany
+University of Tokyo	Japan
+Royal Melbourne Institute of Technology (RMIT)	Australia
+Civil Aviation Flight University of China	China
+California Institute of Technology	United States
+Yunnan University	China
+Xiamen University of Technology	China
+KU Leuven 	Belgium
+Midea	China
+Chinese Academy of Agricultural Sciences	China
+Wuyi University	China
+Xi'an Polytechnic University	China
+Weizmann Institute of Science	Israel
+Shangqiu Normal University	China
+Chinese Center for Disease Control & Prevention	China
+Baidu	China 
+Beijing Foreign Studies University	China
+Stockholm University	Sweden
+Nanchang University	China
+Jiangxi Science & Technology Normal University	China
+University of Macau	Macau
+Fujian Normal University	China 
+Brown University	United States
+Aligarh Muslim University 	India
+Rutgers State University New Brunswick	United States
+Beijing Polytechnic	China
+University of Duisburg Essen	Germany
+Southwest University - China	China
+Inner Mongolia University for Nationalities	China
+Bauman Moscow State Technical University	Russia
+University of Messina	Italy
+Liaocheng University	China
+China Aerospace Science & Industry Corporation (CASIC)	China
+University of Victoria	Canada 
+University of Nottingham	United Kingdom
+Federal Urdu University of Arts Science & Technology 	Pakistan
+Shijiazhuang University of Applied Technology	China
+Universiti Putra Malaysia	Malaysia
+Keio University 	Japan
+BAIC Group	China
+Jiangnan University	China
+Changzhi University	China
+University of Hamburg	Germany
+Stanford University	United States
+California Department of Public Health	United States
+Beijing Institute of Petrochemical Technology	China
+QIMR Berghofer Medical Research Institute	Australia
+Shenzhen Technology University	China
+Ritsumeikan University	Japan
+Chery Automobile	China
+China National Petroleum Corporation	China
+Universidad de Chile	Chile
+Polytechnic University of Turin	Italy
+Dezhou University	China
+National Yunlin University Science & Technology	Taiwan
+Tianjin University of Finance & Economics	China
+Commonwealth Scientific & Industrial Research Organisation (CSIRO)	Australia
+Hainan University	China
+Universite Gustave-Eiffel	France
+Chinese Academy of Social Sciences	China
+University of Surrey	United Kingdom
+East China University of Technology	China
+Jiangsu Ocean University	China
+Shaoxing University	China
+Universidade de Santiago de Compostela	Spain
+University of Hull	United Kingdom
+Victoria University Wellington	New Zealand
+University of Engineering & Technology Lahore 	Pakistan
+Qufu Normal University	China
+Technical University Freiberg	Germany
+Chalmers University of Technology	Sweden
+Gomal University 	Pakistan
+York University - Canada	Canada
+Chongqing Jiaotong University	China
+Central Iron & Steel Research Institute	China
+Ford Motor Company	United States
+Government College University Faisalabad	Pakistan
+Sejong University	South Korea
+Guangxi University of Science & Technology	China
+Henan Institute of Technology	China
+Harvard University	United States
+Nihon University	Japan
+East China Normal University	China
+University of Queensland	Australia
+Waseda University	Japan
+Shihezi University	China
+Chinese Academy of Tropical Agricultural Sciences	China
+Inner Mongolia Technical College of Mechanics & Electrics	China
+Universidad de Talca	Chile
+Northwest Normal University - China	China
+King Abdulaziz University	Saudi Arabia
+University of Regensburg	Germany
+East China University of Science & Technology	China
+Oregon State University	United States
+University of Rwanda	Rwanda
+University of Southern California	United States
+Chinese Research Academy of Environmental Sciences	China
+North China University of Water Resources & Electric Power	China
+Cardiff University	United Kingdom
+University of Groningen	Netherlands 
+Guangdong University of Technology	China
+Russian Academy of Sciences	Russia

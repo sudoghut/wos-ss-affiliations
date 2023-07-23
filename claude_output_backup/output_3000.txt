@@ -1,0 +1,180 @@
+ Luxembourg Institute of Health  	Luxembourg
+Universite d'Angers	France
+Consiglio per la Ricerca in Agricoltura e L'analisi Dell'economia Agraria (CREA)	Italy
+German Center for Neurodegenerative Diseases (DZNE)	Germany 
+Universidad de la Republica Uruguay 	Uruguay
+Dali University  	China
+Flinders University South Australia  	Australia
+Tokyo Women's Medical University	Japan
+IRCCS Bambino Gesu 	Italy
+UHI Millennium Institute	UK
+Inland Norway University of Applied Sciences  	Norway
+Harry Perkins Institute of Medical Research  	Australia
+University of Urbino  	Italy
+Universidade Estadual Paulista  	Brazil
+Universitas Pelita Harapan  	Indonesia
+Quadram Institute  	UK
+Korea University Medicine (KU Medicine) 	South Korea
+CSIC - Centro de Biologia Molecular Severo Ochoa (CBM)	Spain
+Royal College of Surgeons - Ireland	Ireland
+National Institute for Biological Standards & Control	UK
+VU UNIVERSITY MEDICAL CENTER  	Netherlands
+Cukurova University  	Turkey
+Providence Portland Medical Center	USA
+University of Toledo Health Science Campus	USA
+University of Sarajevo  	Bosnia and Herzegovina
+VA Pittsburgh Healthcare System	USA
+EcoHealth Alliance	USA
+Cedars Sinai Medical Center	USA
+Medical University Silesia  	Poland 
+Sidra Medical & Research Center  	Qatar
+Museum National d'Histoire Naturelle (MNHN)  	France
+Medical Research Council Clinical Trials Unit	UK
+Australian Catholic University	Australia
+IDIBAPS  	Spain
+Graz University of Technology  	Austria
+NIH National Institute of Environmental Health Sciences (NIEHS)	USA
+Medical University of Lublin  	Poland
+Luxembourg Institute of Science & Technology 	Luxembourg
+Chugai Pharmaceutical Co. Ltd.  	Japan
+Pontificia Universidade Catolica de Goias  	Brazil
+Tarbiat Modares University  	Iran
+Institute of Molecular Genetics of the Czech Academy of Sciences	Czech Republic
+Tanta University  	Egypt
+Novartis  	Switzerland
+Agilent Technologies  	USA
+Conservatoire National Arts & Metiers (CNAM)  	France
+Agriculture & Agri Food Canada 	Canada
+Institute of Organic Chemistry & Biochemistry of the Czech Academy of Sciences	Czech Republic
+L'Oreal Group  	France 
+University of Murcia  	Spain
+Walter Reed National Military Medical Center	USA
+KK Women's & Children's Hospital  	Singapore
+Dana-Farber Cancer Institute	USA
+Johns Hopkins Bloomberg School of Public Health	USA
+Penn State Health	USA
+University of Thessaly  	Greece
+Ahvaz Jundishapur University of Medical Sciences (AJUMS)  	Iran
+University of Mississippi Medical Center	USA
+University of Central Lancashire  	UK
+International Medical University Malaysia  	Malaysia
+Albany Medical College	USA
+Anglia Ruskin University  	UK 
+Friedrich Loeffler Institute	Germany
+Eberhard Karls University Hospital  	Germany
+Instituto de Investigaciones Biologicas Clemente Estable Uruguay 	Uruguay
+Guy's & St Thomas' NHS Foundation Trust	UK
+Magna Graecia University of Catanzaro  	Italy
+IRCCS Fondazione Pascale  	Italy
+University of Kansas Medical Center	USA
+Children's Mercy Hospital	USA
+CNRS - National Institute for Biology (INSB)  	France
+Mackay Medical College 	Taiwan  
+Fujita Health University  	Japan
+University of Ioannina  	Greece
+Sardar Patel University  	India
+Glasgow Caledonian University  	UK
+University of Alabama Tuscaloosa	USA
+Roche Holding	Switzerland
+University of Vienna	Austria
+National Institute of Infectious Diseases (NIID)  	Japan
+heSam Universite	France
+Universitat de Lleida	Spain
+Henry Ford Hospital	USA
+Korea Research Institute of Bioscience & Biotechnology (KRIBB)  	South Korea
+Public Health England	UK
+University Nebraska Kearney	USA
+Ajinomoto Co Inc 	Japan
+Institute of Cancer Research - UK	UK
+Fred Hutchinson Cancer Center	USA 
+George Institute for Global Health  	Australia
+Fundacao Oswaldo Cruz  	Brazil
+Zurich University of Applied Sciences	Switzerland
+University of Genoa	Italy
+St Georges University London	UK
+Schleswig Holstein University Hospital	Germany
+University of Crete	Greece
+University of Iowa	USA
+Medical University of Innsbruck	Austria
+Robert Koch Institute	Germany
+Salk Institute	USA
+University of Limerick	Ireland
+Henan University of Traditional Chinese Medicine  	China
+University of La Reunion  	Reunion 
+University of the Gambia  	Gambia
+Martin Luther University Halle Wittenberg	Germany
+Flanders Institute for Biotechnology (VIB)  	Belgium
+Johnson & Johnson	USA
+University of Jordan  	Jordan
+AgResearch - New Zealand	New Zealand
+Institut Pasteur Paris	France
+University Medical Center Hamburg-Eppendorf	Germany
+Akdeniz University	Turkey
+University Health Network Toronto	Canada
+Institute Technology of Bandung	Indonesia
+Colorado State University	USA
+Ollscoil na Gaillimhe-University of Galway	Ireland
+University of Colorado at Colorado Springs	USA
+Menzies Health Institute Queensland  	Australia
+Royal Marsden NHS Foundation Trust	UK
+University of Colombo	Sri Lanka
+Institute of Tropical Medicine (ITM)  	Belgium
+United States Department of Agriculture (USDA)	USA
+CSIC - Centro Nacional de Biotecnologia (CNB)	Spain
+Kolling Institute of Medical Research	Australia
+Woolcock Institute of Medical Research	Australia
+Ifremer	France
+Covenant University	Nigeria
+Hospital Clinic de Barcelona	Spain
+United States Geological Survey	USA
+Ecole Nationale Veterinaire Agroalimentaire et de l'Alimentation Nantes-Atlantique	France
+G d'Annunzio University of Chieti-Pescara	Italy
+Autonomous University of Barcelona	Spain
+Medivir	Sweden
+Alfaisal University  	Saudi Arabia
+Schepens Eye Research Institute	USA
+Chengdu Institute of Biology CAS  	China
+NIH National Library of Medicine (NLM)	USA
+Vrije Universiteit Amsterdam	Netherlands
+Radboud University Nijmegen	Netherlands
+St Jude Children's Research Hospital	USA
+European Molecular Biology Laboratory (EMBL)  	Germany 
+Aalborg University Hospital  	Denmark
+European Commission Joint Research Centre  	EU
+Universite des Antilles  	Guadeloupe
+Yonsei University Health System  	South Korea
+University Cheikh Anta Diop Dakar  	Senegal
+CHU de St Etienne  	France
+Ecole Pratique des Hautes Etudes (EPHE)  	France
+American University  	USA
+Institute of Environmental Science & Research (ESR) - New Zealand  	New Zealand
+Leibniz Institut fur Pflanzengenetik und Kulturpflanzenforschung	Germany
+GlaxoSmithKline  	UK
+CNRS - Institute of Ecology & Environment (INEE)  	France
+Danderyds Hospital  	Sweden  
+Indraprastha Institute of Information Technology Delhi  	India
+Medical College of Wisconsin	USA
+CSIC-UMA - Instituto de Hortofruticultura Subtropical y Mediterranea La Mayora (IHSM)	Spain
+Alberta Innovates  	Canada
+United States Department of the Interior	USA
+Deutsches Primatenzentrum (DPZ)  	Germany
+UTMD Anderson Cancer Center	USA 
+Govind Ballabh Pant Institute of Postgraduate Medical Education & Research  	India
+Cancer Council Queensland  	Australia
+Umea University  	Sweden
+Kuwait University  	Kuwait
+Institute of Hygiene & Tropical Medicine - UNL  	Portugal
+Universita degli Studi di Bari Aldo Moro  	Italy
+Universitetet i Stavanger  	Norway
+Erasmus MC  	Netherlands
+Iran University of Medical Sciences	Iran
+Dokuz Eylul University  	Turkey
+Georgetown University	USA
+Catholic University of Korea  	South Korea
+UniLaSalle  	France
+Carl von Ossietzky Universitat Oldenburg  	Germany
+University of Arkansas Medical Sciences	USA
+Beatson Institute  	UK 
+University Children's Hospital Zurich  	Switzerland
+Flinders Medical Centre  	Australia
+University of Lubeck  	

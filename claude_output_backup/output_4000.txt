@@ -1,0 +1,193 @@
+ Mansfield University - Pennsylvania   United States
+Canterbury Christ Church University   United Kingdom 
+Wuyi University         China
+Universite Le Havre Normandie     France
+Jacksonville University        United States 
+National Research Institute of Astronomy & Geophysics - NRIAG     Egypt
+Presidency University Kolkata         India  
+Rio Tinto                   Australia
+Silesian University of Technology      Poland
+Universidade Federal de Uberlandia     Brazil
+American University of Beirut         Lebanon
+Institute of Macromolecular Compounds of the Russian Academy of Sciences   Russia
+University of Deusto             Spain
+Pfizer                     United States
+SOLEIL Synchrotron              France
+Texas State University System        United States  
+Lamar University             United States
+Indian Institute of Technology (IIT) - Palakkad      India
+Institute of Desertification Studies CAF    China
+Cihan University-Erbil         Iraq
+The Third People's Hospital of Shenzhen      China
+University of Batna 2         Algeria
+Universite Mohamed Khider Biskra   Algeria
+Technical University Liberec     Czech Republic 
+Istituto di Matematica Applicata e Tecnologie Informatiche Enrico Magenes (IMATI-CNR)   Italy 
+University of Sassari          Italy
+Universidade Federal de Amazonas     Brazil
+Great Ormond Street Hospital for Children NHS Foundation Trust United Kingdom
+University of Southern Mississippi United States
+Shandong University of Traditional Chinese Medicine     China
+Institute of Ion-Plasma & Laser Technologies Named After U.A. ArifovUzbekistan
+Academy of Sciences of Uzbekistan    Uzbekistan
+Indian Institute of Geomagnetism (IIG)     India 
+University of Calcutta         India
+Prince of Wales Hospital   Australia
+Addenbrooke's Hospital        United Kingdom
+Cambridge University Hospitals NHS Foundation Trust   United Kingdom
+Hefei Normal University        China
+IMT Mines Albi         France  
+Multimedia University        Malaysia
+Fukuoka University          Japan
+Johns Hopkins University Applied Physics Laboratory    United States
+Smithsonian Tropical Research Institute  United States 
+Smithsonian Institution         United States
+American University of Ras Al Khaimah     United Arab Emirates
+Geisinger Medical Center        United States
+Macalester College            United States
+Bocconi University           Italy 
+Governors State University    United States
+Vitreous Retina Macula Consultants of New York United States
+Augusta University             United States
+Dong A University             South Korea 
+University of Science & Technology (UST)   South Korea
+Korea Institute of Energy Research (KIER) South Korea
+Hungarian Research Centre for Astronomy & Earth Sciences    Hungary
+Pasteur Institute of Iran        Iran
+Mimar Sinan Guzel Sanatlar University   Turkey
+Royal Holloway University London   United Kingdom
+Yahoo! Inc                        United States
+Yahoo! Inc United States            United States
+Saratov State University         Russia
+Szeged University             Hungary
+Institute of Information Theory & Automation of the Czech Academy of Sciences Czech Republic
+Wellesley College             United States
+Hangzhou Medical College         China
+College of Staten Island (CUNY) United States 
+University of Western Macedonia Greece
+Saha Institute of Nuclear Physics    India
+Krasnoyarsk Science Center of the Siberian Branch of the Russian Academy of Sciences Russia
+Kirensky Institute of Physics        Russia
+Delphi                        United States
+Toyohashi University of Technology    Japan
+European XFEL                Germany
+Indian Institute of Technology (IIT) - Ropar  India 
+Leibniz Institut fur Polymerforschung Dresden Germany
+University of Khartoum          Sudan
+Shahid Chamran University of Ahvaz        Iran 
+University of Southern California Keck Hospital   United States
+Universitat Kassel             Germany
+Bialystok University of Technology   Poland
+Hechi University              China
+Persian Gulf University         Iran
+Universidade da Coruna         Spain
+Bascom Palmer Eye Institute    United States
+Institute of Plasma Physics of the Czech Academy of Sciences Czech Republic
+Universidad del Norte Colombia   Colombia
+Institut de Recerca en Energia de Catalunya (IREC)   Spain
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) Russia
+Idaho National Laboratory      United States
+Hunan Institute of Engineering      China
+University of Nis              Serbia
+Serbian Academy of Sciences & Arts Serbia
+Yellow Sea Fisheries Research Institute CAFS  China  
+Gas Institute of the National Academy of Sciences of Ukraine  Ukraine
+Institute of Animal Science CAAS   China 
+National Research Foundation - South Africa South Africa
+University of Zululand         South Africa
+University of the Western Cape  South Africa
+iThemba LABS                    South Africa
+Shenzhen International Institute for Biomedical Research China
+Politecnico di Bari            Italy
+New York Blood Center          United States
+Institute of Space & Astronautical Science (ISAS) Japan
+University of Ferrara          Italy
+Africa Health Research Institute South Africa
+Space Research Institute of the Russian Academy of Sciences Russia
+Institut Superieur de l'Aeronautique et de l'Espace (ISAE-SUPAERO) France
+NASA Ames Research Center          United States
+Fisheries & Oceans Canada    Canada 
+Malmo University              Sweden
+Kasetsart University          Thailand
+IMDEA Energy                  Spain
+Hopital Universitaire Paul-Brousse - APHP  France
+Assistance Publique Hopitaux Paris (APHP) France 
+Hopital Universitaire Avicenne - APHP     France
+Hopital Universitaire Hotel-Dieu - APHP   France
+California Polytechnic State University San Luis Obispo United States
+Central Arkansas Veterans Healthcare System   United States
+Kirby Institute                   Australia
+Istituto per lo Studio degli Ecosistemi (ISE-CNR)   Italy
+Al-Hussein Bin Talal University   Jordan
+Hashemite University           Jordan
+Princess Sumaya University for Technology Jordan
+Korea Electrotechnology Research Institute (KERI) South Korea
+Korea Atomic Energy Research Institute (KAERI) South Korea
+Universite de Toulouse - Jean Jaures   France
+Institute of Laboratory Animal Science - CAMS China
+Sefako Makgatho Health Sciences University South Africa
+Toho University                Japan
+University of the Pacific       United States  
+Uzhgorod National University Ukraine 
+Comenius University Bratislava Slovakia
+CSIR - National Physical Laboratory (NPL) India
+Shanghai Academy of Social Sciences  China
+Agriculture Genomes Institute at Shenzhen CAAS China
+Guangdong Laboratory for Lingnan Modern Agriculture  China
+Deen Dayal Upadhyaya Gorakhpur University  India
+Plovdiv University              Bulgaria
+Southern Technical University  Bulgaria
+Northern Technical University Bulgaria
+South China Botanical Garden CAS China
+Hisense                        China
+Italian National Agency New Technical Energy & Sustainable Economics Development Italy
+Gansu Agricultural University   China
+Singulus Technologies          Germany
+University of South Bohemia Ceske Budejovice Czech Republic
+Parthenope University Naples   Italy 
+Telecom Italia                 Italy
+Maine Medical Center           United States
+University Zurich Hospital    Switzerland
+Universidad de Alcala          Spain 
+Defence Metallurgical Research Laboratory (DMRL) India 
+Defence Research & Development Organisation (DRDO)India
+Indian Institute of Technology (IIT) - Indore India
+University of Verona          Italy
+Rochester Institute of Technology United States
+Stanford Cancer Institute     United States
+German Center for Infection Research Germany
+SCIEX                        United States
+Gunma University              Japan
+VIT-AP University              India
+University of North Carolina Greensboro United States
+Istanbul University           Turkey
+Asia Pacific Center for Theoretical Physics   South Korea
+A*STAR - Institute of Sustainability for Chemicals Energy & Environment (ISCE2) Singapore
+Norwegian Institute of Public Health (NIPH)   Norway
+Jinhua Polytechnic            China
+Shanghai Institute of Nutrition & Health CAS China
+University of Basrah          Iraq
+Fermi National Accelerator Laboratory United States 
+Jesse Brown VA Medical Center United States
+Gubkin Russian State University of Oil & Gas Russia
+University Hohenheim         Germany
+Universidade Federal de Ouro Preto  Brazil
+IU Kelley School of Business  United States
+California State University East Bay United States
+Guizhou Medical University    China
+National Cancer Centre Singapore (NCCS) Singapore
+National Satellite Ocean Application Service  China
+Valparaiso University         United States
+Jackson State University      United States
+Airbus                        France
+fortiss                   Germany
+Istituto dei Sistemi Complessi (ISC-CNR) Italy
+Heart Research Institute     Australia
+Asahi Kasei Corporation    Japan
+Lafayette College            United States
+University of Puerto Rico Humacao  Puerto Rico
+James A. Haley Veterans Hospital United States
+Azienda Ospedaliera Universitaria Integrata Verona Italy
+Shahid Beheshti University   Iran
+Catholic University of Daegu South Korea
+Irkutsk Science Centre of

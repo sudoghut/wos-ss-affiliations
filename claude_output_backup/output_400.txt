@@ -1,0 +1,200 @@
+ Michigan State University      USA
+Northwest Institute for Nonferrous Metal Research - China   China
+Jilin University	China 
+Air University Islamabad	Pakistan 
+Queensland University of Technology (QUT)	Australia
+University of Calgary	Canada
+University of Kwazulu Natal   South Africa
+Hubei University of Arts & Science	China
+China North Industries (NORINCO)	China
+Harbin Engineering University	China
+State Oceanic Administration	China 
+University of Jinan	China
+University of British Columbia	Canada
+University of Cassino	Italy
+Chinese University of Hong Kong	Hong Kong
+Xidian University	China
+Aviation Industry Corporation of China (AVIC)	China
+Southwestern University of Finance & Economics - China	China
+Macau University of Science & Technology	Macau
+Lanzhou Jiaotong University	China 
+Anhui University of Science & Technology	China  
+Western University (University of Western Ontario)	Canada
+Beijing Academy of Science & Technology	China
+Chinese University of Hong Kong Shenzhen	China
+Northwest Institute of Nuclear Technology - China	China
+Soochow University - China	China
+University of Oslo	Norway
+China Aerospace Science & Technology Corporation (CASC)	China
+Nagoya University 	Japan
+Toronto Metropolitan University	Canada
+China Institute of Atomic Energy	China  
+Nanjing University of Aeronautics & Astronautics	China
+North China University of Technology	China
+East China Jiaotong University	China
+Mudanjiang Normal University	China
+Erbil Polytechnic University 	Iraq
+CAPITAL UNIVERSITY OF PHYSICAL EDUCATION AND SPORTS	 China
+University of Edinburgh	UK
+Dalian Maritime University	China
+Tianjin University Science & Technology	China 
+University of South China	China
+Indian Institute of Science (IISC) - Bangalore	India
+Baoding University	China
+Shenzhen MSU-BIT University	China
+Fudan University	China
+Wenzhou University	China
+National University of Sciences & Technology - Pakistan	Pakistan
+Shanxi Normal University	China
+Ilam University	Iran
+State Grid Corporation of China	China
+Shandong Technology & Business University	China
+University of Witwatersrand	South Africa
+Zhengzhou University of Aeronautics	China
+Universite Catholique Louvain	Belgium
+Kyung Hee University	South Korea
+Universitat Rovira i Virgili 	Spain
+Tomas Bata University Zlin	Czech Republic
+Qingdao University	China 
+ShenZhen Polytechnic	China
+Liaoning Normal University	China
+Universidade da Beira Interior	Portugal
+University of Ottawa	Canada
+Minzu University of China	China
+Wuhan University	China
+People's Public Security University of China	China 
+Chinese People's Liberation Army General Hospital	China
+Swansea University 	UK
+Guilin University of Electronic Technology	China
+Microsoft	USA
+National Taipei University of Technology	Taiwan
+Tianjin University of Technology	China
+University of Eastern Finland	Finland
+Air Force Engineering University	China
+University of Cologne	Germany
+George Mason University	USA
+National Institute of Metrology China	China
+Nanyang Normal College	China
+Daqing Normal University	China
+Zhejiang Normal University	China
+Chongqing University	China
+Tel Aviv University	Israel
+McGill University	Canada
+Columbia University	USA
+Beijing Normal University	China
+Shanxi Medical University	China
+Qinghai Nationalities University	China
+Shenyang Ligong University	China
+Xinjiang University	China
+NTT Docomo	Japan
+The Welding Institute (TWI)	UK
+Dongbei University of Finance & Economics	China
+Beijing Forestry University	China
+Polytechnic University of Milan	Italy
+China Mobile	China
+Rocket Force University of Engineering	China
+Changchun University of Science & Technology	China 
+Wuhan Institute of Technology	China
+Huanghuai University	China
+Chongqing University of Posts & Telecommunications	China
+University of Leicester	UK
+Ghent University 	Belgium
+Inner Mongolia University	China
+Northwest University Xi'an	China
+Southwest Jiaotong University	China
+Yangzhou University	China
+China University of Political Science & Law	China
+China-Japan Friendship Hospital	China
+Southern Federal University	Russia
+Changchun University	China
+University of Amsterdam	Netherlands
+National Institute of Advanced Industrial Science & Technology (AIST)	Japan
+Zhejiang University of Technology	China
+Henan University	China
+Xi'an University of Posts & Telecommunications	China
+Southwest Petroleum University	China
+North Minzu University	China
+Shaanxi University of Science & Technology	China
+Adobe Systems Inc.	USA 
+Dalhousie University	Canada
+Fuzhou University	China
+Aalborg University	Denmark
+University of Sargodha	Pakistan
+Nanjing University of Information Science & Technology	China
+Zhejiang Sci-Tech University	China
+Tianjin Normal University	China
+University of Adelaide	Australia
+Shijiazhuang Tiedao University	China
+University of Rochester	USA
+IMDEA Materials Institute	Spain
+Universitas Mercu Buana	Indonesia 
+Saint Petersburg State University	Russia
+Chongqing Technology & Business University	China
+Xi'an Aeronautical University	China
+University of Huddersfield	UK
+Sheffield Hallam University	UK
+Yuxi Normal University	China
+Queens University Belfast 	UK
+Qilu University of Technology	China
+University of Paderborn	Germany
+National Kaohsiung University of Science & Technology	Taiwan
+Taishan University	China
+Anhui Polytechnic University	China
+Eindhoven University of Technology	Netherlands
+Tangshan Normal University	China
+North China Institute of Aerospace Engineering	China
+Johns Hopkins University	USA
+CRRC Corporation	China
+Iowa State University	USA
+Technical University of Darmstadt	Germany
+Marche Polytechnic University	Italy
+University of Toronto	Canada
+Northeastern University	USA
+Hebei University of Science & Technology	China
+Queens University - Canada	Canada
+Warsaw University of Technology	Poland
+Tianjin University of Technology & Education	China
+University of Electro-Communications - Japan	Japan
+Shandong Jiaotong University	China
+Taiyuan University of Science & Technology	China
+Xi'an University of Technology 	China 
+Beijing Academy of Quantum Information Sciences 	China
+Weifang University	China
+University of Padua	Italy
+Mendeleev University of Chemical Technology of Russia  	Russia
+Ludong University	China
+Huawei Technologies	China
+Anhui University	China
+Chengdu University of Technology	China
+Qingdao University of Technology	China
+Yellow River Conservancy Technical Institute	China
+Nanjing University	China
+University of Connecticut	USA
+Jiangxi University of Science & Technology	China
+Xi'an Shiyou University	China
+Institut Universitaire de France	France
+Payame Noor University	Iran
+Changsha University	China
+Guangzhou University	China
+Northeast Normal University - China	China
+University of Rome Tor Vergata 	Italy
+University of Wollongong	Australia  
+Shantou University	China
+Tangshan University	China
+University of Ulsan	South Korea
+COMSATS University Islamabad (CUI)	Pakistan
+Huaiyin Normal University 	China
+Institute of Disaster Prevention	China
+Gujarat University	India
+Ocean University of China	China
+Nanjing Forestry University	China
+Marquette University	USA
+Singapore University of Technology & Design	Singapore
+University of Yamanashi	Japan
+Algerian Space Agency (ASAL)	Algeria
+South China University of Technology	China
+Czech Technical University Prague 	Czech Republic
+Hainan Normal University	China
+Beijing Normal University - Hong Kong Baptist University United International College	China
+Huizhou University	China
+Hunan University of Science & Technology	China

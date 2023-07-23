@@ -1,0 +1,202 @@
+ Here's the list of institutions with their nation:
+
+Research Center Julich 	Germany
+Zhejiang Wanli University 	China
+Shandong Institute of Petroleum & Chemical Technology China
+High Energy Accelerator Research Organization (KEK) Japan 
+Nguyen Tat Thanh University (NTTU) Vietnam 
+Tokai University Japan
+Duke Kunshan University China
+State Power Investment Corporation China
+University of Tartu Estonia
+Wenzhou Medical University China
+Qingdao Agricultural University China
+Chinese Culture University Taiwan
+Henan Institute of Science & Technology China
+UDICE-French Research Universities France
+Universite Paris Saclay France
+A.V. Luikov Heat & Mass Transfer Institute of the National Academy of Sciences of Belarus Belarus
+University of Portsmouth United Kingdom
+University of Taipei Taiwan
+Harbin University of Commerce China
+National Institute of Education (NIE) Singapore Singapore
+Universidad Politecnica Salesiana Ecuador
+Kagoshima University Japan
+Bengbu Medical College China
+Aerospace Corporation - USA United States
+Luoyang Normal University China 
+Virginia Commonwealth University United States
+Ministry of Transport of the People's Republic of China China
+Hubei University of Automotive Technology China
+University of Kaiserslautern Germany
+University of Helsinki Finland
+Ural State University of Railway Transport Russia
+Institut Laue-Langevin (ILL) France
+Universite de Caen Normandie France
+HSE University (National Research University Higher School of Economics) Russia
+Russian University of Transport Russia
+Xiamen Medical College China
+Hebei Normal University of Science & Technology China
+Japan Science & Technology Agency (JST) Japan
+Embry-Riddle Aeronautical University United States
+Dortmund University of Technology Germany
+Hunan City University China
+Dalian Medical University China
+Kwangwoon University South Korea
+China Tobacco Yunnan Industrial Co Ltd China
+Chengdu Normal University China
+Xinjiang Normal University China
+London South Bank University United Kingdom
+Chung Ang University South Korea
+Hunan University Of Humanities Science & Technology China
+National Institutes for Quantum Science & Technology Japan
+Free University of Berlin Germany
+Technische Universitat Chemnitz Germany
+China Southern Power Grid China
+Birla Institute of Technology & Science Pilani (BITS Pilani) India
+National Measurement Institute Australia - NMI Australia
+Military Technical College Egypt
+Neijiang Normal University China
+Liaoning Technical University China
+Lanzhou Institute of Chemical Physics CAS China
+Jiangxi Normal University China
+Pohang University of Science & Technology (POSTECH) South Korea
+Universidade Federal de Minas Gerais Brazil
+University of Notre Dame Australia Australia
+Aberystwyth University United Kingdom
+Universidad de Valladolid Spain
+Guangdong Medical University China
+National Taipei University Taiwan
+Zunyi Normal University China
+Technical University Kosice Slovakia
+Shenzhen International Quantum Academy China
+Southwest Minzu University China 
+Pingdingshan University China
+University of Latvia Latvia
+Shandong Womens University China
+CIMAT - Centro de Investigacion en Matematicas Mexico
+James Cook University Australia
+Tianjin Institute of Industrial Biotechnology CAS China
+Goa Institute of Management India
+Istanbul Medeniyet University Turkey
+National Tsing Hua University Taiwan
+Aselsan Turkey
+Ho Chi Minh City University of Food Industry Vietnam
+Ton Duc Thang University Vietnam
+Naval Medical University China
+Shanghai Normal University China
+Beihua University China 
+China Three Gorges Corporation China
+Robert Gordon University United Kingdom
+Guangdong Academy of Medical Sciences & Guangdong General Hospital China
+Stowers Institute for Medical Research United States
+Bulgarian Academy of Sciences Bulgaria
+Shanghai Institute of Applied Physics CAS China
+University Ha'il Saudi Arabia
+Institute of Agricultural Resources & Regional Planning CAAS China
+Middlesex University United Kingdom
+China United Network Communications Limited China
+Texas A&M University Commerce United States
+Universite de Tunis Tunisia
+Hokkaido University Japan
+University of Jyvaskyla Finland
+Indian Institute of Science Education & Research (IISER) - Kolkata India
+South Ural State University Russia
+Universiti Teknologi MARA Malaysia
+University of Johannesburg South Africa
+Changchun Institute of Optics Fine Mechanics & Physics CAS China
+George Washington University United States
+Qamcom Research & Technology Sweden
+Chongqing Institute of Green & Intelligent Technology CAS China
+Shiraz University Iran
+Assiut University Egypt
+Shanghai Institute of Microsystem & Information Technology CAS China
+Fujian Medical University China
+Gachon University South Korea
+IMEC Belgium
+Institute of Materia Medica - CAMS China
+Santa Clara University United States
+Universite Paris Cite France
+Australian Nuclear Science & Technology Organisation Australia
+Hannover Medical School Germany
+Charles University Prague Czech Republic
+University of Tennessee Health Science Center United States
+Guangxi Medical University China
+University of Newcastle Australia 
+Eotvos Lorand University Hungary
+Institute of Electronics CAS China
+National Resource Center for Chinese Materia Medica CACMS China
+Universidad de Especialidades Espiritu Santo Ecuador
+Indiana University-Purdue University Indianapolis United States
+Indiana University System United States
+Vilnius University Lithuania
+Istanbul Gelisim University Turkey
+Bharath Institute of Higher Education & Research India
+Wuchang University of Technology China
+San Francisco State University United States
+Ball State University United States
+BYD China
+Kingfa Sci. & Tech. China
+State Key Laboratory of Quantum Optics & Quantum Optics Devices China
+Abdul Wali Khan University Pakistan
+Zhengzhou Tobacco Research Institute of CNTC China
+Shandong Institute of Commerce & Technology China
+A*STAR - Institute of High Performance Computing (IHPC) Singapore
+Minhaj University Pakistan 
+University of Debrecen Hungary
+Jacobs University Germany
+University of Science & Technology Bannu Pakistan
+Ataturk University Turkey
+University of Dubai United Arab Emirates
+Novosibirsk State University Of Architecture & Civil Engineering Russia
+Khristianovich Institute of Theoretical & Applied Mechanics SB RAS Russia
+University of North Carolina Chapel Hill United States
+Helwan University Egypt
+Autonomous University of Madrid Spain
+Taif University Saudi Arabia
+IVL Swedish Environmental Research Institute Sweden
+Xinjiang University of Finance & Economics China
+IPAG Business School France
+Nationwide Childrens Hospital United States
+University of Canberra Australia
+Northeast Agricultural University - China China
+University of South Florida United States
+National Institute of Technology Calicut India
+Songshan Lake Materials Laboratory China
+Annamalai University India
+Singapore University of Social Sciences (SUSS) Singapore
+Universite de Lille France
+Jadavpur University India 
+DIW Berlin - Deutsches Institut fur Wirtschaftsforschung Germany
+Chungbuk National University South Korea
+Changchun Institute of Applied Chemistry CAS China
+Universite Grenoble Alpes (UGA) France
+Communaute Universite Grenoble Alpes France
+Beni Suef University Egypt
+CGIAR International
+International Food Policy Research Institute (IFPRI) United States
+Memorial Sloan Kettering Cancer Center United States
+Fayetteville State University United States
+Ulsan National Institute of Science & Technology (UNIST) South Korea
+CNRS - National Institute for Mathematical Sciences (INSMI) France
+University of Milano-Bicocca Italy
+Texas Christian University United States
+Universite de Franche-Comte France
+Nordic Institute for Theoretical Physics Sweden
+University of Konstanz Germany
+Mahidol University Thailand
+Japan Aerospace Exploration Agency (JAXA) Japan
+Universite de Monastir Tunisia
+University of Brighton United Kingdom
+IMDEA Nanociencia Spain
+Dongfeng Motor China
+Ningbo University of Finance & Economics China
+Deutsches Elektronen-Synchrotron (DESY) Germany
+Universidad de Extremadura Spain
+King's College London United Kingdom
+Lawrence Livermore National Laboratory United States
+Universidad de Santiago de Chile Chile
+University of Wurzburg Germany
+Paul Scherrer Institute Switzerland
+Institute for Integrative Nanosciences (IIN) Germany
+Leibniz Institute for Solid State & Materials Research Dresden Germany

@@ -1,0 +1,185 @@
+ University of Puerto Rico Medical Sciences Campus	Puerto Rico
+Kazan Federal University	Russia
+Second Institute of Oceanography (SIO)	China
+Leibniz Institut fur Analytische Wissenschaften (ISAS)	Germany
+Shirley Ryan AbilityLab	United States
+Jeol Ltd	Japan
+JEOL Japan	Japan
+Sher-e-Bangla Agricultural University (SAU)	Bangladesh
+California State University Sacramento	United States
+University of North Dakota Grand Forks	United States
+Institute of Physiology of the National Academy of Sciences of Belarus	Belarus
+Soran University	Iraq
+Leibniz Institut fur Sozialwissenschaften (GESIS)	Germany
+Quy Nhon University  	Vietnam
+Nagoya University of Commerce & Business	Japan
+Alagappa University	India
+University Nacional de Ingenieria Lima	Peru 
+Foshan Xianhu Laboratory	China
+Stephan Angeloff Institute of Microbiology Bulgarian Academy of Sciences	Bulgaria
+University of Banja Luka (UNIBL)	Bosnia and Herzegovina
+Sebha University	Libya
+Shandong University of Art & Design	China
+Thiagarajar College	India
+US Navy Naval Air Systems Command	United States
+Safran S.A.  	France
+Zhejiang Institute of Economics & Trade	China
+Bhabha Atomic Research Center (BARC)	India
+Xinjiang Astronomy Observatory NACO CAS	China
+Institute of Batteries LLC	United States
+Simmons University	United States
+Columbus State University	United States
+Central University of Haryana	India
+Indian Institute of Technology (Indian School of Mines) Dhanbad	India
+The Northcap University	India 
+Coimbatore Institute of Technology	India
+Sam Houston State University	United States
+Renesas Electronics Corporation 	Japan
+Adnan Menderes University	Turkey
+Mustansiriya University	Iraq
+Samsung Electro-Mech	South Korea
+SANY	China
+Baicheng Normal University	China
+Mie University	Japan
+Netherlands Cancer Institute	Netherlands
+Centro Atomico Bariloche	Argentina
+Mount Royal University	Canada
+Ningbo City College of Vocational Technology	China
+Affiliated Hospital of Jiangxi University of Traditional Chinese Medicine	China
+Symbiosis Institute of Technology (SIT)	India
+Universidad Central del Ecuador	Ecuador
+Zhejiang Academy of Agricultural Sciences	China
+University of Information Technology & Management Rzeszow	Poland
+Nissan Motor Company	Japan
+Saga University	Japan
+Institute of Computer Science of the Polish Academy of Sciences	Poland
+Ivanovo State University	Russia
+Hydro-Quebec	Canada
+Universitas Pattimura	Indonesia
+Centurion University of Technology & Management	India 
+NASA Glenn Research Center	United States
+Obihiro University of Agriculture & Veterinary Medicine 	Japan
+Spallation Neutron Source	United States
+Istituto di Ricerca su Innovazione e Servizi per lo Sviluppo (IRISS-CNR)	Italy
+Madurai Kamaraj University	India
+Peter Doherty Institute	Australia
+Petru Poni Institute of Macromolecular Chemistry	Romania
+Providence University - Taiwan	Taiwan
+Pontificia Universidade Catolica do Parana	Brazil
+SUNY Optometry	United States
+SUNY Community College	United States
+University New Haven	United States
+Saint Michaels Hospital Toronto	Canada
+Li Ka Shing Knowledge Institute	Canada
+Baikal Museum of the Irkutsk Scientific Center SB RAS	Russia
+Savannah River National Laboratory	United States
+Universidade Federal de Pernambuco	Brazil
+Helmholtz-Center for Infection Research	Germany
+National Research Centre (NRC)	Egypt
+College de France	France
+Florey Institute of Neuroscience & Mental Health	Australia
+Universitat de Vic - Universitat Central de Catalunya (UVic-UCC)	Spain
+Tezpur University	India
+Genentech	United States
+Program in Cellular & Molecular Medicine (PCMM)	United States 
+Kazan State Medical University	Russia
+SN Bose National Centre for Basic Science (SNBNCBS)	India
+Vienna University of Economics & Business	Austria
+University of Ostrava	Czech Republic
+Daikin Industries  	Japan
+Institute of Geodesy & Cartography	Poland
+European Academy of Bozen-Bolzano	Italy
+National Institute for Mathematical Sciences (NIMS) Republic of Korea	South Korea
+Lorestan University	Iran
+Auckland City Hospital	New Zealand
+Istituto di Nanotecnologia (NANOTEC-CNR)	Italy
+Shri Guru Gobind Singhji Institute of Engineering & Technology	India
+Indian Institute of Technology (IIT) Goa	India
+Carleton College	United States
+Sabaragamuwa University of Sri Lanka	Sri Lanka
+Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences 	Poland
+Institute of Theoretical & Applied Informatics of the Polish Academy of Sciences	Poland
+Centre Eugene Marquis	France
+Maastricht University Medical Centre (MUMC)	Netherlands 
+CHU Poitiers  	France
+Poznan University of Medical Sciences 	Poland
+Utrecht University Medical Center	Netherlands
+Universidade do Algarve	Portugal
+CHU Dijon Bourgogne	France
+College of Engineering Trivandrum	India
+Christie NHS Foundation Trust	United Kingdom
+Peter Maccallum Cancer Center	Australia
+Electronics & Telecommunications Research Institute - Korea (ETRI)	South Korea
+Lincoln Laboratory	United States
+Vall d'Hebron Institut de Recerca (VHIR)	Spain
+Hospital Universitari Vall d'Hebron	Spain
+Hospital of Santa Creu i Sant Pau	Spain
+CIBERCV	Spain
+Chizhou University  	China
+National University of Civil Engineering	Vietnam
+College of New Jersey	United States
+Shandong University of Political Science and Law	China
+Universite Paris Nanterre	France
+Tatung University	Taiwan
+Rose Hulman Institute Technology	United States
+GIK Institute Engineering Science & Technology	Pakistan
+Vilnius Gediminas Technical University	Lithuania
+Jefferson University	United States
+Franklin & Marshall College	United States
+Sir Syed University of Engineering & Technology	Pakistan
+Da Yeh University  	Taiwan
+Delta Electronics	Taiwan  
+Wuxi Vocational Institute of Arts & Technology	China
+Alzahra University	Iran
+Guru Ghasidas Vishwavidyalaya	India
+Istinye University	Turkey
+Shippensburg University of Pennsylvania	United States
+University of Maine Orono	United States 
+Igor Sikorsky Kyiv Polytechnic Institute 	Ukraine
+I Shou University	Taiwan
+West Texas A&M University	United States
+Shunde Polytechnic	China
+Liaodong University	China
+Fern University Hagen	Germany
+University of Mazandaran	Iran
+Zhejiang Police College	China
+Bucknell University	United States
+Vilnius College of Technologies & Design	Lithuania
+Shandong Youth University of Political Science	China
+University of Gavle	Sweden
+Central Washington University	United States
+Institute of Engineering (IOE) - Nepal	Nepal
+Kristiania University College	Norway
+Royal Dutch Shell	Netherlands 
+Nipissing University	Canada
+Universidad Militar Nueva Granada	Colombia
+SUNY Delhi	United States
+Roskilde University	Denmark
+Nanning College for Vocational Technology	China
+Ahsanullah University of Science & Technology (AUST)	Bangladesh
+Qujing Normal University	China
+Rohm Semiconductor	Japan
+Turin Polytechnic University Tashkent	Uzbekistan
+Hanoi University of Mining & Geology	Vietnam
+Mus Alparslan University 	Turkey
+Ningde Normal University	China
+MTU Aero Engines	Germany
+Universidad de Burgos	Spain 
+Saints Cyril & Methodius University of Skopje	North Macedonia
+Arizona State University-Downtown Phoenix	United States
+Shih Hsin University	Taiwan
+Indian Institute of Management Raipur	India
+Lunenfeld Tanenbaum Research Institute	Canada
+Sinai Health System Toronto	Canada
+Lappeenranta University of Technology	Finland
+Catholic University of Lublin	Poland
+Chuzhou Polytechnic	China
+Institute of Fluid-Flow Machinery of the Polish Academy of Sciences	Poland
+Chevron	United States
+Universidad Americas Puebla (UDLAP)	Mexico
+Mutah University	Jordan
+Eastern Washington University	United States
+University of North Florida	United States
+Karlsruhe University of Applied Sciences	Germany
+Chukyo University	Japan
+Chubu Electric Power Co

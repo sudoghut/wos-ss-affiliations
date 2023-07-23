@@ -1,0 +1,200 @@
+ Mudanjiang Medical University,China
+University of Augsburg,Germany
+Zhejiang University of Science & Technology,China 
+New York State Psychiatry Institute,United States
+University of Oregon,United States
+Universiti Malaysia Kelantan,Malaysia
+United Arab Emirates University,United Arab Emirates
+East Carolina University,United States
+CAS Center for Excellence in Quantum Information & Quantum Physics,China
+Royal London Hospital,United Kingdom
+Barts Health NHS Trust,United Kingdom
+Gadjah Mada University,Indonesia
+Guiyang Institute of Geochemistry CAS,China
+University of Bremen,Germany
+International Digital Economy Academy,Malaysia
+National Applied Research Laboratories - Taiwan,Taiwan
+Bidhan Chandra Agricultural University,India
+Kookmin University,South Korea 
+Nara Institute of Science & Technology,Japan
+Joint BioEnergy Institute - JBEI,United States
+Ruprecht Karls University Heidelberg,Germany
+University of South Africa,South Africa
+Hebei Chemical & Pharmaceutical College,China
+Shanghai Dianji University,China
+Universite de Poitiers,France
+Rolls-Royce Holding Group ,United Kingdom 
+Miami University,United States
+Binzhou University,China
+Riga Technical University,Latvia
+University of Hradec Kralove,Czech Republic
+Shanghai University of Political Science & Law,China
+University of Tsukuba,Japan
+Japan Synchrotron Radiation Research Institute,Japan
+Seikei University,Japan
+Lagos State University,Nigeria
+University of Dhaka,Bangladesh
+University of Haifa,Israel
+Academia Sinica - Taiwan,Taiwan 
+Aristotle University of Thessaloniki,Greece
+Ecole Nationale de l'Aviation Civile (ENAC),France
+Universite Federale Toulouse Midi-Pyrenees (ComUE),France
+State Marine Technical University,Russia
+Universita della Campania Vanvitelli,Italy
+Chinese Academy of Geological Sciences,China
+Nagasaki University,Japan
+Mody University of Science & Technology,India
+Shandong Jianzhu University,China
+Hang Seng University of Hong Kong,Hong Kong
+University of Passau,Germany
+Universidad Antonio de Nebrija,Spain
+National Institute of Biological Sciences Beijing,China
+Southern Marine Science & Engineering Guangdong Laboratory,China
+Universita della Svizzera Italiana,Switzerland 
+Kaiser Permanente,United States
+Xinxiang Medical University,China
+Muroran Institute of Technology,Japan
+Institute of Urban Environment CAS,China
+Karakoram International University,Pakistan
+Shenzhen Institute of Information Technology,China
+CSIC - Instituto de Quimica Avanzada de Cataluna (IQAC),Spain
+CSIC - Centro de Investigacion y Desarrollo Pascual Vila (CID-CSIC),Spain
+Nanjing Audit University,China
+Yeungnam University,South Korea
+Tulane University,United States
+Nikola Vaptsarov Naval Academy,Bulgaria
+University of Tasmania,Australia
+Gaziantep University,Turkey
+Hongik University,South Korea
+University of Miami,United States
+Universidad de Cadiz,Spain
+E-ON,Germany
+University Centre Svalbard (UNIS),Norway
+University of Teesside,United Kingdom
+B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus,Belarus
+National Academy of Sciences Ukraine,Ukraine
+Institute for Scintillation Materials of the National Academy of Sciences of Ukraine,Ukraine
+Millersville University of Pennsylvania,United States
+Xinjiang Institute of Engineering,China
+Chang Gung Memorial Hospital,Taiwan
+Nanhua University,Taiwan 
+Soonchunhyang University,South Korea
+Youjiang Medical University for Nationalities,China
+Brno University of Technology,Czech Republic
+Chung Hua University,Taiwan
+University of North Carolina School of Medicine,United States
+Panasonic,Japan
+Zhangjiang Laboratory,China
+Shanghai Advanced Research Institute CAS,China
+Kwame Nkrumah University Science & Technology,Ghana
+Innopolis University,Russia
+University of Illinois Chicago Hospital,United States
+University of Illinois Chicago,United States
+Chungnam National University,South Korea
+Thermal Power Research Institute Co Ltd,China
+University of West Scotland,United Kingdom
+Changchun Institute Technology,China
+Prince Sattam Bin Abdulaziz University,Saudi Arabia 
+North Sichuan Medical University,China
+University of Kurdistan,Iran
+Razi University,Iran
+INRAE,France
+Universitat Politecnica de Valencia,Spain
+University of Lausanne,Switzerland
+European University Cyprus,Cyprus
+Universite de Sfax,Tunisia
+Shaqra University,Saudi Arabia
+Dankook University,South Korea
+Inner Mongolia University of Finance & Economics,China
+Namseoul University,South Korea
+Fraunhofer Gesellschaft,Germany
+German-Jordanian University,Jordan
+University of Missouri Saint Louis,United States
+University Moratuwa,Sri Lanka
+Gonzaga University,United States
+Universidad Rey Juan Carlos,Spain
+Shanghai International Studies University,China
+Sakarya University of Applied Science,Turkey
+China Europe International Business School,China
+Leiden University Medical Center (LUMC),Netherlands
+Narxoz University,Kazakhstan
+L.N. Gumilyov Eurasian National University,Kazakhstan
+Shanghai Business School,China 
+Estonian University of Life Sciences,Estonia
+Los Alamos National Laboratory,United States
+Orebro University,Sweden
+University of Burdwan,India
+Mapua University,Philippines 
+Charles Darwin University,Australia
+Fiji National University (FNU),Fiji
+National Institute for Materials Science,Japan
+University of Health & Rehabilitation Sciences,Iran
+Hunan Agricultural University,China
+National Formosa University,Taiwan
+Asia University Taiwan,Taiwan
+Shenzhen Bay Laboratory,China
+Institute of Zoology CAS,China
+Thermo Fisher Scientific,United States
+Hong Kong Metropolitan University,Hong Kong
+Rutgers State University Camden,United States
+Chuiko Institute of Surface Chemistry of NASU,Ukraine
+Ministry of Education & Science of Ukraine,Ukraine
+Taras Shevchenko National University Kiev,Ukraine
+Instituto Politecnico Nacional - Mexico,Mexico
+Curtin University Malaysia,Malaysia
+Hubei Engineering University,China
+Universite Cote d'Azur,France
+Nvidia Corporation,United States
+Suzhou Laboratory,China
+Economic Research Institute ASEAN & East Asia,Indonesia
+China Electronics Corporation,China
+Universidad Francisco de Vitoria,Spain
+University of Hertfordshire,United Kingdom
+Hannam University,South Korea
+University of Dayton,United States
+University of Boras,Sweden
+Okan University,Turkey
+Atilim University,Turkey
+Thales Group,France
+Harvard Medical School,United States
+University of California Santa Cruz,United States
+Institut National Polytechnique de Grenoble,France
+University of Kitakyushu,Japan
+Institut National de la Sante et de la Recherche Medicale (Inserm),France
+Universite Claude Bernard Lyon 1,France
+UK Centre for Ecology & Hydrology (UKCEH),United Kingdom
+Guizhou Education University,China
+Wake Forest University,United States
+National Sun Yat Sen University,Taiwan
+Brigham & Women's Hospital,United States  
+VTT Technical Research Center Finland,Finland
+Yangtze River Water Resources Protection Bureau,China
+United States Navy,United States
+Naval Research Laboratory,United States
+Tokyo University of Technology,Japan
+Wuhan Institute of Physics & Mathematics CAS,China
+Ecole Normale Superieure de Constantine,Algeria
+Universite Constantine,Algeria
+Moi University,Kenya
+Suzhou Vocational University,China
+Lithuanian Energy Institute,Lithuania 
+Universidad de Malaga,Spain
+Beirut Arab University,Lebanon
+University of Texas Southwestern Medical Center Dallas,United States
+University of Massachusetts Lowell,United States
+Shenyang University of Chemical Technology,China
+University of Louisiana Lafayette,United States
+Vellore Institute of Technology (VIT),India 
+VIT Chennai,India
+Hindustan Institute of Technology & Science,India
+VIT Bhopal University,India
+Institut Catholique d'Arts et Metiers de Toulouse,France
+Nisantasi University,Turkey
+California State University Los Angeles,United States
+Kent State University Salem,United States 
+Kent State University Kent,United States
+Kent State University,United States  
+Wuhan Institute of Rock & Soil Mechanics CAS,China
+Vanderbilt University,United States
+Universite Polytechnique Hauts-de-France,France
+Nantong University,China
