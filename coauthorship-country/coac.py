@@ -63,7 +63,7 @@ for coauthorship_article in coauthorship_list:
 # Sort country_pairs by value
 country_pairs = {k: v for k, v in sorted(country_pairs.items(), key=lambda item: item[1], reverse=True)}
 # Write country pairs to file
-with open('coauthorship-country\coauthorship-country_output.txt', 'w') as f:
+with open('coauthorship-country\coauthorship-country_output.csv', 'w') as f:
     f.write('Country pair,Count\n')
     for country_pair in country_pairs:
         f.write(country_pair[0] + '-' + country_pair[1] + ',' + str(country_pairs[country_pair]) + '\n')
