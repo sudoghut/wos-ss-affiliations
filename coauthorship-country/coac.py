@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import textwrap
+import os
 
 # Read id, university, country mapping table
 univ_country_df = pd.read_csv('node-with-country.csv')
@@ -48,6 +49,7 @@ for coauthorship_article in coauthorship_list:
                 # raise Exception('University not found in mapping table')
             country_pair = tuple(sorted([univ_country_dict[univ_a],
                                          univ_country_dict[univ_b]]))
+            if 'China' not in country_pair: continue
             if country_pair not in country_pairs_base_on_one_article:
                 country_pairs_base_on_one_article[country_pair] = 1
             # If we want to count by pairs, use the following code. If we want to count by articles, comment it.
@@ -63,7 +65,7 @@ for coauthorship_article in coauthorship_list:
 # Sort country_pairs by value
 country_pairs = {k: v for k, v in sorted(country_pairs.items(), key=lambda item: item[1], reverse=True)}
 # Write country pairs to file
-with open('coauthorship-country\coauthorship-country_output.csv', 'w') as f:
+with open(os.path.join('coauthorship-country','coauthorship-country_output.csv'), 'w') as f:
     f.write('Country pair,Count\n')
     for country_pair in country_pairs:
         f.write(country_pair[0] + '-' + country_pair[1] + ',' + str(country_pairs[country_pair]) + '\n')
