@@ -5,6 +5,7 @@ import textwrap
 import os
 
 year_list = ["2018", "2019", "2020", "2021", "2022"]
+seven_universities_name_list = ["Beihang University", "Beijing Institute of Technology", "Harbin Engineering University", "Northwestern Polytechnical University", "Nanjing University of Science & Technology", "Nanjing University of Aeronautics & Astronautics", "Harbin Institute of Technology"]
 year_dic = {}
 
 # input_with_year = pd.read_csv(os.path.join('input-with-year-small.txt'), delimiter="\t", dtype=str).values.tolist()
@@ -19,7 +20,7 @@ for article in input_with_year:
 univ_country_df = pd.read_csv(os.path.join('node-with-country.csv'))
 print(univ_country_df.head())
 
-name_standardization_dict = {"USA": "United States", "Hong Kong": "China"}
+name_standardization_dict = {"USA": "United States", "Hong Kong": "PRC", "China": "PRC"}
 
 for i in range(len(univ_country_df)):
     country_name = univ_country_df['country'][i].strip()
@@ -57,9 +58,10 @@ for year, year_content in year_dic.items():
                 if univ_b not in univ_country_dict:
                     print(univ_b)
                     continue
+                if univ_a not in seven_universities_name_list and univ_b not in seven_universities_name_list: continue
                 country_pair = tuple(sorted([univ_country_dict[univ_a],
                                             univ_country_dict[univ_b]]))
-                if 'China' not in country_pair: continue
+                if 'PRC' not in country_pair: continue
                 if country_pair not in country_pairs_base_on_one_article:
                     country_pairs_base_on_one_article[country_pair] = 1
 
@@ -109,21 +111,21 @@ plt.tight_layout()
 plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_all_years.png'), dpi=300)
 plt.close()
 
-# remove China-China from the plot
-del all_years_data[('China', 'China')]
+# remove PRC-PRC from the plot
+del all_years_data[('PRC', 'PRC')]
 plt.figure(figsize=(15, 10))
 
 for country_pair, data in all_years_data.items():
     years = sorted(data.keys())
     counts = [data[year] for year in years]
     plt.plot(years, counts, marker='o', label='-'.join(country_pair))
-plt.title('Country Pair Counts Over Years - Without China-China')
+plt.title('Country Pair Counts Over Years - Without PRC-PRC')
 plt.xlabel('Year')
 plt.ylabel('Number of Country Pairs')
 plt.legend(loc='upper left', bbox_to_anchor=(1, 1))
 plt.xticks(rotation=90)
 plt.tight_layout()
-plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_all_years_without_china.png'), dpi=300)
+plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_all_years_without_PRC.png'), dpi=300)
 plt.close()
 
 print('Finished')
