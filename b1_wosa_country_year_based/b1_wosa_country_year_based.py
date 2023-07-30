@@ -19,7 +19,7 @@ for article in input_with_year:
 univ_country_df = pd.read_csv(os.path.join('node-with-country.csv'))
 print(univ_country_df.head())
 
-name_standardization_dict = {"USA": "United States", "Hong Kong": "China", "Taiwan": "China"}
+name_standardization_dict = {"USA": "United States", "Hong Kong": "China"}
 
 for i in range(len(univ_country_df)):
     country_name = univ_country_df['country'][i].strip()
@@ -84,7 +84,7 @@ for year, year_content in year_dic.items():
     plt.xlabel('Count')
     plt.ylabel('Country pair')
     plt.gca().invert_yaxis()  # invert y axis to have max value at top
-    plt.savefig(os.path.join('b1_wosa_year_based','country_pairs_by_year', 'coauthorship-country_' + str(year) + '.png'), dpi=300)
+    plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_' + str(year) + '.png'), dpi=300)
     plt.close()
     
     for country_pair, count in country_pairs_top_n.items():
@@ -106,7 +106,7 @@ plt.ylabel('Number of Country Pairs')
 plt.legend(loc='upper left', bbox_to_anchor=(1, 1))
 plt.xticks(rotation=90)
 plt.tight_layout()
-plt.savefig(os.path.join('b1_wosa_year_based','country_pairs_by_year', 'coauthorship-country_all_years.png'), dpi=300)
+plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_all_years.png'), dpi=300)
 plt.close()
 
 # remove China-China from the plot
@@ -123,7 +123,7 @@ plt.ylabel('Number of Country Pairs')
 plt.legend(loc='upper left', bbox_to_anchor=(1, 1))
 plt.xticks(rotation=90)
 plt.tight_layout()
-plt.savefig(os.path.join('b1_wosa_year_based','country_pairs_by_year', 'coauthorship-country_all_years_without_china.png'), dpi=300)
+plt.savefig(os.path.join('b1_wosa_country_year_based','country_pairs_by_year', 'coauthorship-country_all_years_without_china.png'), dpi=300)
 plt.close()
 
 print('Finished')
