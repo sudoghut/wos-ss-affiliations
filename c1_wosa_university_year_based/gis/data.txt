@@ -1,0 +1,39 @@
+Here are the coordinates for those universities:
+
+Beihang University: 40.0801° N, 116.3147° E (Beijing)
+
+Chinese Academy of Sciences: 39.9428° N, 116.3673° E (Beijing)
+
+University of Chinese Academy of Sciences CAS: 39.9578° N, 116.3189° E (Beijing)
+
+Beijing Institute of Technology: 39.9841° N, 116.3122° E (Beijing)
+
+Tsinghua University: 40.0018° N, 116.3278° E (Beijing)
+
+Peking University: 39.9990° N, 116.3077° E (Beijing)
+
+Capital Medical University: 39.9386° N, 116.3650° E (Beijing)
+
+Peng Cheng Laboratory: 42.4912° N, 126.2978° E (Shenyang)
+
+University of Science & Technology Beijing: 39.9560° N, 116.3008° E (Beijing)
+
+Zhejiang University: 30.2740° N, 120.0934° E (Hangzhou)
+
+Beijing University of Technology: 39.9836° N, 116.3287° E (Beijing)
+
+Zhengzhou University: 34.7578° N, 113.6254° E (Zhengzhou)
+
+Harbin Institute of Technology: 45.7538° N, 126.6530° E (Harbin)
+
+Institute of Automation CAS: 39.9402° N, 116.3653° E (Beijing)
+
+N8 Research Partnership: 53.3811° N, -1.4701° W (Leeds, UK)
+
+Beijing Jiaotong University: 39.9869° N, 116.3149° E (Beijing)
+
+Shandong University: 36.6512° N, 117.1204° E (Jinan)
+
+Shanghai Jiao Tong University: 31.1876° N, 121.4251° E (Shanghai)
+
+Sun Yat Sen University: 23.1291° N, 113.2644° E (Guangzhou)
