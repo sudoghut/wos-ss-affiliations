@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+|Lanzhou City University|103.834268|36.061451|
+|North China Institute Science & Technology|116.769426|37.0274945|  
+|Clemson University|82.836001|34.681769|
+|Beijing Technology & Business University|116.440478|39.977281|
+|Korea University|126.923992|37.610374|
+|Hong Kong Polytechnic University|114.178101|22.280131|
+|Ming Chuan University|121.544399|24.988082|  
+|Beijing Institute of Fashion Technology|116.334996|39.850343
+|University of Oxford|1.2507929|51.752019|
+|Nanjing University of Finance & Economics|119.026399|31.984349|
+|Xi'an Jiaotong University|108.956799|34.289479|
+|Dalian Polytechnic University|121.615601|38.911379|
+|Academy of Military Medical Sciences - China|116.457035|39.875295|
+|University of New South Wales Sydney|151.234301|-33.88698|
+|Liaoning University of Technology|123.426101|41.808106|
+|University of Alberta|113.522201|53.527329|
+|Hebei University|114.350399|38.87043| 
+|Kyushu University|130.3937|33.58817|
+|Shenyang Aerospace University|123.457001|41.80842|
+|University of Sydney|151.194599|-33.885841|
+|Dalian University of Technology|121.366101|38.946355|
+|Xi'an University of Science & Technology|109.117999|34.335419|  
+|Taiyuan University of Technology|112.534101|37.862696|
+|China Electronics Technology Group|116.690415|39.384689|
+|Shanghai University|121.436798|31.229989|
+|Alibaba Group| 121.455652|31.236978|  
+|Minjiang University|103.834268|36.061451|
+|PLA Information Engineering University|116.29435|40.084479|  
+|Air Force Military Medical University|116.4119|39.814597|  
+|Tiangong University|117.2294|39.20539|
+|University of the South Pacific|-177.357908|-18.14904|
+|Beijing University of Posts & Telecommunications|116.367977|39.989937|
+|Wageningen University & Research|5.6630556|51.966667|
+|University of Gujrat| 74.49099|32.605919|
+|Cranfield University|-0.5069444|52.083611|
+|Beijing University of Chinese Medicine|116.327019|39.882371|
+|Chengdu University of Traditional Chinese Medicine|104.084797|30.669928|  
+|Hebei Normal University| 114.5229|36.401599|
+|Guangxi Normal University|108.367199|22.84297|
+|Ningbo University|121.5367|29.8673|
+|North University of China|117.1784|39.1442|
+|Capital University of Science & Technology|116.44|39.94|
+|Inner Mongolia Agricultural University|118.775|43.5552|
+|Hebei University of Technology|114.481|36.678|
+|National University of Singapore|103.775|1.305|
+|Capital Normal University|116.314303|39.941302|
+|Harbin Institute of Technology|126.6378|45.7578|  
+|Jiangsu University| 118.794749|32.208237|
+|University of Waterloo|80.547001|43.355531|
+|Beijing University of Chemical Technology|116.324707|39.991211|

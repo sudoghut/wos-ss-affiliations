@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - | 
+| Ecole de Technologie Superieure - Canada | 45.493501| -73.570801|
+| Institute of Atmospheric Physics CAS | 39.992972 | 116.323755|
+| Hefei Institutes of Physical Science CAS | 31.816302| 117.277773|
+| Pennsylvania Commonwealth System of Higher Education (PCSHE) | 40.205806| -76.881944|
+| University of Pittsburgh |40.441893 |-79.954430 |
+| University of Houston System |29.718406 |-95.345102 |
+| University of Houston| 29.718406| -95.345102|
+| University of Oklahoma - Norman|35.222556 |-97.443083 |
+| University of Oklahoma System|35.222556| -97.443083|
+| Fujian Agriculture & Forestry University |26.055806 |119.409167|
+| University of Wisconsin Milwaukee |43.037180 |-87.903587|
+| University of Wisconsin System |43.043937|-89.509075|
+| University of Missouri System |38.931375 |-92.328085| 
+| University of Missouri Columbia  |38.931375 |-92.328085 |
+| Army Medical University |30.584509 |103.881508 |
+| Tsinghua Shenzhen International Graduate School |22.540542|113.977593|
+| University System of Maryland |38.987237 |-76.941579|
+| University of Maryland College Park|38.987237 |-76.941579| 
+| Georgia State University | 33.755222 | -84.386936 |
+| Swiss Federal Institutes of Technology Domain |46.518469|6.571887|
+|Ecole Polytechnique Federale de Lausanne | 46.518469|6.571887|
+| University of Colorado Boulder  |40.007412 |-105.270546|
+| University of Colorado System |40.007412 |-105.270546|
+| Computer Network Information Center CAS |40.079462  |116.312963|
+|Mehran University Engineering & Technology | 25.241565 |68.278008|
+|City College of New York (CUNY) | 40.822562 |-73.948114|
+|City University of New York (CUNY) System | 40.718430 |-73.998180|
+|University of Nebraska System | 41.252000 |-96.750238|
+|University of Nebraska Lincoln  | 40.818450 |-96.703969|
+|University of Wisconsin Madison    |43.075968 |-89.408088|
+| Bournemouth University  |50.720551  |-1.878473 |
+|Institute of Semiconductors CAS | 39.951074| 116.307456|
+|Ferdowsi University Mashhad   |36.265715| 59.616136|
+|Taiyuan Institute of Technology | 37.871453|112.545865|
+|Khalifa University of Science & Technology| 24.491513|54.370247|
+|State University of New York (SUNY) System | 42.989271| -76.803066|
+|State University of New York (SUNY) Stony Brook| 40.922082| -73.127056|
+|Institute of Acoustics CAS|39.929612|116.357455|
+|POSCO| 35.845972|129.058023| 
+|National Center for Nanoscience & Technology - China|39.980656|116.319259|
+|Institute of Environment & Sustainable Development in Agriculture CAAS| 39.915555 |116.428346|
+|HEC Montreal| 45.521375 |-73.572408| 
+|Arizona State University| 33.429330 |-111.939618|
+|Arizona State University-Tempe|33.428472 |-111.939519|
+|Institute of Plant Protection CAAS| 39.743395| 116.270420|
+|Louisiana State University System| 30.410311 |-91.176991|
+|Louisiana State University| 30.413714 |-91.176110|
+|National Institute for Viral Disease Control & Prevention Chinese Center for Disease Control & Prevention|31.199026|121.478761|
+|Institute of Software CAS|34.268076|108.941382|
+|Argonne National Laboratory| 41.721078| -88.235606|

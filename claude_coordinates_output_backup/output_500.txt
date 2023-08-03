@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |             
+|:-:|:-:|:-:|
+|Henan University of Science & Technology|113.676|34.743|  
+|Commercial Aircraft Corporation of China (COMAC)|-104.982|39.542|
+|Centre National de la Recherche Scientifique (CNRS)|2.350|48.850|
+|Zayed University|54.367|25.269|
+|Jilin Institute of Chemical Technology|126.514|43.833|
+|Changshu Institute of Technology|120.754|31.656|
+|Japan Advanced Institute of Science & Technology (JAIST)|97.281|35.267|
+|Kyoto University|135.758|35.040|
+|Nagaoka University of Technology|90.099|37.931|
+|Central University of Finance & Economics|116.318|39.912|
+|Shanxi University|112.561|37.865|
+|Hebei University of Architecture|114.480|38.039| 
+|Wuhan Research Institute of Post & Telecommunications|114.315|30.492|
+|Guangdong University of Foreign Studies|113.236|23.121|  
+|Research Institute of Chemical Defense - China|118.766|32.060|
+|University of Cape Town|18.476|-33.957|
+|Ericsson|-122.394|37.384|
+|Communication University of China|116.286|39.846|   
+|Catholic University of the Sacred Heart|12.481|41.903|  
+|Shandong University of Finance & Economics|117.090|36.658|
+|Deakin University|144.308|-38.146|
+|University of Louisville|-85.759|38.254|
+|Balochistan University of Information Technology Engineering & Management Sciences BUITEMS|67.083|30.208|
+|University of Southampton|-1.393|50.935|
+|Universite de Orleans|1.898|47.879|
+|Hangzhou Dianzi University|120.087|30.243|
+|Shijiazhuang University|114.480|38.039|
+|Guilin University of Technology|110.290|25.284|
+|New Jersey Institute of Technology|-74.250|40.762|
+|Lanzhou University of Technology|103.822|36.061|
+|University of Oulu|25.466|65.011|
+|University of Liege|5.571|50.618|
+|University of Saskatchewan|-106.667|52.167|
+|Chongqing University of Science & Technology|106.310|29.555|
+|Open University - UK|93.802|35.245|
+|Chiba University|140.108|35.626|
+|Hanshan Normal University|117.177|32.543|   
+|Northeast Electric Power University|125.322|45.755|
+|Chongqing Three Gorges University|107.185|29.351|
+|Chung Yuan Christian University|120.994|24.799|
+|Hebei North University|114.512|38.034| 
+|Sixth Medical Center of Chinese PLA General Hospital|116.311|39.915|
+|King Fahd University of Petroleum & Minerals|50.179|26.289|
+|Kunming University of Science & Technology|102.704|25.047|
+|Henan University of Technology|113.578|34.726| 
+|Hebei University of Economics & Business|114.480|38.039|
+|Northeast Petroleum University|125.381|45.793|   
+|King Saud University|46.679|24.713| 
+|Leibniz University Hannover|9.727|52.377| 
+|University of Tokyo|139.750|35.708|

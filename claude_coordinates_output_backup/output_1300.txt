@@ -1,0 +1,52 @@
+ | university_name                       | x_coor | y_coor |
+| -                  | -                       | -            |
+| Technical University of Denmark    | 123.44 | 257.24 |
+|University of Exeter                             |  -3.53  | 50.73  |
+|Zhejiang University of Finance & Economics |  120.17  | 30.20 |
+| Jinzhou Medical University              | 121.42 | 41.52 |  
+|Procter & Gamble                                |  84.54 | 39.96|
+|Hangzhou Normal University            | 120.11      | 30.22|
+|University of Regina                        | 104.62 | -104.62|  
+|Shanxi College of Technology            |112.73 | 37.68|
+|Taiyo Nippon Sanso Corporation| 139.67 | 35.68 | 
+|Missouri University of Science & Technology| 91.63 | 38.13|
+| Johannes Kepler University Linz | 14.29 | 48.30|
+|Institute for Advanced Studies in Basic Sciences (IASBS) | 51.78 | 35.69|
+|Shenzhen Institute of Advanced Electronic Materials | 113.97|  22.54|
+|EURECOM                              | 7.05   | 43.61|
+|IMT - Institut Mines-Telecom        | 2.23   | 48.83|
+|Weinan Normal University             | 108.50| 34.47 |
+|Nanjing Medical University       | 118.78| 32.05|
+|Washington State University     | -117.10| 46.73|
+|China Medical University             | 121.50 | 31.22 |
+|Singapore General Hospital        | 103.83| 1.30 | 
+|Shih Chien University                  |121.45| 25.01|  
+|Jilin Agricultural Science & Technology University| 126.28| 43.90  |
+| Hacettepe University           | 32.90   | 39.91|
+|Helmholtz-Zentrum fuer Materialien und Energie GmbH (HZB)  | 13.42 | 52.53 |
+|Shandong Agricultural University       | 117.07| 36.19|
+| National Police University for Criminal Justice| -6.49 | 39.45|
+|Mohammad Ali Jinnah University           | 67.08 | 24.90|
+|Changsha University of Science & Technology| 112.97| 28.23|
+|University of Otago                   |170.51 |-45.87 |
+| Lund University                       | 13.20|  55.71|  
+|Universidad del Pacifico Peru          |-77.04 |-12.05 |
+|Tufts University                         | -71.08|42.40   |
+|University of Kentucky                | -84.50|38.04   |
+|Heriot Watt University                    |-3.21   |55.94   |
+|Universidade do Minho                     |-8.32   |41.63  |
+|Wichita State University                |-97.33   |37.69|
+|Qiqihar University                       | 123.77| 46.74|
+|Servier                                         | 2.33    | 48.85|   
+|University Kashan                           |50.97   |33.59|   
+|Iran University Science & Technology   |51.44   |35.68|  
+|Yichun University                         |114.09  |44.39|
+|Guangdong University of Finance & Economics   |113.01   |23.21|  
+|University of Ljubljana                     |14.51   |46.07 |  
+|Inria                                          |5.65   |45.16|   
+|China Baowu Steel Group                    |104.05  |30.57|  
+|Technische Universitat Ilmenau          |11.06   |50.56|
+|Cyprus International University       | 33.49 | 35.16|
+|Lefke Avrupa University                  | 32.84 | 35.56|
+|Oracle                                      |-122.26 |37.42|   
+|New York University                      |-73.99   |40.73|

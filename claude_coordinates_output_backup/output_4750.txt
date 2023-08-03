@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+|Hartford Hospital|-72.6577|41.7602|
+|Sunnybrook Health Science Center|-79.3995|43.7427|
+|Lifespan Health Rhode Island|-71.3536|41.8238|
+|Wake Forest University School of Medicine|-80.2723|36.1319|
+|Alzheimer's Association|-87.6703|41.8817|
+|Cleveland Clinic Foundation|-81.669|41.5068|
+|Wellcome Trust Sanger Institute|0.16|52.0805|
+|Nova Southeastern University|-80.145|26.1749|
+|Korea Polar Research Institute (KOPRI)|126.951|37.4591|
+|Earlham Institute|-0.49|52.3097|
+|Kazusa DNA Research Institute|140.415|35.5922|
+|Broad Institute|-71.1067|42.3612|
+|University of Massachusetts Worcester |-71.8|42.27|
+|Woods Hole Oceanographic Institution|-70.6849|41.523|
+|Rockefeller University|-73.9599|40.7699|
+|Leibniz Institut fur Zoo und Wildtierforschung |13.5646|52.3149|
+|Royal Botanic Gardens Kew|-0.2933|51.4821| 
+|Australian Museum|151.202|-33.868|
+|Colby College|-69.6666|44.5333|
+|Suzhou City University|120.7|31.2983|
+|Yaroslav the Wise Novgorod State University|31.273|58.5208|
+|Leibniz Institut fur Oberflachenmodifizierung (IOM) |12.9167|50.6167|
+|Zhejiang Academy of Medical Sciences|120.1712|30.2866|
+|Jiangsu Second Normal University|118.8213|32.3721|
+|Guangzhou Academy of Fine Arts|113.2798|23.1192|
+|Erzincan Binali Yildirim University|39.5755|39.8156|
+|Lincoln University - New Zealand|118.5637|43.2253|
+|Monmouth University|-77.1367|38.9167|
+|Jiangsu Police Institute|118.8242|32.0513|
+|Wuhan Business University|114.2705|30.5894|
+|Universitat Trier|3.0958|50.43|
+|Institute of Technical Acoustics of the National Academy of Sciences  of Belarus|25.681|53.906|
+|Institute of Chemical Industry of Forest Products CAF|116.4061|35.6683|
+|NSF - Directorate for Computer & Information Science & Engineering (CISE)|-77.088|38.8865|
+|Gomel State Medical University|30.9833|52.4333|
+|Institute of Chemical Engineering Guangdong Academy of Sciences|113.1546|23.1227|
+|University of Graz|15.4658|47.077|
+|Medical University Sofia|23.3293|42.6962|
+|Coppin State University|-76.9957|39.3799|
+|Youngstown State University|-80.6478|41.102|
+|Universite de Gabes|10.0706|34.2248|
+|Nanjing Institute of Agricultural Mechanization CAAS|118.74|32.0361|
+|Nanjing Institute of Geography & Limnology CAS|118.8542|31.9634|
+|Brooklyn College (CUNY)|-73.9658|40.6502|
+|Trina Solar|120.7144|30.455|
+|University of Chittagong|91.8325|22.335|
+|Chaohu University|117.8984|31.6777|
+|Universiti Tunku Abdul Rahman (UTAR)|101.0781|3.8012|
+|Kumoh National University Technology|127.364|37.427|
+|CompuTherm LLC|-82.0133|30.0667|

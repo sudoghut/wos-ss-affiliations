@@ -1,0 +1,52 @@
+ | university_name| x_coor | y_coor |
+|-|-|-|
+|Cardiff Metropolitan University | 51.4892| -3.2263|
+|Voronezh State University| 51.6641 | 39.2066|
+|Najran University| 17.5897 | 44.1518|
+|NYU Langone Medical Center|40.7539| -73.9598|
+|Arid Agriculture University| 29.8006| 31.3328|
+|Institute of Hydromechanics of the National Academy of Sciences Ukraine|50.3756| 30.5728|
+|Universidad Mayor| -70.6338| -33.4485|
+|Technical University of Cluj Napoca| 46.77 | 23.60|
+|United Institute of Informatics Problems of the National Academy of Sciences of Belarus| 53.9040| 27.6204 |
+|National Institute for Economic Research Costin C. Kiritescu|44.4209| 26.1160|
+|Institute of Radio Astronomy of the National Academy of Sciences of Ukraine| 50.2742 | 30.2342 | 
+|National Marine Data & Information Service| 120.1871 | 30.2791 |
+|Arba Minch University| 6.0337| 37.5543|
+|Lovely Professional University| 30.7344| 76.6966|
+|SRM University-AP| 16.4978| 80.7822|
+|University of Pardubice| 50.0106| 15.7739|
+|Institute of Microelectronics Technology & High-Purity Materials RAS| 56.0346 | 92.8633|
+| Chinese Academy of Surveying & Mapping| 116.4379| 39.9990|
+|Tashkent State Technical University |41.3100| 69.2700| 
+|Guizhou Normal University| 106.3491| 26.5928| 
+|University of Rzeszow| 22.0068| 50.0428|
+|Lviv Polytechnic National University|49.8345 | 24.0315|
+|Yuri Fedkovych Chernivtsi National University| 48.2983| 25.9434|
+|Instituto de Telecomunicacoes| -8.3001 |38.7452 |
+|Oral Roberts University| 36.1035| -95.8988|
+|NXP Semiconductors|-33.9337| 18.6209|
+|Manchester Metropolitan University| 53.4637 | -2.2353|
+ |Technological University Dublin| 53.3332| -6.2497|
+|State Tax University| 50.0868| 30.6773|
+|Ministry of Finance of Ukraine|50.4455|  30.6156|
+|Sangmyung University | 37.6774| 127.1238|
+|Ariel University |  32.0922  |   35.1783 |
+|MIREA - Russian Technological University | 55.7079| 37.5196|
+|Arab Academy for Science Technology & Maritime Transport |29.8494| 31.2701|
+|Henan Police College |33.9740| 113.3350|
+|Institute of Monitoring of Climatic & Ecological Systems of the Siberian Branch of the RAS |53.1663| 91.3950|
+|National United University|24.9813 | 121.1897|
+|Polar Research Institute of China|39.8690 | 116.5338|
+|National Institute of Materials Physics - Romania|44.4337 | 26.0255 |
+|Dow Chemical Company|43.6187 |-83.0363 |
+|Central Queensland University|-23.3829| 150.4725|
+|Okinawa Institute of Science & Technology Graduate University|26.2664| 127.8177|
+|University of Agder | 58.2054|  8.0446|
+|Alexandria University | 31.1988| 29.9756|
+|Universidad Autonoma de Ciudad Juarez | 31.7335| -106.4093|
+|Instituto Potosino Investigacion Cientifica y Tecnologica |22.1361 | -100.9881|  
+|Oxford Brookes University| 51.75 | -1.25|
+|Khon Kaen University | 16.4531| 102.8333|
+|Assam Don Bosco University| 26.1612| 91.8138|
+|University of Indianapolis| 39.8315 | -86.2171|

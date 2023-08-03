@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| :-: | :-: | :-: |
+| University of Montenegro |42.42 |19.15|
+| Leibniz Institut fur Tropospharenforschung (TROPOS)|51.34|12.95|
+| University of Tehran|35.68|51.38|
+| Toyota Motor Corporation|35.69|139.69|
+| Ecole Nationale dIngenieurs de Sfax (ENIS)|34.74|10.75|
+| University of Central Arkansas|34.75|-92.26|
+| Taibah University|24.80|39.35|
+| Universidade Federal do Parana|-25.42|-49.18|
+| Nosov Magnitogorsk State Technical University|53.40|58.98|
+| Guangxi University of Finance & Economics|22.65|108.34|
+| Rollins School Public Health|33.80|-84.19|
+| Okayama Prefectural University|34.66|133.93|
+| NICTA|-27.47|153.02|
+| West University of Timisoara|45.75|21.22|
+| Lublin University of Technology|51.24|22.56|
+| Zhongkai University of Agriculture & Engineering|23.48|116.99| 
+| Intelligent Fusion Technology|31.22|121.47|
+| Binzhou Polytechnic|37.36|118.15|
+| University of Zielona Gora|51.93|15.50|
+| National Center Atmospheric Research (NCAR)|40.05|105.24|
+| |35.92|-86.81|
+| Tohoku Gakuin University|38.26|140.87|
+| Technical University of Crete|35.33|25.13|
+| Universidad ICESI|3.53|-76.64|
+| Universidad de la Laguna|28.48|-16.25|
+| Instituto de Astrofisica de Canarias|28.76|-17.88|
+| |32.77|-106.61|
+| Samsung Display|36.79|127.02|
+|Vidyasirimedhi Institute of Science & Technology|13.74|100.58|
+| Electricite de France (EDF)|48.88|2.33|
+| Kermanshah University of Technology|34.33|47.08|
+| Korea Aerospace University|37.46|126.95|
+| CSIC - Instituto de Fisica Fundamental (IFF)|40.49|-3.72|
+| BMW AG|48.15|11.58|
+| Ecole nationale superieure de chimie de Montpellier  |43.61|3.87|
+| Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI) |48.85|2.33|
+| Jiangsu Academy of Agricultural Sciences |32.01|119.43|
+| Department of Space (DoS) Government of India |12.97 |77.59|
+| Indian Space Research Organisation (ISRO) |12.99|77.59|
+| Vikram Sarabhai Space Center (VSSC) |8.48| 77.05|
+| Al-Nahrain University|33.36|44.39|
+| Institute of Soil & Water Conservation (ISWC) CAS |34.28|108.94|
+| Zhejiang Cancer Hospital|30.27|120.20|
+| Institute of Vertebrate Paleontology & Paleoanthropology CAS|39.92|116.36|
+| Can Tho University|10.02|105.77|
+| |54.08|12.09|
+| Hamad Bin Khalifa University-Qatar|25.29|51.53|
+| Qatar Environment & Energy Research Institute |25.28|51.53|
+| Princess Margaret Cancer Centre|43.66|79.39|
+| University of Southern Maine|43.66|70.33|

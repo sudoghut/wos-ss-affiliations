@@ -1,0 +1,51 @@
+ | university_name | x_coor | y_coor | | - | - | - | 
+Rajamangala University of Technology Rattanakosin | 100.50627556| 13.80132213 |
+Nantes Universite | -1.55432826| 47.21782191|
+Ecole Centrale de Nantes | -1.58177805| 47.23348947|
+Victoria University|-37.8025| 144.9427 |
+Harbin Institute of Petroleum| 45.694769| 126.528329|
+University of Munich |11.569303| 48.150371 |
+National Pingtung University | 22.782147| 120.505005 |
+Universidad Carlos III de Madrid|-3.571897 |40.461679 |
+Qatar University| 25.3158| 51.5167 |
+Universidad de Jaen| -3.78512| 37.797577 |
+Nagoya Institute of Technology| 136.898557| 35.188537|
+Universiti Sains Malaysia| 100.5048|  5.3422|  
+Norwegian University of Science & Technology (NTNU)| 10.403655| 63.436402|
+Imam Mohammad Ibn Saud Islamic University (IMSIU)| 45.009721|24.884615 |
+University of Denver |-104.9833 |39.72|
+National Natural Science Foundation of China (NSFC)| 116.317711|39.907991 |
+Universidade Tecnologica Federal do Parana | -50.4391| -25.5432|
+Universidade de Sao Paulo |-46.7388 |-23.5505 | 
+Shenzhen Research Institute of Big Data |22.535799|114.085203 |
+University of Maribor | 15.650002| 46.558137|
+Chang Gung University of Science & Technology |24.218946|120.530233 |
+Kaohsiung Veterans General Hospital |22.6226|120.3097 |
+Yulin Normal University |38.2755|109.7368|  
+University of Basque Country|-2.911736|43.318244 |
+Majmaah University| 44.223888|24.915833 | 
+Audencia|-1.736113|47.209779| 
+National Economics University - Vietnam| 105.8358| 21.0245 |
+Shanghai Polytechnic University| 121.434688 | 31.2247 |
+University of Antwerp| 4.4468| 51.179|
+Xijing University| 34.19| 108.94| 
+University of Parma| 10.3264| 44.8033|
+China West Normal University | 103.77| 35.08|  
+Hubei University of Education| 114.31|30.52|
+Seoul National University (SNU)| 126.93765| 37.460761|
+Chengdu University| 104.0646|30.6716 |
+Taiyuan Normal University| 112.549|37.8723|
+Taylor's University| 3.14486 |101.6175|
+China South Industries Group| 113.280813| 22.826003|
+University College Dublin| -6.25654|53.3358| 
+University of Nottingham Malaysia| 101.547222| 2.91|
+University of Dundee |-2.9667 |56.48|
+Brandeis University |-71.1879|42.3658 |
+Universite de Technologie de Troyes |4.2982|48.2994|
+Tianjin Chengjian University | 117.1827|39.1033|
+China Resources Group|25.0329|53.4068|
+Guangdong Ocean University|112.1151|20.906022|
+ArcelorMittal| 18.60763|50.38196|
+Universidade de Aveiro|-8.64694|40.63443|
+University of Pretoria|-25.7596|28.2336|
+Ningbo University of Technology |121.549|29.884|

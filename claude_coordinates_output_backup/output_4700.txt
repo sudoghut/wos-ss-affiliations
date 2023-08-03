@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - | 
+| Centre de Regulacio Genomica (CRG) |	41.409722 | 2.145278 |
+| Pompeu Fabra University|	41.388056 | 2.1525	|
+| Shenzhen Eye Hospital|	22.540278 | 113.960278	|
+| Zoological Society of San Diego|	32.734722	| -117.146944 |
+| National Institute for Basic Biology (NIBB) |35.689722 | 139.745	|
+| Sakarya University|	40.703889| 30.410556	|
+| Indian Institute of Technology (IIT) - Dharwad|	15.468056| 75.001111	|
+| Bilecik Seyh Edebali University|	40.195833| 29.9575	|
+| University of Peradeniya |7.268056| 80.584722	| 
+| Uva Wellassa University |6.854167| 81.149167|
+| Field Museum of Natural History (Chicago) |41.868611	| -87.620278|
+| Research Institute of Tropical Forestry CAF|-3.826944| -73.249167|
+| Tata Sons | 18.920278 | 72.828056 |
+| Tata Consultancy Services Limited (TCS)|18.975 |72.825|
+| Boeing	|47.609722	|-122.337778|
+| TOBB Ekonomi ve Teknoloji University	|39.88	|32.798056|
+| Institute of Plant & Animal Ecology of the Russian Academy of Sciences|55.750833|37.625833|
+| University of Venda|-23.002694|30.417778|
+| Institute of Geography Russian Academy of Sciences |55.703194	|37.514722| 
+| South Australian Museum |-34.923056 |138.604722|
+| Gustave Roussy|48.806111|2.441389|
+| Hopital Universitaire Saint-Louis - APHP|48.863056|2.403056| 
+| Stavanger University Hospital  |58.964444|5.733889|
+| Haukeland University Hospital|	60.393611|5.324167|
+| Hopital Universitaire Saint-Antoine - APHP|	48.838611|2.366389|
+| Banner Sun Health Research Institute|33.588333	|-111.9775|
+| National Institute of Technology Tiruchirappalli|	10.820278	|78.709722|
+| Indian Institute of Technology (IIT) - Hyderabad|	17.425556	|78.288611|
+| University of the Philippines Open University|	14.590278	|121.077222|
+| Far Eastern University|-14.599167|	121.063|
+| University of Montana System |46.861111	|-113.993889|
+| University of Puerto Rico Rio Piedras|18.394722	|-66.048611|
+| Smithsonian Environmental Research Center |38.881389	|-76.558333|
+| University of the Philippines Diliman|14.649722	|121.084722|
+| University of the Philippines Los Banos|14.189722	|121.256111| 
+| Institute Penyelidikan Perhutanan Malaysia|3.816667|	101.7|
+| Pontificia Universidad Catolica del Ecuador|-0.219167	|-78.520278|
+| University of the Philippines System|	14.590278|	121.077222|
+| International Center for Tropical Agriculture - CIAT|3.508333	|-76.381667|
+| University of Montana |	46.861111|	-113.993889|
+| Alliance|-25.7475	|28.1863	|
+| Space Applications Centre (SAC) |22.288056|72.949444	| 
+| National Chiayi University	|23.471389	|120.451667|
+| Swiss Federal Institute for Forest Snow & Landscape Research|	46.818056|8.226111	|
+| United States Forest Service	|38.881389	|-77.036111 |
+| University of Jos	|9.929444	|8.894167 |
+| Sunnybrook Research Institute	|43.71	|-79.36	|	
+| Rhode Island Hospital	|41.821667	|-71.414167|
+| Butler Hospital Rhode Island	|41.641111	|-71.6325|
+| Johnson & Johnson USA|40.516667|-74.317778 |

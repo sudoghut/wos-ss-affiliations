@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| :-: | :-: | :-: |
+| New York Blood Center   |-73.9665|40.76415|
+|Institute of Space & Astronautical Science (ISAS) |139.46991|35.742004|
+| University of Ferrara   |11.62283|44.8328 |
+| Africa Health Research Institute | 30.944 |-29.58792| 
+| Space Research Institute of the Russian Academy of Sciences | 37.61167 | 55.75   |
+Institut Superieur de l'Aeronautique et de l'Espace (ISAE-SUPAERO)| 43.56136 | 1.44139  |
+| NASA Ames Research Center |-122.05063|37.39111| 
+| Fisheries & Oceans Canada |-77.52083|45.40361|
+| Malmo University  | 13.001 |55.59273|
+| Kasetsart University    |100.52994|13.79189|  
+| IMDEA Energy   |-3.66999|40.47135 |
+| Hopital Universitaire Paul-Brousse - APHP | 2.25   | 48.8  |  
+| Assistance Publique Hopitaux Paris (APHP)   | 2.36944   |48.85306  |
+| Hopital Universitaire Avicenne - APHP|-2.47333|48.8975|
+| Hopital Universitaire Hotel-Dieu - APHP|2.35111|48.85444|
+|California Polytechnic State University San Luis Obispo |-120.65917|35.30361|
+|Central Arkansas Veterans Healthcare System|-92.28972|34.73556|
+|Kirby Institute |151.20472|-33.88361|
+|Istituto per lo Studio degli Ecosistemi (ISE-CNR)|12.45332|41.90815|
+|Al-Hussein Bin Talal University  |35.92735|32.53545 |
+| Hashemite University   |35.87746|32.05939 |
+| Princess Sumaya University for Technology|35.84944 | 32.06139|  
+| Korea Electrotechnology Research Institute (KERI)|127.07417|37.57167|
+| Korea Atomic Energy Research Institute (KAERI) |126.92083|37.57917|
+| Universite de Toulouse - Jean Jaures |1.44028 |43.5775  |
+| Institute of Laboratory Animal Science - CAMS|116.355|39.97722| 
+|Sefako Makgatho Health Sciences University|28.21333|-25.73806|
+|Toho University|139.71889|35.63667|
+| University of the Pacific |-121.51417|37.96917|
+|Uzhgorod National University|22.29306|48.62306|
+|Comenius University Bratislava|17.10694|48.14556|
+|CSIR - National Physical Laboratory (NPL)|77.12306|28.55389|
+|Shanghai Academy of Social Sciences |121.47472|31.23028|
+|Agriculture Genomes Institute at Shenzhen CAAS|114.25444|22.54333|
+|Guangdong Laboratory for Lingnan Modern Agriculture|113.37833|23.125|
+|Deen Dayal Upadhyaya Gorakhpur University|83.37194|26.75556| 
+|Plovdiv University|24.74639|42.15069|
+|Southern Technical University|23.32528|42.6975 |
+|Northern Technical University|24.7455|43.18292|
+|South China Botanical Garden CAS|113.11417|23.11222|
+|Hisense|117.17833|36.67028|
+|Italian National Agency New Technical Energy & Sustainable Economics Development|12.49306|41.89111| 
+|Gansu Agricultural University|103.82361|36.0575|  
+|Singulus Technologies |8.68111|50.11083|
+|University of South Bohemia Ceske Budejovice|14.47417|48.97472|
+|Parthenope University Naples|14.16833|40.82556|
+|Telecom Italia|12.49417|45.46417| 
+|Maine Medical Center|-70.25333|43.65861|
+|University Zurich Hospital|8.55|47.375|
+|Universidad de Alcala|-3.38556|40.46611|

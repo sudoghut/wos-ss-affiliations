@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| Soft-Impact                 | 22.34   | 60.30|
+| AbbVie                        |42.099|-87.880|
+|  Universite Amar Telidji de Laghouat | 33.80|2.90|
+| Peking University Shenzhen Graduate School|22.532|113.970|
+|Suez Canal University|   30.97|32.297|  
+| Damietta University |31.422| 31.805|
+|Addis Ababa University |  8.980| 38.760|
+| Lanzhou Institute of Technology | 36.060| 103.830|
+|Xinjiang Technical Institute of Physics & Chemistry CAS| 43.590| 86.980|
+| Iwate University   |39.720|141.150|
+|Semiconductor Manufacturing International Corporation (SMIC)|31.035|121.360|
+|Ahmadu Bello University  |   9.200|7.130| 
+|ETS de Ingenieria Sistemas de Telecomunicacion|      42.340|-8.407|
+|Texas State University San Marcos |     29.890|  -97.930|
+|Engelhardt Institute of Molecular Biology RAS |55.809|37.493|
+|Changchun University of Architecture & Civil Engineering|43.880|125.330| 
+|Baikov Institute of Metallurgy & Materials Science (IMET RAS)|55.818|37.620|
+|Universidad de Cantabria  |43.460|-3.970|
+|Donetsk Institute for Physics & Engineering named after O.O. Galkin of the National Academy of Sciences of Ukraine|48.023|37.801|
+|Ukrainian State University of Chemical Engineering|  48.295|32.065| 
+|Estonian Business School    |       59.438|24.749|
+|Opple Lighting  |  36.067|103.820|
+|Bright Dairy & Food Co Ltd   |39.908|116.407|
+|Mediatek Incorporated |     24.540|120.620|
+|Istituto per la Tecnologia delle Membrane (ITM-CNR)|    40.633|14.250|  
+|Tribhuvan University|            27.700|85.320|
+|Institute of Hydrobiology CAS|     30.267|114.367|
+|Nesmeyanov Institute of Organoelement Compounds |55.758|37.650|
+|China-Ukraine Institute of Welding Guangdong Academy of Sciences|23.381|113.361|
+|University Science & Technology Houari Boumediene|36.720|3.220|
+|University of Alaska Anchorage|61.217|-149.900|
+|Cold & Arid Regions Environmental & Engineering Research Institute CAS| 38.850|101.750|
+|Fujian Chuanzheng Communications College |    26.080|119.290|
+|Ningxia Polytechnic|         38.470|106.260|
+|Hong Kong Branch of the Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou)| 22.310|114.170|
+|University of Innsbruck|47.267|11.400|
+|St. Petersburg Federal Research Center of the Russian Academy of Sciences| 59.938|30.306|
+|Danish Technological Institute     |55.677|12.579| 
+|Durban University of Technology|  -29.860|31.030|
+|University of Ilorin |        8.490|4.540|
+|University of Science & Technology of Bamako | 12.650|-8.000|
+|Advanced Micro Devices|       37.402|-122.047|
+|Nanjing University of the Arts|   32.070|118.780|
+|Shangrao Normal University|      28.440|117.930|
+|Universite Hassiba Ben Bouali de Chlef  |36.170|1.320|
+|Dagestan State University|        42.980|47.490|
+|Universite Saad Dahlab de Blida   |36.460|2.810|
+|University of Sanya|              18.240|109.510|
+|Shaanxi Xueqian Normal University|  34.260|108.950|
+|Micro Materials Limited   |51.405|-2.607|

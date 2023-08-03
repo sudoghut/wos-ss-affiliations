@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | - | - |
+|Vytautas Magnus University| 54.8961 | 23.8922|
+|Central European University|47.4975|19.0536|
+|National Institute of Technology Silchar|24.8439|  92.9986|
+|Rush University|41.8748| -87.6359|
+|Jerzy Haber Institute of Catalysis & Surface Chemistry|50.2583| 19.0361|
+|California State University San Marcos| 33.1491| -117.1661 |
+|Savitribai Phule Pune University|18.5204|73.855|
+|St. Xavier's College Kolkata |22.5697 |88.3638|
+|Hoseo University | 37.2597 | 128.9147|
+|Changchun Observatory NAOC CAS |43.9 |125.3 |  
+|Finland National Institute for Health & Welfare  |60.1899|24.9523|
+|Biology Centre of the Czech Academy of Sciences |48.9943|14.3791|
+|A*STAR - Institute of Bioengineering & Nanotechnology (IBN)|1.2994|103.8|
+|State University of New York (SUNY) Downstate Medical Center|40.6411| -73.9499|
+|Free University of Bozen-Bolzano|46.4975|11.3583|
+|Universite Lyon 2|45.7614 | 4.8836| 
+|SNCF|48.8742|2.3333|
+|Polytechnic University of Timisoara|45.7531|21.2364|
+|Istituto di Elettronica e di Ingegneria dell'Informazione e delle Telecomunicazioni (IEIIT-CNR)|41.9| 12.4833|
+|Institute of Radiation Medicine - CAMS|39.9423|116.4505|
+|Jan Dlugosz University|50.2644|19.9403|
+|Karpenko Physico-Mechanical Institute NAS of Ukraine|50.4503|30.5147|
+|Ivan Franko National University Lviv |49.8286|24.0197|
+|Korea Maritime & Ocean University|35.2258|129.0759|
+|Shenyang Medical College|41.8086|123.4368|
+|Hospital for Sick Children (SickKids)|43.6681| -79.3897|
+|Keck Graduate Institute|34.0667| -118.0833|
+|Geriatric Research Education & Clinical Center|38.9781| -77.0972|
+|Universidade Paulista|23.5429| -46.6373|
+|Niels Bohr Institute|55.6833|12.5833|
+|CSIC - Centro de Astrobiologia (INTA)|40.4742| -3.5381|
+|Pirogov Russian National Research Medical University|55.7478|37.6204|
+|Emanuel Institute of Biochemical Physics|59.9381|30.3272|
+|Kunming Institute of Botany CAS|25.0356|102.7253|
+|Beckman Research Institute of City of Hope|34.178| -117.9091|
+|Daegu Gyeongbuk Institute of Science & Technology (DGIST)|35.8714|128.5978|
+|China Center of Advanced Science & Technology (CCAST)|39.9089|116.4145|
+|University of Tartu Institute of Physics|58.3778|26.7197|  
+|National University of Rosario| -32.9387| -60.6666|
+|Universidad Michoacana de San Nicolas de Hidalgo|19.7094| -101.1953|
+|Nuclear Institute for Agriculture & Biology - Pakistan|31.5509|73.0669|
+|Concord Repatriation General Hospital|-33.8464|151.0626|
+|Westmead Institute for Medical Research|-33.8159|150.9943| 
+|International University of Business Agriculture & Technology (IUBAT)|23.934 |90.4077|
+|Central University of Rajasthan (CURAJ)|26.8919|75.7075|
+|Suan Dusit University|13.7586 |100.5357|
+|University of Chemistry & Technology Prague |50.1036|14.4311|
+|University of Tampa|27.9475| -82.4613|
+|Foundation for Research & Technology - Hellas (FORTH)|35.3047|25.2974|
+|Jiangsu Provincial Center for Disease Control & Prevention|32.0428|118.7812|

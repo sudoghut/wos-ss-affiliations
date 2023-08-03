@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| Birkbeck University London | 51.4973| -0.128|
+|University of London School Oriental & African Studies (SOAS) |51.5242 |-0.1302|
+|National Center for Chronic & Noncommunicable Disease Control & Prevention Chinese Center for Disease Control & Prevention| 39.915| 116.404|
+|Institute of BioMedical Engineering - CAMS  |39.932| 116.326|
+|Kaunas University of Technology|54.883| 23.955|
+|National Marine Environmental Monitoring Center |36.061|120.382|
+|Universidad Nacional de Colombia |4.596|-74.074|
+|Bashkir State Medical University |54.745|55.954|
+|Institut d'Etudes Politiques Paris (Sciences Po)|48.8568| 2.3376| 
+| Samara Scientific Center of the Russian Academy of Sciences| 53.212|50.152|
+|University of Oklahoma Health Sciences Center|35.219|-97.446|
+|Grenoble Ecole Management|45.183|5.717| 
+|Guangzhou Institute of Geography Guangdong Academy of Sciences|23.083|113.240|
+|Shougang Group|39.915|116.404|
+|Nanjing Normal University of Special Education|32.06|118.77|
+|GlobalFoundries  |43.0117|-73.7867|
+|CSIC-UIB - Instituto de Fisica Interdisciplinar y Sistemas Complejos (IFISC)|39.558|2.646 |
+|National Astronomical Observatory of Japan (NAOJ)|35.45| 139.55|
+|Beijing Advanced Sciences & Innovation Center CAS|39.988|116.365|
+|American University of Sharjah|25.351|55.439|
+|Gansu University of Political Science & Law |36.585|103.83|
+|Swiss Federal Institute of Aquatic Science & Technology (EAWAG)|47.402|8.317|
+|National University of Political Studies & Public Administration|44.4245|26.0985| 
+|Changchun University of Chinese Medicine|43.808|125.315|
+|Resources for the Future |38.9133| -77.0484|
+|Xiamen Tungsten Co Ltd|24.438|118.065|
+|Beijing Institute of Genomics CAS|39.993 |116.321|
+|NASA Goddard Space Flight Center|38.9906 |-76.8806|
+|California State University Fullerton|33.870|-117.925|
+|Infrastructure University Kuala Lumpur (IUKL)|3.1319|101.682 |
+|Norwegian University of Life Sciences|60.381|10.744|
+|Leibniz Institut fur Plasmaforschung und Technologie|  53.944|10.291|
+|South Eastern University of Sri Lanka|6.813|81.872|
+|A*STAR - Singapore Bioimaging Consortium (SBIC)|1.294|103.816|
+|A*STAR - Institute of Bioengineering & Bioimaging (IBB) |1.297|103.815|
+|Natural Environment Research Council (NERC)|54.972| -2.470|
+|Plymouth Marine Laboratory|50.378| -4.137|
+|NERC National Centre for Earth Observation|52.205|0.398|
+|University for Development Studies| 11.0791| -0.8200|
+|Innovative Scientific Solutions Inc.|40.207| -87.685|
+|Plastic Surgery Hospital - CAMS|39.915|116.404|
+|Yokohama City University|35.445|139.644|
+|Institute of Eco-environmental & Soil Sciences Guangdong Academy of Sciences |23.129|113.265|
+|David Geffen School of Medicine at UCLA |34.0685| -118.442|
+|University of California Los Angeles Medical Center| 34.0684|-118.442|
+|October 6 University (O6U) | 30.0372| 31.2088|
+|Ain Shams University|30.0444 |31.1957|
+|Telkom University|-6.9280|107.6112|
+|Universidade Federal do Espirito Santo|-20.3203 |-40.296|
+|Lishui University|28.4504|119.922|

@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | :-: | :-: |
+|Peter the Great St. Petersburg Polytechnic University|59.92|30.34|
+|Heilongjiang University of Technology|126.61|45.52|
+|Laoshan Laboratory|120.37|36.12|
+|Suihua University|126.52|47.69|
+|China Railway Construction Corporation|113.94|22.52|
+|Dalian Naval Academy|121.52|38.92|
+|Jomo Kenyatta University of Agriculture & Technology|-1.10|36.92|
+|Ministry of Justice - Egypt|31.24|30.05|  
+|Heilongjiang Bayi Agricultural University|126.52|47.01|
+|China Animal Health & Epidemiology Center|113.60|22.40|
+|University of Engineering & Technology Peshawar|71.50|34.00|
+|AGH University of Krakow |19.92|50.07|
+|Cape Breton University |-61.05|46.16|
+|University of Detroit Mercy| -83.05|42.38|
+|Komsomolsk-na-Amure State University|137.86|50.36|
+|Stavropol State Agrarian University|44.01|45.04|
+|Jinling Institute of Technology|118.79|32.03|
+|Asia Eastern University of Science & Technology|104.95|21.05 |
+|Heilongjiang University of Chinese Medicine|126.61|45.78|
+|Asian Institute of Technology|104|13|
+|POWERCHINA Huadong Engineering Corporation Limited|118.77|32.02|
+|University of Bradford| -1.76 |53.79|
+|Beijing Language & Culture University|116.30|39.56| 
+|Peoples Friendship University of Russia|37.53|55.75|
+|Beibu Gulf University|109.39|21.48| 
+|Dartmouth College | -72.29 | 43.71|
+|Harbin Sport University|126.61|45.70|
+|Royal Military College - Canada |-76.60|44.23| 
+|Northwest Minzu University|109.55|36.67 |
+|Ansteel Group|123|41|
+|Chittagong University of Engineering & Technology (CUET)|91.86|22.30|
+|National Ocean Technology Center (NOTC)|80.25|10.08|
+|Institute of High Temperature Electrochemistry|104|13|
+|Valahia University of Targoviste|25.46|45.09|
+|Longdong University|109.47|21.44|
+|Wenzhou Polytechnic|120.67|27.98|
+|Vietnam National University of Agriculture (VNUA)| 105.83 | 21.02|
+|Saudi Basic Industries Corporation (SABIC)|46.67|24.59|
+|Oakland University|-83.15|42.54|
+|Jilin University of Finance & Economics|126.55|45.23|
+|Guizhou University of Finance & Economics|106.28|26.59|
+|Bangor University| -4.15 | 53.17|
+|Huaibei Normal University|116.98|33.55|
+|Universite Ferhat Abbas Setif  |  5.42 |36.19|
+|Qiqihar Medical University|126.10|45.27|
+|Universita Mediterranea di Reggio Calabria|15.65|38.10|
+|Hengyang Normal University|112.48|27.14|
+|Hunan Institute of Technology |112.9|27.27|
+|Belarusian State University of Informatics & Radioelectronics|27.33|53.92|
+|Heilongjiang Academy of Agricultural Sciences|126.64|45.52|

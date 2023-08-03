@@ -1,0 +1,16 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+| Universiti Malaysia Perlis      |   6.527 |100.248|
+| Texas A&M Health Science Center | 32.529 | -97.184|
+| Pontificia Universidade Catolica do Rio de Janeiro| -22.906 | -43.18 |
+| Sabanci University|40.907|29.363|
+|Connecticut Agricultural Experiment Station| 41.728|-72.203|
+| Sant Longowal Institute of Engineering & Technology (SLIET) | 30.325 | 75.558|
+| BI Norwegian Business School|59.912|10.756|
+| Lutsk National Technical University|50.745|25.350|  
+| Osaka Medical & Pharmaceutical University | 34.681 |135.493|
+|Bingol University	|38.797	|40.500|
+|Osaka University of Pharmaceutical Sciences	|34.653|135.521|
+|Japanese Foundation for Cancer Research   |35.658  |139.691 |
+|National Taichung University of Science & Technology	|24.148	|120.684|
+|Netherlands Institute for Neuroscience (NIN-KNAW)|52.091| 4.485|

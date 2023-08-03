@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+Dakota State University|	44.441667|	-98.791389   
+Fu Wai Hospital - CAMS|	39.937659|	116.451182    
+Institute of Basic Medical Sciences - CAMS|	39.883389|	116.350556  
+Guangzhou Medical University	|23.167915|	113.311238
+State Key Laboratory of Respiratory Disease	|31.8825|	120.504167	
+University of Puerto Rico Mayaguez	|18.207222|	-67.15   
+University of Puerto Rico	|18.210826	|-66.101667	   
+Indiana University Bloomington	|39.165278|	-86.513611	 
+Institute of Strength Physics & Materials Science Siberian Branch of the RAS	|56.028333|	92.866667 	
+Siberian State Medical University	|55.029722|	91.357222
+Ji Hua Laboratory|	31.007622|	121.417528   
+Mount Allison University|	45.95471  |-64.700372	
+Agriculture Information Institute CAAS|	39.873611|	116.333889
+National Science Library CAS	|39.975278|  116.35    
+James Madison University|	38.4275|	-78.864722	
+Ohio University |39.329444 |-82.101389
+Johannes Gutenberg University of Mainz|	49.993056	|8.262778
+Universiti Teknologi Malaysia|	3.17|	101.67    
+Qingdao Institute of Bioenergy & Bioprocess Technology CAS|	36.347719|	120.445703
+Geoscience Australia|	-35.3075|	149.124722
+Hubei University of Chinese Medicine|	30.550139|	114.308333
+Weifang Medical University	|36.71	|119.1    	
+Henan University of Animal Husbandry & Economy	|35.703|	114.405 
+King Mongkuts Institute of Technology Ladkrabang|	13.713056|	100.518611	
+Taipei Medical University|	 25.019444|	121.525556	
+Heilongjiang University of Science & Technology|	45.796111|	126.370278	
+Yeshiva University	|40.725816|-73.959728|
+University of Hawaii Manoa|	21.291276|-157.817048|
+University of Hawaii System	|34.021 | -118.277 |
+Sorbonne Universite	|48.851037|2.341312|
+AT&T	|37.421235	|-122.161158 |
+University of Wyoming|	41.313056|-105.590278|
+Yili Normal University	|43.936111|	81.322222
+Osaka Metropolitan University	|33.857|	124.653	
+Institute of Theoretical Physics CAS	|39.968611|	116.371389  
+University of Maryland Center for Environmental Science|-38.01	|149.21
+STFC Daresbury Laboratory|	53.3675|	-2.627778
+Far Eastern Federal University	|43.1175|	131.8875
+Georgia College & State University	|32.838889|	-83.641306
+Universite de Tours	|47.3975|	0.688611
+Leiden University	|52.161944|	4.463611
+Leiden University - Excl LUMC	|52.161944	|4.463611
+Umm Al Qura University	|21.613333|	39.765833
+Jawaharlal Nehru University New Delhi|	28.562778|	77.184167
+Institute of Geology & Geophysics CAS|	39.984167|	116.316667
+Pontificia Universidad Catolica de Chile|-33.44213|-70.607531|
+University of Barcelona|	41.383333|	2.116667
+UCSI University|-2.94|	101.713333
+Quanzhou Normal University	|24.912222|	118.578333
+A*STAR - Institute of Molecular & Cell Biology (IMCB)|	1.31167|	103.8025

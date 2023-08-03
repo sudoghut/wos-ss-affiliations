@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | :-: | :-: |
+| Geely | 22.464827 | 113.943122 |
+| Universite Paris-Dauphine | 48.838611  | 2.315556 |
+| Chulalongkorn University| 13.753783 | 100.501377 | 
+| Honam University | 35.166667 | 126.866667|
+| Medical Research Council UK (MRC) | 51.52098| -0.17257|
+| Applied Materials Inc| 37.423685|-121.933961|
+| Universites de Strasbourg Etablissements Associes | 48.570278 | 7.698333|
+| Universite de Strasbourg| 48.582222| 7.745|
+| CNRS - Institute of Chemistry (INC) | 48.801389| 2.258889|
+| University of Cagliari| 39.223903| 9.121492|
+| University of Kent | 51.297222| 1.054167|
+| Guangdong University of Finance | 23.097222|113.305556|
+| University of Malta| 35.898889| 14.490556|
+| Hefei University| 31.787778| 117.282|
+| Research Institute of Forestry New Technology CAF | 35.717222 | 104.103889|
+| Swiss Federal Laboratories for Materials Science & Technology (EMPA)| 47.422649| 8.63215|
+| Saudi Electronic University| 24.706694 | 46.693085|
+| University of Jeddah| 21.495044| 39.166173|
+| Nanjing Vocational University of Industry Technology| 32.04469 | 118.7961|
+| Korea Institute of Ceramic Engineering & Technology| 36.367999|127.38388|
+| Universidad Autonoma de Nuevo Leon| 25.667778| -100.316667|
+| North South University (NSU)| 23.768611| 90.403889|
+| Universidad de Antioquia| 6.269444| -75.56|
+| Stellenbosch University| -33.936527| 18.866563|
+| University of Nizwa|22.918611|57.714167 
+| Kalasalingam Academy of Research & Education| 9.874167| 77.861667|
+| Belarusian National Technical University|53.902036| 27.576291|
+| Vavilov State Optical Institute| 59.941761|30.270772
+| Aston University|52.481167|-1.8875
+| Central University of Tamil Nadu|11.221124|78.680177
+| Institut Polytechnique de Paris|48.690486|2.175181
+| Kobe University|34.696208|135.139816
+| Wuhan Institute of Virology CAS|30.533445|114.318622
+| Universite Paris-VIII|48.872017 |2.416918
+| Guangdong Technion Israel Institute of Technology|23.124186|113.291139
+| Clark University|42.280556|-71.792222
+| Zhejiang Institute of Mechanical & Electrical Engineering|29.872808|120.734271
+| A*STAR - Singapore Institute of Manufacturing Technology (SIMTech)|1.337882|103.689542
+| University of Hyogo|35.005216|135.866243
+| Bydgoszcz University of Science & Technology|53.113835|17.979492
+| Belarusian State University|53.926583|27.551747
+| Institute of Nuclear Physics - Kazakhstan|49.989445|73.358364
+| Yunnan Astronomical Observatory NAOC CAS|25.826157|102.847064
+| Novo Nordisk|55.697778|12.505556
+| Institute of Geographic Sciences & Natural Resources Research CAS|39.989395|116.38717
+| Korea Basic Science Institute (KBSI)|37.450933| 126.71202
+| Universiti Kebangsaan Malaysia|2.923424|101.673988
+| UiT The Arctic University of Tromso| 69.650556| 18.955833
+| Boston University|42.337574|-71.101487
+| Belarusian State Medical University|53.93313|27.650396

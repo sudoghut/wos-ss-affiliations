@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - | 
+|Accenture|77.229041|12.970106|
+|National Office for Aerospace Studies & Research (ONERA)|2.033333|48.666667|
+|University of Pecs|18.225694|46.078333|
+|Belgian Nuclear Research Centre (SCK-CEN)|4.434086|50.957861|
+|Institute of Basic Research In Clinical Medicine CACMS|116.196611|39.870831|
+|Central Metallurgical Research & Development Institute (CMRDI)|28.542498|77.186053|
+|Japan Fine Ceramics Center|140.388889|35.658333| 
+|Netaji Subhas University of Technology|77.111359|28.583333|
+|Texas Instruments|96.8181|32.7818|
+|University of Derby|1.472983|52.921667|
+|ANZAC Research Institute|-33.88725|151.30744|
+|Universite d'Artois|2.9|50.3|
+|Samara Federal Research Scientific Center|53.200000|50.150000|
+|Bangladesh Rural Advancement Committee BRAC|90.394217|23.701167|
+|Gdansk University of Technology|18.637791|54.383698|    
+|Netherlands National Institute for Public Health & the Environment|5.1833|52.1|
+|Moorfields Eye Hospital NHS Foundation Trust|-0.083779|51.523611|
+|Manhattan College|40.867222|-73.915833|
+|Xiamen Institute of Technology|118.100556|24.4475|
+|European Organisation for the Exploitation of Meteorological Satellites|25.6667|47.9|
+|Weill Cornell Medicine|-73.953611|40.772222|
+|Xinjiang Agricultural University|87.563889|43.7875|
+|Leuphana University Luneburg|9.95|53.25|
+|IMT Nord Europe|48.103586|44.409822|
+|Langston University|97.266111|35.658056|
+|Defence University|77.244978|28.543846|
+|National Taipei University of Business|121.574444|25.021667|
+|National College of Ireland|53.338333|-6.261944|
+|Yildiz Technical University|29.014722|41.068889|
+|Karunya Institute of Technology & Sciences|77.15|11.3|
+|NERC National Centre for Atmospheric Science|-3.85|54.2|
+|Universite Paris 13|2.4619444|48.905833|
+|Swinburne University of Technology Sarawak|110.3|1.55|
+|Federal Research Center Computer Science & Control of RAS|37.626944|55.752778|  
+|Dorodnitsyn Computing Centre RAS|37.5979|55.7406|
+|Louisiana State University School of Veterinary Medicine|-91.181944|30.451944|
+|ASML Holding| 5.3688| 51.906|
+|Centro Nacional de Investigaciones Metalurgicas (CENIM)|40.416667|-3.75|
+|Gusu Laboratory|120.272222|31.6875|
+|Newton Wellesley Hospital|-71.208889|42.308889|
+|Russian Quantum Center|37.6475|55.760278| 
+|Institute of Semiconductors Guangdong Academy of Sciences|113.000000|30.550000| 
+|CIBER - Centro de Investigacion Biomedica en Red|-3.713056|40.416111|
+|CIBERBBN|-0.130555|39.463889|
+|University of Waikato|175.328279|-37.790346|
+|The World Bank|-77.036944|38.8975|
+|University of Navarra|-1.664722|42.815556|
+|Justus Liebig University Giessen|8.679722|50.531667|
+|West Pomeranian University of Technology|14.55|53.439722|
+|Mansfield University - Pennsylvania|77.271667|41.9|

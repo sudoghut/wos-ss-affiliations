@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+|Banner Health|	33.37|-111.99|
+|Banner Alzheimer's Institute|	33.41|-111.94|
+|Banner Research|	33.37|-111.99|
+|Inter-University Accelerator Centre|	28.63|77.13|			
+|Sri Venkateswara University|	13.63|79.6|
+|Hebei Medical University	|38.8785981|114.4055379|
+|Broadcom	|37.3549117|-122.0499218|
+|John Innes Center|	52.6094|-1.255|
+|Universidad Loyola Andalucia|	36.66|-4.69|
+|Shenyang University|	41.8314182|123.4398996|
+|University of Florence|	43.76922|11.2551|				
+|National Central University|	24.1972191|120.6659803|
+|Cathay General Hospital|	25.0349308|121.5341683|
+|National Taiwan University Hospital	|25.027495|121.533373|
+|Taipei Veterans General Hospital	|25.035587|121.501288|
+|Schlumberger|			30.2901|-95.4196|
+|University of Turku	|60.45182|-22.26437| 
+|Rowan University	|39.7319017|-75.3198635|
+|Universite de Haute-Alsace (UHA)|	48.0785|	7.3625|
+|Jilin Normal University			|43.8460699|126.560823|
+|Kazakh British Technical University|43.234753|	76.929533|
+|Shanghai University of Traditional Chinese Medicine|31.2527359|121.4626141|
+|Baylor University  	|31.5444489|-97.1138111|
+|Bahcesehir University			|41.1458441|28.9731787|
+|Aswan University	|23.9277499|	32.8901479|
+|Universita Telematica Giustino Fortunato|40.8552	|14.2187|
+|Polytechnic Institute of Porto|	41.180935|-8.5995131|
+|Dongguk University	|37.585332|	126.995583|
+|Seoul National University of Science & Technology	|37.4549793|	127.1226806|
+|Suranaree University of Technology|	14.504945	|100.381539|
+|Northern Border University			|32.5440395|36.4165125|
+|Jalpaiguri Government Engineering College	|26.5349|88.7126|
+|JP Morgan Chase & Company			|40.7568|-73.9777 	 	 
+|European Synchrotron Radiation Facility (ESRF)	|45.192710|	5.956180|
+|Howard University	|38.929994|-77.014701|
+|Friedrich Schiller University of Jena		|50.9311	|11.3247|
+|Lakehead University		|48.4083|-89.2492|
+|National Kaohsiung Normal University	|22.62095|120.32542|
+|University of Texas Health Science Center Houston|29.72|-95.39184|
+|University of Lodz			|51.77131	|19.45145|
+|Honghe University			|23.6695695|102.5918914|
+|Ho Chi Minh City University of Technology (HUTECH)|10.786451|106.687824|
+|Baqiyatallah University of Medical Sciences (BMSU)|35.802932|51.398610|
+|King Saud Bin Abdulaziz University for Health Sciences	|24.71861|	46.61067|	
+|King Abdulaziz Medical City	|24.57481|	39.21667|
+|King Abdulaziz Medical City - Riyadh|24.58815|	46.73498|
+|King Abdullah International Medical Research Center (KAIMRC)|	24.59284|46.69614|
+|Ministry of National Guard - Health Affairs|	24.59284|	46.69614|
+|Shah Abdul Latif University		|10.079987|53.354622|
+|Bangladesh Institute of Development Studies (BIDS)	|23.7103	|90.4110|

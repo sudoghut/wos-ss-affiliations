@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+| Indian Institute of Science Education & Research (IISER) - Kolkata|22.56346|88.35169|
+|South Ural State University|54.61583|58.14867|
+|Universiti Teknologi MARA|3.05319|101.5233|
+|University of Johannesburg|-26.20232|28.0331|
+|Changchun Institute of Optics Fine Mechanics & Physics CAS|43.88151|125.3229|
+|George Washington University|38.90111|-77.056|
+|Qamcom Research & Technology|-27.66204|153.0621|
+|Chongqing Institute of Green & Intelligent Technology CAS|29.56226|106.5547|
+|Shiraz University|29.62805|52.54288|
+|Assiut University|27.17586|31.18569|
+|Shanghai Institute of Microsystem & Information Technology CAS|31.18218|121.4672|
+|Fujian Medical University|26.06667|119.36667| 
+|Gachon University|37.64|127.15|
+|IMEC|51.1642|4.46829|
+|Institute of Materia Medica - CAMS|39.9481|116.4622|
+|Santa Clara University|37.35411|-121.955238|
+|Universite Paris Cite|48.849|-2.45892|
+|Australian Nuclear Science & Technology Organisation|-33.79778|151.23778|
+|Hannover Medical School|52.3709|9.73322|
+|Charles University Prague|50.07222|14.41778|
+|University of Tennessee Health Science Center|35.13775|-90.04845|
+|Guangxi Medical University|22.81667|108.28333|
+|University of Newcastle|-32.9165|151.7592|
+|Eotvos Lorand University|47.49722|19.05889|
+|Institute of Electronics CAS|39.9654|116.3119|
+|National Resource Center for Chinese Materia Medica CACMS|39.9277|116.4063|
+|Universidad de Especialidades Espiritu Santo|-2.2208|-80.7102|
+|Indiana University-Purdue University Indianapolis|39.7684|-86.15833|
+|Indiana University System|39.165|-86.52306| 
+|Vilnius University|54.68715|25.27635|
+|Istanbul Gelisim University|41.01531|29.01218|
+|Bharath Institute of Higher Education & Research|12.97372|79.13163|
+|Wuchang University of Technology|30.59769|114.31614|
+|San Francisco State University|37.73446|-122.48066|
+|Ball State University|40.20111|-85.40778| 
+|BYD|23.35|-113.82|
+|Kingfa Sci. & Tech.|22.58114|113.87185|
+|State Key Laboratory of Quantum Optics & Quantum Optics Devices|39.74388|116.36878|  
+|Abdul Wali Khan University|34.01667|71.88333|
+|Zhengzhou Tobacco Research Institute of CNTC|34.75|113.65|
+|Shandong Institute of Commerce & Technology|36.66667|117|
+|A*STAR - Institute of High Performance Computing (IHPC)|1.29875|103.80975|
+|Minhaj University|31.6|74.46417|
+|University of Debrecen|47.53127|21.62801|  
+|Jacobs University|53.59368|8.69276|
+|University of Science & Technology Bannu|32.98442|70.58984|
+|Ataturk University|40.64033|36.19871|
+|University of Dubai|25.20481|55.27366|
+|Novosibirsk State University Of Architecture & Civil Engineering|55.03026|82.9172|
+|Khristianovich Institute of Theoretical & Applied Mechanics SB RAS|55.00993|82.9126|

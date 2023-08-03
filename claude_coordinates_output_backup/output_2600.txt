@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+Universidade de Coimbra|-8.686|40.211   
+National Institute of Technology Kurukshetra |29.968|76.922
+Austrian Academy of Sciences|16.367|48.194
+Sanford Burnham Prebys Medical Discovery Institute|117.236|32.738
+Universitas Bina Nusantara|-6.258|-7.223
+Masaryk University Brno|16.617|49.196
+Bentley University|42.358|71.178    
+CSIC - Instituto de Estructura de la Materia (IEM)|-3.780|40.391
+University of Cape Coast|5.420|5.114
+Institut Paoli-Calmette (IPC)|5.0276|43.5502 
+UNICANCER|2.343|48.853
+Edge Hill University|53.504|2.893
+Sookmyung Women's University|126.986|37.564
+Guizhou University of Traditional Chinese Medicine|106.366|26.351
+Aomori University of Health & Welfare|141.031|40.800
+Niigata University|139.083|37.916
+Chosun University|128.593|35.873
+NYU Shanghai|121.445|31.240
+Artvin Coruh University| 41.819|41.816
+National Renewable Energy Laboratory - USA|-105.244|39.727
+Ben Gurion University| 34.786|30.315 
+Le Reseau International des Instituts Pasteur (RIIP)|2.351|48.85
+University of Kansas|-95.237|38.955
+Pepperdine University|118.827|34.062 
+College of Charleston|-79.947|32.771
+Oil & Gas University of Ploiesti|26.004|44.926
+Guangxi Minzu University|108.317|24.139
+Hirosaki University|140.469|40.600   
+Saint Marys University - Canada|-63.583|44.627
+Indian Institute of Technology (IIT) - Kanpur|80.233|26.512
+Istituto di Ricerche sulla Combustione (IRC-CNR) |11.242 |45.401
+Prince Sultan University | 39.586 |24.701
+Menofia University |30.845 | 30.899
+Baskent University|32.696|39.887
+Africa Rice Center|-7.223|-7.223
+International Rice Research Institute (IRRI)|120.996|14.644
+Guangdong Academy of Agricultural Sciences| 113.235|23.125   
+GD Goenka University|77.438 |28.523      
+Prince of Songkla University|100.542|7.77
+Kyoto Womens University |135.76|35.01
+Tomsk Polytechnic University |84.949|56.471 
+Tomsk State University Architecture & Building| 84.948|56.301 
+Institute of High Current Electronics Siberian Branch Russian Academy of Sciences|84.959|56.245
+Al-Farabi Kazakh National University|71.425|43.252
+Universita di Modena e Reggio Emilia|10.925|44.656
+Istituto Officina dei Materiali (IOM-CNR)|5.514|43.033
+Yale NUS College|103.808|1.30
+University of Chester|53.188|2.89
+Korea National University of Transportation|127.05|37.55
+Izmir Katip Celebi University|27.145|38.3178

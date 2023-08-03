@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+|:-:|:-:|:-:|  
+|Jiangsu Open University|	32.06|119.51|
+|Qassim University|	26.26|43.78|
+|Gandhi Institute of Technology & Management (GITAM)|	17.35|82.62|
+|Yanka Kupala State University of Grodno|	53.67|23.83|
+|CSIR - Central Scientific Instruments Organisation (CSIO)|	30.74|76.77|
+|Academy of Scientific & Innovative Research (AcSIR)|	28.61|77.21|
+|Council of Scientific & Industrial Research (CSIR) - India|	28.61|77.21|
+|University of Utah|	40.76|-111.84|
+|Hebei Normal University for Nationalities|	36.55|114.26|
+|Dalarna University|	 60.61|14.49|
+|Al Baha University|	20.21|41.66|
+|Indian Institute of Management Indore|	22.7|75.85|
+|Immanuel Kant Baltic Federal University|	54.7|20.47|
+|Southern Methodist University|	32.83|-96.75|
+|Institut National des Sciences Appliquees de Rennes|	48.12|-1.67|
+|University of Karachi|	24.92|67.09|  
+|Florida International University|	25.74|-80.38|
+|Florida Polytechnic University|	28.32|81.84|
+|All India Institute of Medical Sciences (AIIMS) New Delhi|	28.61|77.21|
+|Xi'an Academy of Fine Arts |	34.27|108.95|
+|Edinburgh Napier University|	55.93|-3.21|
+|Institut d'Estudis Espacials de Catalunya (IEEC)|	41.38|2.11|
+|Sultan Qaboos University|	23.58|58.09|
+|Rollins College|	28.58|-81.36|
+|Minia University|	28.09|30.73|
+|Thiruvalluvar University|	11.62|79.35|
+|NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD)|	38.91|-77.11|
+|United States Air Force|	38.84|-77.02|
+|Semmelweis University|	47.49|19.06|
+|CPC Corporation|	25.04|121.55|
+|Guangxi University of Chinese Medicine|	23.35|108.59| 
+|West Yunnan University of Applied Sciences|	25.05|100.41|
+|National Institute for Environmental Studies - Japan|	35.68|140.12|
+|Universite de Sousse|	35.84|10.63|
+|Diamond Light Source|	51.62|-0.97|
+|University of Sofia|	42.7|23.33|
+|Centro de I+D+I en Procesado de la Informacion Telecomunicaciones (IPT)|	38.57|0.1|
+|Daimler AG|	48.83|9.17|
+|National University of Uzbekistan|	41.31|69.31|
+|Tashkent State University of Economics|	41.26|69.32|
+|Carnegie Institution for Science|	38.91|-77.11|
+|Infineon Technologies Americas Corp.|	37.38|-121.96|
+|Infineon Technologies|	48.23|11.17|
+|Alliance Manchester Business School|	53.46|-2.25|
+|Institute of Zoology Guangdong Academy of Sciences|	23.01|113.76|
+|China National Rice Research Institute CAAS |	28.69|115.92|
+|The University of Hong Kong Shenzhen Institute of Research & Innovation|	22.54|114.12|
+|Xinyu University|	27.81|115.97|
+|Yanbian University|	42.90|129.51|
+|Scuola Normale Superiore di Pisa|	43.71|10.36|

@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | - | - |
+|Royal Liverpool & Broadgreen University Hospitals NHS Trust	|-2.92	|53.41|
+|Higher Colleges of Technology - United Arab Emirates|	25.204842	|55.420263|
+|Icahn School of Medicine at Mount Sinai|	-73.985658|	40.787522|
+|VA Palo Alto Health Care System|-122.150774|	37.422451|
+|Institut Curie|	-2.289645|	48.850541|
+|National Centre for Nuclear Research	|20.955058|	52.402441|
+|Comision Nacional de Energia Atomica (CNEA)|	-58.441749 |	-34.581249|
+|Shandong Agriculture & Engineering University	|116.280784	|36.237861|
+|Hungarian Institute for Nuclear Research |	19.612598|	47.564761|
+|SAS Institute Inc	|-78.637471	|35.722729|
+|Universita Kore di ENNA |	14.354664|	37.562172|
+|Nuclear Physics Institute of the Czech Academy of Sciences|14.478938|	50.084275|
+|Universidad de Huelva |-6.919656	|37.256769|
+|Harbin Institute of Technology Graduate School at Shenzhen	|114.055637	|22.546499|
+|STMicroelectronics|-5.094781	|45.180293|
+|University of Insubria|	8.824621|	45.64201|
+|Shenyang Pharmaceutical University |	123.285306|	41.798956|
+|University College of Southeast Norway	|8.230425|	58.874184|
+|Andhra University|	83.294837|	17.686816|
+|Zhejiang Shuren University 	|120.366904|	30.268523|
+|Ganpat University	|72.995722	|23.208364|
+|Southern Cross University	|153.384738	|-29.453857|
+|Bangalore University	|77.566541|	12.972642|
+|TU Clausthal|	10.457926|	51.787067|
+|Mitchell Hamline School of Law|	-93.1573 |	44.9866|
+|Isfahan University of Technology|	51.673323|	32.656236|
+|Drake University |	-93.652598	|41.59561|
+|University of Prince Edward Island|-63.133801|	46.228879|
+|Nepal Academy of Science & Technology (NAST)|	85.325081|	27.707261|
+|Universite Abbes Laghrour Khenchela|	7.068764|	35.764407|
+|University of Moncton	| -64.7764|	46.1277|
+|Shenyang Institute of Engineering|	123.46704|	41.7263|
+|Yunnan University of Chinese Medicine|	102.709533|	24.877083|
+|Southwest University of Political Science & Law - China|104.075314|	30.573323|
+|Shanghai Customs College|	121.494141|	31.183054|
+|Taichung Veterans General Hospital|120.660715|	24.155059|
+|Universidad de Cordoba|	-4.773889|	37.881944|
+|IHE Delft Institute for Water Education|	4.372282|	52.013217|
+|Jiangxi University of Traditional Chinese Medicine|115.893577|	28.689589|
+|University of Abomey Calavi	|2.2333|	 6.4667|
+|Physikalisch-Technische Bundesanstalt (PTB)|	13.388462	|52.53044|
+|Texas Womans University |	-97.129163|	33.187939|
+|Guilin Tourism University |	110.287442|	25.276107|
+|Belgorod State Technological University|	36.6067	|50.6006|
+|Shenzhen Stock Exchange (SZSE)|	 113.9333|	22.5333|
+|Huangshan University	|118.317674|	29.710903|
+|Universidad de Concepcion	|-73.054315	|-36.815215|
+|Copperbelt University|28.4601|	-2.3420|
+|University of Barishal|	90.383074|22.700537|
+|Deloitte Touche Tohmatsu Limited|-77.019554|38.897957|

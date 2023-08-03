@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| - | - | - |
+|Bogor Agricultural University|-6.5989|106.8260|
+|University of Indonesia|-6.2305|106.8183|
+|University of Bielefeld|52.0156|8.5342|
+|Al Jouf University|29.2871|37.7656|
+|Halmstad University|56.6842|12.8789|
+|Pennsylvania State University - University Park|40.7987|-77.8646|
+|Cyprus University of Technology|35.0050|33.8516|
+|Southern Medical University - China|23.1149|113.3775|
+|Pace University|40.7484|-73.9840|
+|Inspur|31.8771|118.7634|
+|Purdue University System|40.4232|-86.9203|
+|Purdue University West Lafayette Campus|40.4228|-86.9145|
+|Purdue University|40.4258|-86.9105|
+|Agricultural Bank of China|39.9068|116.4416|
+|Universiti Utara Malaysia|5.3829|100.4564|
+|Huazhong Agricultural University|30.5416|114.3666| 
+|Hungkuang University|24.8109|120.6119|
+|University of Sheffield|53.3809|-1.4959|
+|White Rose University Consortium|53.8061|-1.5496|
+|University of Leeds|53.7979|-1.5507|
+|Hohai University|32.3761|118.7960|
+|University of Seoul|37.5891|126.9726|
+|University of Louisiana System|30.2244|-92.0302|
+|University of New Orleans|29.9510|-90.0715|
+|Tarsus University|37.0426|34.0875|
+|Imam Abdulrahman Bin Faisal University|26.2649|43.7430|
+|Trinity College Dublin|53.3441|-6.2535|
+|Shenyang Jianzhu University|41.8043|123.4318|
+|University of Primorska|45.5386|13.7385|
+|Montpellier Business School|43.6107|3.8767| 
+|Shanghai Ocean University|31.1934|121.4596|
+|Shaoguan University|24.8109|113.5990|
+|Industrial & Commercial Bank of China (ICBC)|39.9472|116.2811|
+|National Pingtung University Science & Technology|22.6889|120.4842|
+|Suwon University|37.2613|127.0063|
+|Guangzhou Radio Group|23.1291|113.2649|
+|Universitat Politecnica de Catalunya|41.3879|2.1228|
+|Huzhou University|30.8428|120.0776|
+|Universidade Federal do Rio de Janeiro|-22.9068|-43.1729|
+|Consiglio Nazionale delle Ricerche (CNR)|41.8376|12.4922|
+|Istituto di Scienze Applicate e Sistemi Intelligenti Eduardo Caianiello (ISASI-CNR)|41.8376|12.4922|
+|Shanghai Institute of Ceramics CAS|31.2206|121.4318|
+|Heze University|35.2644|115.4772|
+|Beijing Municipal Research Institute of Environment|39.8679|116.3362|
+|Eberhard Karls University of Tubingen|48.5371|9.0564|
+|Huanggang Normal University|30.4544|114.8755|
+|Changwon National University|35.2252|128.5792|
+|University of Mohaghegh Ardabili|38.4700|48.2647|
+|University of Tabriz|38.0667|46.2833|
+|University of South Wales|51.6022|-3.3465|

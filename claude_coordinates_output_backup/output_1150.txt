@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor|
+| - | - | - |
+|Pakistan Institute of Engineering & Applied Science |24.8722| 67.209|
+| Shaheed Zulfikar Ali Bhutto Institute of Science & Technology |25.58 | 68.434|
+|Emory University |33.787| -84.322|
+|PetroChina Company |39.908| 116.388|
+|Brunel University |51.559| -0.492|
+|Hainan Medical University |19.206| 109.729|
+|Braunschweig University of Technology |52.27|10.53|
+|Institute of Agricultural Economics & Development CAAS |39.9336| 116.44|
+|Samsung |37.4648| 127.0946|
+|RWTH Aachen University |50.779| 6.08|
+|University of Reading|51.458|-0.963|
+|Chongqing Normal University|29.59|106.28|
+|Institut national de la recherche scientifique (INRS)|45.902|-73.659|
+|Research Center for Eco-Environmental Sciences (RCEES)|39.942|116.381|
+|China Minsheng Banking|39.904|116.439|
+|Seventh Medical Center of Chinese PLA General Hospital|39.95| 116.4|
+|Universite de Lorraine|48.681|6.179|
+|Hezhou University|24.423|111.316| 
+|University of Pisa|43.716|10.399|
+|Pennsylvania State University|40.797| -77.855|
+|University of Colorado Denver|39.739|-104.993|
+|Chinese Academy of Forestry|39.978|116.379|
+|Research Institute of Wood Industry CAF|39.978|116.332|
+|State University of New York (SUNY) Buffalo|42.978|-78.878|
+|A*STAR - Institute for Infocomm Research (I2R)|-103.84|-1.295|
+|Yunnan Normal University|25.037|102.703|
+|Pushkov Institute of Terrestrial Magnetism Ionosphere & Radio Wave Propagation|55.768|37.586|
+|Goethe University Frankfurt|50.123| 8.671|
+|University of Kashmir|34.129|74.79| 
+|Research Institute of Forest Resources Information Technique CAF|39.978|116.332|
+|Financial University Under the Government of Russian Federation| 55.7484|37.6223|
+|St. Joseph's College of Engineering Chennai|13.009| 80.185|
+|Yunnan Agricultural University|24.970|102.863|
+|Johns Hopkins Medicine|39.193| -76.705|
+|Zhejiang Laboratory|29.126|120.1|
+|China Ship Scientific Research Center|31.985|121.403|
+|National Yang Ming Chiao Tung University| 25.026|121.555|
+|UK Atomic Energy Authority|51.503|0.336|
+|Incheon National University|37.449|126.708|
+| Anhui Science & Technology University|32.653|117.221|
+|Collaborative Innovation Center for Advanced Ship & Deep Sea Exploration|31.750|121.550|
+|Malardalen University|59.607|16.508|
+|Central Academy of Fine Arts|39.975|116.316|
+|National Institute of Food & Drug Control - China|39.918|116.363|
+|Southwestern Institute of Physics - China|29.362|106.291|
+|Huaiyin Institute of Technology|33.590| 119.017| 
+|Microsoft Research Asia|39.908|116.244|
+|Eastman Chemical Company|36.321| -83.456|
+| Tomsk State University|56.483|84.977|
+|Kochi University Technology|33.571|133.754 |

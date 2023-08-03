@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+|Research Center Julich|6.411|50.917|
+|Zhejiang Wanli University|121.305|29.519|
+|Shandong Institute of Petroleum & Chemical Technology|118.779|35.165|
+|High Energy Accelerator Research Organization (KEK)|139.586|35.923|
+|Nguyen Tat Thanh University (NTTU)|106.66|10.785|
+|Tokai University|139.903|35.645|
+|Duke Kunshan University|120.729|31.394|
+|State Power Investment Corporation|116.445|39.915|
+|University of Tartu|26.726|58.372|
+|Wenzhou Medical University|120.69|28.0067|
+|Qingdao Agricultural University|120.381|36.065|
+|Chinese Culture University|121.525|25.033|
+|Henan Institute of Science & Technology|113.55|34.76|
+|UDICE-French Research Universities|0|0|
+|Universite Paris Saclay|2.21|48.717|
+|A.V. Luikov Heat & Mass Transfer Institute of the National Academy of Sciences of Belarus|27.56|53.93|
+|University of Portsmouth|76.8933|-1.0867|
+|University of Taipei|121.53425|25.04472|
+|Harbin University of Commerce|126.651|45.777|
+|National Institute of Education (NIE) Singapore|103.81|1.3408|
+|Universidad Politecnica Salesiana|78.5143|-0.2006|
+|Kagoshima University|130.57|31.555|
+|Bengbu Medical College|117.361|32.9211|
+|Aerospace Corporation - USA|-118.371|33.935|
+|Luoyang Normal University|112.445|34.683|
+|Virginia Commonwealth University|-77.46|37.55|
+|Ministry of Transport of the People's Republic of China|116.39|39.93|
+|Hubei University of Automotive Technology|114.501|30.339|
+|University of Kaiserslautern|7.76|49.442|
+|University of Helsinki|24.928|60.17|
+|Ural State University of Railway Transport|60.6|56.83|
+|Institut Laue-Langevin (ILL)|6.01|45.6|
+|Universite de Caen Normandie|71.12|-0.34|
+|HSE University (National Research University Higher School of Economics)|37.62|55.76|
+|Russian University of Transport|37.82|55.68|
+|Xiamen Medical College|118.075|24.463|
+|Hebei Normal University of Science & Technology|114.449|38.042|
+|Japan Science & Technology Agency (JST)|-27.48|153.02|
+|Embry-Riddle Aeronautical University|-81.072|29.211|
+|Dortmund University of Technology|7.455|51.5|
+|Hunan City University|112.981|28.2281|
+|Dalian Medical University|121.614|38.9437|
+|Kwangwoon University|127.043|37.566|
+|China Tobacco Yunnan Industrial Co Ltd|102.712|25.041|
+|Chengdu Normal University|104.081|30.674|
+|Xinjiang Normal University|87.6276|43.7896|
+|London South Bank University|51.5015|-0.0982|
+|Chung Ang University|127.029|37.456|
+|Hunan University Of Humanities Science & Technology|112.979|28.2283|
+|National Institutes for Quantum Science & Technology|-6.488|106.87|

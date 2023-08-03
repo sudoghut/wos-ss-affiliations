@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - | 
+National Institute of Biological Sciences Beijing|116.1649|39.9285|
+Southern Marine Science & Engineering Guangdong Laboratory|113.2988|23.1043| 
+Universita della Svizzera Italiana|8.9608|46.057|
+Kaiser Permanente|122.1568|37.7454|
+Xinxiang Medical University|113.8642|35.3894|
+Muroran Institute of Technology|141.7713|42.1848|
+Institute of Urban Environment CAS|116.5385|39.9232|
+Karakoram International University  |74.923|36.616|
+Shenzhen Institute of Information Technology|114.0688|22.5642|
+CSIC - Instituto de Quimica Avanzada de Cataluna (IQAC)|2.0914|41.3874|
+CSIC - Centro de Investigacion y Desarrollo Pascual Vila (CID-CSIC)|2.1746|41.3818|
+Nanjing Audit University|118.7673|32.0285|
+Yeungnam University|128.8333|35.8333|
+Tulane University|-90.1188|29.9306| 
+Nikola Vaptsarov Naval Academy|27.9159|43.2102|
+University of Tasmania|-42.8821|147.3272|
+Gaziantep University|37.0525|37.3888|
+Hongik University|126.9244|37.5582|
+University of Miami|-80.1937|25.721|
+Universidad de Cadiz|-6.294|36.5146|
+E-ON|13.4|52.52|
+University Centre Svalbard (UNIS)|15.6451|78.2151 |
+University of Teesside|-1.2268|54.4888|
+B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus|27.5617|53.9|
+National Academy of Sciences Ukraine|30.5176|50.4497|
+Institute for Scintillation Materials of the National Academy of Sciences of Ukraine|30.4179|50.6082|
+Millersville University of Pennsylvania|-76.3055|39.9961|
+Xinjiang Institute of Engineering|87.5833|43.8| 
+Chang Gung Memorial Hospital|121.189|24.812|
+Nanhua University|120.7591|22.8974|
+Soonchunhyang University|126.823|35.1917|
+Youjiang Medical University for Nationalities|101.7247|25.0419|
+Brno University of Technology|16.6075|49.195|
+Chung Hua University|24.994|121.161|
+University of North Carolina School of Medicine|35.91|-79.052|
+Panasonic|136.92|34.85 
+Zhangjiang Laboratory|121.541|31.2216| 
+Shanghai Advanced Research Institute CAS|121.3289|31.2241|
+Kwame Nkrumah University Science & Technology|-1.2252|6.679|
+Innopolis University|55.6340|48.4430|
+University of Illinois Chicago Hospital|-87.6613|41.8707|
+University of Illinois Chicago|-87.6817|41.8756|
+Chungnam National University|127.1531|36.9914|
+Thermal Power Research Institute Co Ltd|116.3976|39.9339|
+University of West Scotland|-4.4197|55.8597|
+Changchun Institute Technology|125.3|43.7|
+Prince Sattam Bin Abdulaziz University|46.6768|26.2545|     
+North Sichuan Medical University|104.0654|30.6738|
+University of Kurdistan|46.3888|35.3731|
+Razi University|46.25|30.6|

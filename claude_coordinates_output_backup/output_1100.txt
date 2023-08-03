@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | -  |  
+| University of Vermont   |   44.4819   |   -72.9965   |
+| State University of New York (SUNY) Albany  |   42.6822   |   -73.8223   |
+| Berlin School of Economics & Law    |   52.5195   |   13.4065   |
+| Egyptian Knowledge Bank (EKB)   |   30.0376   |   31.2357   |
+| Port Said University   |   31.2658   |  32.301   |
+| Shanghai Institute of Optics & Fine Mechanics|  31.2001    | 121.4971  |
+| Wuhan Textile University   |  30.5658    | 114.3541   |
+| Francisk Skorina Gomel State University | 52.4316   |   30.9843   |
+| University of South Carolina Columbia|   34.0007   |   -81.0348   |
+| University of South Carolina System    |   33.9992   |   -81.0378    |   
+| China Guodian   |   31.7679   |   118.8062   |
+| University of Georgia    |   33.9457   |   -83.3575   |
+| Indiana University of Pennsylvania   |   40.6211   |   -79.1549    | 
+| Pennsylvania State System of Higher Education (PASSHE)   |  40.7972 |   -77.8603   |
+| Institute for Basic Science - Korea (IBS)   |   36.3528   |   127.3657   |
+| Harvard T.H. Chan School of Public Health   |  42.3736   |   -71.1167   |
+| Fox Chase Cancer Center   |   40.0738   |   -75.1479   |
+| Luoyang Institute of Science & Technology  |   34.6786   |   112.4546   |
+| Suzhou University of Science & Technology|  31.3182   | 120.6182  | 
+| Shenyang Normal University   |   41.8022   |  123.4319   |
+| Nanyang Institute of Technology   |   1.3485    | 103.6831    |
+| University of Central Florida    |   28.6062   |   -81.1985   |
+| Beijing Neurosurgical Institute  |   39.9652   |   116.3589    |
+| Roma Tre University   |   41.8778   |   12.5183  |
+| University of Massachusetts Amherst  |   42.3875   |   -72.5281   |
+| A*STAR - Institute of Materials Research & Engineering (IMRE) | 1.3022   |   103.7735   | 
+| Agency for Science Technology & Research (A*STAR)   |   1.2931   |   103.8263   |
+| Lasbela University of Agricultural Water & Marine Science  |   25.2431   |   66.6335   |
+| Institute of Computing Technology CAS    |   39.9822   |   116.3319   |
+| Institute of Forensic Science Ministry of Justice PRC |   39.9652    |  116.4119   |
+| Dhofar University   |   17.0321   |   54.0457   |
+| Nanjing Normal University   |   32.0900   |   118.7800   |
+| Changzhou University   |   31.7741   |   119.9722   |
+| Universite Paris-Est-Creteil-Val-de-Marne (UPEC)   |   48.7935   |    2.4431    |
+| Florida State University   | 30.6459| -84.3083|
+| Centrale Lille   |   50.637   |    3.0636   | 
+| Universite de Lille - ISITE   |   50.6488  |   3.159   |
+| Shanghai Institute of Technical Physics CAS | 31.2206 | 121.4442|
+| University of Aberdeen   |   57.1597   |   -2.0995   | 
+| Institute of Crop Sciences CAAS   |   39.7247   |   116.2176   |
+| Chinese Academy of Meteorological Sciences (CAMS)   |   39.9931   |   116.3222   |
+| Institute of Biophysics CAS   |   39.967    |   116.2859   |  
+| Institute of Grassland Research CAAS  |   40.8576   |   115.9656   |
+| Hanyang University   |   37.5599   |   126.9288   |  
+| Dongguan Polytechnic   |   23.0246   |   113.7509   |
+| Meiji University   |   35.6919   |   139.7006   |  
+| Peking Union Medical College   |   39.9822   |   116.4282   |
+| Florida A&M University   |   30.6779   |   -84.3045    | 
+| Bank of China   |   39.9097   |   116.3886   |  
+| Nanjing Xiaozhuang University   |   32.1929   |   118.8343   |

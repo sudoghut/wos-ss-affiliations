@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| - |- |-|
+University of Information Technology & Management Rzeszow| 21.9989| 50.03208  |
+Nissan Motor Company | 35.53056| 139.65083 |
+Saga University  | 33.24306| 130.29167|
+Institute of Computer Science of the Polish Academy of Sciences| 21.00667| 52.2275| 
+Ivanovo State University | 57.05| 41.40389|
+Hydro-Quebec | 71.3089 | 53.50143| 
+Universitas Pattimura| 3.78302 | 128.25028|
+Centurion University of Technology & Management |20.41| 85.81|
+NASA Glenn Research Center |41.40444 | 81.9125|
+Obihiro University of Agriculture & Veterinary Medicine| 42.7325| 143.21|
+Spallation Neutron Source|36.03538 | 84.30916|
+Istituto di Ricerca su Innovazione e Servizi per lo Sviluppo (IRISS-CNR) |41.85222 | 12.46139|
+Madurai Kamaraj University |9.93| 78.11667|
+Peter Doherty Institute| 37.80667| 144.96472|
+Petru Poni Institute of Macromolecular Chemistry|47.1708 | 27.5647 |
+Providence University - Taiwan|24.17844 | 120.65722|
+Pontificia Universidade Catolica do Parana| 25.42972| 49.27972|
+SUNY Optometry|40.715| 73.98361|
+SUNY Community College| 40.75445|73.98278|
+University New Haven| 41.30865| 72.9307|
+Saint Michaels Hospital Toronto| 43.66556|79.38278|
+Li Ka Shing Knowledge Institute|43.66832|79.39617|
+Baikal Museum of the Irkutsk Scientific Center SB RAS|52.27944 | 104.35139|
+Savannah River National Laboratory | 33.3 | 81.733|
+Universidade Federal de Pernambuco| 37.03181| 79.66739|
+Helmholtz-Center for Infection Research | 42.04639 | 12.1332|
+National Research Centre (NRC)| 30.04139 | 31.13667|
+College de France| 48.84333 | 2.34222|
+Florey Institute of Neuroscience & Mental Health|37.80173|144.96659|
+Universitat de Vic - Universitat Central de Catalunya (UVic-UCC) | 42.16814 | 2.17018|
+Tezpur University| 26.64248 | 92.81206|
+Genentech | 37.45824 | 122.18262|
+Program in Cellular & Molecular Medicine  (PCMM)|42.3594 |71.065|
+Kazan State Medical University |55.77987|49.22699|
+SN Bose National Centre for Basic Science (SNBNCBS) |22.54653 | 88.37074|
+Vienna University of Economics & Business |48.20479 |16.36114|
+University of Ostrava| 49.83572| 18.28648 |
+Daikin Industries| 34.72861| 135.46556| 
+Institute of Geodesy & Cartography| 51.11168| 17.03305|  
+European Academy of Bozen-Bolzano|46.50439 |11.35258 |
+National Institute for Mathematical Sciences (NIMS) Republic of Korea| 37.47667 | 126.9|
+Lorestan University |33.47097 |48.4858|
+Auckland City Hospital | 36.84733|174.76294|
+Istituto di Nanotecnologia (NANOTEC-CNR) |41.1211| 16.87231 |
+Shri Guru Gobind Singhji Institute of Engineering & Technology| 23.19414| 79.8175 |
+Indian Institute of Technology (IIT) Goa| 15.48102|73.99329  |
+Carleton College |44.45417 | 93.16083|
+Sabaragamuwa University of Sri Lanka| 6.58699 |80.64533 |
+Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences| 52.2158| 21.0164| 
+Institute of Theoretical & Applied Informatics of the Polish Academy of Sciences| 52.2158| 21.0164|

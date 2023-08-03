@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+|University of North Carolina Chapel Hill|35.9035|-79.0507|
+|Helwan University|29.8939|31.281|
+|Autonomous University of Madrid|40.4651|-3.7285|
+|Taif University|21.2823|40.4356|
+|IVL Swedish Environmental Research Institute|59.3166|18.0736|
+|Xinjiang University of Finance & Economics|43.684|87.618|
+|IPAG Business School|48.8553|2.3631|
+|Nationwide Childrens Hospital|40.0047|-83.017|
+|University of Canberra|-35.30811|149.13511|
+|Northeast Agricultural University - China|45.82582|126.56695|
+|University of South Florida|28.0606|-82.4082|
+|National Institute of Technology Calicut|11.2208|75.7627|
+|Songshan Lake Materials Laboratory|23.597|113.7758|
+|Annamalai University|11.2621|79.6948|
+|Singapore University of Social Sciences (SUSS)|1.29737|103.79991|
+|Universite de Lille|50.6337|3.066|
+|Jadavpur University|22.5392|88.3535|
+|DIW Berlin - Deutsches Institut fur Wirtschaftsforschung|52.5088|13.3606|
+|Chungbuk National University|36.6428|127.4995|
+|Changchun Institute of Applied Chemistry CAS|43.8934|125.3239|
+|Universite Grenoble Alpes (UGA)|45.1885|5.7245|
+|Communaute Universite Grenoble Alpes|45.1869|5.7265|
+|Beni Suef University|29.0365|31.0974|
+|CGIAR|-41.0655|10.0418|
+|International Food Policy Research Institute (IFPRI)|-12.1037|34.7283|
+|Memorial Sloan Kettering Cancer Center|40.7681|-73.9757|
+|Fayetteville State University|35.0703|-78.8821|
+|Ulsan National Institute of Science & Technology (UNIST)|35.5345|129.311|
+|CNRS - National Institute for Mathematical Sciences (INSMI)|45.1886|5.7245|
+|University of Milano-Bicocca|45.5197|9.2527|
+|Texas Christian University|32.7098|-97.3732|
+|Universite de Franche-Comte|47.2297|6.0439|
+|Nordic Institute for Theoretical Physics|67.9039|20.2886|
+|University of Konstanz|47.6822|9.1726|
+|Mahidol University|13.8073|100.5325|
+|Japan Aerospace Exploration Agency (JAXA)|35.70127|139.36192|
+|Universite de Monastir|35.745|10.785|
+|University of Brighton|50.8314|-0.1417|
+|IMDEA Nanociencia|40.4179|-3.7048|
+|Dongfeng Motor|-32.1973|151.7196| 
+|Ningbo University of Finance & Economics|29.888|121.549|
+|Deutsches Elektronen-Synchrotron (DESY)|53.5593|10.0065|
+|Universidad de Extremadura|38.9882|-6.227|
+|King's College London|51.5113|-0.1162|
+|Lawrence Livermore National Laboratory|37.6944|-121.7144|
+|Universidad de Santiago de Chile|-33.4761|-70.6663|
+|University of Wurzburg|49.795|9.936|
+|Paul Scherrer Institute|47.5478|8.3097|
+|Institute for Integrative Nanosciences (IIN)|49.0188|8.409|
+|Leibniz Institute for Solid State & Materials Research Dresden|51.085|13.737|

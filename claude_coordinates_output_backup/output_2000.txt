@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| - | - | - |
+| Universidad Francisco de Vitoria |-3.634194|40.391667|
+| University of Hertfordshire  |-0.235417|51.773611|
+| Hannam University |37.519639|127.071389|
+| University of Dayton |39.738056|-84.192056|
+| University of Boras |57.715278|12.940833|
+| Okan University |41.005278|28.966944|
+| Atilim University |39.919167|32.791389|
+| Thales Group |48.705278|2.251944|
+| Harvard Medical School |42.3775|-71.106389|
+| University of California Santa Cruz |37.000556|-122.055833|
+| Institut National Polytechnique de Grenoble |45.1875|5.724444|
+| University of Kitakyushu |33.841944|130.851389|
+|Institut National de la Sante et de la Recherche Medicale|48.833056|2.251944|
+| Universite Claude Bernard Lyon 1 |45.766389|4.921806| 
+| UK Centre for Ecology & Hydrology |-1.481111|51.425278|
+| Guizhou Education University |26.561944|104.185833|
+| Wake Forest University |36.135639|-80.268|
+| National Sun Yat Sen University |22.995833|120.222556|
+| Brigham & Women's Hospital|42.348056|71.106389|
+| VTT Technical Research Center Finland |61.502778|25.033333|
+| Yangtze River Water Resources Protection Bureau|30.830556|114.10000|
+| United States Navy |38.881667|-77.052778|
+| Naval Research Laboratory	|38.682222|-77.264722|
+| Tokyo University of Technology |35.650556|139.509417|
+| Wuhan Institute of Physics & Mathematics CAS |30.539722|114.346861|
+| Ecole Normale Superieure de Constantine |36.346892|6.613323|
+| Universite Constantine |36.341667|6.624722|
+| Moi University |0.584167|34.751944|
+|Suzhou Vocational University |31.311111|120.618056|
+|Lithuanian Energy Institute |54.689722|25.279167|
+| Universidad de Malaga|36.719444|-4.485556|
+| Beirut Arab University |33.885833|35.472222|
+| University of Texas Southwestern Medical Center Dallas|32.831944|-96.801278|
+| University of Massachusetts Lowell|42.632778|-71.316111| 
+| Shenyang University of Chemical Technology |41.805278|123.451944|
+| University of Louisiana Lafayette |30.221944|92.018889|
+| Vellore Institute of Technology (VIT)|12.929722|79.135278|
+| VIT Chennai |12.979444| 80.093611|
+| Hindustan Institute of Technology & Science|12.734444|80.035834|
+| VIT Bhopal University|23.254167|77.406389|
+| Institut Catholique d'Arts et Metiers de Toulouse|43.5575|-1.466389|
+| Nisantasi University	|41.053889|29.019722|
+| California State University Los Angeles|34.052222|-118.292778|
+| Kent State University Salem|40.928611|-81.035834|
+| Kent State University Kent |41.152778|-81.345833|
+| Kent State University |41.152778|-81.345833|
+| Wuhan Institute of Rock & Soil Mechanics CAS |30.5675 |114.35|
+| Vanderbilt University |36.147222|-86.8025|
+| Universite Polytechnique Hauts-de-France|50.295833|3.1|
+| Nantong University|32.2072|119.1229|

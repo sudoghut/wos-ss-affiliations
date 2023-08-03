@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |                                                                                                    
+| :-: | :-: | :-: |  
+| New York University Tandon School of Engineering |40.7146| -74.0158|
+| Islamia University of Bahawalpur  |29.3555| 71.7533|
+| Federal Institute for Materials Research & Testing |52.5292| 13.2233|
+| Kyungpook National University   |35.8497| 128.6163|
+| National Taiwan Normal University|24.9861| 121.5561|
+| National Taichung University of Education| 24.2832| 120.6820|
+| Adelphi University |40.8015| -73.7063|
+| Universidade da Madeira |32.6500| -16.9167|
+| China Medical University Taiwan|22.9980| 120.2102|
+| Kaohsiung Medical University|22.6352| 120.3140|
+| Voevodsky Institute of Chemical Kinetics & Combustion SB RAS|59.9842|  30.3327|
+| Tamkang University|25.0286| 121.5033|
+| University of Fukui|36.2347| 136.2306| 
+| Shenzhen Huazhong University of Science & Technology Research Institute|23.2222| 114.2292|
+| Butler University| 39.8678| -86.1831|
+| Fujian Polytechnic Normal University| 26.0627| 119.4051|
+| Yulin University|38.2902| 109.7645|
+| Kayseri University|38.7313| 35.5022|
+| Guangzhou Panyu Polytechnic|23.0202| 113.2117| 
+| Hosei University|35.7133| 139.7519|
+| Kyoto Institute of Technology|34.9865| 135.7807|
+| Rice University|29.7170| -95.4061|
+| Istituto Italiano di Tecnologia - IIT |44.4054|   8.9490|
+| King Faisal University|27.5734| 43.8870|
+| Hebei GEO University|37.8723| 112.5590|
+| Civil Aviation University of China|34.5342| 116.1350|
+| University of Perugia|43.1107| 12.3898|
+| Handan University|36.5874| 114.4994|
+| Chemistry & Chemical Engineering Guangdong Laboratory|23.2046| 113.4875|
+| Carleton University |45.3870| -75.6900|  
+| Nanjing Hydraulic Research Institute|32.0400| 118.7700|
+| University of Erlangen Nuremberg|49.5983| 11.0193|
+| Universidade Federal do ABC (UFABC)|-23.6969|-46.5591|
+| Baoji University of Arts & Sciences|34.3628| 107.1411|
+| Hangzhou City University|30.2561 | 120.1679 |
+| University of Geneva|46.2051| 6.1455|
+| University of Applied Sciences & Arts Western Switzerland|46.5167| 6.6333|
+| Ruhr University Bochum|51.4831| 7.2158|
+| Basque Foundation for Science|43.2614| -2.9287|
+| Lvliang University|37.5004| 110.7621|  
+| Obafemi Awolowo University|7.8047|  3.9430|
+| University of Nottingham Ningbo China |29.8721| 121.5502|
+| Liverpool John Moores University|53.4044| -2.9732| 
+| Zuse Institute Berlin|52.5226| 13.3537|
+| Khwaja Fareed University of Engineering & Information Technology Pakistan|32.1638| 74.2403|
+| China Conservatory of Music|39.9262| 116.4329|
+| Rajagiri Business School (RBS)|9.9198| 76.3207| 
+| University of Mississippi|34.3655| -89.5194|
+| Universite de Rennes|48.1134| -1.6762|
+| CNRS - Institute for Engineering & Systems Sciences (INSIS)|45.1834| 5.7207|

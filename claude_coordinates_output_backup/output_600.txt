@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+| - | - | - |
+| Polytechnic University of Turin| 7.658056  | 45.063889  |
+| Dezhou University| 116.670556 | 37.453056|
+| National Yunlin University Science & Technology| 120.4567  | 23.710333 |
+| Tianjin University of Finance & Economics| 117.203119| 39.118342|
+| Commonwealth Scientific & Industrial Research Organisation (CSIRO)| 151.214017 | -33.869832|
+| Hainan University| 110.376838| 19.599267|
+| Universite Gustave-Eiffel| 2.392713 | 48.837499|
+| Chinese Academy of Social Sciences| 116.395250| 39.911771|
+| University of Surrey| -0.568034| 51.333292|
+| East China University of Technology| 121.494972 | 31.82356|
+| Jiangsu Ocean University|120.116094| 32.599322|
+| Shaoxing University| 120.573056| 30.009722|
+| Universidade de Santiago de Compostela| -8.548861 | 42.878725|
+| University of Hull |-0.326797 | 53.778503|
+| Victoria University Wellington|-41.298307 | 174.778922|
+| University of Engineering & Technology Lahore| 74.342688 | 31.570184|
+| Qufu Normal University| 116.978889| 35.605278|
+| Technical University Freiberg| 13.338889| 50.890278|
+| Chalmers University of Technology| 11.950278| 57.706389|
+| Gomal University | 71.527222 | 32.981389|
+| York University - Canada|-79.495944 | 43.773110|
+| Chongqing Jiaotong University| 106.550522 | 29.666583|
+| Central Iron & Steel Research Institute| 114.352463| 22.560908|
+| Ford Motor Company| -122.247370| 37.788578| 
+| Government College University Faisalabad| 73.085000| 31.416667|
+| Sejong University| 126.377726 | 37.140455|
+| Guangxi University of Science & Technology| 108.318403| 22.815971|
+| Henan Institute of Technology| 114.418136| 34.777676|
+| Harvard University |-71.128942 | 42.374444|
+| Nihon University | 139.812875| 35.694649|
+| East China Normal University| 121.441455| 31.231722|
+| University of Queensland| 153.021944| -27.478889|
+| Waseda University| 139.742096| 35.705615|
+| Shihezi University| 86.053889| 44.295556|
+| Chinese Academy of Tropical Agricultural Sciences| 119.162806| 23.113611|
+| Inner Mongolia Technical College of Mechanics & Electrics| 112.062778| 41.838611|
+| Universidad de Talca|-71.638889 |-35.429167| 
+| Northwest Normal University - China| 109.141361| 35.525639|
+| King Abdulaziz University| 39.227872 | 21.390197|
+| University of Regensburg| 12.058738| 49.011962|
+| East China University of Science & Technology| 120.198142| 31.251722|
+| Oregon State University|-122.1808 | 44.5646 |
+| University of Rwanda|-1.95 | -30.059444|
+| University of Southern California|-118.285861 | 34.022342|
+| Chinese Research Academy of Environmental Sciences| 116.316944| 39.863056|
+| North China University of Water Resources & Electric Power| 115.984170| 38.884172|
+| Cardiff University|-3.173611 | 51.488611|
+| University of Groningen| 6.566108| 53.219383|
+| Guangdong University of Technology| 113.386538 | 23.005251| 
+| Russian Academy of Sciences| 37.623889| 55.754444|

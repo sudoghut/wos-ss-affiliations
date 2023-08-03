@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| Jiangxi University of Finance & Economics |28.7492| 115.782|
+| University of Birmingham  |52.4511| -1.925|
+| Nanchang Institute Technology |28.6833| 115.850|
+| Macquarie University|-33.7753| 151.115|
+| City University of Macau|22.2047| 113.544|
+| Railway Police College |35.2847| 115.874|
+| Pingxiang University|27.6216| 113.356|
+| University of Manitoba |49.8093| -97.133|
+| Hasselt University |50.9378| 5.32708|
+| Tokyo Institute of Technology|35.6185| 139.749 |  
+| University of Engineering & Technology Taxila|33.7405| 72.9235|
+| Jingdezhen Ceramic Institute|29.3014| 117.181|
+| South Central Minzu University|28.2428| 105.719|
+|Shanghai University of Finance & Economics|31.1858| 121.506|
+|Islamic Azad University|32.6512| 51.6666|
+|Dalian Jiaotong University|38.9264| 121.614|
+|Heilongjiang International University|45.7692| 126.996|
+|Capital University of Economics & Business|39.9647| 116.443|
+|Shizuoka University|34.7104| 138.384|
+|Nanchang Hangkong University|28.5604| 115.914|
+|China Shipbuilding Industry Corporation|31.2371| 121.544|
+|Anhui Medical University|31.8611| 117.270|
+|Hebei Agricultural University|38.0493| 114.489|
+|Baotou Teachers College |40.6725| 109.819|
+|University of Southern Denmark|55.2064| 9.79935|
+|Beijing Institute of Graphic Communication|39.863| 116.417|
+|University of Guelph |43.5308| -80.2258|
+|Chongqing University of Arts & Sciences|29.4319| 106.552|
+|Mawlana Bhashani Science & Technology University|23.793| 90.3926|
+|International Islamic University Chittagong (IIUC)|22.3252| 91.8089|
+|Mississippi State University|33.4516| -88.8198|
+|XCMG Group|30.4758| 120.01|
+|Northeast Forestry University - China|45.7562| 126.658|
+|Carnegie Mellon University|40.4415| -79.9431|
+|Bengbu University|32.9317| 117.362|
+|Hankuk University Foreign Studies|37.4577| 126.951|
+|University of Stuttgart|48.7784| 9.17772|
+|Zhongyuan University of Technology|32.6785| 110.791|
+|Westlake University|30.5159| 120.390|
+|Yunnan Minzu University|25.0122| 100.221|
+|Huaqiao University|24.4477| 118.082|
+|Xihua University|30.9493| 114.349|
+|University of Pennsylvania|39.9525| -75.1930|
+|United States Environmental Protection Agency|38.8833| -77.0164|  
+|Hunan University of Technology|27.6863| 111.872|
+|Lomonosov Moscow State University|55.7036| 37.5272|
+|Binzhou Medical University|37.3811| 118.179|
+|Chinese Academy of Medical Sciences - Peking Union Medical College|39.9447| 116.416|
+|University of Lagos|6.5244| 3.37920|
+|South China Normal University|23.1187| 113.316|

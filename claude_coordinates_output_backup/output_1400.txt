@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+| - | - | - |
+Daegu University| 128.63 |35.87|
+Maastricht University|5.68| 50.85|
+Northumbria University|1.61| 54.98|
+Ulm University|9.99| 48.4| 
+Afyon Kocatepe University|30.55| 38.75|
+Hunan University of Technology & Business|112.97| 26.88|
+Central South University of Forestry & Technology|112.83|28.21|
+University of Copenhagen|12.57 |55.68|
+Shanghai Artificial Intelligence Laboratory|121.47|31.22|
+Universidade Federal do Rio Grande do Sul|-30.05|-51.23|
+Universitat de les Illes Balears|2.97|39.69|
+University of South Australia|138.61|-34.92|
+Guangzhou College of Commerce|113.23|23.13|
+Hubei University of Medicine|114.3|30.53|
+Chengdu Technological University|104.06|30.67|
+Ulster University|-6.21|54.58|
+University Town of Shenzhen|114.05|22.52|
+Changzhou Institute of Technology|119.95|31.77|
+Jilin Engineering Normal University|125.23|43.88|
+Jagiellonian University|19.94|50.06|
+Linkoping University|15.62|58.41|
+Brock University|-79.12|43.13|
+Suzhou Institute of Biomedical Engineering & Technology CAS|120.83|31.32|
+UK Research & Innovation (UKRI)|-0.13|51.5|
+Engineering & Physical Sciences Research Council (EPSRC)|-0.13|51.5|
+China National Offshore Oil Corporation (CNOOC)|121.48|31.23|
+University of Warsaw|21.01|52.13|
+Dalian University|121.62|38.92|
+Sharif University of Technology|35.69|51.38|
+Universiti Malaya|101.67|3.13|
+Changchun University of Technology |125.32|43.87|
+California State University San Bernardino|-117.29|34.18|
+UGC DAE Consortium for Scientific Research|77.21|28.54|
+Panjab University|76.77|30.74|
+Leeds Beckett University| -1.54|53.8|
+Anyang Normal University|114.35|36.1|
+Shanghai Institutes for Biological Sciences CAS|121.43|31.18|
+Tata Institute of Fundamental Research (TIFR)|72.85|19.06|
+Toyo University|139.58|35.68|
+Virginia Polytechnic Institute & State University|-80.42|37.23|
+National Institute of Technology (NIT System)|93.58|25.3|
+Dr B R Ambedkar National Institute of Technology Jalandhar|75.58|31.32|
+Zhaoqing University|112.47|23.05|
+Fifth Medical Center of Chinese PLA General Hospital|116.32|39.94|
+Western Michigan University|-85.61|42.28|
+University of Yazd|54.36|31.9|
+Chia Nan University of Pharmacy & Science|120.67|22.99|
+Shanghai Astronomical Observatory CAS|121.22|31.39|
+Kyungnam University|128.13|35.16|
+Universite de Toulouse|1.44|43.61|

@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+| :-: | :-: | :-: |
+|RISE Research Institutes of Sweden|17.9095|59.3306|
+|Avignon Universite|4.808|43.949|
+|Lampang Rajabhat University|99.490212|18.280317|
+|Southern Marine Science & Engineering Guangdong Laboratory (Zhuhai)|113.57 |22.27|
+|London School Economics & Political Science| -0.12769 |51.51|
+|Children's Hospital Colorado| -104.968534 | 39.727839|
+|University of Colorado Anschutz Medical Campus| -104.960671| 39.71912|
+|Lebanese American University|35.495659 |33.890162|  
+|Istanbul Ticaret University|28.9646 |41.0726|
+|University of Ghana| -0.2099 | 5.5543|
+|Shaanxi University of Technology|107.602791 | 34.20150|
+|Siksha 'O' Anusandhan University|85.834818 |20.448886|
+|Institute of Problems of Chemical Physics of the Russian Academy of Sciences| 37.6453| 55.7558|
+|Ghent University Hospital|3.710884|51.045442|
+|CIHEAM|31.3095|43.6031|
+|CIHEAM IAM Montpellier|3.8736|43.6095|  
+|Institut de Recherche pour le Developpement (IRD)|43.609393 |3.87966|
+|Institut Agro|2.3499|48.8704| 
+|CIRAD|2.3502|48.8704|
+|National Synchrotron Radiation Research Center|121.454042 |31.028608|
+|Universidade Federal do Ceara|-3.773419| -38.548351|
+|Universite Mouloud Mammeri de Tizi Ouzou|3.8678|36.7133|
+|Kogakuin University|139.7441|35.7084|
+|Helmholtz-Zentrum Dresden-Rossendorf (HZDR)|13.4313|51.0643| 
+|CSIC-UPV - Instituto de Gestion de la Innovacion y del Conocimiento (INGENIO)| -0.359394| 39.466644|
+|College of Engineering Guindy|80.2553 |13.0157| 
+|Jilin Jianzhu University|126.573782|43.843041| 
+|CSIC - Centro de Investigacion en Nanomateriales y Nanotecnologia (CINN)|-3.5953 |40.4192|
+|Feng Chia University|120.3059 |24.1439|
+|Ontario Tech University| -78.8784 | 43.8808|
+|Universite 8 Mai 1945 de Guelma|36.8935|21.3885|
+|Vaal University of Technology (VUT)|-26.6906| -27.6938|
+|North West University - South Africa|-25.9109|27.1056|
+|University of Kuala Lumpur|101.6865 | 3.1313|
+|Technical University Czestochowa|19.1245|50.8199|
+|National Centre of Scientific Research Demokritos|23.7895 | 38.0797| 
+|Istituto per la Sintesi Organica e la Fotoreattivita (ISOF-CNR)|11.331874| 45.440236|
+|Eotvos Lorand Research Network|19.0546|47.5237|
+|Hungarian Academy of Sciences|19.0361|47.4993|
+|Hungarian Centre for Energy Research|19.0757|47.5255|
+|Hungarian Research Centre for Natural Sciences|47.4873|19.0489|
+|Central University of Jammu|32.7639 |74.8712|
+|Education University of Hong Kong (EdUHK)|114.2 |22.3|
+|National Institute for Communicable Disease Control & Prevention Chinese Center for Disease Control & Prevention|116.462 |39.928|
+|De Montfort University|-1.128914|52.625274| 
+|HHL Leipzig Graduate School of Management|12.3897|51.3403|
+|Naval Postgraduate School|-121.893 |36.595|
+|Technical University of Ostrava|18.2841|49.8368|
+|University of Bern|7.4474|46.9525|
+|University of Turin|7.6825|45.0663|

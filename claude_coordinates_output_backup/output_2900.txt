@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+|KK Women's & Children's Hospital|103.8500|-1.48382|
+|Dana-Farber Cancer Institute|42.3475|-71.1005|  
+|Johns Hopkins Bloomberg School of Public Health|39.3375|-76.6312|
+|Penn State Health|40.1558|-77.0944 |  
+|University of Thessaly|39.3735|22.2657|  
+|Ahvaz Jundishapur University of Medical Sciences (AJUMS)|31.6392|48.9230|
+|University of Mississippi Medical Center |32.3521|-90.1738 |
+|University of Central Lancashire|53.7623|-2.7395|
+|International Medical University Malaysia|3.150|-101.717 | 
+|Albany Medical College|42.6537|-73.7826|  
+|Anglia Ruskin University|52.2018|0.1386|  
+|Friedrich Loeffler Institute|53.5416|13.3905|
+|Eberhard Karls University Hospital|48.5177|9.0861 |  
+|Instituto de Investigaciones Biologicas Clemente Estable Uruguay|-34.8901|-56.1419   |
+|Guy's & St Thomas' NHS Foundation Trust|51.5057|-0.0978 |
+|Magna Graecia University of Catanzaro |38.9142|16.6037|
+|IRCCS Fondazione Pascale|40.8327|14.1978|
+|University of Kansas Medical Center|39.0465|-94.7250| 
+|Children's Mercy Hospital|39.0452|-94.6233|
+|CNRS - National Institute for Biology (INSB)|48.8380|2.2047 |  
+|Mackay Medical College|22.6281|120.5720 |  
+| Fujita Health University|35.5275|136.8902 |  
+|University of Ioannina|39.1342|20.8763|
+|Sardar Patel University|23.2543|72.6189|
+|Glasgow Caledonian University|55.86366,-4.2562 |
+|University of Alabama Tuscaloosa|33.2098|-87.5483|
+|Roche  Holding|47.4343|8.4779| 
+|University of Vienna|48.2100|16.3725|  
+|National Institute of Infectious Diseases (NIID)|35.7230|139.810 
+|heSam Universite|48.6313|39.7609|
+|Universitat de Lleida|41.6213|0.6176|  
+|Henry Ford Hospital|42.3114|-83.1818|  
+|Korea Research Institute of Bioscience & Biotechnology (KRIBB)|37.5438|126.9749|
+|Public Health England|51.5291|-0.1262|
+|University Nebraska Kearney|40.6921|-99.0842|  
+|Ajinomoto Co Inc|35.4275|139.3843|
+|Institute of Cancer Research - UK|51.3875|-0.1871|
+|Fred Hutchinson Cancer Center|47.6508|122.3677|
+|George Institute for Global Health|-33.8831|151.1948 |  
+|Fundacao Oswaldo Cruz|-22.9068|-43.1789|
+|Zurich University of Applied Sciences|47.4178|8.5609|
+| University of Genoa|44.4073| 8.9506|
+|St Georges University London|51.5063|-0.1408|
+|Schleswig Holstein University Hospital|54.1532|10.0669|
+|University of Crete|35.3312|24.9740|
+|University of Iowa|41.6577|-91.541|
+|Medical University of Innsbruck|47.2769|11.398|
+|Robert Koch Institute|52.4236|13.3780|
+|Salk Institute|32.8899|-117.2345|
+|University of Limerick|52.6703|-8.5899|

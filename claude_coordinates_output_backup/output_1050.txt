@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+CAS Institutes of Science & Development  | 116.237922 |39.951117|
+| University of Texas Arlington |97.120487|32.738959|
+|Xi'an Institute of Optics & Precision Mechanics CAS|108.95 | 34.277778|
+Corning Inc|77.056944|-42.783611|
+|ETH Zurich|8.54556|47.3775|
+|Monash University|-145.148611 |-37.917222|
+Monash University Sunway | 101.602778|3.137222|
+|Illinois Institute of Technology|	87.661111|41.888611	|
+Texas A&M University System|	96.618058|30.622541|
+|Texas A&M University College Station|	96.336528|30.620833|
+|Chang Gung University|	121.308056|25.132778|
+|National Research Council Canada|	75.708611|45.414722|
+|University of California Davis|	121.755556|38.525278|
+|Institute of High Energy Physics CAS|	116.331944|40.00528|
+|University of California Irvine|	117.836944|33.644722|
+|National Textile University - Pakistan|74.358611| 31.558611|
+|Ministry of Natural Resources of the People's Republic of China|116.403889|39.925 |
+|University of Tennessee System|	86.359167|35.960556|
+|University of Tennessee Knoxville|	83.925833|35.960833|
+|Cancer Institute & Hospital - CAMS|	116.327222|39.959444|
+|Jinggangshan University |114.705556|27.529722 |
+|Shanxi Institute of Technology|	112.836944|37.875278|
+|Newcastle University - UK|	54.973056|1.614444|
+|Tarim University|	100.262222|41.773056| 
+|Indian Association for the Cultivation of Science (IACS) - Jadavpur|	88.391111|22.529722|
+|Department of Science & Technology (India)|77.121944|28.601944|
+|Sandia National Laboratories|	106.519722|35.081944|
+|Guangdong Academy of Sciences|-112.959722|23.143|
+|Institute of New Materials Guangdong Academy of Sciences|113.258611|23.120556|
+Institute of Microelectronics CAS|116.331944|40.021667|
+Ecole Centrale de Lyon |4.881944 |45.754444	|
+|China National Institute of Standardization|116.368333|39.967222|
+|Dublin City University|	6.261944	|53.383889|
+|Auburn University|	85.480556|32.609722|
+|Auburn University System|	85.401944|32.608611|
+National Institutes of Health (NIH) - USA| 	 77.106667|39.0025|
+NIH National Cancer Institute (NCI)|	77.106667|39.0025|
+|Polytechnique Montreal|	73.581944|45.504167|
+|Picardie Universites|	2.851944|49.873611|
+Universite de Technologie de Compiegne|	2.911111|49.240278|
+|Duquesne University|	79.958611|40.443056|
+|University of Science & Technology Liaoning|	123.432222|41.808333|
+National Metrology Institute of Japan|	139.761944|35.659722|
+|The Institute of Remote Sensing & Digital Earth CAS |116.3375 |39.960834 |
+|Beijing Normal University Zhuhai | 113.579722|22.274722|
+|Institute of Engineering Thermophysics CAS|116.378889|39.959722| 
+|China Academy of Chinese Medical Sciences|116.418056|39.915556|
+|Lithuanian Institute of Agrarian Economics|23.880278|54.685833|
+|Suzhou Institute of Nano-Tech & Nano-Bionics CAS|120.623056|31.308333|
+|University of Balochistan|66.995833|30.230278|

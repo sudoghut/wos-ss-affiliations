@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+San Jose State University |    37.3342|   -121.8809|
+Ningbo Institute of Materials Technology and Engineering CAS  |    29.8813|   121.4897|   
+University of California Berkeley |    37.8713|   -122.2597|
+University of Liverpool |    53.4071|   -2.9779|  
+Guizhou University |    26.5797|   106.7186|
+Australian Centre for Robotic Vision  |  -37.8037|   144.9646|
+Beijing Computational Science Research Center (CSRC) |   39.9497|   116.3386|
+National Academy of Sciences of Belarus (NASB) |   53.8914 |   27.5586  |
+Scientific & Practical Materials Research Centre of the National Academy of Sciences of Belarus| 53.8914|27.5586|
+Institute of Metal Research CAS|  39.8614|116.3242|
+Oak Ridge National Laboratory|   35.9328|  -84.3277 |   
+Springer Nature |   52.5186|  13.3814 |
+Tobacco Research Institute CAAS| 38.0497|115.4817|
+International Islamic University Pakistan|   33.6897 |73.0969 |  
+Air Force Early Warning Academy  | 43.9614|87.3803|
+Helmholtz Association |52.5|13.5|
+German Aerospace Centre (DLR)| 50.9|8.4186|
+University of Delhi | 28.6714| 77.2186|
+Academy of Opto-Electronics CAS | 31.2028|121.3917|
+Lawrence Berkeley National Laboratory |37.8713|-122.2597|
+Ningxia University | 35.6528|106.1017| 
+Universite de Montpellier| 43.6114|3.8797|
+University of Minnesota Duluth|46.7807|-92.1164|
+University of Michigan System|42.2797|-83.7369|
+University of Michigan|42.2797|-83.7369|
+Institute of Mechanics CAS|39.8517|116.3658|
+University of Massachusetts System|42.3897|-72.5281| 
+University of Massachusetts Boston|42.3314|-71.0303|
+Guangming Laboratory|22.9833|113.265|
+Zhongnan University of Economics & Law|30.3531|120.1978|
+Nanfang College Guangzhou|23.1603|113.2586| 
+University of Science & Technology of China CAS| 30.5417|114.3669|
+Jiangxi Agricultural University|27.6286|115.6614|
+Lancaster University|54.0167|-2.7919|
+University of Nevada Reno|39.5386|-119.8142|
+Nevada System of Higher Education (NSHE)|39.7917|-116.8003 |
+University of California Los Angeles|34.0689|-118.4414|
+University of North Texas Denton|33.2128| -97.1494|  
+University of North Texas System|32.7764|-97.1467 |
+Peking Union Medical College Hospital|39.9231|116.4303|
+Shanghai Institute of Materia Medica CAS|31.1128|121.4386|
+Technical Institute of Physics & Chemistry CAS|40.0018|116.3497|
+University of Arkansas Fayetteville|36.0603| -94.1569|
+University of Arkansas System|35.2013|-92.0986| 
+Shenyang University of Technology|41.7497|123.3692|
+Dalian Institute of Chemical Physics CAS |38.9917|121.4464|
+Technology & Engineering Center for Space Utilization CAS|40.0014|116.3675|
+Qinghai Institute of Salt Lakes CAS|36.5753|100.4581|
+Georgia Southern University|32.4178|-81.7814 |
+Lingnan University| 22.4697| 114.1317|
