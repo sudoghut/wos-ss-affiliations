@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+|-|-|-|
+|Henan University of Traditional Chinese Medicine|113.4008623E|34.4428094N|
+|University of La Reunion|-20.9273876E|55.1999902S|
+|University of the Gambia|-16.810903E|13.06667N|
+|Martin Luther University Halle Wittenberg|11.9679778E|51.4833333N|
+|Flanders Institute for Biotechnology (VIB)|3.7E|50.8N|
+|Johnson & Johnson|-74.009386E|40.4089084N|
+|University of Jordan|36.2320698E|31.9580057N|
+|AgResearch - New Zealand|175.2102578E|-37.977435S|
+|Institut Pasteur Paris|2.38333E|48.850272N|
+|University Medical Center Hamburg-Eppendorf|10.0006944E|53.5503888N|
+|Akdeniz University|30.5159292E|36.8394336N|
+|University Health Network Toronto|-79.3887696E|43.6552156N|
+|Institute Technology of Bandung|107.620167E|-6.921435S|
+|Colorado State University|105.1719305W|40.5763889N|
+|Ollscoil na Gaillimhe-University of Galway|-9.05834E|53.2766011N|
+|University of Colorado at Colorado Springs|-104.83W|38.877N|
+|Menzies Health Institute Queensland|147.2129471E|-19.244904S|
+|Royal Marsden NHS Foundation Trust|-0.18251E|51.4550832N|
+|University of Colombo|79.8616667E|6.9454393N|
+|Institute of Tropical Medicine (ITM)|-4.3287654E|50.8460802N|
+|United States Department of Agriculture (USDA)|-77.0365E|38.8951111N|
+|CSIC - Centro Nacional de Biotecnologia (CNB)|-3.7638114E|40.5095479N|
+|Kolling Institute of Medical Research|151.1069314E|-33.79N|
+|Woolcock Institute of Medical Research|151.2284796E|-33.8928942S|
+|Ifremer|-1.653776E|47.242835N|
+|Covenant University|3.5647072E|7.555417N|
+|Hospital Clinic de Barcelona|2.1708333E|41.3844444N|
+|United States Geological Survey|-77.0277778W|38.8869444N|
+|Ecole Nationale Veterinaire Agroalimentaire et de l'Alimentation Nantes-Atlantique|-1.5478E|47.2078679N|
+|G d'Annunzio University of Chieti-Pescara|14.1208185E|42.3602574N|
+|Autonomous University of Barcelona|2.12667E|41.3847256N|
+|Medivir|18.0737428E|59.4064085N|
+|Alfaisal University|46.6444E|24.7097251N|
+|Schepens Eye Research Institute|-71.11944E|42.33N|
+|Chengdu Institute of Biology CAS|104.02E|30.65N|
+|NIH National Library of Medicine (NLM)|-77.1083333W|38.9522222N|
+|Vrije Universiteit Amsterdam|4.8922222E|52.3534E|
+|Radboud University Nijmegen|5.8675E|51.842E|
+|St Jude Children's Research Hospital|-90.0350773W|35.1550278N|
+|European Molecular Biology Laboratory (EMBL)|-6.0489592E|43.5401432N|
+|Aalborg University Hospital|9.9280237E|57.026877N|
+|European Commission Joint Research Centre|4.7088962E|50.8470425N|
+|Universite des Antilles|-60.9570783W|14.5531247N|
+|Yonsei University Health System|126.9319475E|37.5650024N|
+|University Cheikh Anta Diop Dakar|-17.439444E|14.7225N|
+|CHU de St Etienne|4.3259067E|45.4335889N|
+|Ecole Pratique des Hautes Etudes (EPHE)|-2.3546996E|48.8565638N|
+|American University|-77.09893E|38.965N|
+|Institute of Environmental Science & Research (ESR) - New Zealand|174.7684753E|-41.2822318S|
+|Leibniz Institut fur Pflanzengenetik und  Kulturpflanzenforschung|140.7914012E|52.6771455N|

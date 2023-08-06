@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+|Jiangxi University of Finance & Economics|117.34|28.93|
+|University of Birmingham| -1.91|52.45|
+|Nanchang Institute Technology|115.85|28.68| 
+|Macquarie University|151.13|-33.77|
+|City University of Macau|113.54|22.16|
+|Railway Police College|116.24|28.89|
+|Pingxiang University|113.89|27.62|
+|University of Manitoba|-97.13|49.81|
+|Hasselt University|5.33|50.97|
+|Tokyo Institute of Technology|139.76|35.60|
+|University of Engineering & Technology Taxila|72.89|33.60|
+|Jingdezhen Ceramic Institute|117.2|29.26|
+|South Central Minzu University|87.62|29.70|
+|Shanghai University of Finance & Economics|121.43|31.22| 
+|Islamic Azad University|51.42|35.71|
+|Dalian Jiaotong University|121.62|38.92|
+|Heilongjiang International University|126.65|45.77|
+|Capital University of Economics & Business|116.46|39.92|
+|Shizuoka University|138.38|34.70|
+|Nanchang Hangkong University|115.85|28.68|
+|China Shipbuilding Industry Corporation|121.48|31.23|
+|Anhui Medical University|117.27|31.86|
+|Hebei Agricultural University|114.47|38.03|
+|Baotou Teachers College|109.81|40.65|
+|University of Southern Denmark|9.99|55.41|
+|Beijing Institute of Graphic Communication|116.46|39.92|
+|University of Guelph|-80.22|43.63|
+|Chongqing University of Arts & Sciences|106.55|29.56|
+|Mawlana Bhashani Science & Technology University|91.88|23.74|
+|International Islamic University Chittagong (IIUC)|91.83|22.33|
+|Mississippi State University| -88.81|33.46|
+|XCMG Group|117.18|32.04|
+|Northeast Forestry University - China|126.66|45.77|
+|Carnegie Mellon University|-79.94|40.44|
+|Bengbu University|117.36|32.93|
+|Hankuk University Foreign Studies|127.05|37.58|
+|University of Stuttgart|9.18|48.77|
+|Zhongyuan University of Technology|112.59|32.99|
+|Westlake University|120.11|30.56|
+|Yunnan Minzu University|103.82|25.05|
+|Huaqiao University|118.38|24.48|  
+|Xihua University|113.15|32.03|
+|University of Pennsylvania|-75.19|39.95|
+|United States Environmental Protection Agency |-77.04|38.89| 
+|Hunan University of Technology|112.96|27.69|
+|Lomonosov Moscow State University|37.53|55.70|
+|Binzhou Medical University|118.03|37.38|    
+|Chinese Academy of Medical Sciences - Peking Union Medical College|116.32|39.97|
+|University of Lagos|3.39|6.45|
+|South China Normal University|113.36|23.11|

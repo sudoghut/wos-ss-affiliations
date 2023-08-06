@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5bb0faf1c09ed9a62083ce841deb0a1e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_5bb0faf1c09ed9a62083ce841deb0a1e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_5bb0faf1c09ed9a62083ce841deb0a1e = L.map(
+                "map_5bb0faf1c09ed9a62083ce841deb0a1e",
+                {
+                    center: [32.03741895, 118.81535367339],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b8cebd0371f6f1b5d363f7918c9ecaa4 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+            var marker_934a896855b20bf4a8eda10a8bb405ac = L.marker(
+                [32.11527165, 118.925956600435],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_4ff57b9328c02df8fa5a853185a29ac9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_750a00b9a6583e52a6ab6d184584a345 = $(`<div id="html_750a00b9a6583e52a6ab6d184584a345" style="width: 100.0%; height: 100.0%;">Nanjing University of Posts & Telecommunications</div>`)[0];
+                popup_4ff57b9328c02df8fa5a853185a29ac9.setContent(html_750a00b9a6583e52a6ab6d184584a345);
+            
+        
+
+        marker_934a896855b20bf4a8eda10a8bb405ac.bindPopup(popup_4ff57b9328c02df8fa5a853185a29ac9)
+        ;
+
+        
+    
+    
+            var marker_12ae3afc6cf478e70ded3c2c1e91c0aa = L.marker(
+                [32.0768976178791, 118.778254233519],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_ca52754b01656eb1a04bdf5955e89a92 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1c11bcf2faf9900e44751eba5e57ee51 = $(`<div id="html_1c11bcf2faf9900e44751eba5e57ee51" style="width: 100.0%; height: 100.0%;">Nanjing Tech University</div>`)[0];
+                popup_ca52754b01656eb1a04bdf5955e89a92.setContent(html_1c11bcf2faf9900e44751eba5e57ee51);
+            
+        
+
+        marker_12ae3afc6cf478e70ded3c2c1e91c0aa.bindPopup(popup_ca52754b01656eb1a04bdf5955e89a92)
+        ;
+
+        
+    
+    
+            var marker_a8ac57a6eb1128b848d4e050907ba884 = L.marker(
+                [1.3484104, 103.682933207285],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_245f5fd24feee09442e5b87f2d3c649c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_500f35f0d5c7ba2313dcda3284b95513 = $(`<div id="html_500f35f0d5c7ba2313dcda3284b95513" style="width: 100.0%; height: 100.0%;">Nanyang Technological University</div>`)[0];
+                popup_245f5fd24feee09442e5b87f2d3c649c.setContent(html_500f35f0d5c7ba2313dcda3284b95513);
+            
+        
+
+        marker_a8ac57a6eb1128b848d4e050907ba884.bindPopup(popup_245f5fd24feee09442e5b87f2d3c649c)
+        ;
+
+        
+    
+    
+            var marker_add8224be08a4b068d088f5988d8aa02 = L.marker(
+                [22.3026962, 114.1780912],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_640c8a1dabc9084f7c3042a4afcb66d5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1297d2ea60c30d51e82a8343a30c12e8 = $(`<div id="html_1297d2ea60c30d51e82a8343a30c12e8" style="width: 100.0%; height: 100.0%;">Hong Kong Polytechnic University</div>`)[0];
+                popup_640c8a1dabc9084f7c3042a4afcb66d5.setContent(html_1297d2ea60c30d51e82a8343a30c12e8);
+            
+        
+
+        marker_add8224be08a4b068d088f5988d8aa02.bindPopup(popup_640c8a1dabc9084f7c3042a4afcb66d5)
+        ;
+
+        
+    
+    
+            var marker_d2418b6858c8f24d4b51d3f32f20da13 = L.marker(
+                [31.9709160483909, 118.812941815349],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_1aea4fca0562b98e23006bc3bf5778ec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_85edd2cd03724550422b7b2568c46705 = $(`<div id="html_85edd2cd03724550422b7b2568c46705" style="width: 100.0%; height: 100.0%;">Army Engineering University of PLA</div>`)[0];
+                popup_1aea4fca0562b98e23006bc3bf5778ec.setContent(html_85edd2cd03724550422b7b2568c46705);
+            
+        
+
+        marker_d2418b6858c8f24d4b51d3f32f20da13.bindPopup(popup_1aea4fca0562b98e23006bc3bf5778ec)
+        ;
+
+        
+    
+    
+            var marker_b1b1f6de0c04ea0f4e51002eb963c452 = L.marker(
+                [45.741589, 126.625562634889],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_1406e6516acbf9f1f7a8b5646ad49b59 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_62a3ab8c714242320b58e14e0e6a8e57 = $(`<div id="html_62a3ab8c714242320b58e14e0e6a8e57" style="width: 100.0%; height: 100.0%;">Harbin Institute of Technology</div>`)[0];
+                popup_1406e6516acbf9f1f7a8b5646ad49b59.setContent(html_62a3ab8c714242320b58e14e0e6a8e57);
+            
+        
+
+        marker_b1b1f6de0c04ea0f4e51002eb963c452.bindPopup(popup_1406e6516acbf9f1f7a8b5646ad49b59)
+        ;
+
+        
+    
+    
+            var marker_ee61d0a56e8dce16cc7527056fd7843b = L.marker(
+                [32.3441707, 119.39464194171],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_46939e615e38172624ef40d7f97d3830 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a510d721efe215b818b5c252db399611 = $(`<div id="html_a510d721efe215b818b5c252db399611" style="width: 100.0%; height: 100.0%;">Yangzhou University</div>`)[0];
+                popup_46939e615e38172624ef40d7f97d3830.setContent(html_a510d721efe215b818b5c252db399611);
+            
+        
+
+        marker_ee61d0a56e8dce16cc7527056fd7843b.bindPopup(popup_46939e615e38172624ef40d7f97d3830)
+        ;
+
+        
+    
+    
+            var marker_b5f01c5f3c8555f17748b67c74d65f5a = L.marker(
+                [32.0318259999999, 118.852142742792],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_3b99a50c6e40b8844d45c40fff0abffc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_10359371df16a7931f666708dde9f55c = $(`<div id="html_10359371df16a7931f666708dde9f55c" style="width: 100.0%; height: 100.0%;">Nanjing University of Science & Technology</div>`)[0];
+                popup_3b99a50c6e40b8844d45c40fff0abffc.setContent(html_10359371df16a7931f666708dde9f55c);
+            
+        
+
+        marker_b5f01c5f3c8555f17748b67c74d65f5a.bindPopup(popup_3b99a50c6e40b8844d45c40fff0abffc)
+        ;
+
+        
+    
+    
+            var marker_08db53d39816678db0decf0cdfbd53a2 = L.marker(
+                [32.0565957, 118.774088328077],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_eb2863d606ef0379faeaa4cf9fa14fe0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f8bca1b9f15d8179dbcbb24fe69a4e90 = $(`<div id="html_f8bca1b9f15d8179dbcbb24fe69a4e90" style="width: 100.0%; height: 100.0%;">Nanjing University</div>`)[0];
+                popup_eb2863d606ef0379faeaa4cf9fa14fe0.setContent(html_f8bca1b9f15d8179dbcbb24fe69a4e90);
+            
+        
+
+        marker_08db53d39816678db0decf0cdfbd53a2.bindPopup(popup_eb2863d606ef0379faeaa4cf9fa14fe0)
+        ;
+
+        
+    
+    
+            var marker_6004724b5579c80cd83e62e1b86c6335 = L.marker(
+                [32.05765485, 118.755002721604],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_51181eee91b36c11e6a5d21b0beeee43 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4fce1aa9ac89838a0baadb9cb9a9fd23 = $(`<div id="html_4fce1aa9ac89838a0baadb9cb9a9fd23" style="width: 100.0%; height: 100.0%;">Hohai University</div>`)[0];
+                popup_51181eee91b36c11e6a5d21b0beeee43.setContent(html_4fce1aa9ac89838a0baadb9cb9a9fd23);
+            
+        
+
+        marker_6004724b5579c80cd83e62e1b86c6335.bindPopup(popup_51181eee91b36c11e6a5d21b0beeee43)
+        ;
+
+        
+    
+    
+            var marker_8f4849eceb8a2154032b230f31ed9ffd = L.marker(
+                [30.521595, 120.7195312],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_931567a26e685e163065b05563c35e51 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_73edb3943b45d34cdd87c256de73c6d5 = $(`<div id="html_73edb3943b45d34cdd87c256de73c6d5" style="width: 100.0%; height: 100.0%;">Zhejiang University</div>`)[0];
+                popup_931567a26e685e163065b05563c35e51.setContent(html_73edb3943b45d34cdd87c256de73c6d5);
+            
+        
+
+        marker_8f4849eceb8a2154032b230f31ed9ffd.bindPopup(popup_931567a26e685e163065b05563c35e51)
+        ;
+
+        
+    
+    
+            var marker_e46333dc957a02104dd6289a71ace76d = L.marker(
+                [31.3157502, 120.640546112467],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_76471084a71fe65bdbbb5099e5ff407e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_71d613551d5385791aacd1d81376290b = $(`<div id="html_71d613551d5385791aacd1d81376290b" style="width: 100.0%; height: 100.0%;">Soochow University - China</div>`)[0];
+                popup_76471084a71fe65bdbbb5099e5ff407e.setContent(html_71d613551d5385791aacd1d81376290b);
+            
+        
+
+        marker_e46333dc957a02104dd6289a71ace76d.bindPopup(popup_76471084a71fe65bdbbb5099e5ff407e)
+        ;
+
+        
+    
+    
+            var marker_0e4364204c846899d45e6bdee8065a5c = L.marker(
+                [40.0873728486026, 116.313800002408],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_408fbb57ef759b49819ca58a8874e756 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_46b90e02f2b5abbf8b6c25c921e44d21 = $(`<div id="html_46b90e02f2b5abbf8b6c25c921e44d21" style="width: 100.0%; height: 100.0%;">Southeast University - China</div>`)[0];
+                popup_408fbb57ef759b49819ca58a8874e756.setContent(html_46b90e02f2b5abbf8b6c25c921e44d21);
+            
+        
+
+        marker_0e4364204c846899d45e6bdee8065a5c.bindPopup(popup_408fbb57ef759b49819ca58a8874e756)
+        ;
+
+        
+    
+    
+            var marker_fd8e6f88ad166079c4a4fecee4cfdf6a = L.marker(
+                [39.910793603336, 116.333586656094],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_7ffe411f7cb0e383c6ef3da77415ecba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_443046de5ff799231db3af538c609f63 = $(`<div id="html_443046de5ff799231db3af538c609f63" style="width: 100.0%; height: 100.0%;">Chinese Academy of Sciences</div>`)[0];
+                popup_7ffe411f7cb0e383c6ef3da77415ecba.setContent(html_443046de5ff799231db3af538c609f63);
+            
+        
+
+        marker_fd8e6f88ad166079c4a4fecee4cfdf6a.bindPopup(popup_7ffe411f7cb0e383c6ef3da77415ecba)
+        ;
+
+        
+    
+    
+            var marker_edbe51561467298dde4a07bdd8a9f4e1 = L.marker(
+                [40.00229045, 116.32096296969],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_9ea6bd0a74a97d2fbb4e22a716345b58 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d8209d358442b5b465cf2723f1733aac = $(`<div id="html_d8209d358442b5b465cf2723f1733aac" style="width: 100.0%; height: 100.0%;">Tsinghua University</div>`)[0];
+                popup_9ea6bd0a74a97d2fbb4e22a716345b58.setContent(html_d8209d358442b5b465cf2723f1733aac);
+            
+        
+
+        marker_edbe51561467298dde4a07bdd8a9f4e1.bindPopup(popup_9ea6bd0a74a97d2fbb4e22a716345b58)
+        ;
+
+        
+    
+    
+            var marker_871d41985533e2248ed7f3ee37b73c21 = L.marker(
+                [1.3484104, 103.682933207285],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_a6c8e07d9146d1f339fa2daaa4b51116 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_861ec53fffde4ff83af592b5007d0963 = $(`<div id="html_861ec53fffde4ff83af592b5007d0963" style="width: 100.0%; height: 100.0%;">Nanyang Technological University & National Institute of Education (NIE) Singapore</div>`)[0];
+                popup_a6c8e07d9146d1f339fa2daaa4b51116.setContent(html_861ec53fffde4ff83af592b5007d0963);
+            
+        
+
+        marker_871d41985533e2248ed7f3ee37b73c21.bindPopup(popup_a6c8e07d9146d1f339fa2daaa4b51116)
+        ;
+
+        
+    
+    
+            var marker_9d2a0de48d62478d8da6ceb915a8a61d = L.marker(
+                [39.9809427, 116.340978676548],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_8b98177e6230b651f5b75b2f916a5901 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b6b70544c787babcb2e0ad0854a49794 = $(`<div id="html_b6b70544c787babcb2e0ad0854a49794" style="width: 100.0%; height: 100.0%;">Beihang University</div>`)[0];
+                popup_8b98177e6230b651f5b75b2f916a5901.setContent(html_b6b70544c787babcb2e0ad0854a49794);
+            
+        
+
+        marker_9d2a0de48d62478d8da6ceb915a8a61d.bindPopup(popup_8b98177e6230b651f5b75b2f916a5901)
+        ;
+
+        
+    
+    
+            var marker_fed750b28dcb5d5ccfb5fae29e877958 = L.marker(
+                [31.9258106, 118.876692144409],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_988c4cbe46609eb232cc8d49a75f223e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e593db8c04c77b725e48c1608cf212fe = $(`<div id="html_e593db8c04c77b725e48c1608cf212fe" style="width: 100.0%; height: 100.0%;">Nanjing Institute of Technology</div>`)[0];
+                popup_988c4cbe46609eb232cc8d49a75f223e.setContent(html_e593db8c04c77b725e48c1608cf212fe);
+            
+        
+
+        marker_fed750b28dcb5d5ccfb5fae29e877958.bindPopup(popup_988c4cbe46609eb232cc8d49a75f223e)
+        ;
+
+        
+    
+    
+            var marker_4116f9fb9d4cbd28edd583f0f308ed34 = L.marker(
+                [34.2566991988658, 108.983671543141],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_507f7e51e35455465e07a1d9a72d2a40 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f2a83653ba0e6d08983129a1dc30eafa = $(`<div id="html_f2a83653ba0e6d08983129a1dc30eafa" style="width: 100.0%; height: 100.0%;">Xi'an Jiaotong University</div>`)[0];
+                popup_507f7e51e35455465e07a1d9a72d2a40.setContent(html_f2a83653ba0e6d08983129a1dc30eafa);
+            
+        
+
+        marker_4116f9fb9d4cbd28edd583f0f308ed34.bindPopup(popup_507f7e51e35455465e07a1d9a72d2a40)
+        ;
+
+        
+    
+    
+            var marker_8d7cd4990dad14f036bee572725df9cb = L.marker(
+                [31.28473925, 121.496949085887],
+                {}
+            ).addTo(map_5bb0faf1c09ed9a62083ce841deb0a1e);
+        
+    
+        var popup_9c8796fb382e2ff15b156b37d9af2db1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_279a01c5150c40a50ea45c70b1c5ad6a = $(`<div id="html_279a01c5150c40a50ea45c70b1c5ad6a" style="width: 100.0%; height: 100.0%;">Tongji University</div>`)[0];
+                popup_9c8796fb382e2ff15b156b37d9af2db1.setContent(html_279a01c5150c40a50ea45c70b1c5ad6a);
+            
+        
+
+        marker_8d7cd4990dad14f036bee572725df9cb.bindPopup(popup_9c8796fb382e2ff15b156b37d9af2db1)
+        ;
+
+        
+    
+</script>
+</html>

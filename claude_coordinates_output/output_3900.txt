@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+|Dong A University| 129.22|35.21|		
+|University of Science & Technology (UST)|126.10|37.34|
+|Korea Institute of Energy Research (KIER)|127.03|37.63|
+|Hungarian Research Centre for Astronomy & Earth Sciences|19.20|47.50 |
+|Pasteur Institute of Iran| 52.82|35.70 | 
+|Mimar Sinan Guzel Sanatlar University|28.97|41.03|
+|Royal Holloway University London| -0.55|51.43|
+|Yahoo! Inc| -121.64| 37.70 |
+|Yahoo! Inc United States| -121.64| 37.70|
+|Saratov State University|46.00|51.50|
+|Szeged University|20.14|46.22|
+|Institute of Information Theory & Automation of the Czech Academy of Sciences|14.50|50.10|
+|Wellesley College| -71.29|42.29|
+|Hangzhou Medical College|120.16|30.25|
+|College of Staten Island (CUNY)|-74.11|40.61|
+|University of Western Macedonia|21.77|40.63|
+|Saha Institute of Nuclear Physics|88.30|22.56|
+|Krasnoyarsk Science Center of the Siberian Branch of the Russian Academy of Sciences|92.82|56.02|
+|Kirensky Institute of Physics|129.22|51.62|
+|Delphi|22.70|38.42|
+|Toyohashi University of Technology| 136.82|34.70|
+|European XFEL|10.37|53.56|
+|Indian Institute of Technology (IIT) - Ropar| 76.20|31.26|
+|Leibniz Institut fur Polymerforschung Dresden|13.73|51.06|
+|University of Khartoum| 15.60|32.57|
+|Shahid Chamran University of Ahvaz|49.99|32.00|
+|University of Southern California Keck Hospital| -118.29|34.01|
+|Universitat Kassel|9.34|51.31|
+|Bialystok University of Technology|  23.15 |53.05|
+|Hechi University| 108.03|24.87|
+|Persian Gulf University|54.30|27.16 |
+|Universidade da Coruna| -8.42|43.37 | 
+|Bascom Palmer Eye Institute| -80.20|25.75|
+|Institute of Plasma Physics of the Czech Academy of Sciences|14.47|50.14|
+|Universidad del Norte Colombia| -74.76|11.03|
+|Institut de Recerca en Energia de Catalunya (IREC)|2.10|41.37|
+|National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)|37.34|55.74|
+|Idaho National Laboratory|-112.52|43.54|
+|Hunan Institute of Engineering|112.57|27.94|
+|University of Nis|21.90|43.32|
+|Serbian Academy of Sciences & Arts|20.47|44.82|
+|Yellow Sea Fisheries Research Institute CAFS|122.05|36.12|
+|Gas Institute of the National Academy of Sciences of Ukraine| 30.73|50.45|
+|Institute of Animal Science CAAS|116.57|39.92|
+|National Research Foundation - South Africa|18.41|-33.88|
+|University of Zululand|-28.09|-28.59|
+|University of the Western Cape|18.47|-33.94|
+|iThemba LABS|-18.43-|-34.01|
+|Shenzhen International Institute for Biomedical Research|113.97|22.52|
+|Politecnico di Bari|16.90|41.12|

@@ -1,0 +1,56 @@
+ | Kazan Federal University | 54.73N | 49.22E | 
+| - | - | - |
+| Second Institute of Oceanography (SIO) | 38.88N | 119.62E |
+| - | - | - |
+| Leibniz Institut fur Analytische Wissenschaften (ISAS) | 50.20N | 8.67E |
+| - | - | - | 
+|Shirley Ryan AbilityLab | 41.90N | 87.63W |
+|-|-|-|
+|Jeol Ltd | 34.62N | 135.37E |
+|-|-|-|
+| JEOL Japan | 35.43N | 139.77E|
+|-|-|-|
+| Sher-e-Bangla Agricultural University (SAU) |23.75N | 90.37E |
+| California State University Sacramento | 38.58N | 121.42W |
+| University of North Dakota Grand Forks | 47.95N | 97.13W|
+|Institute of Physiology of the National Academy of Sciences of Belarus | 53.90N |27.55E |
+|Soran University | 36.77N | 44.73E |
+|Leibniz Institut fur Sozialwissenschaften (GESIS) | 50.69N | 7.10E|
+|Quy Nhon University | 13.79N | 109.21E|
+| Nagoya University of Commerce & Business|35.18N | 136.90E|
+| Alagappa University |10.83N| 79.42E|
+|University Nacional de Ingenieria Lima|12.01S| 77.05W|
+|Foshan Xianhu Laboratory |23.00N| 113.12E|
+| Stephan Angeloff Institute of Microbiology Bulgarian Academy of Sciences|42.65N | 23.36E|
+|University of Banja Luka (UNIBL)|44.77N| 17.20E|
+|Sebha University | 27.03N | 14.42E|
+|Shandong University of Art & Design|36.35N| 117.13E|
+|Thiagarajar College |9.95N| 77.35E|
+| US Navy Naval Air Systems Command|38.88N| 77.10W|
+|Safran S.A.|48.82N|2.31E |
+|Zhejiang Institute of Economics & Trade|29.87N|120.20E|
+|Bhabha Atomic Research Center (BARC)|19.08N|72.54E |
+|Xinjiang Astronomy Observatory NACO CAS |43.77N | 87.62E|
+| Institute of Batteries LLC|55.55N|37.62E|
+|Simmons University |42.33N|71.10W |
+|Columbus State University|32.47N|84.94W|
+|Central University of Haryana|30.00N|76.65E|
+|Indian Institute of Technology (Indian School of Mines) Dhanbad|23.80N|86.38E|
+|The Northcap University |28.70N|77.20E|
+|Coimbatore Institute of Technology |11.03N|76.95E|
+|Sam Houston State University|30.22N|95.28W|
+|Renesas Electronics Corporation|34.67N|135.50E|
+|Adnan Menderes University|37.50N|27.83E|
+|Mustansiriya University|33.33N|44.25E|
+|Samsung Electro-Mech|35.88N|128.63E|
+|SANY|31.52N|120.40E|
+|Baicheng Normal University|45.63N|122.80E|
+|Mie University |34.67N|136.12E|
+|Netherlands Cancer Institute|52.37N|4.91E|
+|Centro Atomico Bariloche|41.13S|71.17W|
+|Mount Royal University|51.05N|114.06W| 
+|Ningbo City College of Vocational Technology|29.88N|121.78E|
+|Affiliated Hospital of Jiangxi University of Traditional Chinese Medicine|27.87N|115.82E| 
+|Symbiosis Institute of Technology (SIT)|17.43N|73.77E|
+|Universidad Central del Ecuador|15.50N|78.18W|
+|Zhejiang Academy of Agricultural Sciences|29.90N|114.50E|

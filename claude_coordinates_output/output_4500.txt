@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:|
+| Vytautas Magnus University |23.88|54.74|
+|Central European University  | 19.06| 47.49|
+|National Institute of Technology Silchar|92.81|24.83|
+| Rush University| -87.62| 41.87|
+| Jerzy Haber Institute of Catalysis & Surface Chemistry| 21.02|52.23|
+| California State University San Marcos| -117.15| 33.15|
+| Savitribai Phule Pune University|73.86|18.52| 
+| St. Xavier's College Kolkata|88.36|22.55|
+|Hoseo University |127.39|35.83|
+|Changchun Observatory NAOC CAS|125.32|43.90|
+| Finland National Institute for Health & Welfare|24.96|60.20|
+| Biology Centre of the Czech Academy of Sciences|14.42|49.21|
+|A*STAR - Institute of Bioengineering & Nanotechnology (IBN)|103.68|1.35|
+| State University of New York (SUNY) Downstate Medical Center|-73.94|40.67|
+| Free University of Bozen-Bolzano|11.35|46.50|
+|Universite Lyon 2|4.84|45.76| 
+|SNCF|2.33|48.86|
+|Polytechnic University of Timisoara|21.23|45.75|
+|Istituto di Elettronica e di Ingegneria dell'Informazione e delle Telecomunicazioni (IEIIT-CNR)|9.13|45.48|
+|Institute of Radiation Medicine - CAMS|116.30|39.93|
+|Jan Dlugosz University|18.40|51.25|
+|Karpenko Physico-Mechanical Institute NAS of Ukraine|30.51|50.45|
+|Ivan Franko National University Lviv|24.03|49.84|
+|Korea Maritime & Ocean University |129.19|35.17|
+|Shenyang Medical College|123.38|41.80|
+| Hospital for Sick Children (SickKids)|-79.39|43.66 |
+|Keck Graduate Institute|-117.71|34.14|
+|Geriatric Research Education & Clinical Center|-77.48|38.94|
+|Universidade Paulista|-23.55|-47.02|
+|Niels Bohr Institute|12.57|55.70|
+|CSIC - Centro de Astrobiologia (INTA)|-3.76|40.48|
+|Pirogov Russian National Research Medical University|37.61|55.73|
+|Emanuel Institute of Biochemical Physics|28.38|50.45|
+|Kunming Institute of Botany CAS|102.83|25.04|
+|Beckman Research Institute of City of Hope|-117.90|34.16|
+|Daegu Gyeongbuk Institute of Science & Technology (DGIST)|128.25|35.87|
+|China Center of Advanced Science & Technology (CCAST)|106.27|29.86|
+| University of Tartu Institute of Physics|26.73|58.38|    
+| National University of Rosario| -66.25| -24.25|
+|Universidad Michoacana de San Nicolas de Hidalgo|101.19|19.70| 
+|Nuclear Institute for Agriculture & Biology - Pakistan|73.25|33.72|
+|Concord Repatriation General Hospital|151.12|-33.86|
+|Westmead Institute for Medical Research|151.02|-33.81|
+|International University of Business Agriculture & Technology (IUBAT)|90.42|23.74|
+|Central University of Rajasthan (CURAJ)|75.83|26.91|
+|Suan Dusit University|100.49|13.76|
+|University of Chemistry & Technology Prague|14.43|50.08|
+| University of Tampa| -82.43| 28.05|
+|Foundation for Research & Technology - Hellas (FORTH)|25.67|35.33|
+|Jiangsu Provincial Center for Disease Control & Prevention| 118.78|32.04|

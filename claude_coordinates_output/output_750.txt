@@ -1,0 +1,50 @@
+ | Bharathidasan University |E 79.1490 | N 11.0006 |
+| China University of Geosciences  |E 104.2881| N 29.5813|
+| Beijing Hospital | E 116.3894 | N 39.9288 |
+| Qingdao University of Science & Technology| E 120.3474 | N 36.0622|
+| Novosibirsk State Technical University | E 82.9335| N 55.0419 |
+| Princeton University | W 74.6499| N 40.3625|
+| Tianjin University of Commerce | E 117.1680 | N 39.1131| 
+| University of Notre Dame | W 86.2390| N 41.7019|
+| National Taiwan University | E 121.5363 | N 25.0172|
+| Simon Fraser University | W 122.9113 | N 49.3127|
+| Technical University of Berlin | E 13.2971 | N 52.5197|
+| Guangdong University of Petrochemical Technology | E 113.5834| N 23.1607|
+| Sukkur IBA University	| E 68.8253| N 27.6981|
+| Worcester Polytechnic Institute | W 71.8058 | N 42.2754|
+| Portland State University | W 122.6816| N 45.5127 | 
+| Beijing Wuzi University | E 116.2975 | N 40.0563|
+| Adam Mickiewicz University | E 16.9293 | N 52.4090|  
+| Kohat University of Science & Technology | E 71.4371| N 33.5845 |
+| Izmir Institute of Technology | E 27.1386 | N 38.4132|
+| Hubei University of Technology | E 114.2950 | N 30.5717|
+| China National Tobacco Corporation | E 108.8747| N 34.2962| 
+| Shandong First Medical University & Shandong Academy of Medical Sciences | E 117.1214 | N 36.6541|
+| Dalian Minzu University | E 121.6149 | N 38.9299|
+| Yangtze University | E 112.5895| N 31.2081|
+| Xiangtan University | E 112.9321 | N 27.8571|
+| Clarkson University | W 75.0069 | N 44.9559|
+| Ecole Military Polytechnic |E 2.3386 | N 48.8742 |
+| Shanxi University Finance & Economics | E 112.5656| N 37.8714|
+| Rensselaer Polytechnic Institute | W 73.6784| N 	42.7311|
+| National Changhua University of Education | E 120.4555| N 24.0787|
+| Fuyang Normal University | E 115.8223| N 32.8834|
+| Concordia University - Canada | W 73.5751| N  45.4981|
+| Jiangsu University of Technology | E 120.1935| N 32.3052|
+| International Organization for Migration | E 15.4543| N 46.9543|
+| Beijing International Studies University | E 116.4322 | N 39.9162 |
+| North Carolina State University | W 78.6736| N 35.7894|
+| Xinyang Normal University | E 114.3530 | N 32.1367|
+| University of Punjab | E 74.3521| N 31.5546|
+| Jiaxing University | E 120.7497 | N 30.7530|
+| Hunan Normal University | E 112.9713 | N 28.2156|
+| Nanjing Institute of Technology | E 118.8396| N 32.0827|  
+| South China Agricultural University | E 113.3639| N 23.1670|
+| University Sri Jayewardenepura | E 79.8978 | N 6.9099|
+| European Space Agency | E 8.5386| N 48.1361|  
+| Universidade Nova de Lisboa |W 9.1464| N 38.7633| 
+| Doshisha University | E 135.7596 | N 34.7061|
+| Jiangsu Normal University | E 119.4542 | N 31.9758|
+| Universidad Tecnica Federico Santa Maria| W 71.1632| S 33.5831|
+| Tampere University | E 23.7761| N 61.4980|
+| Shandong Academy of Agricultural Sciences | E 117.2714| N 36.6541|

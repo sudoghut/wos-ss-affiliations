@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-|:-|:-| 
+| Shaoyang University|112.513944|27.238056|
+|Nanjing Agricultural University|118.981944|32.058611|
+|University of Agriculture Faisalabad|73.25|31.416667|
+|Shandong University of Technology|117.988889|36.405278|
+|ITMO University|30.421389|60.010611|
+|Sanming University|117.631944|26.269444|
+|Shandong Huayu University of Technology|117.04|36.68|
+|Beijing Sport University|116.319444|39.936111|
+|Nanjing Tech University|118.9|32.08|
+|Beijing Polytechnic College|116.283|39.797|
+|Government College University Lahore|74.375|31.545|
+|Western Sydney University|-33.834722|150.999056|
+|Central China Normal University|113.391944|30.515556|
+|Virtual University of Pakistan|67.107778|24.904444|
+|Shaanxi Normal University|108.973611|34.478889|
+|University of Cambridge|52.195277|-0.077222|
+|Donghua University|122.23|30.783|
+|Heilongjiang University|126.644|45.795|
+|Quzhou University|118.9961|28.9681|
+|Guilin University of Aerospace Technology|110.4027|25.2483|
+|SINTEF|10.391944|63.440833|
+|Yonsei University|127.0644|37.589056|
+|Sichuan Police College|104.072778|30.683889|
+|Langfang Normal University|116.648|39.48|
+|Zhejiang Gongshang University|120.1386|30.24194|
+|Singapore-MIT Alliance for Research & Technology Centre (SMART) |103.688889|1.350556|
+|University of West Bohemia Pilsen|13.379444|49.749444| 
+|Jishou University|109.7358|28.2237|
+|University of Azad Jammu & Kashmir|73.463056|33.709722|
+|Xi'an Jiaotong-Liverpool University|108.935556|34.216389|
+|Hebei University of Engineering |114.508889|38.029167|
+|Curtin University|-32.003611|115.92278| 
+|University of International Relations|116.403056|39.995556|
+|Institute of Physics CAS|117.365555|31.770000|
+|Zhengzhou Normal University|113.659444|34.758333|
+|Jiamusi University|130.36|-45.797|
+|China Institute of Water Resources & Hydropower Research|116.31|39.92|
+|National Cheng Kung University|120.241111|23.005556|
+|University of East Anglia|52.624444|1.261111|
+|Yutong|118.8|32.04|
+|University of Gothenburg|11.98|57.708611|
+|University of Kufa|44.418611|32.059444|
+|ShanghaiTech University|121.217222|31.202222|
+|University of Warwick|52.368056|-1.556389|
+|Kitami Institute of Technology|143.94|43.373889|
+|Universidad de Castilla-La Mancha|-2.4375|39.25|
+|Shanghai University of Engineering Science|121.417222|31.210278|
+|Griffith University|153.09|37.803|
+|Hunan University of Chinese Medicine|113.162778|28.235|
+|Xingtai University|114.531944|37.081944|

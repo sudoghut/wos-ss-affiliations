@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-:|:-:|:-:| 
+| University of Toronto |-79.3930556|43.6627777|
+|Northeastern University |-71.09941667|42.33702778|
+|Hebei University of Science & Technology |114.43888889|38.05027778|
+|Queens University - Canada |-76.4816667|44.2288889|
+|Warsaw University of Technology|21.00722222|52.22694444|
+|Tianjin University of Technology & Education|117.43166667|39.22972222|
+|University of Electro-Communications - Japan|140.04333333|36.26805556|
+|Shandong Jiaotong University|117.26722222|36.91611111| 
+|Taiyuan University of Science & Technology|112.54888889|37.70166667|
+|Xi'an University of Technology|108.98194444|34.38277778|
+|Beijing Academy of Quantum Information Sciences|116.47138889|39.92361111|
+|Weifang University|119.14527778|36.71111111|
+|University of Padua|11.87388889|45.4075| 
+|Mendeleev University of Chemical Technology of Russia|37.52916667|55.75861111|
+|Ludong University|124.10833333|40.77805555|
+|Huawei Technologies|118.275|40.43833333|
+|Anhui University|117.19355|31.771944|
+|Chengdu University of Technology|103.97388889|30.54888889|
+|Qingdao University of Technology|120.371|36.07722222|
+|Yellow River Conservancy Technical Institute|112.62527778|35.69638889 |
+|Nanjing University|118.70888889|32.06138889|
+|University of Connecticut|-72.25111111|41.80722222| 
+|Jiangxi University of Science & Technology| 115.66667|27.66667|
+|Xi'an Shiyou University|108.96833333|34.28111111|
+|Institut Universitaire de France|2|48.866667|
+|Payame Noor University|50.9|35.7| 
+|Changsha University|113|28.18333333|
+|Guangzhou University|113.26416667|23.08638889|
+|Northeast Normal University - China|123.39111111|41.80194444|
+|University of Rome Tor Vergata|12.59638889|41.84375|
+|University of Wollongong|-34.40416667|34.40111111|
+|Shantou University|116.68694444|23.36722222|
+|Tangshan University|118.18138889|39.63527778| 
+|University of Ulsan|129.3244|35.54117|
+|COMSATS University Islamabad (CUI)|73.0667|33.6833|
+|Huaiyin Normal University|118.3575|33.5408|
+|Institute of Disaster Prevention|118.01694444|39.93527777| 
+|Gujarat University|72.58472222|23.02222222|
+|Ocean University of China|120.39388889|36.01638889|
+|Nanjing Forestry University|118.69972222|32.15194444|
+|Marquette University|-87.93583333|43.04166667| 
+|Singapore University of Technology & Design|103.7573|1.2988|
+|University of Yamanashi|138.2675|35.60647222| 
+|Algerian Space Agency (ASAL)|3.07777778 |36.7625|
+|South China University of Technology|113.36388889|23.10005556|
+|Czech Technical University Prague|14.41833333|50.08808611| 
+|Hainan Normal University|110.33194444|20.02888889|
+|Beijing Normal University - Hong Kong Baptist University United International College|114.351944|22.781944|
+|Huizhou University|114.41277778|21.81861111|
+|Hunan University of Science & Technology|111.87388889|27.635|

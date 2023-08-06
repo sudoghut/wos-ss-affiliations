@@ -1,0 +1,52 @@
+ | university_name  | x_coor | y_coor |
+| :-: | -: | -: |  
+|ESSEC Business School|2.39556|48.82279|
+|Shandong Sport University|117.169|35.705|
+|Daqing Oilfield Company Limited|124.914786|46.596821|
+|Shanghai University of Sport|121.4228|31.2190|
+|Thammasat University|100.555|13.784|
+|Dalian University of Foreign Languages|121.649|38.928|
+|Hunan University of Arts & Science|113.338|28.184|
+|GoerTek|116.967|34.524|
+|Copenhagen Business School|12.582|55.671|
+|Wuzhou University|110.405|23.476|
+|Hansung University|127.023|37.539|
+|Colorado College|104.827|38.836| 
+|International Islamic University Malaysia|101.693|2.927|
+|WSB University|19.195|52.232|
+|Universidad de Ciencias y Humanidades|77.027|-12.067|
+|H Lee Moffitt Cancer Center & Research Institute|82.553|27.959|
+|Zhejiang International Studies University|120.114|29.288|
+|K. N. Toosi University of Technology|51.395|35.758|
+|Saint Francis Xavier University - Canada|61.411|45.679|
+|ITER|-6.187|43.384|
+|Pakistan Space & Upper Atmosphere Research Commission (SUPARCO)|71.517|24.903| 
+|University of Catania|15.079|37.505|
+|Jahangirnagar University|90.407|23.811|
+|Jeonbuk National University|127.227|35.178|
+|University of Basilicata|15.802|40.641| 
+|Tokyo City University|139.700|35.711|
+|University of Bergen|5.331|60.263|
+|William & Mary|76.698|37.273|
+|Hebei Petroleum University of Technology|115.296|38.843|
+|Ordnance Engineering College - China|103.449|30.485|
+|University of Rijeka|14.308|45.325|
+|Universidade Federal de Campina Grande|35.259|-7.373|
+|China Foreign Affairs University|116.398|39.979|
+|Putian University|118.061|25.315|
+|Kingston University|0.322|51.395|
+|Zhongguancun Laboratory|116.327|39.977|  
+|Shenhua Group|116.577|39.926| 
+|Universite des Sciences et de la Technologie d'Oran Mohamed Boudiaf|0.631|35.692|  
+|Semnan University|53.381|35.573|
+|Institute of Business Administration Karachi|67.026|24.871| 
+|Tokyo University of Agriculture & Technology|139.618|35.703|
+|University of Defence - Czech Republic|14.481|50.087|
+|Universitas Negeri Yogyakarta|110.361|-7.795| 
+|Science Systems and Applications Inc|38.907|-76.920|
+|Samsung Semiconductor (SSI)|126.976|37.286|  
+|Samsung Electronics|127.068|37.411|
+|Hochschule Angewandte Wissenschaft Hamburg|53.396|9.742|  
+|Institute of Medical Information - CAMS|116.378|39.977| 
+|The Methodist Hospital - Houston|95.365|29.653|
+|The Methodist Hospital System|95.364|29.668|

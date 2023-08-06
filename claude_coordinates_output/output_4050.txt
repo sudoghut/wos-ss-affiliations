@@ -1,0 +1,15 @@
+ | National Institute for Nutrition & Health Chinese Center for Disease Control & Prevention | 116.00  | 40.01 N |
+| Universidad de los Andes (Colombia)| 4.59 | 4.37 N| 
+| National Ageing Research Institute|  145.03 | -37.49 S |
+| Main Astronomical Observatory of NASU| 30.35 | 50.10 N |  
+| General Atomics & Affiliated Companies| -116.97 | 32.83 N|
+|Almaarefa University| 43.41  | 24.42 N | 
+|Oxford University Hospitals NHS Foundation Trust| -1.17 | 51.50 N|
+|Central Taiwan University Science & Technology| 120.25 | 23.48 N| 
+|Agenzia Spaziale Italiana (ASI)| 12.50  | 42.01 N |
+|Mendel University in Brno|  16.60 | 49.14 N| 
+|National Metrology Institute of South Africa (NMISA)| 28.14 | -25.00 S|	 
+|Forestry & Forest Products Research Institute - Japan| 140.08|43.00 N|	
+|Shahid Beheshti University Medical Sciences|51.35 | 35.40 N|
+|Mashhad University Medical Science|59.56|36.29 N|
+|Zahedan University of Medical Sciences|60.53|29.3 N|

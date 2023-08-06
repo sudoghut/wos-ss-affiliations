@@ -1,0 +1,50 @@
+ | Soft-Impact | 67.67 | 11.55E|
+|AbbVie |38.90|87.62N|
+|Universite Amar Telidji de Laghouat|34.44|2.96N|
+|Peking University Shenzhen Graduate School |22.62|114.06E|
+|Suez Canal University |30.97|32.31N|
+|Damietta University |31.70|31.49N|
+|Addis Ababa University |9.05|38.78N|
+|Lanzhou Institute of Technology |36.01|103.78E|
+|Xinjiang Technical Institute of Physics & Chemistry CAS |43.91|87.69E|
+|Iwate University |39.70|141.12E|
+|Semiconductor Manufacturing International Corporation (SMIC) |40.99|117.68E|
+|Ahmadu Bello University |9.24|7.40N|
+|ETS de Ingenieria Sistemas de Telecomunicacion |52.22|-0.40E|
+|Texas State University San Marcos |29.89|97.94W|
+|Engelhardt Institute of Molecular Biology RAS |55.72|37.52N|
+|Changchun University of Architecture & Civil Engineering |43.82|125.32E|
+|Baikov Institute of Metallurgy & Materials Science (IMET RAS) |55.77|37.32N|
+|Universidad de Cantabria |43.22|-3.98E|
+|Donetsk Institute for Physics & Engineering named after O.O. Galkin of the National Academy of Sciences of Ukraine|48.00|37.80N|
+|Ukrainian State University of Chemical Engineering |49.83|36.33N|
+|Estonian Business School |59.37|24.75N|
+|Opple Lighting |29.58|106.55E|
+|Bright Dairy & Food Co Ltd |30.65|114.06N| 
+|Mediatek Incorporated |23.97|120.78N|
+|Istituto per la Tecnologia delle Membrane (ITM-CNR) |41.89|12.45N|
+|Tribhuvan University |27.67|85.32N|
+|Institute of Hydrobiology CAS |30.28|95.38E |
+|Nesmeyanov Institute of Organoelement Compounds |55.65|37.51N|
+|China-Ukraine Institute of Welding Guangdong Academy of Sciences |23.06|113.23E |
+|University Science & Technology Houari Boumediene |36.73|2.94N|
+|University of Alaska Anchorage |61.21|149.89W|
+|Cold & Arid Regions Environmental & Engineering Research Institute CAS |30.32|81.83E| 
+|Fujian Chuanzheng Communications College |24.47|118.05E|
+|Ningxia Polytechnic |38.47|106.23E|
+|Hong Kong Branch of the Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou) |22.17|113.54E
+|University of Innsbruck |47.26|11.39E|
+|St. Petersburg Federal Research Center of the Russian Academy of Sciences |59.92|30.33E|
+|Danish Technological Institute |55.48|12.32E|
+|Durban University of Technology |29.87|31.03E|
+|University of Ilorin |8.49|4.52N |
+|University of Science & Technology of Bamako |12.65|-8.00E|
+|Advanced Micro Devices |37.38|-122.01W|
+|Nanjing University of the Arts |32.07|118.82E|
+|Shangrao Normal University|28.44|117.34E|
+|Universite Hassiba Ben Bouali de Chlef |36.21|1.36N|
+|Dagestan State University | 42.98|47.48N|
+|Universite Saad Dahlab de Blida |36.47|2.81N|
+|University of Sanya |18.23|109.31E|
+|Shaanxi Xueqian Normal University |34.29|109.73E|     
+|Micro Materials Limited |52.07|-2.14N|

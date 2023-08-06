@@ -1,0 +1,50 @@
+ |Guangzhou Maritime University|113.054|23.1603| 
+|Instituto Superior Tecnico | -9.1405|38.7376|
+|Kharkiv National University of Radio Electronics|36.2578|49.969| 
+|LingNan Normal University|113.3338|22.8848|  
+|Istituto Nazionale per Studi ed Esperienze di Architettura Navale (INSEAN-CNR)|12.397|41.8184|
+|Istituto di Ingegneria del Mare (INM-CNR) |12.5167|43.7667|
+|Indian Institute of Technology (IIT) - Bhubaneswar |85.8578|20.3047|
+|Institute of Deep-Sea Science & Engineering CAS |121.1667|30.8|  
+|Wright State University Dayton |-84.1969|39.7822|
+|China General Nuclear Power Group|115.479|39.9419|
+|Vietnam National University Hanoi |105.8519|21.0245| 
+|South Ukrainian National Pedagogical University Named After K. D. Ushynsky|33.45|48.3833|
+|Institute of Oceanology CAS|121.5|38.8|
+|University of Namibia|-17.0747|-22.5833|
+|Oles Honchar Dnipro National University|35.066|48.454|  
+|Indian Institute of Technology (IIT) - Delhi|77.2167|28.6|  
+|NITEC University|77.2|28.54|  
+|University System Of New Hampshire|71.4519 |43.1341|
+|University of New Hampshire |71.4519|43.1341|  
+|Tianjin Research Institute for Water Transport Engineering|117.2|39.1333|  
+|University of British Columbia Okanagan|-119.4231|49.3333|
+|Moscow Aviation Institute|37.4184|55.5989|  
+|SUNY Fredonia|-79.33336|42.4561|
+|National Institute of Technology Srinagar|74.787|34.0864| 
+|Ilichev Pacific Oceanological Institute|139.9833|43.1333|
+|SSPA Optics Optoelectronics & Laser Technology of the National Academy of Sciences of Belarus|23.8333|53.9| 
+|Polytechnic University of Bucharest|26.1025|44.4342| 
+|Modern Sciences & Arts University (MSA) |31.35|30.0333|
+|Kermanshah University of Medical Sciences|47.0806|34.3167|
+|National Penghu University of Science & Technology|119.7847|23.5711|
+|Panzhihua University|101.7172|26.5833|
+|Gree Electric|114.354|22.5497|
+|Airlangga University |112.6172|-7.2783|
+|Shandong Management University|117.1797|36.3222|
+|Universidad de Cuenca|-78.9389|-2.8833|
+|Centre de Recherche Scientifique et Technique en Analyses Physico-Chimiques|5.4833|49.25|
+|Tula State University|37.6214|54.2047|
+|Tianjin University of Sport|117.2|39.1056| 
+|Tianjin Foreign Studies University|117.1764|39.1433|
+|Ningbo Polytechnic|121.5472|29.8786| 
+|Institute of Automation & Control Processes Far East Branch of the Russian Academy of Sciences|134.625|43.1167|
+|Liaoning Police College|123.415|41.8472|
+|Joint Institute for Nuclear Research - Russia|37.381|55.681|
+|Raytheon Technologies|-71.319|41.3|
+|Pratt & Whitney|-72.9286|41.7378|
+|Jilin Business & Technology College|126.552|43.853|
+|University of Tun Hussein Onn Malaysia|103.3833|3.1167|
+|Korea Aerospace Research Institute (KARI)|126.8531|37.3528| 
+|Chongqing Vocational Institute of Engineering|106.5621|29.5591|
+|Korea Institute of Materials Science (KIMS)|128.5664|37.3786|

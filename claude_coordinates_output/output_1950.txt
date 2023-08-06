@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+|:-: |:-:|:-:|
+| INRAE  | 2.333 | 48.856 |
+| Universitat Politecnica de Valencia |-0.366 | 39.472|
+| University of Lausanne | 6.632| 46.521 |
+| European University Cyprus | 33.375| 35.166|
+| Universite de Sfax | 10.739 | 32.707|   
+| Shaqra University | 24.613| 42.542|
+| Dankook University | 126.93| 37.55| 
+|Inner Mongolia University of Finance & Economics|111.657|40.818|
+| Namseoul University | 126.53| 36.333|
+| Fraunhofer Gesellschaft | 8.637 | 49.401|
+| German-Jordanian University| 36.188| 32.01|
+| University of Missouri Saint Louis| -90.294| 38.612|
+| University Moratuwa | 80.008| 6.892|   
+| Gonzaga University |-117.405 |47.664 |
+| Universidad Rey Juan Carlos |-3.626 |40.438|  
+| Shanghai International Studies University | 121.405| 31.194|
+| Sakarya University of Applied Science|30.426|40.814|
+| China Europe International Business School|121.445|31.225|
+| Leiden University Medical Center (LUMC)|4.482|52.165|
+| Narxoz University |71.26|43.26|
+|L.N. Gumilyov Eurasian National University | 71.423| 43.239|
+| Shanghai Business School| 121.407 | 31.235| 
+| Estonian University of Life Sciences|25.613|58.374| 
+| Los Alamos National Laboratory|-106.281|35.89|  
+| Orebro University| 15.225| 59.264|
+| University of Burdwan|88.336|23.244|
+| Mapua University|121.045|14.552|
+| Charles Darwin University|130.834|-12.462|
+| Fiji National University (FNU) |178.408|-18.154|
+| National Institute for Materials Science |136.804 |35.708|   
+| University of Health & Rehabilitation Sciences |96.133| 23.81|
+| Hunan Agricultural University|113.016|28.219|
+| National Formosa University|120.644|23.71|
+| Asia University Taiwan |121.241|23.703|
+| Shenzhen Bay Laboratory|114.063|22.565| 
+| Institute of Zoology CAS|116.331|39.973|
+| Thermo Fisher Scientific|42.3577|-71.0594 |
+| Hong Kong Metropolitan University|114.179|22.308|   
+| Rutgers State University Camden|-75.117 |39.925|
+| Chuiko Institute of Surface Chemistry of NASU |30.513|50.445|
+| Ministry of Education & Science of Ukraine |30.5216|50.4219 |
+| Taras Shevchenko National University Kiev|30.5153|50.45|
+| Instituto Politecnico Nacional - Mexico|-99.179|19.432|  
+| Curtin University Malaysia|101.553|3.142|
+| Hubei Engineering University|114.3|30.55|
+| Universite Cote d'Azur|7.12|43.66|
+| Nvidia Corporation|-122.031|37.4| 
+| Suzhou Laboratory|120.582|31.316|  
+| Economic Research Institute ASEAN & East Asia|103.838|1.306|
+| China Electronics Corporation|116.584|39.942|

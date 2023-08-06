@@ -1,0 +1,50 @@
+ | Shandong Technology & Business University  | 116.68     |  37.52     | 
+|University of Witwatersrand   |28.45  |-26.20 |
+|Zhengzhou University of Aeronautics |112.20   |34.03   |
+| Universite Catholique Louvain |  4.63   |50.67      | 
+|Kyung Hee University   |  127.03 | 37.33 |
+|Universitat Rovira i Virgili |    1.30 |   41.15 |
+|Tomas Bata University Zlin |   17.38  |  49.22   |
+|Qingdao University | 120.32   |   36.05   |
+|ShenZhen Polytechnic  | 114.08  |  22.55 | 
+|Liaoning Normal University |123.43    |  41.78   |
+|Universidade da Beira Interior  |  -7.48   |   40.27   |
+|University of Ottawa   | -75.70 |  45.42|
+|Minzu University of China   |  116.28 |39.93  |
+| Wuhan University | 114.30   |  30.53    |
+|People's Public Security University of China|116.15  |39.95  |
+|Chinese People's Liberation Army General Hospital|116.47  |39.93|   
+|Swansea University | -3.97  |51.62 |  
+|Guilin University of Electronic Technology    | 110.29 |   25.27| 
+|Microsoft|-122.13   |  47.63 | 
+|National Taipei University of Technology  |   121.30 |25.02 |
+|Tianjin University of Technology |  117.28| 39.08|  
+|University of Eastern Finland  | 29.76 |  63.05 |  
+|Air Force Engineering University | 116.42 |  39.50 |  
+|University of Cologne | 6.97   |   50.93  |
+|George Mason University | -77.31 | 38.83 |
+|National Institute of Metrology China|116.30  | 40.05 |
+|Nanyang Normal College |112.55   |  32.98  |
+|Daqing Normal University  |125.00    |46.58| 
+|Zhejiang Normal University   |120.10    |  29.70 |
+|Chongqing University   |106.30    |29.60  | 
+|Tel Aviv University   | 34.80   |   32.10   |
+|McGill University     | -73.58  |   45.50   |
+|Columbia University   | -73.96    |  40.81|  
+|Beijing Normal University | 116.32    | 39.57|
+|Shanxi Medical University | 112.75   |37.87   |
+|Qinghai Nationalities University|101.77  |36.63  |
+|Shenyang Ligong University |123.40  |41.80   |
+|Xinjiang University   | 86.8   |43.80 | 
+|NTT Docomo  | 139.69   | 35.67  | 
+|The Welding Institute (TWI)|-0.35 |51.53|
+|Dongbei University of Finance & Economics |126.65   | 45.78|  
+|Beijing Forestry University   | 116.28 |40.00   |    
+|Polytechnic University of Milan |9.27    |45.47   |  
+|China Mobile   |116.43  |39.92    |  
+|Rocket Force University of Engineering   |108.97   |34.27  | 
+|Changchun University of Science & Technology  |125.16    |43.89   |
+|Wuhan Institute of Technology |114.48 |30.67   |
+|Huanghuai University  |116.98 |32.63 |
+|Chongqing University of Posts & Telecommunications   |106.50    |29.60   |
+|University of Leicester|-1.12   |52.63 |

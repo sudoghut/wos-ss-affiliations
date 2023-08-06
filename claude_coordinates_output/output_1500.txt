@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| Free University of Berlin  | 13.326 | 52.512 |
+| Technische Universitat Chemnitz | 12.925 | 50.827 |
+| China Southern Power Grid | 23.113 | 113.288|
+| Birla Institute of Technology & Science Pilani (BITS Pilani) | 74.207 | 25.208|  
+| National Measurement Institute Australia - NMI |115.178| -37.887|
+| Military Technical College | 31.393 | 30.045 |
+| Neijiang Normal University | 105.991 | 31.924 |
+| Liaoning Technical University | 123.334 | 43.039 |
+| Lanzhou Institute of Chemical Physics CAS | 103.640 | 36.065 |
+| Jiangxi Normal University | 115.471| 28.631 |
+| Pohang University of Science & Technology (POSTECH) | 129.366 | 36.019|
+| Universidade Federal de Minas Gerais | -43.934 | -19.931|
+| University of Notre Dame Australia | 115.952 | -31.968|
+| Aberystwyth University | -4.083 | 52.415|
+|Universidad de Valladolid |-4.710 |41.653|
+| Guangdong Medical University | 113.297 | 23.131 |  
+| National Taipei University | 121.526 | 25.013|
+| Zunyi Normal University | 106.890| 27.691 | 
+| Technical University Kosice | 21.257 | 48.710|  
+| Shenzhen International Quantum Academy | 114.090 |22.537|
+| Southwest Minzu University | 102.865 | 30.278|
+| Pingdingshan University | 113.253 | 32.864|
+| University of Latvia | 24.863 | 56.967 |
+| Shandong Womens University | 118.353 | 36.668 |
+| CIMAT - Centro de Investigacion en Matematicas | -101.746| 21.110|
+| James Cook University | 145.782 | -19.319|
+| Tianjin Institute of Industrial Biotechnology CAS|117.174|39.122|
+| Goa Institute of Management | 73.811|15.476|
+| Istanbul Medeniyet University| 28.995| 41.015|
+| National Tsing Hua University| 120.992| 24.779|
+| Aselsan| 32.833| 39.899|  
+| Ho Chi Minh City University of Food Industry | 106.678| 10.784|
+| Ton Duc Thang University | 106.727| 10.816|
+| Naval Medical University | 139.227| 61.410|
+| Shanghai Normal University | 121.462| 31.288|
+| Beihua University | 126.606| 45.435|
+| China Three Gorges Corporation | 111.942| 30.415|
+| Robert Gordon University| -2.204| 57.141|
+| Guangdong Academy of Medical Sciences & Guangdong General Hospital| 113.307| 23.120|
+| Stowers Institute for Medical Research| -94.628| 39.046|
+|  Bulgarian Academy of Sciences|23.322| 42.688|
+| Shanghai Institute of Applied Physics CAS|121.461|31.256|
+| University Ha'il |41.697|27.518|
+| Institute of Agricultural Resources & Regional Planning CAAS|116.325|39.963|
+| Middlesex University| -0.336| 51.549|
+| China United Network Communications Limited|116.421|39.915|
+| Texas A&M University Commerce| -95.654| 33.221|
+| Universite de Tunis|10.228| 36.808|
+| Hokkaido University| 141.340| 43.060|
+| University of Jyvaskyla |25.711| 62.241|

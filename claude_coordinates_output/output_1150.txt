@@ -1,0 +1,52 @@
+ | University name | x_coor | y_coor |    
+| - | - | - |
+|Pakistan Institute of Engineering & Applied Science|E73.0833 |N33.4667 |
+|Shaheed Zulfikar Ali Bhutto Institute of Science & Technology|E66.0364|N25.4234 |
+|Emory University|E84.3196|N33.7921  |
+|PetroChina Company|E116.4858|N40.0979|  
+|Brunel University|W0.4433|N51.5186 |  
+|Hainan Medical University|E110.3505|N19.6734|
+|Braunschweig University of Technology|E10.5333|N52.3|  
+|Institute of Agricultural Economics & Development CAAS|E116.4794|N39.9361|
+|Samsung|E127.0303|N37.4333|    
+|RWTH Aachen University|E6.0919|N50.7761|  
+|University of Reading |W0.9989|N51.4556|
+|Chongqing Normal University|E106.5572|N29.5461|  
+|Institut national de la recherche scientifique (INRS)|W73.6321|N45.5103|
+|Research Center for Eco-Environmental Sciences (RCEES)|E116.3898|N39.8625| 
+|China Minsheng Banking|E121.4658|N31.2347|
+|Seventh Medical Center of Chinese PLA General Hospital|E116.232|N40.0441|
+|Universite de Lorraine|E6.1585|N48.6916|    
+|Hezhou University|E111.4733|N24.6936 |
+|University of Pisa|E10.3916|N43.7158|  
+|Pennsylvania State University|W77.8519|N40.7969|  
+|University of Colorado Denver|W104.9847|N39.7439|
+|Chinese Academy of Forestry|E116.3447|N40.0031|
+|Research Institute of Wood Industry CAF|E123.7716|N28.2358|
+|State University of New York (SUNY) Buffalo|W78.7878|N43.0004| 
+|A*STAR - Institute for Infocomm Research (I2R)|E103.7861|N1.3092 |
+|Yunnan Normal University|E102.5178|N25.0583|
+|Pushkov Institute of Terrestrial Magnetism Ionosphere & Radio Wave Propagation|E37.6147|N55.7522|
+|Goethe University Frankfurt|E8.6833|N50.1171|
+|University of Kashmir|E74.7944|N34.0944|  
+|Research Institute of Forest Resources Information Technique CAF|E116.416|N40.0867|  
+|Financial University Under the Government of Russian Federation|E37.545|N55.648|  
+|St. Joseph's College of Engineering Chennai|E80.2361|N12.9758| 
+|Yunnan Agricultural University|E102.7478|N25.0294|
+|Johns Hopkins Medicine|W76.6207|N39.3857|
+|Zhejiang Laboratory|E120.2104|N30.059|
+|China Ship Scientific Research Center|E121.4322|N31.19|  
+|National Yang Ming Chiao Tung University |E121.3483|N25.0333|     
+|UK Atomic Energy Authority|W0.5008|N51.7422|
+|Incheon National University|E126.6372|N37.4544|
+|Anhui Science & Technology University|E117.0483|N31.7694|      
+|Collaborative Innovation Center for Advanced Ship & Deep Sea Exploration|E122.3497|N31.1825|
+|Malardalen University|E16.5039|N59.6386| 
+|Central Academy of Fine Arts|E116.4259|N39.9483|  
+|National Institute of Food & Drug Control - China |E116.4181|N39.8983| 
+|Southwestern Institute of Physics - China|E104.0747|N30.5939| 
+|Huaiyin Institute of Technology|E119.0769|N33.5794 |    
+|Microsoft Research Asia|E121.439|N31.2075|  
+|Eastman Chemical Company|W83.9259|N35.9139|    
+|Tomsk State University|E84.8588|N56.4892|     
+|Kochi University Technology|E134.0386|N33.5631|

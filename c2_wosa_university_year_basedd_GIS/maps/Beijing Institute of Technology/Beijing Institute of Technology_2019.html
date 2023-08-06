@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7f1ed684962e763dd52905df803c6ddb {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_7f1ed684962e763dd52905df803c6ddb" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7f1ed684962e763dd52905df803c6ddb = L.map(
+                "map_7f1ed684962e763dd52905df803c6ddb",
+                {
+                    center: [39.9578214, 116.309823671573],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b29004bdeb1a38eff330e3a297aeed41 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+            var marker_7cf3b7ad9dda374065325f14cd49c3c7 = L.marker(
+                [39.9076970499999, 116.244057703679],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_67dfa28a9bc98fad39817f14b9c6b357 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b9a51528d46a907b3f5f8ad43e158f86 = $(`<div id="html_b9a51528d46a907b3f5f8ad43e158f86" style="width: 100.0%; height: 100.0%;">University of Chinese Academy of Sciences CAS</div>`)[0];
+                popup_67dfa28a9bc98fad39817f14b9c6b357.setContent(html_b9a51528d46a907b3f5f8ad43e158f86);
+            
+        
+
+        marker_7cf3b7ad9dda374065325f14cd49c3c7.bindPopup(popup_67dfa28a9bc98fad39817f14b9c6b357)
+        ;
+
+        
+    
+    
+            var marker_588709cb0842e2c27d1d486407273f0f = L.marker(
+                [1.3484104, 103.682933207285],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_0a3a5bff1e7212cb8b11f0b309e00983 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3ed8fb1de08726179fc8293b4fd1e0ec = $(`<div id="html_3ed8fb1de08726179fc8293b4fd1e0ec" style="width: 100.0%; height: 100.0%;">Nanyang Technological University</div>`)[0];
+                popup_0a3a5bff1e7212cb8b11f0b309e00983.setContent(html_3ed8fb1de08726179fc8293b4fd1e0ec);
+            
+        
+
+        marker_588709cb0842e2c27d1d486407273f0f.bindPopup(popup_0a3a5bff1e7212cb8b11f0b309e00983)
+        ;
+
+        
+    
+    
+            var marker_44a2456fc764e737df96586afc39c25d = L.marker(
+                [39.96020135, 116.351934818459],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_4a4cebed9be344af1d61eb47d02cc678 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_50a525292af1d3bceea9095bae0b4954 = $(`<div id="html_50a525292af1d3bceea9095bae0b4954" style="width: 100.0%; height: 100.0%;">Beijing University of Posts & Telecommunications</div>`)[0];
+                popup_4a4cebed9be344af1d61eb47d02cc678.setContent(html_50a525292af1d3bceea9095bae0b4954);
+            
+        
+
+        marker_44a2456fc764e737df96586afc39c25d.bindPopup(popup_4a4cebed9be344af1d61eb47d02cc678)
+        ;
+
+        
+    
+    
+            var marker_abaf1432d09ce5c4bee2833ae771b52d = L.marker(
+                [39.9814708588132, 116.332042979769],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_43f098295380fd451abe8f6152e663ed = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a0fcebe1a5bd8eed61576d3f16854bfe = $(`<div id="html_a0fcebe1a5bd8eed61576d3f16854bfe" style="width: 100.0%; height: 100.0%;">Institute of Physics CAS</div>`)[0];
+                popup_43f098295380fd451abe8f6152e663ed.setContent(html_a0fcebe1a5bd8eed61576d3f16854bfe);
+            
+        
+
+        marker_abaf1432d09ce5c4bee2833ae771b52d.bindPopup(popup_43f098295380fd451abe8f6152e663ed)
+        ;
+
+        
+    
+    
+            var marker_7d91f545b3d6a838340d85ae2f3c936a = L.marker(
+                [39.5810343402526, 116.720676086239],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_3cc710e96e21519b74be180101c8d449 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dcca8effccd3e519a859b111c46b3baf = $(`<div id="html_dcca8effccd3e519a859b111c46b3baf" style="width: 100.0%; height: 100.0%;">University of Science & Technology of China CAS</div>`)[0];
+                popup_3cc710e96e21519b74be180101c8d449.setContent(html_dcca8effccd3e519a859b111c46b3baf);
+            
+        
+
+        marker_7d91f545b3d6a838340d85ae2f3c936a.bindPopup(popup_3cc710e96e21519b74be180101c8d449)
+        ;
+
+        
+    
+    
+            var marker_17ef8eb05caa9614c980dc512a8ca5b5 = L.marker(
+                [39.9157751018866, 116.370593761174],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_fd089a0d630808449032f466b524250f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d365e1b720b4f63e47184e56c0b6be97 = $(`<div id="html_d365e1b720b4f63e47184e56c0b6be97" style="width: 100.0%; height: 100.0%;">Ministry of Education China</div>`)[0];
+                popup_fd089a0d630808449032f466b524250f.setContent(html_d365e1b720b4f63e47184e56c0b6be97);
+            
+        
+
+        marker_17ef8eb05caa9614c980dc512a8ca5b5.bindPopup(popup_fd089a0d630808449032f466b524250f)
+        ;
+
+        
+    
+    
+            var marker_e114219a0aa5fbd7c58e2157b374c1c5 = L.marker(
+                [39.99171495, 116.303934968635],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_be70f971298f424a7e3a9909620721e5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6fddf9256e8a64d1c3839665a0932b04 = $(`<div id="html_6fddf9256e8a64d1c3839665a0932b04" style="width: 100.0%; height: 100.0%;">Peking University</div>`)[0];
+                popup_be70f971298f424a7e3a9909620721e5.setContent(html_6fddf9256e8a64d1c3839665a0932b04);
+            
+        
+
+        marker_e114219a0aa5fbd7c58e2157b374c1c5.bindPopup(popup_be70f971298f424a7e3a9909620721e5)
+        ;
+
+        
+    
+    
+            var marker_e8bd9a769bb647eb95012501bd045346 = L.marker(
+                [39.1087722, 117.164678250368],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_801cbd92e042390faad4b958859e65c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b6caf5f4c8e33b7b59f55ddca7b6eaa = $(`<div id="html_5b6caf5f4c8e33b7b59f55ddca7b6eaa" style="width: 100.0%; height: 100.0%;">Tianjin University</div>`)[0];
+                popup_801cbd92e042390faad4b958859e65c7.setContent(html_5b6caf5f4c8e33b7b59f55ddca7b6eaa);
+            
+        
+
+        marker_e8bd9a769bb647eb95012501bd045346.bindPopup(popup_801cbd92e042390faad4b958859e65c7)
+        ;
+
+        
+    
+    
+            var marker_191684be14011385df7a01d860d2a5ff = L.marker(
+                [45.741589, 126.625562634889],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_4680a542da5d11b6d16f78921bd1413e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1919eecb22372914c0d6a787dc9fd47c = $(`<div id="html_1919eecb22372914c0d6a787dc9fd47c" style="width: 100.0%; height: 100.0%;">Harbin Institute of Technology</div>`)[0];
+                popup_4680a542da5d11b6d16f78921bd1413e.setContent(html_1919eecb22372914c0d6a787dc9fd47c);
+            
+        
+
+        marker_191684be14011385df7a01d860d2a5ff.bindPopup(popup_4680a542da5d11b6d16f78921bd1413e)
+        ;
+
+        
+    
+    
+            var marker_aaaaf501316e2da3a4b80ee9ebd77069 = L.marker(
+                [39.9409743, 116.297813916838],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_8f69a56ace45a30249ee53ae87aa2b77 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bc7d7910a97213f978d3f6b7bd208ecb = $(`<div id="html_bc7d7910a97213f978d3f6b7bd208ecb" style="width: 100.0%; height: 100.0%;">Beijing University of Chemical Technology</div>`)[0];
+                popup_8f69a56ace45a30249ee53ae87aa2b77.setContent(html_bc7d7910a97213f978d3f6b7bd208ecb);
+            
+        
+
+        marker_aaaaf501316e2da3a4b80ee9ebd77069.bindPopup(popup_8f69a56ace45a30249ee53ae87aa2b77)
+        ;
+
+        
+    
+    
+            var marker_24b1e725b29508a634f21c74d0e2cf9b = L.marker(
+                [39.87391435, 116.477202420354],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_2a0e9274a3566bbaa52f9f02c270ee37 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b10dce35192a3430336e58318e8ff41b = $(`<div id="html_b10dce35192a3430336e58318e8ff41b" style="width: 100.0%; height: 100.0%;">Beijing University of Technology</div>`)[0];
+                popup_2a0e9274a3566bbaa52f9f02c270ee37.setContent(html_b10dce35192a3430336e58318e8ff41b);
+            
+        
+
+        marker_24b1e725b29508a634f21c74d0e2cf9b.bindPopup(popup_2a0e9274a3566bbaa52f9f02c270ee37)
+        ;
+
+        
+    
+    
+            var marker_9945ba7a55092512e2f7daeae9de9aea = L.marker(
+                [-33.88321735, 151.200366905245],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_8109c77f6a22b0c33ccdd9c3d2b87b23 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64e355420d75f1ad6ca6c488eb03b89c = $(`<div id="html_64e355420d75f1ad6ca6c488eb03b89c" style="width: 100.0%; height: 100.0%;">University of Technology Sydney</div>`)[0];
+                popup_8109c77f6a22b0c33ccdd9c3d2b87b23.setContent(html_64e355420d75f1ad6ca6c488eb03b89c);
+            
+        
+
+        marker_9945ba7a55092512e2f7daeae9de9aea.bindPopup(popup_8109c77f6a22b0c33ccdd9c3d2b87b23)
+        ;
+
+        
+    
+    
+            var marker_28a8387d1b58757a02d8bc3c80c03205 = L.marker(
+                [32.0318259999999, 118.852142742792],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_73d41c8591c7e54999173a3417db39d2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30fb6adb3219a17b46df7811c503e1f8 = $(`<div id="html_30fb6adb3219a17b46df7811c503e1f8" style="width: 100.0%; height: 100.0%;">Nanjing University of Science & Technology</div>`)[0];
+                popup_73d41c8591c7e54999173a3417db39d2.setContent(html_30fb6adb3219a17b46df7811c503e1f8);
+            
+        
+
+        marker_28a8387d1b58757a02d8bc3c80c03205.bindPopup(popup_73d41c8591c7e54999173a3417db39d2)
+        ;
+
+        
+    
+    
+            var marker_1e253a7562b363d2c2002e2449107a3e = L.marker(
+                [39.99023335, 116.353175343558],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_9cf8eb2d58396b0ef2aa32c917307afe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b01bccdc37c04b6340a29f7b727c0ce4 = $(`<div id="html_b01bccdc37c04b6340a29f7b727c0ce4" style="width: 100.0%; height: 100.0%;">University of Science & Technology Beijing</div>`)[0];
+                popup_9cf8eb2d58396b0ef2aa32c917307afe.setContent(html_b01bccdc37c04b6340a29f7b727c0ce4);
+            
+        
+
+        marker_1e253a7562b363d2c2002e2449107a3e.bindPopup(popup_9cf8eb2d58396b0ef2aa32c917307afe)
+        ;
+
+        
+    
+    
+            var marker_e8095189da4d2e53a9e99690e4888bb3 = L.marker(
+                [37.8022107, -122.271391],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_6723209b8755179fe9dd327ba9565958 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_657724357c81aa2802f3390745b65e03 = $(`<div id="html_657724357c81aa2802f3390745b65e03" style="width: 100.0%; height: 100.0%;">University of California System</div>`)[0];
+                popup_6723209b8755179fe9dd327ba9565958.setContent(html_657724357c81aa2802f3390745b65e03);
+            
+        
+
+        marker_e8095189da4d2e53a9e99690e4888bb3.bindPopup(popup_6723209b8755179fe9dd327ba9565958)
+        ;
+
+        
+    
+    
+            var marker_26b1d14b9e9a08c23cce31c39e19b628 = L.marker(
+                [39.910793603336, 116.333586656094],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_5f056456b830b7377b2e20cd6f02e36a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae91bede723eb5cd09b50b19bb03c861 = $(`<div id="html_ae91bede723eb5cd09b50b19bb03c861" style="width: 100.0%; height: 100.0%;">Chinese Academy of Sciences</div>`)[0];
+                popup_5f056456b830b7377b2e20cd6f02e36a.setContent(html_ae91bede723eb5cd09b50b19bb03c861);
+            
+        
+
+        marker_26b1d14b9e9a08c23cce31c39e19b628.bindPopup(popup_5f056456b830b7377b2e20cd6f02e36a)
+        ;
+
+        
+    
+    
+            var marker_a7b32a8ecfeb73f96961dbb5ab14154a = L.marker(
+                [40.00229045, 116.32096296969],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_263f18f68a4a1b40ab20efb42c718cdb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2accfafab24681c519291f8a5e442fac = $(`<div id="html_2accfafab24681c519291f8a5e442fac" style="width: 100.0%; height: 100.0%;">Tsinghua University</div>`)[0];
+                popup_263f18f68a4a1b40ab20efb42c718cdb.setContent(html_2accfafab24681c519291f8a5e442fac);
+            
+        
+
+        marker_a7b32a8ecfeb73f96961dbb5ab14154a.bindPopup(popup_263f18f68a4a1b40ab20efb42c718cdb)
+        ;
+
+        
+    
+    
+            var marker_690bcdee015f8ceb63eb24b8f416928f = L.marker(
+                [1.3484104, 103.682933207285],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_f8cb3a9eeb81a08497f0507f4eb78516 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6c6ee120004ef74dccd83fad9127b368 = $(`<div id="html_6c6ee120004ef74dccd83fad9127b368" style="width: 100.0%; height: 100.0%;">Nanyang Technological University & National Institute of Education (NIE) Singapore</div>`)[0];
+                popup_f8cb3a9eeb81a08497f0507f4eb78516.setContent(html_6c6ee120004ef74dccd83fad9127b368);
+            
+        
+
+        marker_690bcdee015f8ceb63eb24b8f416928f.bindPopup(popup_f8cb3a9eeb81a08497f0507f4eb78516)
+        ;
+
+        
+    
+    
+            var marker_6028df66867e4ddde1a8135324a257aa = L.marker(
+                [39.9809427, 116.340978676548],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_3eb13401b23cada0b7094bc44dd6c7c3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6aad2dce8aced0547dd0b85e212d203c = $(`<div id="html_6aad2dce8aced0547dd0b85e212d203c" style="width: 100.0%; height: 100.0%;">Beihang University</div>`)[0];
+                popup_3eb13401b23cada0b7094bc44dd6c7c3.setContent(html_6aad2dce8aced0547dd0b85e212d203c);
+            
+        
+
+        marker_6028df66867e4ddde1a8135324a257aa.bindPopup(popup_3eb13401b23cada0b7094bc44dd6c7c3)
+        ;
+
+        
+    
+    
+            var marker_5f14e52eb17249cf16896776732881a5 = L.marker(
+                [34.24691835, 108.910615775429],
+                {}
+            ).addTo(map_7f1ed684962e763dd52905df803c6ddb);
+        
+    
+        var popup_9bc82ef327e0556941a00eeb9bc59f6b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a0f8fe259a7cc73e06af50374d3e6d52 = $(`<div id="html_a0f8fe259a7cc73e06af50374d3e6d52" style="width: 100.0%; height: 100.0%;">Northwestern Polytechnical University</div>`)[0];
+                popup_9bc82ef327e0556941a00eeb9bc59f6b.setContent(html_a0f8fe259a7cc73e06af50374d3e6d52);
+            
+        
+
+        marker_5f14e52eb17249cf16896776732881a5.bindPopup(popup_9bc82ef327e0556941a00eeb9bc59f6b)
+        ;
+
+        
+    
+</script>
+</html>

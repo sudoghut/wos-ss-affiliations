@@ -5,6 +5,7 @@ import os
 # input_excel = "node-with-country-small.xlsx"
 input_excel = "node-with-country.xlsx"
 output_folder = "claude_coordinates_output"
+max_tokens_to_sample_value = 2000
 
 with open('api_key.txt', 'r') as file:
     api_key_str = file.read()
@@ -26,8 +27,7 @@ input_df = pd.read_excel(input_excel, sheet_name="node-with-countries", dtype=st
 print(input_df.head())
 print(input_df.shape)
 
-# read the text prompt from os.path.join("b2_wosa_country_year_based_GIS","b2_clause_prompt.txt"
-with open(os.path.join("b2_wosa_country_year_based_GIS","b2_clause_prompt.txt"), "r") as file:
+with open(os.path.join("c2_wosa_university_year_basedd_GIS","c2_clause_prompt.txt"), "r") as file:
     prompt_str = file.read()
 prompt_str = prompt_str.replace("\\n", "\n")
 print(prompt_str)
@@ -44,7 +44,7 @@ for i in range(len(label_list)):
         completion = anthropic.completions.create(
             model="claude-1",
             # max_tokens_to_sample=300,
-            max_tokens_to_sample=2000,
+            max_tokens_to_sample=max_tokens_to_sample_value,
             prompt=f"{HUMAN_PROMPT} {prompt} {AI_PROMPT}",
         )
         file = open(output_folder + "\\output_" + str(count) + ".txt", "w", encoding="utf-8")
@@ -58,7 +58,7 @@ if len(batch_list) != 0:
     prompt = f"{prompt_str}{output_names}"
     completion = anthropic.completions.create(
         model="claude-1",
-        max_tokens_to_sample=300,
+        max_tokens_to_sample=max_tokens_to_sample_value,
         prompt=f"{HUMAN_PROMPT} {prompt} {AI_PROMPT}",
     )
     file = open(output_folder + "\\output_" + str(count) + ".txt", "w", encoding="utf-8")

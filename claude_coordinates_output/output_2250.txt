@@ -1,0 +1,50 @@
+ |Geely|113.976|22.4937|
+|Universite Paris-Dauphine|2.31836|48.8396|  
+|Chulalongkorn University|13.7667|100.5333|
+|Honam University|14.7500|101.6833|     
+|Medical Research Council UK (MRC)|-0.0815|51.5085|
+|Applied Materials Inc|37.3867|-122.0827|  
+|Universites de Strasbourg Etablissements Associes|7.7506|48.5839|  
+|Universite de Strasbourg|7.7506|48.5839| 
+|CNRS - Institute of Chemistry (INC)|7.7473|48.5917|
+|University of Cagliari|9.1351|39.2167|
+|University of Kent|0.5309|51.2861|   
+|Guangdong University of Finance|-113.5525|23.1175| 
+|University of Malta|14.4842|35.8947|
+|Hefei University|117.2788 |31.8223|
+|Research Institute of Forestry New Technology CAF|116.2833|39.9167| 
+|Swiss Federal Laboratories for Materials Science & Technology (EMPA)|8.32|47.3744|  
+|Saudi Electronic University|39.1167 |24.6360|
+|University of Jeddah|39.1777|21.5411| 
+|Nanjing Vocational University of Industry Technolog|118.7796|32.0602|
+|Korea Institute of Ceramic Engineering & Technolog|127.0478|37.296|  
+|Universidad Autonoma de Nuevo Leon|-100.2833|25.6492| 
+|North South University (NSU)|90.3948|23.7806|
+|Universidad de Antioquia|-75.5961|6.2262|  
+|Stellenbosch University|18.8679|-33.9368|
+|University of Nizwa|57.65|22.91| 
+|Kalasalingam Academy of Research & Education|77.6167|8.1667|
+|Belarusian National Technical University|27.5669|53.9006|
+|Vavilov State Optical Institute|28.5764|60.4038|
+|Aston University|-1.8845|52.4826|   
+|Central University of Tamil Nadu|78.7333|11.6833|
+|Institut Polytechnique de Paris|2.4|48.8396|
+|Kobe University|135.1712|34.6968| 
+|Wuhan Institute of Virology CAS|114.3508|30.5472|  
+|Universite Paris-VIII|2.4|48.8865|
+|Guangdong Technion Israel Institute of Techn|113.2625|22.8388|
+|Clark University|-71.7|42.2508|
+|Zhejiang Institute of Mechanical & Electrical|120.0076|30.186|
+|A*STAR - Singapore Institute of Manufacturing|103.6633|1.3465|
+|University of Hyogo|135.3|34.6833|
+|Bydgoszcz University of Science & Technology|18|53.118|
+|Belarusian State University|27.5583|53.9|   
+|Institute of Nuclear Physics - Kazakhstan|69.358|49.8167|
+|Yunnan Astronomical Observatory NAOC CAS|102.7781|25.0406|
+|Novo Nordisk|56.1626|12.5496
+|Institute of Geographic Sciences & Natural Res|116.3375|40.0403| 
+|Korea Basic Science Institute (KBSI)|127.0667|37.4667|
+|Universiti Kebangsaan Malaysia|101.67|3.0869|
+|UiT The Arctic University of Tromso|18.9612|69.6502|
+|Boston University|-71.1003|42.3384| 
+|Belarusian State Medical University|27.5179|53.9012|

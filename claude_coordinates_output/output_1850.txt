@@ -1,0 +1,50 @@
+ | Mudanjiang Medical University | 130.39 | 46.64 |
+| University of Augsburg  | 10.91 | 48.37 |
+| Zhejiang University of Science & Technology| 120.20 |30.16|
+| New York State Psychiatry Institute| -73.97|40.87|
+| University of Oregon| -123.23|44.05|
+| Universiti Malaysia Kelantan | 102.38| 6.10|
+| United Arab Emirates University| 55.43| 24.21|
+| East Carolina University| -77.39|35.61|
+| CAS Center for Excellence in Quantum Information & Quantum Physics|116.23|39.92|
+| Royal London Hospital| -0.06| 51.52|
+| Barts Health NHS Trust| -0.06| 51.51|
+| Gadjah Mada University | 110.42 | -7.48|
+| Guiyang Institute of Geochemistry CAS | 106.72| 26.62|
+| University of Bremen| 8.85| 53.08|
+| International Digital Economy Academy| -1.44 | 52.63|
+| National Applied Research Laboratories - Taiwan| 121.57| 24.79|
+| Bidhan Chandra Agricultural University| 88.36| 22.58|
+| Kookmin University | 127.05| 37.56|
+| Nara Institute of Science & Technology| 135.83| 34.69| 
+| Joint BioEnergy Institute - JBEI| -122.25| 37.87|
+| Ruprecht Karls University Heidelberg| 8.68| 49.41|
+| University of South Africa| 28.23 | -25.74|
+| Hebei Chemical & Pharmaceutical College| 114.48| 38.03|
+| Shanghai Dianji University | 121.47|31.24|
+| Universite de Poitiers  | 0.33| 46.58|
+| Rolls-Royce Holding Group| -1.17| 52.40|
+| Miami University| -84.52|39.51|
+| Binzhou University| 118.09|37.36 |  
+| Riga Technical University| 24.11| 56.95| 
+| University of Hradec Kralove| 15.84| 50.21|
+| Shanghai University of Political Science & Law| 121.46|31.22|
+| University of Tsukuba | 140.10| 36.16|
+| Japan Synchrotron Radiation Research Institute| 138.54| 36.08|  
+| Seikei University | 139.31| 35.64|
+| Lagos State University| 3.39| 6.45|
+| University of Dhaka| 90.40| 23.74|  
+| University of Haifa | 34.98| 32.80|
+| Academia Sinica - Taiwan| 121.41| 25.01|
+| Aristotle University of Thessaloniki | 22.96| 40.63| 
+| Ecole Nationale de l'Aviation Civile (ENAC)| 1.49| 43.56|
+| Universite Federale Toulouse Midi-Pyrenees (ComUE) | 1.44| 43.61|
+| State Marine Technical University| -46.35| -23.70|
+| Universita della Campania Vanvitelli| 14.32| 40.55|
+| Chinese Academy of Geological Sciences| 116.32| 39.54|  
+| Nagasaki University| 129.88| 32.77|
+| Mody University of Science & Technology| 73.05| 25.19|
+|Shandong Jianzhu University| 116.98 | 36.07|  
+| Hang Seng University of Hong Kong| 114.19| 22.28| 
+| University of Passau | 13.45| 48.56| 
+| Universidad Antonio de Nebrija| -3.68 | 40.42|

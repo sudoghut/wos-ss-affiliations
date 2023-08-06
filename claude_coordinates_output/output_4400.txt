@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+| :-: | :-: | :-: | 
+|Karpagam Academy of Higher Education (KAHE)|11.01|77.05|
+|Odessa National Polytechnic University|30.74|46.47|
+|Odesa National University of Technology|30.73|46.47|
+|Myongji University|37.34|127.13|
+|University of Winchester|51.06|-1.31|
+|Saint Petersburg State University of Civil Aviation|30.22|59.93|
+|Indian Institute of Science Education & Research (IISER) - Bhopal|23.26|77.4|
+|Polaris Applied Sciences Inc.|35.24|-90.05|
+|Henan Finance University|34.77|113.61|
+|Central Institute of Aviation Motors|55.73|38.13|
+|Institute of Combustion Problems|43.06|131.57|
+|National Academy of Sciences of Georgia|44.67|33.4|
+|General University Gregorio Maranon Hospital|40.47|4|
+|Hodeidah University|14.78|43.22|
+|General University Hospital Prague|50.08|14.44|
+|Government Engineering College Dahod|22.78|73.7|
+|Texas A&M Engineering Experimental Station |30.62|-96.33|
+|Institute of Organic Chemistry of the Polish Academy of Sciences|52.23|21.02|
+|ABV-Indian Institute of Information Technology & Management Gwalior |26.23|78.18|
+|Prairie View A&M University|30.05|-95.91|
+|Dukhov Research Institute of Automatics (VNIIA)|55.7|37.55|
+|Jiaying University|116.85|36.92|
+|Morgan State University|39.33|-76.62|
+|Ministry of Water Resources|17.35|78.47|
+|Ankara University|39.93|32.86|
+|Defence Research & Development Canada|45.42|-75.7|
+|IE University|40.46|-3.71|
+|Kanazawa University|36.56|136.64|
+|S.S. Kutateladze Institute of Thermophysics Siberian Division of the Russian Academy of Sciences |55.03|91.3|
+|Universidad de Guadalajara|20.67|-103.35|
+|Pontificia Universidad Catolica de Valparaiso|33.04|71.6|
+|Univerity Malakand |34.76|72.04|
+|University of Health Sciences Lahore |31.5444|74.3081|
+|University of Thi-Qar|32.04|46.24|
+|University of Tennessee at Chattanooga|35.05|85.3|
+|Tongren University|27.42|109.37|
+|Kharazmi University|35.71|51.4|
+|Institute of Physics SAS|48.15|17.13|
+|Hebei Sport University|38.06|114.48|
+|Universiti Tenaga Nasional|3.13|101.69|
+|Alexandru Ioan Cuza University|47.15|27.56|
+|Madanapalle Institute of Technology & Science|13.33|78.12|
+|Helmut Schmidt University|53.54|10.01|
+|Wuhu Institute of Technology|31.33|118.35|
+|CSIC - Instituto de Ciencia de Materiales de Barcelona (ICMAB)|41.38|2.11|
+|University of Donja Gorica|42.52|19.16|
+|Universidad de Las Palmas de Gran Canaria|28.12|-15.44|
+|Renault SA|48.87|2.29| 
+|Lahore University of Management Sciences|31.46|74.32|
+|ESIEE Paris |48.77|2.37|

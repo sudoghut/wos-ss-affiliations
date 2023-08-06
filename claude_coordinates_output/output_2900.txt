@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| KK Women's & Children's Hospital |103.843835E |1.351460N|
+| Dana-Farber Cancer Institute |71.105376W| 42.337894N|
+| Johns Hopkins Bloomberg School of Public Health|76.619422W|39.334053N|
+| Penn State Health|77.140583W|40.808926N|
+| University of Thessaly |	22.39712E	|39.3807N|
+| Ahvaz Jundishapur University of Medical Sciences (AJUMS)|	48.688104E	|31.348657N|
+| University of Mississippi Medical Center|90.177002W|32.332855N|
+| University of Central Lancashire |-2.731237W|53.763971N|
+| International Medical University Malaysia|	101.55802E	|3.134803N|
+| Albany Medical College|	73.757418W|42.658736N|
+| Anglia Ruskin University|	0.245959E	|52.202491N|
+| Friedrich Loeffler Institute|	8.678820E	|50.862767N|
+| Eberhard Karls University Hospital	|9.997441E|	48.516794N|
+| Instituto de Investigaciones Biologicas Clemente Estable Uruguay|-56.1693755W|-34.858621N|
+| Guy's & St Thomas' NHS Foundation Trust|	0.101349W	|51.498897N|
+| Magna Graecia University of Catanzaro| 16.59967E|38.907749N|
+| IRCCS Fondazione Pascale| 14.203421E|40.823403N|
+| University of Kansas Medical Center|	-94.719353W|	39.047419N|
+| Children's Mercy Hospital|	-94.612864W	|39.046087N|
+|CNRS - National Institute for Biology (INSB)	|5.664426E|	43.563251N|
+| Mackay Medical College|	120.452138E	|25.035896N|
+| Fujita Health University|	136.858547E|	35.143048N|
+| University of Ioannina|	20.851228E|	39.667682N|
+| Sardar Patel University|	72.783877E|	23.224882N|
+| Glasgow Caledonian University|	-4.253591W|	55.863319N|
+| University of Alabama Tuscaloosa|	-87.569174W	|33.209339N|
+| Roche Holding|	6.836519E	|47.569097N|
+| University of Vienna| 16.375487E|48.204210N|
+| National Institute of Infectious Diseases (NIID)|	139.768401E|	35.710419N|
+| heSam Universite|	6.185919E|	45.190111N|
+| Universitat de Lleida| 0.622731E|41.619489N|
+| Henry Ford Hospital|	-83.045459W	|42.312614N|
+| Korea Research Institute of Bioscience & Biotechnology (KRIBB)|	127.038483E	|37.456632N|
+| Public Health England|	-0.127586W|	51.507451N|
+| University Nebraska Kearney|	-99.083861W	|40.699967N|
+| Ajinomoto Co Inc|	139.749616E|	35.631168N|
+| Institute of Cancer Research - UK|	-0.193551W|	51.466574N|
+| Fred Hutchinson Cancer Center|	-122.326097W| 47.655346N| 
+| George Institute for Global Health|-33.873886E|151.213041N|
+|Fundacao Oswaldo Cruz|	-43.230371W|-22.903542N|
+|Zurich University of Applied Sciences |8.561289E|47.376831N|
+|University of Genoa |8.946603E|44.414718N|
+|St Georges University London |-0.121136W|51.465004N|
+|Schleswig Holstein University Hospital|10.133090E|54.343124N|
+|University of Crete|25.133090E|35.321123N|
+|University of Iowa|-91.535101W|41.663125N|
+|Medical University of Innsbruck|11.387593E|47.266484N|
+|Robert Koch Institute|13.377290E|52.514940N|
+|Salk Institute|-117.233371W|32.881936N|
+|University of Limerick|-8.522556W|52.668414N|

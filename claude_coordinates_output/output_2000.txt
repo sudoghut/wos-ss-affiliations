@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |
+| Universidad Francisco de Vitoria | 40.52 | -3.652 |  
+| University of Hertfordshire | 51.762 | -0.255 |
+|Hannam University| 36.891|127.119| 
+|University of Dayton|39.758| -84.194| 
+|University of Boras|57.768|12.939 |
+|Okan University|41.063|28.998|
+|Atilim University|39.953|32.763|
+|Thales Group|48.861|2.21|
+|Harvard Medical School|42.349|-71.0949|
+|University of California Santa Cruz|36.983|-122.058|
+|Institut National Polytechnique de Grenoble|45.183|5.717|
+|University of Kitakyushu|33.84|131.31|
+|Institut National de la Sante et de la Recherche Medicale (Inserm)|	48.85|2.341|
+|Universite Claude Bernard Lyon 1 |45.758| 4.849|
+|UK Centre for Ecology & Hydrology (UKCEH)|51.5| -3.937|
+|Guizhou Education University| 26.698|106.773|
+|Wake Forest University|36.133| -80.272 |
+|National Sun Yat Sen University|22.657|120.347|
+|Brigham & Women's Hospital| 42.331|-71.0911|
+|VTT Technical Research Center Finland|61.497|23.68|
+|Yangtze River Water Resources Protection Bureau	|30.464| 114.322|
+|United States Navy	|38.8723 |-77.048|
+|Naval Research Laboratory |38.88|-77.0169 |
+|Tokyo University of Technology| 35.6544|139.7194|
+|Wuhan Institute of Physics & Mathematics CAS| 30.5244|114.3875|
+|Ecole Normale Superieure de Constantine|	36.368|6.613| 
+|Universite Constantine|	36.363|	6.61|
+|Moi University|0.563|35.747|
+|Suzhou Vocational University|31.301 |120.615|
+|Lithuanian Energy Institute|54.69 |25.2975|
+|Universidad de Malaga|36.721| -4.493|
+|Beirut Arab University|33.824| 35.512|
+|University of Texas Southwestern Medical Center Dallas|32.834 |-96.807|
+|University of Massachusetts Lowell|42.657 |-71.32|
+|Shenyang University of Chemical Technology|41.807|123.407|
+|University of Louisiana Lafayette| 30.211|-92.024|
+|Vellore Institute of Technology (VIT)|12.908| 79.154|
+|VIT Chennai|12.908|79.154|
+|Hindustan Institute of Technology & Science|12.7492|79.7124|
+|VIT Bhopal University|23.235 |77.4085|
+|Institut Catholique d'Arts et Metiers de Toulouse| 43.604| 1.4463|
+|Nisantasi University|41.056|28.9732|
+|California State University Los Angeles|34.05 |-118.21|
+|Kent State University Salem|40.917| -81.155|
+|Kent State University Kent|41.148 | -81.352|
+|Kent State University|41.148| -81.352|
+|Wuhan Institute of Rock & Soil Mechanics CAS|30.56|114.17|
+|Vanderbilt University|36.147 |-86.804|
+|Universite Polytechnique Hauts-de-France|49.87|2.457 |
+|Nantong University|32.062 |120.85|

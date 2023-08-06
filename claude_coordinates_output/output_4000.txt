@@ -1,0 +1,50 @@
+ | Defence Metallurgical Research Laboratory (DMRL) | 77.63 | 19.15 |
+| Defence Research & Development Organisation (DRDO)  | 77.1297| 12.84 |
+| Indian Institute of Technology (IIT) - Indore | 75.9155| 22.7288|
+| University of Verona  | 11.3544|45.4076|  
+| Rochester Institute of Technology  |-77.673 |43.0898|  
+| Stanford Cancer Institute | -122.167 |37.4366|
+| German Center for Infection Research  | 8.6856|49.0131|
+| SCIEX|-77.3746|43.0943|   
+| Gunma University  |139.235|36.3864| 
+|VIT-AP University |80.7339 | 15.6601|   
+|University of North Carolina Greensboro|  -79.8261 |36.0687 |
+|Istanbul University  |28.9781|41.0186|
+|Asia Pacific Center for Theoretical Physics |76.6963|15.2778|
+|A*STAR - Institute of Sustainability for Chemicals Energy & Environment (ISCE2) |103.6895|1.3482| 
+|Norwegian Institute of Public Health (NIPH)|10.7537|59.9138|   
+|Jinhua Polytechnic |119.6481|29.0673|
+|Shanghai Institute of Nutrition & Health CAS|121.4608|31.2002|
+|University of Basrah|47.808|30.507|
+|Fermi National Accelerator Laboratory|-88.2674| 41.8436
+|Jesse Brown VA Medical Center|-87.6236|41.7821
+|Gubkin Russian State University of Oil & Gas| 37.6191|55.7386|
+|University Hohenheim| 9.1838|48.7719|
+|Universidade Federal de Ouro Preto|-43.5305|-20.2253
+|IU Kelley School of Business|-86.1559|39.1644|  
+|California State University East Bay|-121.8927|37.8949|
+|Guizhou Medical University |106.7501|28.7864
+|National Cancer Centre Singapore (NCCS)|103.8068|1.3122|
+|National Satellite Ocean Application Service|117.1501|39.8613
+|Valparaiso University| -87.3916|41.4666|
+|Jackson State University|-90.2658|32.3286|
+|Airbus|2.5333| 43.6196|
+|fortiss|-11.3841|48.1529|   
+|Istituto dei Sistemi Complessi (ISC-CNR)   | 13.3375| 41.2831|
+|Heart Research Institute | 151.2096 | -33.8982|
+|Asahi Kasei Corporation|   139.7786|36.37|
+|Lafayette College |-75.2082|40.4866
+|University of Puerto Rico Humacao|-66.0609|18.2408
+|James A. Haley Veterans Hospital|-82.4125|27.9723|  
+|Azienda Ospedaliera Universitaria Integrata Verona|11.3788|45.4224
+|Shahid Beheshti University |51.4217|35.7582
+|Catholic University of Daegu|128.598|35.8665
+|Irkutsk Science Centre of the Russian Academy of Sciences|104.2813|52.275
+|Institute of Solar-Terrestrial Physics of the Siberian Branch of the Russian Academy of Sciences|103.1137|51.6736|   
+|Pulkovo Observatory|30.3073|59.8576
+|Banaras Hindu University (BHU)     |83.0081|25.2944
+|Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi)|83.0171|25.2946 
+|Southern Connecticut State University|-72.9228| 41.3316  
+|Connecticut State University System |-72.62| 41.76
+|Institute of Biological & Medical Engineering Guangdong Academy of Sciences|113.3693|23.129|  
+|Ecole Normale Superieure de Lyon (ENS de LYON) |4.8333|45.75

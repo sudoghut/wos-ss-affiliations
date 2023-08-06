@@ -1,0 +1,33 @@
+ | university_name | x_coor | y_coor |
+| :-: | -: | -: |
+| Ural Federal University         |56.84|60.61|
+|Ufa Institute of Chemistry        | 54.75|55.98|
+|Guangzhou Institute of Energy Conversion CAS|23.13|113.25|
+|Universite de Reims Champagne-Ardenne|4.03|49.25|
+|Japan Society for the Promotion of Science|139.75|35.68|
+|NIH National Institute of Mental Health (NIMH)|-77.10|38.91|
+|Singapore Institute of Technology|103.68|1.35|
+|Brookhaven National Laboratory|-72.87|40.86|
+|Topchiev Institute of Petrochemical Synthesis RAS|37.83|55.75|
+|Universitat d'Alacant|-0.56|38.37| 
+|University of Alabama System|	-86.81|33.23|
+|University of Alabama Birmingham|	-86.80|33.52|
+|Mersin University|	34.62|36.80|
+|Koc University|29.05|41.06|
+|International Black Sea University|43.61|42.83|
+|NIH National Heart Lung & Blood Institute (NHLBI)|-77.11|38.91|
+|Institute of Food Science & Technology CAAS|116.32|39.94|
+|Institute of Genetics & Developmental Biology CAS|116.21|39.97|
+|PCSIR Laboratories Complex|73.06|33.71|
+|Great Wall Motors|114.16|38.54|
+|Lehigh University|	-75.37|40.61|
+|Universite de Mascara|0.07|35.39|
+|Fujian Jiangxia University|119.83|26.37|
+|Michigan Technological University|	-88.56|47.12|
+|Indian Institute of Technology (IIT) - Mandi|	76.93|31.58|
+|University of Potsdam|	13.07|52.40|
+|Hanoi University of Science & Technology (HUST)|	105.84|21.02|
+|Louisiana State University Health Sciences Center at Shreveport|	-93.75|32.51|
+|NIH National Institute on Aging (NIA)	|-77.10|38.91|
+|NIH National Institute on Drug Abuse (NIDA)	|-77.12|38.91|
+|POLYMAT|-77.19|38.76|

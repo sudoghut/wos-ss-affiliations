@@ -1,0 +1,52 @@
+ | University_name | x_coor | y_coor |
+| - | - | - |
+| Guangdong Polytechnic of Science & Technology | 113.815291| 22.815218 |
+| Mahatma Gandhi University Kerala | 76.649834| 10.022906|
+| Western Norway University of Applied Sciences | 5.743167 |60.459722|
+| Christ University| 77.607597| 12.981803|
+| Norwegian Meteorological Institute |10.7460|59.9139|
+| Kurukshetra University|76.884314|29.698789|
+| Changchun Normal University |125.307225|43.883864|
+| Environment & Climate Change Canada |75.569722|-86.428889|
+| Shenzhen Institute of Building Research Co Ltd|114.102778|22.610833|
+|Tianjin Academy of Agricultural Sciences |117.182015|39.123774|
+| Moscow Power Engineering Institute |37.524722|55.774167|
+| Shenzhen Nanshan Center for Chronic Disease Control| 114.07796|22.528344|
+| Sokoine University of Agriculture|35.267221|-8.372621|
+|Tomsk State University of Control Systems & Radioelectronics| 85.058146|56.497052|
+| University of Erfurt| 11.028281|50.978361|
+| China BAK Battery|112.593056|42.928889|
+| Zhejiang Yuexiu University| 120.373416|30.354791|
+|Chuzhou University| 118.328345|32.320345|
+| Basque Center for Applied Mathematics (BCAM)| -2.878317	| 43.302468| 
+|Middle Tennessee State University| -86.317877|35.846674|
+|Polzunov Altai State Technical University|85.0975|52.235|
+| Chengdu Medical College| 104.086562|30.662806|
+| Jilin Agricultural University|125.094221|42.615421|
+| Pacific Institute for Research & Evaluation (PIRE)| -77.363889|38.895833|
+| Sungkyul University|127.038812|37.483056| 
+| Hainan Tropical Ocean University|110.330556|19.916944|
+| Norwegian Geotechnical Institute NGI|10.738889|59.916944|
+|Polytechnic Institute of Viana do Castelo| -8.836389| 41.699722|
+| Institute for Plasma Research (IPR) |72.569444|23.149167|
+| Changzhou Vocational Institute of Engineering | 119.250382|31.771378|
+| Zhejiang University of Water Resources and Electric Power|112.239167|22.285556|
+| African Development Bank Group (AfDB)| 7.301107|6.225256	|	
+| Baise University | 107.065416|23.915965|
+| Yangling Vocational & Technical College| 108.092222|34.456944| 
+| Tonghua Normal University |124.384694|41.552617|
+| Istituto per i Polimeri Compositi e Biomateriali (IPCB-CNR)	|12.493889|41.882778|
+| Heilongjiang River Fisheries Research Institute CAFS| 129.286985|47.368954|	
+| B. Verkin Institute for Low Temperature Physics & Engineering of the National Academy of Sciences of Ukraine| 36.6675|50.453611	|
+| Naval Aviation University - China  	|121.452778|31.246944|
+| Sobolev Institute of Mathematics 	|85.05305|54.784375|
+| Barbara Ann Karmanos Cancer Institute|-83.027222|42.324722| 
+| N.N. Semenov Federal Research Centre for Chemical Physics Russian Academy of Sciences|37.616944|55.760278|
+| Nicolaus Copernicus University|19.944444|53.773611| 
+|Universidade Federal de Santa Maria (UFSM)|-53.815833| -29.700278|
+| Istituto di Chimica della Materia Condensata e di Tecnologie per l Energia (ICMATE-CNR)|12.493889|41.882778|
+| Fujitsu Ltd|139.74|35.68|
+| Fujitsu Laboratories Ltd	|139.74|35.68| 
+| Steklov Mathematical Institute of the Russian Academy of Sciences| 37.618056|55.753056|
+|Manukau Institute of Technology |174.871944|-36.985833|  
+|University of Arkansas Little Rock| -92.280556|34.746944|

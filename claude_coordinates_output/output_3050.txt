@@ -1,0 +1,50 @@
+ | AstraZeneca| -40.86  | 174.64E  | 
+| Henry Ford Health System| 42.32 | -83.06W |  
+|Kansai Medical University|34.70 | 135.50E| 
+| Orion Corporation|  60.20|  24.93E |
+| Jikei University | 35.65 | 139.73E | 
+|IRCCS Istituto Giannina Gaslini| 44.40|   8.95E|
+| Norwegian Institute Nature Research|69.70| 18.97E|
+| University of Rostock |54.08| 12.11E|
+|Helmholtz-Zentrum Geesthacht - Zentrum fur Material- und Kustenforschung|53.53| 10.15E|
+|Fondazione Bruno Kessler| 46.07| 11.12E|
+|European University of Madrid|40.44| -3.71W|
+|Ernst Moritz Arndt Universitat Greifswald |54.08| 13.38E|
+|Skane University Hospital|55.71| 13.20E|
+|Institute of Genetics & Animal Biotechnology Polish Academy of Sciences|52.10|21.02E|
+|University of London Royal Veterinary College|51.66| -0.39W|
+|Institut National du Cancer (INCA) France|48.85| 2.32E| 
+|National Health Research Institutes - Taiwan|24.80|121.50E|
+|University of Nebraska Medical Center|41.15| -96.00W|
+|EC JRC ISPRA Site|45.80| 8.63E|
+|Battelle Memorial Institute |39.98| -83.01W|
+|Philipps University Marburg|50.81| 8.76E|
+|University of Salford|53.50| -2.17W|
+|Institut Universitaire Europeen de la Mer (IUEM)|43.18| 3.87E| 
+|State University of New York (SUNY) Upstate Medical Center|43.03| -76.13W| 
+|Fukushima Medical University|37.75| 140.45E|
+|Mater Research|-27.50| 153.00E|
+|Otto von Guericke University|51.78| 11.98E|
+|Oregon Health & Science University|45.50| -122.68W|
+|Structural Genomics Consortium|-33.87| 151.21W|
+|Scion| -41.28| 175.50E| 
+|Abdelmalek Essaadi University of Tetouan|35.60| -5.33W| 
+|Jan Kochanowski University|  50.88|  21.15E |
+|Kafrelsheikh University|31.16 |  30.93E|
+|Manipal Academy of Higher Education (MAHE)|	13.35 |	 74.78E|
+|Institute of Human Genetics of the Polish Academy of Sciences|52.22| 21.02E|
+|Meisei University|35.68 |140.16E|
+|Marine Design & Research Institute of China (MARIC)|31.19 |121.82E|
+|Egerton University|-0.52|37.25E|
+|Harbin Vocational & Technical College|45.80| 126.63E| 
+|Heilongjiang Institute of Technology|45.75|126.68E|
+|Islamic University of Al Madinah|24.47|39.60E|
+|Harbin University|45.66|126.62E|
+|Tibet University|29.67|91.13E|
+|Jiujiang Vocational & Technical College|29.72|116.07E|
+|Universite de M'sila|35.69|5.43E|
+|Western New England University|42.11| -72.55W|
+|Van Lang University|10.81|106.68E|
+|Heihe University|50.21|127.30E|
+|Anshan Normal University|41.10|122.98E|	
+|Harbin Finance University  |45.75|126.68E|

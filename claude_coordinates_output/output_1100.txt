@@ -1,0 +1,50 @@
+ | University of Vermont|44.4794|-73.1993|
+|State University of New York (SUNY) Albany|42.6587|-73.8073|
+|Berlin School of Economics & Law|52.5224|13.4024|
+|Egyptian Knowledge Bank (EKB)|30.0642|31.2357|
+|Port Said University|31.2505|32.3004|
+|Shanghai Institute of Optics & Fine Mechanics|31.2229|121.4271|
+|Wuhan Textile University |30.6046|114.3094|
+|Francisk Skorina Gomel State University|52.4508|31.0093|
+|University of South Carolina Columbia|33.9994|-81.0326|
+|University of South Carolina System|34.0006|-81.3682| 
+|China Guodian|35.8764|104.1664|         
+|University of Georgia|33.9519|-83.3776|
+|Indiana University of Pennsylvania|40.6213|-79.1558|
+|Pennsylvania State System of Higher Education (PASSHE)|40.7934|-77.8636|
+|Institute for Basic Science - Korea (IBS)|35.2477|129.0479|  
+|Harvard T.H. Chan School of Public Health|42.3736|-71.1097|
+|Fox Chase Cancer Center|40.081|-75.1447|
+|Luoyang Institute of Science & Technology |34.6437|112.419|
+|Suzhou University of Science & Technology|31.3188|120.5653|
+|Shenyang Normal University|41.8024|123.4209|
+|Nanyang Institute of Technology|1.3521|103.6795|
+|University of Central Florida|28.6062|-81.1982|
+|Beijing Neurosurgical Institute |39.9005|116.3708|
+|Roma Tre University|41.8826|12.4949|
+|University of Massachusetts Amherst|42.3911|-72.5284|
+|A*STAR - Institute of Materials Research & Engineering (IMRE)|1.3043|103.7844|
+|Agency for Science Technology & Research (A*STAR) |1.3525|103.8014|  
+|Lasbela University of Agricultural Water & Marine Science|25.2841|66.637|
+|Institute of Computing Technology CAS|40.0339|116.2337|
+|Institute of Forensic Science Ministry of Justice PRC|39.8637|116.4138|
+|Dhofar University|17.0247|54.0895|
+|Nanjing Normal University|32.088|118.7861|
+|Changzhou University|31.7712|119.9534|
+|Universite Paris-Est-Creteil-Val-de-Marne (UPEC)|48.7901|2.5107|
+|Florida State University|30.4383|-84.2932|
+|Centrale Lille |50.6321|3.0728|
+|Universite de Lille - ISITE|50.6324|3.0663|
+|Shanghai Institute of Technical Physics CAS|31.2019|121.4586|
+|University of Aberdeen|57.1497|-2.0943|
+|Institute of Crop Sciences CAAS|39.815|116.2844|
+|Chinese Academy of Meteorological Sciences (CAMS)|39.9512|116.3752|
+|Institute of Biophysics CAS|39.972|116.324|
+|Institute of Grassland Research CAAS|43.8757|124.041|
+|Hanyang University|37.4598|126.9553|
+|Dongguan Polytechnic|23.0351|113.7512|
+|Meiji University |35.7103|139.7208|
+|Peking Union Medical College|39.9075|116.4305|
+|Florida A&M University|30.4186|-84.3216|
+|Bank of China|39.9125|116.3835|
+|Nanjing Xiaozhuang University|31.9947|118.8147|

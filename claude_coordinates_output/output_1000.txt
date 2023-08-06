@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor | 
+| :-: | :-: | :-: |
+|San Jose State University|-121.88|37.33|
+|Ningbo Institute of Materials Technology and Engineering CAS|121.53|29.88|
+|University of California Berkeley|-122.25|37.87|
+|University of Liverpool|-2.97|53.41|  
+|Guizhou University|106.42|26.57| 
+|Australian Centre for Robotic Vision|144.96|-37.81|
+|Beijing Computational Science Research Center (CSRC)|116.33|39.93|
+|National Academy of Sciences of Belarus (NASB)|27.55|53.9|
+|Scientific & Practical Materials Research Centre of the National Academy of Sciences of Belarus|27.63|53.9|
+|Institute of Metal Research CAS|116.28|39.95|
+|Oak Ridge National Laboratory|-84.30|36.01|
+|Springer Nature|8.68|50.11|
+|Tobacco Research Institute CAAS|116.32|39.93|
+|International Islamic University Pakistan|73.06|33.72|
+|Air Force Early Warning Academy|75.75|43.65|
+|Helmholtz Association|8.68|50.12|
+|German Aerospace Centre (DLR)|9.11|49.14|
+|University of Delhi|77.21|28.55|
+|Academy of Opto-Electronics CAS |115.46|38.84|
+|Lawrence Berkeley National Laboratory|-122.26|37.87|
+|Ningxia University|106.27|38.47|
+|Universite de Montpellier|3.87|43.61|  
+|University of Minnesota Duluth|-92.08|46.83|
+|University of Michigan System |-83.73|42.28|
+|University of Michigan|-83.73|42.28|
+|Institute of Mechanics CAS|-83.73|42.28|
+|University of Massachusetts System |-72.54|42.38|
+|University of Massachusetts Boston|-72.54|42.38|   
+|Guangming Laboratory|109.31|22.82|
+|Zhongnan University of Economics & Law|113.04|30.27|
+|Nanfang College Guangzhou|113.23|23.13|
+|University of Science & Technology of China CAS|117.08|30.31 |   
+|Jiangxi Agricultural University|115.83|28.68|
+|Lancaster University|-2.80|54.01|
+|University of Nevada Reno|-119.82|39.54|
+|Nevada System of Higher Education (NSHE)|-119.82|39.54|
+|University of California Los Angeles|-118.45|34.06|
+|University of North Texas Denton|-97.14|33.20|
+|University of North Texas System |-97.14|33.20|
+|Peking Union Medical College Hospital |116.32|39.93|  
+|Shanghai Institute of Materia Medica CAS|121.43|31.22| 
+|Technical Institute of Physics & Chemistry CAS|116.32|39.93|
+|University of Arkansas Fayetteville |-94.17|36.08|
+|University of Arkansas System |-94.17|36.08|
+|Shenyang University of Technology|123.41|41.80| 
+|Dalian Institute of Chemical Physics CAS|121.62|38.92|
+|Technology & Engineering Center for Space Utilization CAS|116.31|40.00|   
+|Qinghai Institute of Salt Lakes CAS|101.77|36.62|
+|Georgia Southern University|-81.81|32.42| 
+|Lingnan University |114.03|22.76|

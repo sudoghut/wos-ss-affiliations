@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor| 
+|:-:|:-:|:-:|
+|Al Azhar University |31.2474027  |30.0444196|
+|Xishuangbanna Tropical Botanical Garden CAS |101.250556  |21.917778|
+| University of Agriculture Abeokuta|7.155556  |  3.341667|
+|Southern Marine Science & Engineering Guangdong Laboratory (Zhanjiang)      |   110.359444   |   21.218611        |
+|Athens University of Economics & Business	   | 23.732222	 | 37.979722|
+| University of Salento	|18.164167	| 40.329444|
+| Ecole Normale Superieure (ENS)	|2.338611	|48.843611|
+|Institute of Medical Technology & Equipment	|116.491667 |39.908333|
+|Systems Research Institute of the Polish Academy of Sciences	|21.014444	|52.228611|
+|University of Mosul	|43.134722	|36.333889|		   
+|STFC Rutherford Appleton Laboratory	|-1.269722	|51.576944|
+|Romanian Academy of Sciences   |26.1025	|44.4419|
+|Rajamangala University of Technology Thanyaburi    |14.008611  |100.466389|
+|University of Lincoln    |-0.538611|   53.234167|
+|University of Pavia  |9.159722|45.187778|
+|CEA       |2.758611   |48.847222|
+|Yokohama National University|-2.986719   |-33.691765 |
+|Beijing Genomics Institute (BGI)  |34.234444   |112.864444|
+|Istituto di Informatica e Telematica (IIT-CNR)	|10.862778	 |44.696389|
+|University of Alabama Huntsville	|-86.641389 |34.725278|
+|National Institute of Technology Jamshedpur |86.176944   |22.789722|
+|Indian Institute of Technology (IIT) - Roorkee|77.888056|29.877778|
+|Google Incorporated|37.422222|	-122.083889  |			  
+|Shenzhen Institute of Computing Sciences    |114.053889|22.54|
+|Guangdong Pharmaceutical University|113.371111|23.083333|
+|CUHK Shenzhen Research Institute |114.078611|22.546389|
+|Shenzhen JL Computational Science & Application Research Institute|114.105833|22.545278|
+|London School of Hygiene & Tropical Medicine|	-0.127222	|51.520556|
+|Fujian University of Traditional Chinese Medicine |119.306111|26.081111|
+|De La Salle University	|-8.479722	 |111.8375 |
+|Universidad de Tarapaca|-70.231944	|-20.215278|
+|University of Texas at Tyler |-95.351111 |32.350833|
+|Near East University |33.367222|35.166944|
+|Yunnan University of Finance & Economics |102.844722|25.047778|	
+|HRH Princess Chulabhorn College of Medical Science|100.533028 |13.764792|
+|Chulabhorn Royal Academy|100.534627|13.764179|
+|University of Westminster|-0.132402|51.515009|
+|Biotechnology and Biological Sciences Research Council (BBSRC)|-0.127222 |51.520556|
+|Rothamsted Research|	-0.636389|51.820833|
+|Westchester Medical Center	|-73.7975  | 41.144444	|	 
+|New York Medical College|-73.7975	|41.081389|
+|University of Natural Resources & Life Sciences Vienna|16.350556|48.209167|	 
+|Philips Research |5.449722|51.441667|
+|Philips|5.449722|51.441667|
+|Kharkov Institute of Physics & Technology|36.25	|50.0|	
+|VN Karazin Kharkiv National University	|36.235278|50.000556|
+|Tilburg University|5.061111|51.561944|
+|Kennedy Krieger Institute |-76.614444	|39.286944|
+|National Chung Cheng University|120.673134|24.078201|	
+|Kun Shan University|120.617972|23.379351|

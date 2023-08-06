@@ -1,0 +1,50 @@
+ | Korea Research Institute of Standards & Science (KRISS) | 127.181 | 36.679 |
+| University of St Andrews | -2.793 | 56.337 |
+| China Pharmaceutical University         | 116.453 | 32.055 |
+| Scripps Institution of Oceanography     | -117.235| 32.864 |
+| ICFAI Business School (IBS)            | 78.698 | 17.434 | 
+|  The ICFAI Foundation for Higher Education (IFHE)        | 78.697  | 17.434|
+| MINES ParisTech                        | 2.210   | 48.843| 
+| Philips Healthcare                     | 5.978  | 51.974 |
+| Royal Brompton Hospital                | -0.186 | 51.491|
+| WHU - Otto Beisheim School of Management  | 8.652| 50.122 |  
+| National Institute of Environmental Health Chinese Center for Disease Control & Prevention | 116.322 | 39.941|
+| CNRS - National Institute of Nuclear and Particle Physics (IN2P3) | 2.165  | 48.858|
+| Vrije Universiteit Brussel             | 4.351  | 50.818|  
+| Centro de Domotica Integral (CeDInt) | -3.711| 40.416|
+| Kyushu Institute of Technology        | 130.282| 33.589|
+| CNRS - Institute of Physics (INP)    | 2.166 | 48.858|
+| National Institute for Physiological Sciences (NIPS)| 138.373| 36.067|
+| NIH National Eye Institute (NEI)      | -77.056| 38.925|
+| Ostfold University College            | 11.114 | 59.229|    
+| Vietnam Academy of Science & Technology (VAST)| 105.782| 21.034|
+| University of Namur                   | 4.864  | 50.466|  
+| University of Mons                    | 3.949  | 50.433|
+| Jining Medical University            | 116.582| 35.415| 
+| Universidad Catolica de la Santisima Concepcion | -73.068 |-36.819|
+| Agricultural University Peshawar     | 71.551 | 34.019|
+| Universiti Pendidikan Sultan Idris   | 101.736| 3.401 |
+|Exxon Mobil Corporation               | -95.363| 29.760|  
+| Shenzhen Institute of Neuroscience   | 114.092| 22.542|
+| Universite de Kairouan               | 10.101 | 35.682|
+| Universite de la Manouba             | 10.120 | 36.850|
+| Universite de Jendouba               |8.766   | 36.505|
+| Dokkyo Medical University           | 139.524|35.769|
+| Louisiana State University Health Sciences Center New Orleans | -90.077|29.951|
+| University Hospital of Bern          | 7.446  | 46.957|
+| University of Minnesota Hospital    | -93.186| 44.969|
+|Advanced Energy Science & Technology Guangdong Laboratory  |113.381| 23.087|  
+| Missouri State University           | -93.279| 37.108|
+| CSIC - Instituto de Ciencia de Materiales de Madrid (ICMM) | -3.717 |  40.447|  
+| Polytechnic Institute of Lisbon     | -9.135 | 38.746|          
+| Instituto Politecnico de Santarem   | -8.724 | 39.235|   
+| Instituto Universitario de Lisboa   | -9.139 | 38.713|
+| China Earthquake Administration     | 116.405|  39.915|   
+| Universite Jean Monnet              |  3.880 |  45.771|         
+| European Theoretical Spectroscopy Facility (ETSF) |  -3.646|    48.872|
+| Raman Research Institute (RRI)      | 77.609 | 12.970|  
+| Ming Chi University of Technology   | 121.527| 25.030|
+| Sechenov First Moscow State Medical University| 37.610| 55.704|
+| Charotar University of Science & Technology - Charusat  | 72.874| 22.316|
+| Tokyo University of Science         | 139.469| 35.703|
+| Mepco Schlenk Engineering College  | 77.036 | 11.026|

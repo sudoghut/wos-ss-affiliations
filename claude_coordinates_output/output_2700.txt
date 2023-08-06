@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| - | - | - |  
+| University of Iceland | -21.933N| 64.125W |   
+| Galatasaray University |41.031N| 28.970E |  
+| Institute of Earth Environment CAS |32.090N| 120.273E |   
+| National Research Centre - Kurchatov Institute |55.916N| 37.277E |  
+| Universidade Federal do Rio Grande do Norte |06.188N| 35.177W |   
+| Yerevan Physics Institute |40.179N| 44.473E |  
+| Alikhanov Institute for Theoretical & Experimental Physics |43.227N|43.193E |  
+| Hungarian Wigner Research Centre for Physics|47.484N|19.060E |    
+| Sojo University | 34.701N|135.199E |
+|Universidade Federal de Sao Carlos|21.984S| 47.886W |
+|Guangzhou Institute of Biomedicine & Health CAS| 23.139N|113.340E |
+|Nanjing University of Chinese Medicine| 32.063N|118.767E |
+|Centenary Institute| -33.899S|151.190E |
+|Universitas Udayana| -8.509S|115.253E |
+|GSI Helmholtz-Center for Heavy Ion Research| 49.769N| 8.631E  |
+|Laval University| 46.769N| -71.301W |   
+|NIH Clinical Center (CC) |39.000N| -77.120W| 
+|Mayo Clinic Phoenix |33.475N| -112.155W|
+|Helmholtz-Center Munich - German Research Center for Environmental Health|48.177N|11.721E  |
+|Economic & Social Research Council (ESRC)|51.518N| -0.165W| 
+|Hexi University|35.747N| 104.935E|
+|Sher-e-Kashmir University of Agricultural Sciences & Technology of Kashmir (SKUAST Kashmir)|34.107N| 74.809E|
+| Zagazig University| 30.569N| 31.438E| 
+|Yibin University|28.750N|104.600E|
+|Pontificia Universidad Javeriana|4.659N| -74.063W|
+|Tianjin University of Traditional Chinese Medicine|39.126N| 117.187E|
+|Institute of Hematology & Blood Diseases Hospital - CAMS|39.912N| 116.354E| 
+|Istituto di Struttura della Materia (ISM-CNR)|44.883N|12.556E |
+| University Balamand| 34.276N| 35.893E|  
+|German Cancer Research Center (DKFZ)|49.494N|8.695E |
+|Institute of Botany CAS|39.977N|116.353E|
+|University of Texas El Paso|31.758N|-106.489W|
+|Beth Israel Deaconess Medical Center| 42.336N| -71.108W|  
+|Children's Hospital Los Angeles|34.046N|-118.299W |
+|Ames National Laboratory|42.027N| -93.649W|  
+|NIH National Institute on Alcohol Abuse & Alcoholism (NIAAA)|39.000N|-77.120W|  
+|Eastern Kentucky University|37.713N| -84.291W|
+|Keysight Technologies| 33.842N|-117.806W|
+|MRC Harwell|51.567N| -1.318W|
+|University of Trento|46.068N|11.120E |
+|Chandigarh University|30.708N|76.708E| 
+|Scotland's Rural College|56.206N|-3.182W|
+|Graphic Era University| 29.390N|79.644E|
+|Selcuk University| 38.740N|32.520E|
+|KTO Karatay University|38.046N|32.827E|
+|Institute of Medical Biology - CAMS|25.043N|102.718E|
+|Kunming Medical University|25.042N|102.719E|
+|Elettra Sincrotrone Trieste|45.817N|13.765E|
+|Czech Academy of Sciences|50.081N| 14.438E|
+|Institute of Physics of the Czech Academy of Sciences|50.067N|14.433E|

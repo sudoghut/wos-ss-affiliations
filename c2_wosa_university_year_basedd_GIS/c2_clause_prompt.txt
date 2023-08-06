@@ -1,0 +1,5 @@
+Please tell me the x y coordinates with East (E) and North (N) symbols of the following universities or institutes. Don't add the unit, just give me the decimal numbers for coorindates. Don't output anything except the markdown table.
+The output follows a markdown table format:
+| university_name | x_coor | y_coor |
+| - | - | - |
+

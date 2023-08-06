@@ -1,0 +1,50 @@
+ | Indian Institute of Technology (IIT) - Kharagpur |87.31|22.34|
+| University of Toledo  |-83.54 |41.67|
+| Kettering University|-83.58| 42.75|
+| CNRS - Institute for Humanities & Social Sciences (INSHS) |2.29|48.81|
+| IESEG School of Management|-3.17|50.83|
+|Merck & Company |-74.64| 40.54|
+|Universiti Malaysia Pahang |103.33|3.58|
+|Guangzhou Institute of Geochemistry CAS |113.34|23.15|
+|Fritz Haber Institute of the Max Planck Society |13.20|52.52|
+|Fort Wayne Metals Research Products Corp.|-85.12|41.02|
+|Xi'an University of Finance & Economics|108.93|34.27|
+|Al-Yamamah University|43.24|22.37|
+|National Institute of Information & Communications Technology (NICT) - Japan|139.63|35.74|  
+| Colorado School of Mines |-105.22|39.75|
+|Softwarepark Hagenberg|14.18|48.25|
+|Institute of Apicultural Research CAAS|116.32|39.93|	
+|Nottingham Trent University|-1.15	|52.95|	
+|Razuvaev Institute of Organometallic Chemistry|37.97|55.68|
+|Leipzig University|12.38|51.34|
+|Pazhou Lab|113.15|23.17|
+|Howard Hughes Medical Institute|-77.07|38.91|
+|Karadeniz Technical University|39.78|40.56 |
+|A*STAR - Bioinformatics Institute (BII)|103.87|1.29|
+|State Key Lab Oncology South China|113.38|23.05|
+|University Massachusetts Dartmouth|71.18|41.67|
+|Nanjing Institute of Astronomical Optics & Technology NAOC CAS|118.78|32.07|
+|Purple Mountain Observatory CAS |118.80|32.05|
+|VITO|05.04|50.78|
+|Shanghai University of Electric Power|121.47|31.23|
+|Erasmus University Rotterdam - Excl Erasmus MC|4.46|51.92|
+|Erasmus University Rotterdam|4.46|51.92|
+|Shenzhen Children's Hospital|113.94|22.54|
+|Abu Dhabi University|54.37|24.47|
+|Anhui Institute of Optics & Fine Mechanics (AIOFM) CAS|117.18|31.85|
+|Tan Tock Seng Hospital|103.82|1.30|
+|Universite Clermont Auvergne (UCA)|2.87|45.78|
+|Mesnac|116.82|39.96|
+|Shanghai Lixin University of Accounting & Finance|121.40|31.22|
+|Mechanical Engineering Research Institute of the Russian Academy of Sciences|37.66|55.75|
+|Nippon Veterinary & Life Science University|139.42|35.69|
+|Nokia Corporation|21.33|61.50|
+|Hong Kong University of Science & Technology (Guangzhou)|113.37|23.08|
+|Jimei University|117.68|36.07|
+|Soongsil University|127.05|37.46|  
+|Sichuan Agricultural University|103.49|30.67|
+|Shanghai Institute of Organic Chemistry CAS| 121.48|31.24|
+|Wonkwang University|127.15|35.82|
+|United States Army|-77.07|38.88|
+|US Army Research Development & Engineering Command (RDECOM)|-77.14|38.88|
+|United States Department of Defense|-77.02|38.88|

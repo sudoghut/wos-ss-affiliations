@@ -1,0 +1,50 @@
+ | University of North Carolina Chapel Hill |  -78.9389 | 35.9068  |
+| Helwan University         | 31.35   | 30.0192| 
+| Autonomous University of Madrid | -3.7068| 40.42   |
+| Taif University             | 40.3775| 21.2722|
+| IVL Swedish Environmental Research Institute |13.9461 | 59.3569 | 
+| Xinjiang University of Finance & Economics |87.5344| 43.6189 |
+| IPAG Business School        | 2.3361 | 48.8364|
+| Nationwide Childrens Hospital  |-82.9996| 39.9806|
+| University of Canberra      |149.145 |-35.2828|
+| Northeast Agricultural University - China| 125.3525| 44.0444 |
+| University of South Florida |-82.4614 | 28.0608|
+| National Institute of Technology Calicut|75.8525  |11.2536 | 
+| Songshan Lake Materials Laboratory|113.57  |23.8  |
+| Annamalai University      | 79.695 | 11.4181|
+| Singapore University of Social Sciences (SUSS)|103.8917|1.3536 |
+| Universite de Lille         | 3.1492| 50.6389|
+| Jadavpur University        | 88.3792 | 22.5497|
+| DIW Berlin - Deutsches Institut fur Wirtschaftsforschung | 13.392 | 52.5233| 
+| Chungbuk National University| 127.4439| 36.858 |
+| Changchun Institute of Applied Chemistry CAS |125.3444|43.9 |
+| Universite Grenoble Alpes (UGA)  | 5.9167 | 45.1833|
+| Communaute Universite Grenoble Alpes|5.7389|45.183|
+| Beni Suef University       | 31.075| 28.8856|
+| CGIAR                     |   77.2|28.6333   | 
+| International Food Policy Research Institute (IFPRI)   |-77.0563|38.9389 |
+| Memorial Sloan Kettering Cancer Center|	-73.9689|40.7681|
+| Fayetteville State University|	-78.8808|35.0611|
+| Ulsan National Institute of Science & Technology (UNIST)| 129.3658 | 35.539|      
+| CNRS - National Institute for Mathematical Sciences (INSMI)|5.6833|45.1667|
+| University of Milano-Bicocca | 9.2669 | 45.5069|
+| Texas Christian University |-97.3794 | 32.71111|
+| Universite de Franche-Comte  | 6.15 | 47.2 |
+| Nordic Institute for Theoretical Physics |18.0556 |59.3472| 
+| University of Konstanz      |9.1982  |47.6953 |
+| Mahidol University         |100.5292|13.8244|  
+| Japan Aerospace Exploration Agency (JAXA)   |139.5264 |35.6771|
+| Universite de Monastir      | 10.75 | 35.8 |   
+| University of Brighton   |-0.1375|50.8344|
+| IMDEA Nanociencia          |-3.7861| 40.4269|  
+| Dongfeng Motor           |118.7664|32.0464|  
+| Ningbo University of Finance & Economics|121.5497|29.864 | 
+| Deutsches Elektronen-Synchrotron (DESY)|10.3805| 53.5672|
+| Universidad de Extremadura| -6.3725| 38.8897|
+| King's College London      |-0.1167|51.5122|
+| Lawrence Livermore National Laboratory |-121.7181|37.6888 |
+| Universidad de Santiago de Chile |-70.6504 |-33.4332|
+| University of Wurzburg    | 9.9381 | 49.7952|
+| Paul Scherrer Institute   | 8.423 | 47.5236|
+| Institute for Integrative Nanosciences (IIN) | 6.8333 | 50.9833|
+| Leibniz Institute for Solid State & Materials Research Dresden| 13.7378 | 51.026|

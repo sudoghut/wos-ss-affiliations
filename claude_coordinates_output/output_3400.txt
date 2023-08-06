@@ -1,0 +1,50 @@
+ |Qingdao Institute of Marine Geology (QIMG) 	 |120.1|37.1|
+|James Cancer Hospital & Solove Research Institute| -83.1| -39.6|
+|Gaya College |84.6|24.8
+|Kotelnikov Institute of Radioengineering & Electronics|  37.6|55.8|
+|Jilin Medical University  |126.26|43.8
+|National Marine Environmental Forecasting Center |  121.38	|31.1	| 
+|Universidad de Guanajuato  |-101.2|21.15|
+|Universite de Savoie|5.9|45.6|
+|Ned University of Engineering & Technology  |67.08|24.9|
+|Ajman University|55.5|25.4|
+|Sichuan Provincial People's Hospital|104.1	|30.67|
+|Korea Research Institute of Ships & Ocean Engineering|128.9|35.2|
+|University of Oradea|47.05|34.9|
+|Reykjavik University| 21.9|64.2|
+|La Salle University|-75.2|39.9|
+|Maharaja Sayajirao University Baroda |73.18	|22.305|
+|Universidade Federal Fluminense |-43.2|-22.9|
+|Sardar Vallabhbhai National Institute of Technology  	|72.2|21.4|
+|US Navy Naval Sea Systems Command|38.88  	|-77|
+|DNV	|10.75	|59.9|
+|Tallinn University of Technology   |	25.3	|59.4|     
+|Jaguar Land Rover|-1.71|52.47|
+|Singapore Polytechnic  |103.81|1.35|
+|National Dong Hwa University	 |121.4	|23.3|
+|Sichuan Tourism University  |104.1|30.67|
+|Shenzhen Academy of Aerospace Technology|114.08|22.55|
+|Stefan cel Mare University of Suceava|26.25|47.65|
+|Changzhou Vocational Institute of Mechatronic Technology |119.96|31.79|
+|Gannan Normal University  |100.5|35.3
+|National Chung Hsing University|120.21|24.17  |
+|Datang Telecom Technology & Industry |113.3	|22.51	|
+|Liaoning Institute of Science & Technology	|-123.94|41.43
+|ELI-HU Research & Development Non-Profit|20.17|47.69
+|China Life Insurance|116.43|39.93
+|Keele University	|-2.36|53|
+|Xinzhou Teachers University|111.8|38|
+|Yamagata University|  140.3|38.26
+|Tokyo Medical & Dental University (TMDU)|139.96|36|
+|Russian State Vocational Pedagogical University|37.62|55.72
+|Criminal Investigation Police University of China|114.35|30.54 
+|China Iron & Steel Research Institute Group|116.23|39.58
+|Democritus University of Thrace|24.18|41.13
+|Abdus Salam International Centre for Theoretical Physics (ICTP)| 13.76|45.7
+|Guilin Medical University|110.29|25.28
+|National Agriculture & Food Research Organization - Japan|139.29|36.41
+|ABB|6.24|63.6
+|Suzhou University|120.5|31.3
+|Irkutsk State University|104.3|52.28
+|National University of Mongolia	|106.91|47.86
+|Chennai Mathematical Institute|80.21	|12.98

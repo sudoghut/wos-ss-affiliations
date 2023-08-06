@@ -1,0 +1,52 @@
+ | University_name  |   x_coor |   y_coor|
+| :-: | :-: | :-: |
+| Athabasca University|  -113.3 |   54.15|    
+| Xianyang Normal University|  108.57|   34.30|
+| Abo Akademi University |  21.01 |   61.49| 
+| Shaanxi Polytechnic Institute |    108.59 |   34.43|  
+| Ningxia Normal University |106.17  |   38.28|
+| Xi'an University  |  108.96|   34.21 |   
+| Pandit Deendayal Energy University | 73.2|    23.22|      
+| Manipal University Jaipur |   75.83|   26.92|
+| Xi'an International Studies University | 108.94|   34.25| 
+| University of Mannheim  |   8.52 |   49.48 |  
+| Xian Fanyi University  | 108.94 |   34.25 |
+| University West - Sweden   | 12.09|   57.78|  
+| Tokyo Metropolitan University|  139.54|  35.71|
+| Bremen University of Applied Sciences |8.81 |53.07|
+| Daffodil International University|   90.41|  23.74|
+| Shangluo University |  109.43|   33.83|
+| Shaanxi University of Chinese Medicine | 108.97|   34.43|
+| Lanzhou University of Finance & Economics | 103.73|   36.06|
+| National Institute of Measurement & Testing Technology| 121.49|   31.24|
+| Shaanxi Railway Institute |   108.96|   34.33|     
+| Medtronic   |  -93.27|   44.99|
+| Bank of Communications | 121.48|   31.23|
+| Illinois State University  |  -88.99|   40.31|
+| University of Salamanca |   -5.67| 40.96|
+| University Brunei Darussalam|   114.94|    4.88|  
+| Hellenic Mediterranean University |  24.16 |  34.36|
+| Tongling University |   117.80|   30.93|
+| Auckland University of Technology|-36.85  |  174.76|
+| SEGi University  | 101.71|  3.22|
+| Samara State Technical University |50.15 |  53.19|
+| Dalian Ocean University  |  121.62|   38.92|     
+| The People's Hospital of Longhua Shenzhen| 114.06|  22.52|
+| Uber Technologies Inc.|  -122.41| 37.78|
+| Universidad Adolfo Ibanez  |   -70.67|  -33.45|   
+| Chongqing Electric Power Corp |  106.54|  29.43|
+| Eastern Michigan University| -83.62|  42.25|  
+| Institut Teknologi Sepuluh Nopember| 112.78|   -7.98|   
+| Waikato Institute of Technology|  175.28| -37.79|
+| South Dakota State University|   -96.78|   44.07|  
+| Guangzhou Civil Aviation College |113.35|  23.13|    
+| Bayero University|   8.52|  11.99|
+| National Heart Centre Singapore| 103.83|   1.37| 
+| University of Evansville |   -87.57|  37.97|  
+| Wannan Medical College |  118.38|  31.72|   
+| University of West Attica |   23.73|  37.97|  
+| Gansu University of Chinese Medicine|  103.83|   35.75|
+| Xizang Minzu University |   91.11|   29.65|
+| University of Texas Health Science Center at San Antonio| -98.49| 29.53|    
+| Xi'an Aeronautical Polytechnic Institute | 108.95|    34.34|
+| Centre Internacional de Metodes Numerics en Enginyeria (CIMNE)|   2.15|   41.38|

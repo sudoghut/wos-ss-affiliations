@@ -1,0 +1,52 @@
+ | university_name |x_coor | y_coor |
+| :-- | :--|:--|
+|Lanzhou City University|  75.04E|36.05N|
+|North China Institute Science & Technology|117.67E|39.90N|
+|Clemson University|-82.83E|34.68N|
+|Beijing Technology & Business University| 116.32E|39.93N|
+|Korea University|126.92E|37.56N|
+| Hong Kong Polytechnic University|114.21E|22.28N|
+|Ming Chuan University|121.51E|24.97N|
+|Beijing Institute of Fashion Technology|116.44E|39.88N|
+|University of Oxford|1.26W|51.76N|
+|Nanjing University of Finance & Economics|118.83E|32.05N|
+|Xi'an Jiaotong University|108.97E|34.16N| 
+|Dalian Polytechnic University|121.58E|38.90N|
+|Academy of Military Medical Sciences - China|116.33E|39.94N|
+|University of New South Wales Sydney|151.20E|-33.92S|
+|Liaoning University of Technology|123.40E|41.79N| 
+|University of Alberta|-113.49E|53.53N|
+|Hebei University|114.48E|38.01N|
+|Kyushu University|130.40E|33.59N|
+|Shenyang Aerospace University|123.40E|41.79N|
+|University of Sydney| 151.20E|-33.89S|
+| Dalian University of Technology |121.60E|38.94N|
+|Xi'an University of Science & Technology|108.69E|34.24N|
+|Taiyuan University of Technology|112.53E|37.87N|
+|China Electronics Technology Group|114.31E|39.90N|
+|Shanghai University|121.47E|31.23N| 
+|Alibaba Group|120.15E|30.28N|
+|Minjiang University|118.77E|26.08N|
+|PLA Information Engineering University|117.68E|40.08N|
+|Air Force Military Medical University|116.35E|39.75N|
+|Tiangong University|114.31E|38.03N|
+|University of the South Pacific|-178.44E|-18.13S|
+|Beijing University of Posts & Telecommunications|116.33E|39.95N|
+|Wageningen University & Research|5.39E|51.97N|
+|University of Gujrat| 74.30E|32.60N|
+|Cranfield University|-0.68W|52.08N|
+|Beijing University of Chinese Medicine|116.43E|39.95N|
+|Chengdu University of Traditional Chinese Medicine|104.07E|30.67N|
+|Hebei Normal University|114.51E|38.04N|
+|Guangxi Normal University|108.32E|22.82N|
+|Ningbo University|121.55E|29.87N|
+|North University of China|117.21E|39.15N|
+|Capital University of Science & Technology| 116.56E|40.00N|
+|Inner Mongolia Agricultural University|111.70E|40.82N|
+|Hebei University of Technology|114.47E|38.75N|
+|National University of Singapore|103.77E|1.30N|
+|Capital Normal University|116.50E|39.98N|
+|Harbin Institute of Technology|126.64E|45.75N|
+|Jiangsu University|118.82E|32.20N|
+|University of Waterloo|-80.53E|43.47N|
+|Beijing University of Chemical Technology|116.17E|39.93N|

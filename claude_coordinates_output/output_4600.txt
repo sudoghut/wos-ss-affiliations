@@ -1,0 +1,50 @@
+ | Computing Center Far Eastern Branch of the Russian Academy of Sciences | 128.671 | 45.171 | 
+| South East Technological University (SETU) | 106.685 | 49.171 |
+| Desert Research Institute NSHE | -111.063287 | 37.013222| 
+| Centre for Research & Technology Hellas | 22.55 | 38.25 |
+| Vereshchagin Institute of High Pressure Physics Russian Academy of Sciences | 37.61 | 55.87 |
+| Gazprom Neft  | 74.207070 | 56.338685 |
+| Open University Israel | 34.9833 | 32.1333 |
+| University of Technology Brunei | 114.9333 | 5.0667  |
+| Universidade de Pernambuco (UPE) | -7.91250 | -35.27222 |
+| Hankyong National University | 127.150277 | 35.155555 |
+| Egypt-Japan University of Science & Technology | 31.2000 | 30.0333 |
+| Instituto de Sistemas Optoelectronicos Microtecnologia (ISOM) | -1.5   | 42.25  |
+| Samsung Medical Center | 127.058889 | 37.509722 | 
+| Warsaw University of Life Sciences | 21.055278 | 52.180556 |
+| Institute of Technology & Life Sciences  | 21.583333 | 52.516667 | 
+| Wesley Medical Research  |  27.4833 |  -80.2000|
+| Wesley Hospital | -27.607778 | 153.151944 |
+| Royal Brisbane & Women's Hospital  | 152.9767 | -27.4747 |
+| National Institute of Technology Karnataka| 74.1244 | 12.9722| 
+| Shiraz University of Technology | 52.5400 | 29.6100|
+| Universite de M'hammed Bougara Boumerdes | 3.384722 | 36.461556 |
+| Zhejiang Provincial Center for Disease Control & Prevention | 120.2370 | 30.2397|
+| Arkansas State University|-90.677095 | 35.860064|
+| Montpellier SupAgro | 3.8833 | 43.6167|
+| Orange SA | 2.3333 | 48.8667|
+| Cork Institute of Technology |-8.4913889 |51.8975 |
+| Carl Zeiss AG |10.5224 | 51.3156 |
+| Suez University | 32.5683 | 31.2397|
+| University of Los Andes Venezuela| -66.8756 | 10.5000|
+| UCLA Jonsson Comprehensive Cancer Center|34.0686|-118.4445|
+| Leibniz Institut fur Pflanzenbiochemie | 13.3779 | 51.3374|
+| Tibet Agriculture & Animal Husbandry University | 91.1167 | 29.6500|
+| Roslin Institute|-3.147778 |55.872500|
+| HKBU Institute for Research & Continuing Education | 114.1713 | 22.2772|
+| Fayoum University| 30.8333 | 29.3167|
+| Institute of Space Science | 101.7 | 3.2 |
+| University of Buenos Aires | -58.381944 | -34.606944|
+| Shahid Bahonar University of Kerman (SBUK) | 57.0667 | 30.2833 |
+| Istituto di Analisi dei Sistemi ed Informatica Antonio Ruberti (IASI-CNR) | 12.4944 | 41.8256|
+| World Agroforestry (ICRAF)| 36.6833 | -1.2833|
+| Yunnan Academy of Agricultural Sciences | 102.7500 | 25.0500|
+| Hopital Universitaire Pitie-Salpetriere - APHP | 2.3469|  48.8419|
+| Osram| 8.7006| 48.5175|
+| Royal North Shore Hospital|151.1894 |-33.8361|
+| University of Nova Gorica|13.6369 | 45.9583|
+| China Institute of Sport Science| 116.4750 | 39.9167|
+| Universidad del Magdalena| 74.2333 | 11.1500|
+| Nissan Chemical Corporation| 139.7347 | 35.6278|
+| Air Force Institute of Technology (AFIT)| -84.059722| 39.761389|
+| University of Pitesti| 24.8833 | 44.8667|

@@ -1,0 +1,50 @@
+ | Hartford Hospital             | E 72.121| N 41.762|
+| Sunnybrook Health Science Center  | E 79.372| N 43.748|
+| Lifespan Health Rhode Island      | E 71.428| N 41.823|
+| Wake Forest University School of Medicine| E 80.268| N 36.135|   
+| Alzheimer's Association             | E 87.649| N 41.883|
+| Cleveland Clinic Foundation       | E 81.631| N 41.490|   
+| Wellcome Trust Sanger Institute   | E 0.344 | N 51.980|
+| Nova Southeastern University          | E 80.188| N 26.211|
+| Korea Polar Research Institute (KOPRI) | E 127.916| N 37.507| 
+| Earlham Institute                         | E 0.593| N 52.757|  
+| Kazusa DNA Research Institute           | E 140.167| N 34.943|
+| Broad Institute                            | E 71.090| N 42.350|
+| University of Massachusetts Worcester | E 71.784| N 42.267|  
+| Woods Hole Oceanographic Institution  | E 70.665| N 41.530|
+| Rockefeller University                    | E 73.941| N 40.763|
+| Leibniz Institut fur Zoo und Wildtierforschung  | E 8.761| N 48.133|  
+| Royal Botanic Gardens Kew                 | E 0.284| N 51.477|
+| Australian Museum                       | E 151.204| N 33.873|  
+| Colby College                             | E 69.661| N 44.546|
+| Suzhou City University                    | E 120.578| N 31.298|
+| Yaroslav the Wise Novgorod State University | E 31.249| N 59.020|
+| Leibniz Institut fur Oberflachenmodifizierung (IOM)|E 13.032|  N 52.053|
+| Zhejiang Academy of Medical Sciences         | E 120.205| N 30.274|
+| Jiangsu Second Normal University            | E 115.991| N 32.027|
+| Guangzhou Academy of Fine Arts               | E 113.257| N 23.135|
+| Erzincan Binali Yildirim University         | E 39.732| N 39.752|
+| Lincoln University - New Zealand             | E 171.281| N 43.648| 
+| Monmouth University                          | E 74.494| N 40.253|
+| Jiangsu Police Institute                   | E 118.813| N 32.199|
+| Wuhan Business University                   | E 114.307| N 30.578|
+| Universitat Trier                    | E 6.634| N 49.748|
+| Institute of Technical Acoustics of the National Academy of Sciences of Belarus| E 27.665| N 53.902|
+| Institute of Chemical Industry of Forest Products CAF| E 144.959| N 6.782| 
+| NSF - Directorate for Computer & Information Science & Engineering (CISE) | E 122.408| N 38.049| 
+| Gomel State Medical University| E 30.346| N 52.427|
+|Institute of Chemical Engineering Guangdong Academy of Sciences | E113.366| N22.857|
+| University of Graz | E 15.439| N 47.071| 
+| Medical University Sofia | E 23.323| N 42.692|   
+| Coppin State University | E 76.642| N 39.338|
+| Youngstown State University| E 80.647| N 41.103|
+| Universite de Gabes | E 10.106| N 33.874|
+| Nanjing Institute of Agricultural Mechanization CAAS | E 118.782| N 32.065|
+| Nanjing Institute of Geography & Limnology CAS | E 118.928| N 32.066|
+| Brooklyn College (CUNY) | E 73.955| N 40.632| 
+| Trina Solar | E 107.097| N 23.129|
+| University of Chittagong | E 91.879| N 22.349|
+| Chaohu University| E 117.650| N 31.730|
+| Universiti Tunku Abdul Rahman (UTAR) | E 101.125| N 4.548|
+| Kumoh National University Technology | E 128.553| N 36.803|
+| CompuTherm LLC| E 119.403| N 55.016|

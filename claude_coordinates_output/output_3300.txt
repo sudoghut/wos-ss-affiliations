@@ -1,0 +1,50 @@
+ | Universite d'Oum El Bouaghi  | 7.22 | 36.46 |
+| Rajamangala University of Technology Suvarnabhumi | 13.44 | 100.31 |
+| National Institute for Laser Plasma & Radiation Physics - Romania | 26.06| 44.46|  
+| China Geological Survey  | 116.17| 39.86|
+| Guangzhou Marine Geological Survey | 113.26| 23.09|
+| A*STAR - Institute of Microelectronics (IME) | 103.68| 1.35|
+| Hamdard University| 73.12| 28.32| 
+| Brandon University | 99.97 | 49.83 |
+| South China Sea Institute of Oceanology CAS| 113.62| 18.31|
+| Middle Technical University| 44.44| 33.25|
+|Texas A&M University Kingsville  | 97.85| 27.54|
+| Central Economics & Mathematics Institute RAS| 37.34| 55.72|
+| Livermore Software Technology Corporation | 121.77 | 37.68 |
+| Brigham Young University| 111.83| 40.24|
+| Guangzhou Sport University  |113.34| 23.15|
+| Kanagawa University| 139.36| 35.26|
+| Shahrood University of Technology| 36.41| 36.16|
+| Universiti Teknologi Petronas| 101.69| 4.39|
+| Thu Dau Mot University| 106.67| 10.76|
+| Imam Ja'far al-Sadiq University | 44.31| 33.31| 
+| Bucharest University of Economic Studies| 26.06| 44.43|
+| Universite de Picardie Jules Verne (UPJV)| 2.21| 49.91|  
+| Universite de Carthage| 10.18| 36.79|
+| GH Asachi Technical University| 28.05| 47.15|     
+| Long Island University-Brooklyn Campus|73.94|40.69 |
+| Birmingham City University|  -1.91|52.47  |
+| Volgograd State University (VOLSU)| 44.52|48.74 |
+| University of Northern British Columbia|123.6|52.67|
+| Northern Arctic Federal University|58.02|64.56|
+| Cherkas Global University | 32.07| 49.22|
+| Animal & Plant Health Agency UK |-1.84|51.28| 
+| US Air Force Research Laboratory| -77.11|38.91|
+| FPT University  | 105.99| 10.84|
+| Southern Marine Science & Engineering Guangdong Laboratory (Guangzhou)|113.23|23.13|
+| Regenstrief Institute Inc|86.15|39.78|
+|Xinjiang Institute of Technology|87.66|43.79|
+| VOLCANI INSTITUTE OF AGRICULTURAL RESEARCH| 34.87 | 31.99 |
+| Istituto per lo Studio degli Impatti Antropici Sostenibilita in Ambiente Marino (IAS-CNR) | 13.35 | 41.87 |
+| NATO (North Atlantic Treaty Organisation)|4.37|50.92|
+| Moscow State University of Education|37.52|55.69|
+| Tianjin Agricultural University|117.27|39.10| 
+| University of Oviedo| 5.86| 43.36|
+| Suqian University|118.93|33.96|
+| Karaganda Economic University of Kazpotrebsoyuz| 72.99| 50.26|
+| Sumy State University  |34.78|50.91|
+| Ministry of Nature Environment &Tourism Mongolia|106.91|47.92|
+| Mongolian University of Life Sciences| 106.92| 47.92| 
+| University of Missouri Kansas City|94.63|39.05|
+| Japan Atomic Energy Agency|140.11|36.32|
+| Siberian Federal University|82.03|55.04 |

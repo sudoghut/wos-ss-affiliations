@@ -1,0 +1,54 @@
+ Here is the markdown table of coordinates for the requested universities and institutes:
+
+| university_name  | x_coor | y_coor | 
+|:-:|:-:|:-:|
+|Henan University of Science & Technology|112.348E|32.886N|
+|Commercial Aircraft Corporation of China (COMAC)|117.973|42.380|
+|Centre National de la Recherche Scientifique (CNRS)|-0.162|48.833|
+|Zayed University|54.388|24.469|
+|Jilin Institute of Chemical Technology|126.034E|43.506N|
+|Changshu Institute of Technology|120.740|31.653|
+|Japan Advanced Institute of Science & Technology (JAIST)|138.200|36.700|
+|Kyoto University|135.667|35.033| 
+|Nagaoka University of Technology|138.900|37.283|
+|Central University of Finance & Economics|116.302|39.907|
+|Shanxi University|112.550|37.870|
+|Hebei University of Architecture|113.919E|36.399N|
+|Wuhan Research Institute of Post & Telecommunications|114.304|30.597|
+|Guangdong University of Foreign Studies|113.271|23.135|
+|Research Institute of Chemical Defense - China|117.100|39.128|
+|University of Cape Town|18.503|-33.937|
+|Ericsson|18.066|-33.919|
+|Communication University of China|116.354|40.054|
+|Catholic University of the Sacred Heart|-12.276|42.760|
+|Shandong University of Finance & Economics|117.360|36.770|
+|Deakin University|144.308|-37.832| 
+|University of Louisville|85.705|38.207|
+|Balochistan University of Information Technology Engineering & Management Sciences BUITEMS|66.8252|30.1766|
+|University of Southampton|-1.393|50.934|
+|Universite de Orleans|1.925|47.908|
+|Hangzhou Dianzi University|120.187|30.274|
+|Shijiazhuang University|114.476|38.042|
+|Guilin University of Technology|110.276|25.288|
+|New Jersey Institute of Technology|74.178|40.760|
+|Lanzhou University of Technology|103.706|36.063|
+|University of Oulu|25.468|65.012|
+|University of Liege|5.588|50.640|
+|University of Saskatchewan|-106.671|52.933|
+|Chongqing University of Science & Technology|106.251|29.550|
+|Open University - UK|-0.367|52.380|
+|Chiba University|140.104|35.606| 
+|Hanshan Normal University|115.983|32.778|
+|Northeast Electric Power University|123.769|41.809|
+|Chongqing Three Gorges University|110.222|30.530|
+|Chung Yuan Christian University|121.105|24.787| 
+|Hebei North University|114.476|38.059|
+|Sixth Medical Center of Chinese PLA General Hospital|116.382|39.914|
+|King Fahd University of Petroleum & Minerals|50.121|26.247|
+|Kunming University of Science & Technology|102.844|25.036|
+|Henan University of Technology|113.558|34.808|
+|Hebei University of Economics & Business|114.475|38.035|
+|Northeast Petroleum University|124.682|46.596|
+|King Saud University|46.7100|24.6481|
+|Leibniz University Hannover|9.735|52.372|
+|University of Tokyo|139.760|35.710|

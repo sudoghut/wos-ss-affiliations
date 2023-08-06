@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |  
+| :-: | :-: | :-: |
+| Murdoch University | E115.833| S32.066|
+| San Diego State University | W117.077| N32.776|
+| Shenyang Institute of Applied Ecology CAS | E123.432 | N41.794|
+| Northeast Institute of Geography & Agroecology CAS | E126.566| N45.775|
+| Hamburg University of Technology | E10| N53.563|
+| Universiti Malaysia Terengganu | E103.13| N5.222|
+| Hebrew University of Jerusalem| E35.207| N31.768|
+| Boston College| W71.145| N42.324|  
+| SLAC National Accelerator Laboratory | W122.186| N37.426|
+| Universite de Technologie de Belfort-Montbeliard (UTBM)| E6.854| N47.642|
+| African University of Science & Technology | E3.476| N9.143|
+| CSIC - Instituto de Catalisis y Petroleoquimica (ICP) | W4.282| N41.423|
+| Amity University Noida| E77.36| N28.53|
+| University of La Verne| W117.714| N34.093|
+| King Mongkuts University of Technology North Bangkok| E100.567 | N13.864|  
+| East China University Political Science & Law| E121.461| N31.216|
+| Hubei Polytechnic University| E114.338| N30.552|
+| Tshwane University of Technology| E28.189| S25.752|
+| Shandong College of Traditional Chinese Medicine | E117.121| N36.682| 
+| Istituto Superconduttori Materiali e Dispositivi Innovativi (SPIN-CNR)| E7.674| N42.871|
+| McLean Hospital| W71.237 | N42.341|
+| Universidade do Porto| W8.591 |N41.154|
+| Royal National Orthopaedic Hospital NHS Trust| W0.245| N51.519|
+| University of Mysore| E76.629| N12.3|
+| State Key Laboratory of Catalysis CAS| E116.331| N39.989|
+| Solent University| W1.133 | N50.904|
+| Norwegian Institute of Bioeconomy Research| E10.441| N63.426|
+| Universidad Autonoma Metropolitana - Mexico| W99.185| N19.226|
+| Indian Institute of Technology (IIT) - Guwahati| E91.506| N26.134|
+| University of California San Francisco| W122.454|N37.762|
+| Beijing Film Academy| E116.389|N39.925|  
+| Universite de Bordeaux| W0.584  |N44.839|
+| Anhui Agricultural University| E117.286| N31.859|
+| Fordham University| W73.865|N40.86|
+| State Key Laboratory of Transient Optics & Photonics|E106.269|N35.58|
+| Zunyi Medical University | E106.931|N27.712|
+| Nokia Bell Labs| W74.637|N40.745|
+| University of Essex| E0.98|N51.882|
+| American University Cairo| E31.314 |N30.046|
+| Institute of Psychology CAS| E116.352|N39.955|
+| International Institute for Applied Systems Analysis (IIASA)|E16.359|N48.253|  
+| Buffalo State College| W78.872|N42.908|
+| Universite Paul-Valery| E3.878|N43.601|  
+| Universite Perpignan Via Domitia| E2.901|N42.696|
+| University of Cyprus| E33.375|N35.179|  
+| Chimie ParisTech| E2.327|N48.832|  
+| University Djillali Liabes Sidi Bel Abbes| W0.641|N35.192|
+| China Medical University Hospital - Taiwan| E121.524|N24.144| 
+| Universidade Federal de Juiz de Fora| W43.327|S21.761|
+| Qualcomm | W117.157|N32.907|

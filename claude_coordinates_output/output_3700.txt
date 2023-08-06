@@ -1,0 +1,50 @@
+ | University of Montenegro     |19.6717|42.4556|
+|Leibniz Institut fur Tropospharenforschung (TROPOS)   |51.0565|13.0372| 
+|University of Tehran       |35.6927|51.3890|
+|Toyota Motor Corporation       |35.3634|137.2234|
+|Ecole Nationale dIngenieurs de Sfax (ENIS)   |34.7432|10.7388|
+|University of Central Arkansas |34.86002| -92.21056|
+|Taibah University |24.0586|39.0677| 
+|Universidade Federal do Parana |-25.4263|-49.2482|
+|Nosov Magnitogorsk State Technical University  |53.3844|58.9960|
+|Guangxi University of Finance & Economics   |22.7643|108.3286|
+|Rollins School Public Health  |33.8462|-84.38749|
+|Okayama Prefectural University   |34.6793|133.9158| 
+|NICTA   |-27.4678|153.0333|
+|West University of Timisoara  |45.7589|21.2283|
+|Lublin University of Technology |51.241|22.5639|
+|Zhongkai University of Agriculture & Engineering |23.4833|116.7833|
+|Intelligent Fusion Technology |23.1167|113.25|
+|Binzhou Polytechnic  |37.3833|118.01667|
+|University of Zielona Gora   |51.9333|15.5|
+|National Center Atmospheric Research (NCAR) - USA|40.0611| -105.2417|
+|Meharry Medical College  |36.1611|-86.7994|  
+|Tohoku Gakuin University |38.2694|140.8703|
+|Technical University of Crete| 35.317|25.4989|
+|Universidad ICESI|3.5313|-76.5211|
+|Universidad de la Laguna|28.4703|-16.2492|
+|Instituto de Astrofisica de Canarias|28.4640|-16.7151|
+|New Mexico Institute of Mining Technology|32.7919|-106.662|  
+|Samsung Display|37.2386|127.1480|  
+|Vidyasirimedhi Institute of Science & Technology|14.9237|100.5637|
+|Electricite de France (EDF)|48.7256|2.2430|  
+|Kermanshah University of Technology|34.3244|48.3261|
+|Korea Aerospace University|37.5544|126.9836|
+|CSIC - Instituto de Fisica Fundamental (IFF)|40.4483|-3.7378|
+|BMW AG|48.1387|11.5810|
+|Ecole nationale superieure de chimie de Montpellier|43.6111|3.8778|
+|Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI)|48.8383|2.3350|
+|Jiangsu Academy of Agricultural Sciences|32.0419|118.8122|  
+|Department of Space (DoS) Government of India|12.9793|80.2469|  
+|Indian Space Research Organisation (ISRO)|12.9667|80.2333|
+|Vikram Sarabhai Space Center (VSSC)|8.4944|76.9306|  
+|Al-Nahrain University|33.3089|44.3897|
+|Institute of Soil & Water Conservation (ISWC) CAS|37.7375|112.5494|  
+|Zhejiang Cancer Hospital|29.8731|120.7378| 
+|Institute of Vertebrate Paleontology & Paleoanthropology CAS|39.7419|116.2353|  
+|Can Tho University| 10.0584| 105.771|
+|Leibniz Institut fur Katalyse e.V. an der Universitat Rostock (LIKAT)|54.1925|12.6705|
+|Hamad Bin Khalifa University-Qatar|25.2509|51.4427|
+|Qatar Environment & Energy Research Institute|25.2381|51.4446|
+|Princess Margaret Cancer Centre|43.6465|-79.3873| 
+|University of Southern Maine|43.6381|-70.3336|

@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | :-: | :-: |
+| Dakota State University| -96.183| 44.137|
+| Fu Wai Hospital - CAMS|116.401|39.901|
+| Institute of Basic Medical Sciences - CAMS|116.320|39.973|
+| Guangzhou Medical University|113.15| 23.11|
+| State Key Laboratory of Respiratory Disease|113.421|23.157|
+| University of Puerto Rico Mayaguez| -67.144| 18.202|
+| University of Puerto Rico|-66.045|18.374|
+| Indiana University Bloomington|-86.523|39.165|
+|Institute of Strength Physics & Materials Science Siberian Branch of the RAS|102.808|54.987|
+| Siberian State Medical University|104.016|55.005|
+| Ji Hua Laboratory|118.025|39.824|
+| Mount Allison University|-64.226|45.911|
+| Agriculture Information Institute CAAS|116.251|39.974|
+| National Science Library CAS|116.421|39.965|
+| James Madison University| -78.872| 38.414|
+| Ohio University| -82.101| 39.329|
+| Johannes Gutenberg University of Mainz|8.220|50.0|
+| Universiti Teknologi Malaysia|101.516|5.401|
+| Qingdao Institute of Bioenergy & Bioprocess Technology CAS|120.263|36.054|
+| Geoscience Australia|149.06|-35.328|
+| Hubei University of Chinese Medicine|114.363|30.565|
+| Weifang Medical University|118.14| 36.38|
+| Henan University of Animal Husbandry & Economy|113.478|34.783|
+| King Mongkuts Institute of Technology Ladkrabang|100.521|13.725|
+| Taipei Medical University|121.5|25.033|
+| Heilongjiang University of Science & Technology|126.622|45.806|
+| Yeshiva University|-73.964|40.711|
+| University of Hawaii Manoa| -157.815|21.299|
+| University of Hawaii System| -157.815|21.299| 
+| Sorbonne Universite|2.344|48.846|
+|AT&T|-97.822|32.779|
+| University of Wyoming| -105.587|41.311|
+| Yili Normal University|81.28|43.92|
+| Osaka Metropolitan University|135.504|34.693|
+| Institute of Theoretical Physics CAS|116.283|39.973|
+| University of Maryland Center for Environmental Science|-76.5|38.979|
+| STFC Daresbury Laboratory |-2.643|53.333|
+| Far Eastern Federal University|135.879|43.118|
+| Georgia College & State University| -83.486|32.912|
+| Universite de Tours|0.68|47.393|
+| Leiden University|4.489|52.155|
+| Leiden University - Excl LUMC|4.489|52.155|
+| Umm Al Qura University|39.708|21.427|
+| Jawaharlal Nehru University New Delhi|77.166|28.538|
+| Institute of Geology & Geophysics CAS|116.267|40.008|
+| Pontificia Universidad Catolica de Chile| -70.64|   -33.43|
+| University of Barcelona|2.174|41.385|
+| UCSI University|101.706|3.136|
+| Quanzhou Normal University|118.581|24.884|
+| A*STAR - Institute of Molecular & Cell Biology (IMCB)|103.749|1.28|

@@ -1,0 +1,51 @@
+ | Zhejiang Ocean University| 122.11| 30.21| 
+| - | - | - |
+| Massachusetts Institute of Technology (MIT)| 71.10| 42.35|  
+| Renmin University of China| 116.46| 39.95|
+| Yanan University| 109.19| 36.59|
+| Fujian University of Technology| 119.16| 26.05|
+| Tianjin University| 117.15| 39.10|
+| City University of Hong Kong| 114.17| 22.28|
+| University of Glasgow| 4.25| 55.87|
+| Hefei University of Technology| 117.27| 31.88|
+| Yuncheng University| 111.53 | 35.02|
+| Hazara University| 72.79| 34.49|
+| Northeastern University - China| 125.45 | 42.50|
+| Foshan University| 112.92| 23.00|  
+| Sichuan Normal University| 103.54 | 30.67|
+| University of Sharjah| 25.33| 55.97|
+| National University of Defense Technology - China| 108.72| 30.48|
+| Max Planck Society| 8.30 | 48.40|
+| Yanshan University| 117.09| 42.60|
+| Beijing Information Science & Technology University | 116.34| 39.97|
+| University of Virginia | 78.51 | 38.03|
+| Shanghai Jiao Tong University| 121.47| 31.19|
+| Aerospace Engineering University| 23.15 | 105.39|
+| Ministry of Public Security (China)| 116.46| 39.92| 
+| Kagawa University| 133.91| 34.23|
+| Zhengzhou University| 113.65| 34.75|
+| Chuxiong Normal University| 101.53| 25.06|
+| Inha University| 126.98| 37.45|  
+| Zhejiang University| 120.13| 30.26|  
+| Villanova University| 75.37 | 40.02|
+| Chengdu University of Information Technology| 104.08| 30.73|
+| Beijing University of Technology| 116.34| 39.95|  
+| Shenzhen University| 113.98| 22.56|
+| China University of Petroleum| 113.65| 34.75|
+| Xi'an Modern Chemistry Research Institute| 108.87| 34.22|
+| Universitat Siegen| 8.12 | 50.87|
+| Beijing Jiaotong University| 116.35| 39.98|
+| Huazhong University of Science & Technology| 114.31| 30.54|
+| China State Construction Engineering Corporation| 116.39| 39.90|  
+| Chiang Mai University| 98.96| 18.77|
+| Yantai University| 121.42| 37.54|  
+| Cheng Shiu University| 121.58| 25.13|
+| Hong Kong University of Science & Technology| 114.24| 22.20|
+| Case Western Reserve University| 81.62| 41.50| 
+| Hong Kong Baptist University| 114.24| 22.20|
+| Anhui University of Finance & Economics| 117.28| 31.86| 
+| Army Engineering University of PLA| 116.29 | 39.90| 
+| Shandong University| 117.17| 36.7 |
+| Jiujiang University| 116.00| 29.70|
+| Xuzhou University of Technology| 117.16| 34.17| 
+| Harbin University of Science & Technology|126.62| 45.72|

@@ -1,0 +1,52 @@
+ | university_name                                 | x_coor| y_coor|
+|:-:|:-:|:-:|  
+|Southwest University of Science & Technology - China     |105.05 |30.31
+|Pusan National University                              |129.06 |35.79
+|University of Strathclyde                                |4.25   |55.87  
+|National Research Institute for Family Planning - China |116.43 |39.93
+|King Abdullah University of Science & Technology        |39.10   |22.30  
+| Hubei University of Economics                          |114.28 |30.30
+| Beijing Electronic Science &amp; Technology Institute|116.30 |40.02
+| Shanghai University of Medicine &amp; Health Sciences  |121.44 |31.18
+| Southeast University - China                          |118.80 |32.05
+| Guizhou Institute of Technology                       |106.42 |26.43
+|University of Chinese Academy of Social Sciences        |116.36 |39.93
+| Karolinska Institutet                                 |18.07  |59.35
+| Osaka University                                      |135.50 |34.68
+| Ho Chi Minh City University Economics                  |106.68 |10.78
+| China Academy of Information &amp; Communication Tech|116.33 |40.07
+|University of Lahore                                   |74.35   |31.52 
+|North China University of Science & Technology          |115.48|36.40
+|Bahauddin Zakariya University                           |71.38   |31.15
+|Inner Mongolia University of Science & Technology      |111.65 |40.82
+|MinNan Normal University                               |118.15 |24.48
+|University of Twente                                  | 6.89 |52.23 
+|Stevens Institute of Technology                        | 74.00|40.74
+|Nelson Mandela African Institution of Science & Tech    |36.67   |7.38
+|Academy of Armored Forces Engineering - China           |116.30 |39.93 
+|Beijing Academy of Agriculture & Forestry Sciences      |116.28 |40.02  
+|Kumamoto University                                    |130.69|32.80
+|China Meteorological Administration                     |116.38|39.93
+|La Trobe University                                     |145.12|37.75
+|University of Dar es Salaam                             |39.26  |6.79
+|Jiangsu University of Science & Technology             |118.78|32.30
+|Syracuse University                                    |76.13  |43.04
+|Hubei University                                       |114.35|30.53
+|Coventry University                                    |1.55   |52.37
+|Dibrugarh University                                   |95.02  |27.47
+|Aviation University Air Force                          |123.57|41.79
+|Liaoning University of Traditional Chinese Medicine    |123.40|41.82
+|Harbin Medical University                              |126.65|45.75
+|ZTE                                                    |113.97|22.56
+|University of Western Australia                        |115.86|31.97
+|Korea Advanced Institute of Science & Technology        |127.42|36.50
+|Technion Israel Institute of Technology                  |34.88  |32.79
+|Shanxi Datong University                                |113.30|40.07
+|Sichuan University of Science & Engineering              |104.05|30.67
+|Northwest A&F University - China                          |109.21|34.34
+|Guangdong Polytechnic Normal University                |113.37|23.10
+|China Jiliang University                               |120.19|30.24  
+|McMaster University                                    |79.67  |43.50
+|Chinese Academy of Inspection & Quarantine             |116.33|39.93
+|Henan Normal University                                |113.63|34.76
+|Shanghai Maritime University                            |121.43|31.22

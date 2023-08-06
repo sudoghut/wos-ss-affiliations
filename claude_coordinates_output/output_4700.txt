@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor|
+| - | - | - |
+| Centre de Regulacio Genomica (CRG) | 2.17 | 41.43 |
+| Pompeu Fabra University  | 2.18 | 41.43 |
+| Shenzhen Eye Hospital| 114.05 |  22.53|
+| Zoological Society of San Diego|  -117.15| 32.72|
+| National Institute for Basic Biology (NIBB)| 136.8| 34.8|
+| Sakarya University| 30.34| 40.78|
+|Indian Institute of Technology (IIT) - Dharwad| 75.03| 15.45|  
+|Bilecik Seyh Edebali University| 29.87| 40.15|
+|University of Peradeniya| 80.62| 7.26|
+|Uva Wellassa University| 81.11| 6.62 |
+|Field Museum of Natural History (Chicago)|  -87.62| 41.78|
+| Research Institute of Tropical Forestry CAF| -66.88|4.36   |
+| Tata Sons| 72.88| 18.97|
+| Tata Consultancy Services Limited (TCS)| 72.87| 18.97|
+| Boeing|  -122.22| 47.62|
+|TOBB Ekonomi ve Teknoloji University| 32.73| 39.97|
+|Institute of Plant & Animal Ecology of the Russian Academy of Sciences| 60.80 |56.03|
+|University of Venda| 30.52| -23.00|
+|Institute of Geography Russian Academy of Sciences| 37.65| 55.74|
+|South Australian Museum| 138.60| -34.92|
+| Gustave Roussy | 2.33 | 48.80|
+| Hopital Universitaire Saint-Louis - APHP | 2.37 | 48.87 |
+| Stavanger University Hospital | 5.73 | 58.97 |
+|Haukeland University Hospital| 5.32| 60.39|
+|Hopital Universitaire Saint-Antoine - APHP| 2.37| 48.85|
+|Banner Sun Health Research Institute| -112.33 | 33.45|
+|National Institute of Technology Tiruchirappalli| 78.70| 10.83|
+|Indian Institute of Technology (IIT) - Hyderabad|78.53| 17.48|
+|University of the Philippines Open University|121.02| 14.64|
+|Far Eastern University|121.01| 14.65|  
+| University of Montana System | -114.07| 46.86|
+| University of Puerto Rico Rio Piedras| -66.06| 18.40|
+|Smithsonian Environmental Research Center| -76.55| 38.92|
+|University of the Philippines Diliman| 121.06| 14.67|
+|University of the Philippines Los Banos| 121.25| 14.18|
+|Institute Penyelidikan Perhutanan Malaysia|101.65| 3.08|
+| Pontificia Universidad Catolica del Ecuador| -78.50| -0.22|
+| University of the Philippines System|  121.00| 15.00|
+|International Center for Tropical Agriculture - CIAT| -76.53| 4.45|
+|University of Montana| -114.08| 46.86|
+| Alliance| 35.70| 13.88|
+| Space Applications Centre (SAC) | 72.57 | 22.58 |
+| National Chiayi University| 120.45| 23.47|
+|Swiss Federal Institute for Forest Snow & Landscape Research| 7.98| 46.55|
+|United States Forest Service| -111.40| 40.52|
+|University of Jos| 8.87| 9.92|
+|Sunnybrook Research Institute| -79.38| 43.72|
+|Rhode Island Hospital| -71.40| 41.83|
+|Butler Hospital Rhode Island| -71.40| 41.83|   
+| Johnson & Johnson USA | -74.41 | 40.74|

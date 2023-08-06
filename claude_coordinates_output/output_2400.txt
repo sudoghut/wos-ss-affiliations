@@ -1,0 +1,52 @@
+ | university_name  | x_coor| y_coor|  
+|:-:|:-:|:-:|
+|Chengdu Institute of Computer Application CAS|104.066|30.675|
+|National Centre for Physics - Pakistan|-73.204|33.946|
+|Southern Illinois University System|-89.511|37.712|  
+|Southern Illinois University|-89.195|37.915| 
+|Japan Agency for Marine-Earth Science & Technology (JAMSTEC)|140.105|34.702|
+|Yantai Institute of Coastal Zone Research CAS|121.467|37.531|
+|Middle East Technical University|32.852|39.869| 
+|Complutense University of Madrid|-3.702|40.417|
+|University of Bahrain|50.586|26.229|
+|Korea Institute of Science & Technology (KIST)|127.45|37.555|
+|University of Quebec Montreal|-73.563|45.514|
+|Continental AG|8.498|49.893|
+|Institute of High Pressure Physics of the Polish Academy of Sciences|19.859|50.333|
+|Polish Academy of Sciences|21.027 |52.231|
+|Pacific Northwest National Laboratory|-119.609|46.832|
+|Shenyang Sport University|123.38|41.723|
+|Institute of Quality Standards & Testing Technology for Agro-Products CAAS|116.314|40.046|
+|Boston Children's Hospital|-71.104|42.335|  
+|University of San Francisco|-122.483|37.781|
+|Institut National des Sciences Appliquees de Lyon - INSA Lyon|4.85|45.763|
+|Institute of Electrical Engineering SAS|17.106|48.152|
+|Slovak Academy of Sciences|17.119|48.211|   
+|Center for Nanophase Materials Sciences|-84.529|35.848|
+|CSIC - Instituto de Ciencia de Materiales de Aragon (ICMA)|-1.269|41.8|
+|University of Zaragoza|-0.914|41.672|
+|CSIC - Centro de Quimica y Materiales de Aragon (CEQMA)|-0.828|41.626|
+|CREATES|10.697|56.15|
+|Samara National Research University|50.207|53.181|
+|ICREA|2.08|41.379|
+|Xinxiang University|113.83|35.3|
+|Science & Technology Facilities Council (STFC)|-1.8455 |50.78|
+|Aix-Marseille Universite|5.554|43.279|  
+|Chongqing College of Electronic Engineering|106.571|29.546|
+|Barcelona Institute of Science & Technology|2.11|41.394|
+|Institut de Ciencies Fotoniques (ICFO)|2.088|41.395|
+|State University of New York (SUNY) Binghamton|-75.919 |42.097|
+|University of Patras|21.801|38.251| 
+|Mangosuthu University of Technology|30.928	|-29.872|
+|Thiagarajar College of Engineering|77.864|10.841|
+|VIT Vellore|79.133|12.883|
+|GMR Institute of Technology|78.16|13.23|
+|New Mexico State University|-106.749|32.293|
+|Misr University for Science & Technology|31.34|29.93| 
+|Huzhou Vocational & Technical College|119.963|30.787|
+|Potsdam Institut fur Klimafolgenforschung|13.06 |52.407 |
+|SUNY Polytechnic Institute|-75.213|43.058|
+|Institute for Molecular Science (IMS)|136.256|35.538|
+|Graduate University for Advanced Studies - Japan|140.199|36.341| 
+|National Institutes of Natural Sciences (NINS) - Japan|139.564|35.415|
+|Anshun University|105.910|26.237|

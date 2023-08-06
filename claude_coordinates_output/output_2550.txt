@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | :-: | :-: |
+| Princess Nourah bint Abdulrahman University | 24.57E | 46.70N |
+| Xi'an Medical University | 110.76E| 34.40N |
+| University of Belgrade | 21.42E | 44.80N|
+| Amazon.com| 122.32E| 47.67N|
+| Baylor College of Medicine | 95.32E| 29.58N|
+| Military University of Technology in Warsaw| 20.33E| 52.22N|
+| Pakistan Institute of Nuclear Science & Technology | 67.08E| 33.57N| 
+| Karamanoglu Mehmetbey University | 34.83E| 38.42N|
+| University of Technology- Iraq | 43.90E| 33.20N| 
+| National Engineering Research Center for Water Transport Safety| 104.18E| 30.57N|
+| Nile University | 32.73E| 15.58N|
+| Universite de Bourgogne | 4.83E  | 47.25N|
+| Saveetha School of Engineering | 80.18E| 13.10N|
+| Saveetha Institute of Medical & Technical Science| 80.18E| 13.10N|
+| Shiv Nadar University| 77.40E| 28.78N|
+| University of Petroleum & Energy Studies (UPES) | 77.17E| 30.32N|
+| University of Granada| 3.60E | 37.17N|
+| Ho Chi Minh City University of Technology (HCMCUT) | 106.63E| 11.09N|  
+| Iwate Prefectural University| 141.17E| 39.67N |
+| Mohammed V University in Rabat | 6.84W | 33.53N|
+| U.S. Army Corps of Engineers| 77.22E| 38.44N|
+| U.S. Army Engineer Research & Development Center (ERDC) |88.87E| 32.3N|
+| Old Dominion University | 76.3E | 36.87N|  
+| Munzur University | 39.33E | 39.23N|
+| Guang'anmen Hospital CACMS | 116.23E| 39.87N|
+| Arts et Metiers Institute of Technology | 1.30E  | 48.85N|
+| Moscow State University of Civil Engineering | 37.50E | 55.70N|
+| University of Veterinary & Animal Science - Pakistan|73.73E | 31.47N|
+| Korea Institute for Advanced Study (KIAS) | 126.98E| 37.45N|
+| Ewha Womans University | 126.97E| 37.57N|
+| CSIR - Indian Institute of Integrative Medicine (IIIM)| 75.17E| 34.15N| 
+| Azienda Ospedaliero Universitaria Pisana|10.40E | 43.70N|
+| Helmholtz-Center Potsdam GFZ German Research Center for Geosciences |13.10E | 52.38N|
+| CSIC-CAR-UR - Instituto de Ciencias de la Vid y del Vino (ICVV) | 2.07W | 42.57N|
+| Institut de Recerca Biomedica - IRB Lleida| 0.61E | 41.70N|
+| Universidad de La Rioja| 2.33W | 42.27N|
+| Agricultural Research Center - Egypt| 31.35E| 30.08N| 
+| Pitzer College| 117.73E |34.12N|
+| Claremont Colleges| 117.72E |34.10N|
+| CSIC - UPV EHU - Centro de Fisica de Materiales (CFM)| 23.40W | 43.17N|
+| Institut National des Sciences Appliquees de Toulouse| 1.33E | 43.60N|
+| St. Petersburg Scientific Centre of the Russian Academy of Sciences| 30.33E| 59.93N|
+| Ioffe Physical Technical Institute |30.45E | 59.98N|
+| Mays Business School| 97.43W | 30.62N|
+| Technische Universitat Wien | 16.37E | 48.21N|
+| SVKM's NMIMS (Deemed to be University) | 72.88E | 19.15N |
+| Irkutsk National Research Technical University (INRTU)| 104.28E| 52.27N|
+| Mianyang Teachers' College| 104.77E| 31.48N|
+| The Santa Fe Institute| 105.97W | 35.65N|
+| International School for Advanced Studies (SISSA)| 13.80E | 45.80N|

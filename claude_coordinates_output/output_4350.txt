@@ -1,0 +1,52 @@
+ | university_name | x_coor | y_coor |
+| :-: | :-: | :-: |
+|Yamaguchi University|131.7174|34.1833|
+|EMLYON Business School|4.8283|45.7647|
+|Nanjing Vocational College of Information Technology|118.7764|32.0515|
+| Razumovsky Saratov State Medical University|45.95|51.53|
+|Yahoo! Japan Corporation|135.5022|35.6895|
+|Gujarat Technological University|72.6333|23.2167|
+| Ferris State University| -85.5875|43.6334| 
+|Electric Power Research Institute (EPRI)| -122.1472|37.3897| 
+|Gebze Technical University|29.4136|40.7869| 
+|Kochi University|133.5489|33.5656|
+|University of Swat|72.3839|34.8264|
+|Hunan First Normal University|112.9289|28.2336|
+|Hassan II University of Casablanca|-7.5831|33.5919|
+|Islamic University College|101.6919|2.54917|
+|Osaka Institute of Technology|135.4994|34.7347|
+|Xi'an Physical Education University|108.9395|34.2608|
+|University of Danang|108.2043|15.9790|
+|Netflix Inc.|-121.8914|37.4299|
+|Sanjiang University |108.6464|23.3226| 
+| Novosibirsk State Pedagogical University|82.9358|55.0228|
+|Sohag University|31.6911|26.5672|
+|A*STAR - Data Storage Institute|103.7653|1.35211|
+|Changping Laboratory|116.2358|40.1451|
+|Industrial Technology Research Institute - Taiwan|121.1831|25.0153|
+|Sun Moon University|127.1037|36.8289| 
+|Institute of Biotechnology of the Czech Academy of Sciences|14.4721|49.9783|
+|Institute of Special Animal & Plant Sciences CAAS|116.1717|39.7141|
+|Faculty of Sciences Sfax|10.7608|34.7411|
+|Sichuan Engineering Technical College|103.3931|30.7692|
+|Hanoi University of Industry (HaUI)|105.7841|21.0333|
+|National Neuroscience Institute (NNI)|103.8198|1.29694|
+|Cihan University Duhok|43.1253|36.9043|
+|Istituto di Geoscienze e Georisorse (IGG-CNR)|13.1801|43.3047|
+|Moulay Ismail University of Meknes|-5.5369|33.9004|
+|Wuhan Botanical Garden CAS|114.3252|30.5833|
+|Wuhan Sports University|114.3503|30.5333|
+|United Parcel Service|-85.6768|38.1405|
+|Singapore Centre for 3D Printing|103.8194|1.29014|
+|Ecole des Ponts ParisTech|2.3334|48.8413|
+|National Supercomputing Center in Shenzhen|114.082|22.5431|
+|Institute of Nuclear Physics - Polish Academy of Sciences|19.1273|50.2191|
+|Guangxi Academy of Agricultural Sciences|108.3|22.8333|
+|Khazar University|49.8744|40.3747|
+|Indian Institute of Technology (IIT) - Patna|85.1403|25.5965|
+|Exponent|-77.0368|38.998|
+|Institute of Scientific Instruments of the Czech Academy of Sciences|14.4378|49.8622|
+|Vasyl Stefanyk Precarpathian National University|24.7069|49.6042|
+|Solar Turbines Incorporated|-117.0779|32.7362|
+|Lanzhou Institute of Husbandry & Pharmaceutical Sciences CAAS|103.4959|36.3064|
+|Russian Academy of Science Lebedev Physical Institute|38.8254|55.7547|

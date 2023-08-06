@@ -1,0 +1,52 @@
+ | university_name |  x_coor | y_coor|
+| - | - | - | 
+|Aalto University|24.827|60.199|
+|Hangzhou Hikvision Digital Technology Co. Ltd.|120.132|30.257|
+|Sichuan University|104.05|30.64|
+|Beijing Union University|116.355|39.92|
+|Liaoning University|123.43|41.79|
+|Hunan University|112.98|28.2|
+|Jinzhong University|112.7|37.69| 
+|Harbin Normal University|126.55|45.8| 
+|University of Technology Sydney|-33.88|151.19|
+|Nanning Normal University|108.323|22.813|
+|Australian National University|-35.281|149.114|
+|China Academy of Safety Science & Technology|116.311|39.945|  
+|China University of Mining & Technology|106.27|30.5| 
+|University of the Sunshine Coast|-26.665|153.064|
+|University of Kiel|10.142|54.325|
+|University of Bonn|7.1|50.73|
+|Chongqing University of Technology|106.5|29.533|
+|Yale University|41.316|-72.927|
+|Nanjing University of Posts & Telecommunications|118.75|32.03|
+|Imperial College London|-0.1779|51.49|
+|University of Canterbury|-43.525|172.581|
+|Peng Cheng Laboratory|113.54|22.696|  
+|Central South University|112.929|28.16| 
+|Tongji University|121.487|31.291|
+|Ibaraki University|140.456|36.408|
+|University of International Business & Economics|116.434|39.968|
+|University of Bath|-2.359|51.385|
+|Beijing Institute of Aeronautical Material|116.356|40.126|
+|Wuhan University of Technology|114.36|30.56|
+|Sun Yat Sen University|113.39|23.16|
+|Zhengzhou University of Light Industry|113.63|34.76|
+|Capital Medical University|116.419|39.924|
+|Scuola Superiore Sant'Anna|10.305|43.718|
+|Jianghan University|114.32|30.33|  
+|University of Auckland|-36.8681|174.7625| 
+|University of Yaounde I|11.5233|3.8667|
+|University of Electronic Science & Technology of China|104.271|30.6738|  
+|Beijing University of Civil Engineering & Architecture|116.34|39.94|
+|Shanxi Agricultural University|112.749|37.689|
+|Universidade Federal de Santa Catarina (UFSC)|-27.608|-48.537|
+|Universidad Nacional Autonoma de Mexico|19.3326|-99.1333| 
+|Technical University of Munich|48.15|11.58|
+|Qinghai University|101.7667|36.6333|  
+|Duke University|35.9940|-78.9382| 
+|Technische Universitat Dresden|51.0554|13.7333|
+|University of Zurich|47.376|8.547|
+|University of Sherbrooke|45.4|-71.9|
+|Jining University|116.583|35.416|  
+|University of Aizu|140.659|37.395|
+|University of Windsor|42.3086|-83.0667|

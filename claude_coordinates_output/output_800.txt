@@ -1,0 +1,52 @@
+ | University_name | x_coor | y_coor| 
+|:-:|:-:|:-:|
+|Anhui Normal University   |117.17| 31.86|
+|Aarhus University    |10.21|56.16|
+|Liaoning Petrochemical University   |122.36| 41.08|
+|Istanbul Technical University|28.98|41.00|
+|Sungkyunkwan University (SKKU)|127.02|37.46|
+|Yancheng Teachers University| 120.13| 32.38|
+|Wayne State University|83.04|42.33|
+|NEC Corporation |139.69|35.68|
+|University of Sulimanyah  |45.44|35.56|
+|National Chengchi University|121.50|25.02|
+|Sapienza University Rome  |12.49|41.54|
+|Rutgers State University Newark|74.17|40.73|
+|Henan University of Economics & Law|113.62|34.74|
+|Beijing Institute of Microbiology & Epidemiology|116.32|39.56|
+|Yangtze Normal University   |108.37|30.19|
+|Royal College of Art - UK  |0.08|51.52|
+|West Anhui University    |116.00|31.87| 
+|Okayama University     |133.55|34.66|
+|Lulea University of Technology    |22.15|65.58|
+|University Teknikal Malaysia Melaka|2.19 | 2.19|
+|Isuzu Motors Limited |139.59| 35.47|
+|Volkswagen|38.55|12.23|
+|Sunway University|101.60|3.13|
+|University of New Brunswick|    66.66|-66.68| 
+|China Academy of Transportation Sciences|	116.48|39.92|
+|Xi'an University of Architecture & Technology|108.96|34.26|
+|Beijing University of Agriculture|	116.28|39.56|
+|Wuhan University of Science & Technology	|114.34|30.59|
+|Anhui University of Technology	|117.18|32.63|
+|Hebei University of Chinese Medicine	|114.48|38.03|
+|University of Management & Technology (UMT)|73.06|33.72|
+|Quaid I Azam University|73.14|33.72|
+|Northwest University of Political Science & Law|	109.58|39.02|
+|Universidad Politecnica de Madrid|	3.42|40.28|
+|University of Arizona|	110.94|32.23|
+|Wilfrid Laurier University|	80.22|43.46|
+|National Institute of Standards & Technology (NIST) - USA |	77.01|39.13| 
+|Bauhaus-Universitat Weimar	|11.32|50.59|
+|Haier|	120.41|36.68|
+|Dongguan University of Technology|	113.74|23.03|
+|Xinjiang Medical University|	87.62|43.77|
+|Hiroshima University|	132.46|34.40|
+|University of Naples Federico II|14.17|40.85|
+|University of Sussex|-0.08|50.87|
+|Universite de Montreal|	73.56|45.50|
+|Linyi University|	118.32|35.37|
+|Zhoukou Normal University|	114.69|33.53|
+|Al-Muthanna University|	44.93|31.12|
+|Qinghai Normal University|	101.77|36.56|
+|Drexel University|	75.19|39.97|
