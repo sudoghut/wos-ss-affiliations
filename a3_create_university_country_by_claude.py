@@ -55,7 +55,7 @@ if len(batch_list) != 0:
     prompt = f"{prompt_str}{output_names}"
     completion = anthropic.completions.create(
         model="claude-1",
-        max_tokens_to_sample=300,
+        max_tokens_to_sample=2000,
         prompt=f"{HUMAN_PROMPT} {prompt} {AI_PROMPT}",
     )
     file = open(output_folder + "\\output_" + str(count) + ".txt", "w")

@@ -2,7 +2,10 @@ import pandas as pd
 
 # input data to list
 # input_list = pd.read_csv('input-small.txt', delimiter="\t").values.tolist()
-input_list = pd.read_csv('input.txt', delimiter="\t").values.tolist()
+# input_list = pd.read_csv('input.txt', delimiter="\t").values.tolist()
+input_list = pd.read_csv('input_10y.txt', delimiter="\t").values.tolist()
+# drop empty and nan article
+input_list = [article for article in input_list if article[0] != "" and article[0] == article[0]]
 node_output_dic = {}
 edge_output_list = []
 idx = 0
@@ -15,8 +18,15 @@ for article in input_list:
         print("Processing {}/{} article".format(input_list.index(article)+1, total_article))
     counter += 1
     article_list = []
+
     # split article insts by ; and strip space
-    article_insts = [inst.strip().replace(",","") for inst in article[0].split(';')]
+    try:
+        article_insts = [inst.strip().replace(",","") for inst in article[0].split(';')]
+    except:
+        print(article)
+        print(type(article[0]))
+        raise
+
     article_insts = list(set(article_insts))
     if len(article_insts) == 1: continue
     # Create article insts pairs, no repeat
